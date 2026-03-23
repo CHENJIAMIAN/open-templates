@@ -77,6 +77,11 @@ The first pass only supports the element subset required by `templates/slides/ch
 - text runs with basic font color, size, family, alignment, bold
 - image shapes using local `slide_p*.png` assets
 - line elements
+- standalone geometric shapes with solid fills and basic borders
+  - `rect`
+  - `round-rect`
+  - `diamond`
+  - `ellipse`
 
 Deferred unless required by the template during implementation:
 
@@ -157,6 +162,7 @@ Success criteria for this phase:
   - all text boxes
   - all image nodes with successful asset resolution
   - all line elements
+  - all standalone geometric shapes used by the source deck
 
 Verification commands will include:
 

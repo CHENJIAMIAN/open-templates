@@ -9,7 +9,7 @@
   "entryFiles": ["group_chat_summary.md"],
   "examplePath": "examples/lark_doc/group_chat_summary",
   "preview": {
-    "cover": "showcase/assets/lark_doc/group_chat_summary/cover.png"
+    "cover": "showcase/assets/lark_doc/group_chat_summary/cover.svg"
   },
   "initMode": "copy-file",
   "visibility": "public",

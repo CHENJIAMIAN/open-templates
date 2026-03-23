@@ -9,7 +9,7 @@
   "entryFiles": ["weekly_report.md"],
   "examplePath": "examples/lark_doc/weekly_report",
   "preview": {
-    "cover": "showcase/assets/lark_doc/weekly_report/cover.png"
+    "cover": "showcase/assets/lark_doc/weekly_report/cover.svg"
   },
   "initMode": "copy-file",
   "visibility": "public",

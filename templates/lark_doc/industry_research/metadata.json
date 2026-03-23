@@ -9,7 +9,7 @@
   "entryFiles": ["industry_research.md"],
   "examplePath": "examples/lark_doc/industry_research",
   "preview": {
-    "cover": "showcase/assets/lark_doc/industry_research/cover.png"
+    "cover": "showcase/assets/lark_doc/industry_research/cover.svg"
   },
   "initMode": "copy-file",
   "visibility": "public",

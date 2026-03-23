@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Weekly Report Cover</title>
+  <desc id="desc">Cover illustration for an open templates weekly report example.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)"/>
+  <circle cx="1000" cy="130" r="160" fill="#f59e0b" opacity="0.12"/>
+  <circle cx="220" cy="620" r="190" fill="#38bdf8" opacity="0.10"/>
+  <rect x="88" y="92" width="240" height="18" rx="9" fill="url(#accent)"/>
+  <text x="88" y="210" fill="#f8fafc" font-size="66" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Weekly Report</text>
+  <text x="88" y="268" fill="#cbd5e1" font-size="28" font-family="Segoe UI, Arial, sans-serif">AI Templates Open Source Launch Week</text>
+  <g fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif">
+    <rect x="88" y="344" width="360" height="136" rx="24" fill="#0b1220" opacity="0.72"/>
+    <text x="124" y="398" font-size="22" font-weight="700">Highlights</text>
+    <text x="124" y="436" font-size="18">Repository scaffold</text>
+    <text x="124" y="464" font-size="18">Metadata validation</text>
+    <rect x="484" y="344" width="360" height="136" rx="24" fill="#0b1220" opacity="0.72"/>
+    <text x="520" y="398" font-size="22" font-weight="700">Status</text>
+    <text x="520" y="436" font-size="18">4 template families normalized</text>
+    <text x="520" y="464" font-size="18">Showcase assets in progress</text>
+    <rect x="880" y="344" width="232" height="136" rx="24" fill="#0b1220" opacity="0.72"/>
+    <text x="916" y="398" font-size="22" font-weight="700">Output</text>
+    <text x="916" y="436" font-size="18">Public report</text>
+    <text x="916" y="464" font-size="18">Shareable preview</text>
+  </g>
+  <text x="88" y="628" fill="#94a3b8" font-size="20" font-family="Segoe UI, Arial, sans-serif">Synthetic example for the open-templates repository</text>
+</svg>

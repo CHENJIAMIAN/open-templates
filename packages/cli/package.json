@@ -4,6 +4,9 @@
   "private": true,
   "type": "module",
   "description": "Lightweight CLI for browsing and initializing open templates",
+  "scripts": {
+    "test": "node --test"
+  },
   "bin": {
     "open-templates": "./bin/open-templates.js"
   }

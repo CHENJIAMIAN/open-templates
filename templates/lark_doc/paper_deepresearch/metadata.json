@@ -1,0 +1,22 @@
+{
+  "id": "lark_doc/paper_deepresearch",
+  "family": "lark_doc",
+  "name": "paper_deepresearch",
+  "displayName": "Paper Deep Research",
+  "description": "Academic deep-research template for reading papers, tracing background, and synthesizing related work.",
+  "tags": ["research", "paper", "academic", "literature-review"],
+  "sourcePath": "templates/lark_doc/paper_deepresearch",
+  "entryFiles": ["paper_deepresearch.md"],
+  "examplePath": "examples/lark_doc/paper_deepresearch",
+  "preview": {
+    "cover": "showcase/assets/lark_doc/paper_deepresearch/cover.png"
+  },
+  "initMode": "copy-file",
+  "visibility": "public",
+  "outputType": "markdown",
+  "artifactHints": [
+    "Pin the primary paper and validate the exact version.",
+    "Build structured notes for problem setup, method, theorem, and experiments.",
+    "Summarize related work and open problems with citations."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "lark_doc/topic_trend_report",
+  "family": "lark_doc",
+  "name": "topic_trend_report",
+  "displayName": "Topic Trend Report",
+  "description": "Dynamic report template for tracking topic trends over a chosen time window.",
+  "tags": ["trend", "news", "monitoring", "reporting"],
+  "sourcePath": "templates/lark_doc/topic_trend_report",
+  "entryFiles": ["topic_trend_report.md"],
+  "examplePath": "examples/lark_doc/topic_trend_report",
+  "preview": {
+    "cover": "showcase/assets/lark_doc/topic_trend_report/cover.png"
+  },
+  "initMode": "copy-file",
+  "visibility": "public",
+  "outputType": "markdown",
+  "artifactHints": [
+    "Choose the topic and time window before collecting sources.",
+    "Group sources by theme and remove duplicates.",
+    "Summarize the trend, evidence, and next actions in a dated report."
+  ]
+}

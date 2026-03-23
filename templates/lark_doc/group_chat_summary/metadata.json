@@ -1,0 +1,22 @@
+{
+  "id": "lark_doc/group_chat_summary",
+  "family": "lark_doc",
+  "name": "group_chat_summary",
+  "displayName": "Group Chat Summary",
+  "description": "Structured summary template for turning group chat logs into decisions, actions, and risks.",
+  "tags": ["summary", "chat", "ops", "reporting"],
+  "sourcePath": "templates/lark_doc/group_chat_summary",
+  "entryFiles": ["group_chat_summary.md"],
+  "examplePath": "examples/lark_doc/group_chat_summary",
+  "preview": {
+    "cover": "showcase/assets/lark_doc/group_chat_summary/cover.png"
+  },
+  "initMode": "copy-file",
+  "visibility": "public",
+  "outputType": "markdown",
+  "artifactHints": [
+    "Fill in the chat context and time window.",
+    "Extract decisions, action items, risks, and owners.",
+    "Export the final summary to a shareable document."
+  ]
+}

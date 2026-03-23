@@ -1,0 +1,22 @@
+{
+  "id": "lark_doc/weekly_report",
+  "family": "lark_doc",
+  "name": "weekly_report",
+  "displayName": "Weekly Report",
+  "description": "Weekly work report template for summarizing progress, tasks, meetings, and cloud documents.",
+  "tags": ["weekly", "report", "status", "worklog"],
+  "sourcePath": "templates/lark_doc/weekly_report",
+  "entryFiles": ["weekly_report.md"],
+  "examplePath": "examples/lark_doc/weekly_report",
+  "preview": {
+    "cover": "showcase/assets/lark_doc/weekly_report/cover.png"
+  },
+  "initMode": "copy-file",
+  "visibility": "public",
+  "outputType": "markdown",
+  "artifactHints": [
+    "Collect current week schedule, tasks, notes, and cloud docs.",
+    "Synthesize the week into outcomes, progress, and risks.",
+    "Generate a readable report for sharing with the team."
+  ]
+}

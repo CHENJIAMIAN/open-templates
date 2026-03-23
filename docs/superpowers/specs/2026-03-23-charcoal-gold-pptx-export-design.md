@@ -59,7 +59,7 @@ Recommended implementation:
 
 - parser/orchestrator: Python
 - `.pptx` generation: `python-pptx`
-- `.pdf` generation: LibreOffice CLI if available
+- `.pdf` generation: LibreOffice CLI as a required local dependency for this PoC
 
 Reasoning:
 
@@ -142,16 +142,21 @@ Soft warnings:
 
 - unsupported optional attributes ignored
 - styling fields dropped because no public PowerPoint equivalent exists
-- PDF export skipped because LibreOffice CLI is unavailable
+- rendering differences from Feishu caused by unsupported styling details
 
 ## Verification
 
 Success criteria for this phase:
 
 - `deck.pptx` is generated locally from source
-- `deck.pdf` is generated locally from the `.pptx` when the PDF backend is available
+- `deck.pdf` is generated locally from the `.pptx`
 - the command is repeatable from a clean checkout
-- the generated deck preserves the recognizable structure of the `charcoal_gold` template
+- the generated deck contains the same slide count as the source `template.xml`
+- the generated deck preserves these structural features on every slide:
+  - background fill when present
+  - all text boxes
+  - all image nodes with successful asset resolution
+  - all line elements
 
 Verification commands will include:
 

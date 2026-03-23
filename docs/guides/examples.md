@@ -60,6 +60,8 @@ The slide examples are companion packages that describe what the theme is for an
 - `examples/slides/silver/README.md`
 - `examples/slides/tech_blue_orange/README.md`
 
+For the `charcoal_gold` export workflow, see [Slides export guide](slides-export.md).
+
 Preview assets:
 
 - `showcase/assets/slides/charcoal_gold/cover.png`

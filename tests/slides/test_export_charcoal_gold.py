@@ -2,8 +2,9 @@ from pathlib import Path
 import subprocess
 import sys
 
+import pytest
 
-from tools.slides.sml_parser import parse_presentation
+from tools.slides.sml_parser import build_asset_index, parse_presentation, resolve_asset_token
 
 
 def test_export_charcoal_gold_creates_pptx_and_pdf(tmp_path: Path):
@@ -38,3 +39,17 @@ def test_parse_charcoal_gold_extracts_deck_structure():
     assert any(node.kind == "image" for slide in deck.slides for node in slide.nodes)
     assert any(node.kind == "line" for slide in deck.slides for node in slide.nodes)
     assert any(node.kind == "shape" for slide in deck.slides for node in slide.nodes)
+
+
+def test_asset_resolution_maps_sml_token_to_local_png():
+    asset_index = build_asset_index(Path("templates/slides/charcoal_gold"))
+    path = resolve_asset_token(asset_index, "FJLsbVgEEogLRtxWLW2cOe3Tn7f")
+
+    assert path.name.endswith("FJLsbVgEEogLRtxWLW2cOe3Tn7f.png")
+
+
+def test_asset_resolution_fails_for_unknown_token():
+    asset_index = build_asset_index(Path("templates/slides/charcoal_gold"))
+
+    with pytest.raises(KeyError):
+        resolve_asset_token(asset_index, "missing-token")

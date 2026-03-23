@@ -179,8 +179,17 @@ def _local_name(tag: str) -> str:
 
 
 def build_asset_index(template_dir: Path) -> dict[str, Path]:
-    raise NotImplementedError("asset indexing is not implemented yet")
+    asset_index: dict[str, Path] = {}
+    for asset_path in sorted(template_dir.glob("slide_*.png")):
+        token = asset_path.stem.rsplit("_", 1)[-1]
+        if token in asset_index:
+            raise ValueError(f"duplicate asset token: {token}")
+        asset_index[token] = asset_path
+    return asset_index
 
 
 def resolve_asset_token(asset_index: dict[str, Path], token: str) -> Path:
-    raise NotImplementedError("asset token resolution is not implemented yet")
+    try:
+        return asset_index[token]
+    except KeyError as exc:
+        raise KeyError(f"missing asset token: {token}") from exc

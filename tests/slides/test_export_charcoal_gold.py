@@ -3,11 +3,13 @@ import subprocess
 import sys
 
 import pytest
+from pptx import Presentation
 
 from tools.slides.sml_parser import build_asset_index, parse_presentation, resolve_asset_token
+from tools.slides.pptx_writer import write_presentation
 
 
-def test_export_charcoal_gold_creates_pptx_and_pdf(tmp_path: Path):
+def test_export_charcoal_gold_creates_artifacts(tmp_path: Path):
     source_dir = Path("templates/slides/charcoal_gold")
     output_dir = tmp_path / "out"
 
@@ -53,3 +55,28 @@ def test_asset_resolution_fails_for_unknown_token():
 
     with pytest.raises(KeyError):
         resolve_asset_token(asset_index, "missing-token")
+
+
+def test_write_pptx_preserves_slide_count(tmp_path: Path):
+    deck = parse_presentation(Path("templates/slides/charcoal_gold/template.xml"))
+    output = tmp_path / "deck.pptx"
+
+    write_presentation(deck, Path("templates/slides/charcoal_gold"), output)
+
+    prs = Presentation(output)
+    assert output.exists()
+    assert output.stat().st_size > 0
+    assert len(prs.slides) == len(deck.slides)
+
+    for parsed_slide, generated_slide in zip(deck.slides, prs.slides):
+        if parsed_slide.nodes:
+            assert len(generated_slide.shapes) >= 1
+
+    expected_images = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "image")
+    expected_lines = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "line")
+    expected_shapes = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "shape")
+    actual_images = sum(1 for slide in prs.slides for shape in slide.shapes if shape.shape_type == 13)
+    actual_freeform = sum(1 for slide in prs.slides for shape in slide.shapes if shape.shape_type in {1, 9, 17})
+
+    assert actual_images == expected_images
+    assert actual_freeform >= expected_lines + expected_shapes

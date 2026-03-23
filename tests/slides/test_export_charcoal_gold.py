@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 import subprocess
 import sys
@@ -5,6 +6,7 @@ import sys
 import pytest
 from pptx import Presentation
 
+from tools.slides.pdf_export import export_pdf
 from tools.slides.sml_parser import build_asset_index, parse_presentation, resolve_asset_token
 from tools.slides.pptx_writer import write_presentation
 
@@ -28,7 +30,8 @@ def test_export_charcoal_gold_creates_artifacts(tmp_path: Path):
 
     assert result.returncode == 0, result.stderr
     assert (output_dir / "deck.pptx").exists()
-    assert (output_dir / "deck.pdf").exists()
+    if shutil.which("soffice") is not None:
+        assert (output_dir / "deck.pdf").exists()
 
 
 def test_parse_charcoal_gold_extracts_deck_structure():
@@ -80,3 +83,16 @@ def test_write_pptx_preserves_slide_count(tmp_path: Path):
 
     assert actual_images == expected_images
     assert actual_freeform >= expected_lines + expected_shapes
+
+
+@pytest.mark.skipif(shutil.which("soffice") is None, reason="LibreOffice CLI not installed")
+def test_export_pdf_creates_output(tmp_path: Path):
+    pptx_path = tmp_path / "deck.pptx"
+    deck = parse_presentation(Path("templates/slides/charcoal_gold/template.xml"))
+    write_presentation(deck, Path("templates/slides/charcoal_gold"), pptx_path)
+
+    pdf_path = tmp_path / "deck.pdf"
+
+    export_pdf(pptx_path, pdf_path)
+
+    assert pdf_path.exists()

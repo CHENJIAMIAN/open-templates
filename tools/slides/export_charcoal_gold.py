@@ -8,6 +8,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from tools.slides.pptx_writer import write_presentation
+from tools.slides.pdf_export import export_pdf
 from tools.slides.sml_parser import parse_presentation
 
 
@@ -23,7 +24,13 @@ def export_charcoal_gold(source_dir: Path, output_dir: Path) -> None:
         raise FileNotFoundError(f"source directory does not exist: {source_dir}")
     output_dir.mkdir(parents=True, exist_ok=True)
     deck = parse_presentation(source_dir / "template.xml")
-    write_presentation(deck, source_dir, output_dir / "deck.pptx")
+    pptx_path = output_dir / "deck.pptx"
+    pdf_path = output_dir / "deck.pdf"
+    write_presentation(deck, source_dir, pptx_path)
+    try:
+        export_pdf(pptx_path, pdf_path)
+    except FileNotFoundError as exc:
+        print(str(exc), file=sys.stderr)
 
 
 def main(argv: list[str] | None = None) -> int:

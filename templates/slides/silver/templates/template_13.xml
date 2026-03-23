@@ -1,0 +1,87 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(26, 26, 26, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+      <border color="rgba(169, 169, 169, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" alpha="0.75" type="ellipse">
+      <border color="rgba(169, 169, 169, 1)" dashArray="long-dash" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+      <border color="rgba(169, 169, 169, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" alpha="0.75" type="ellipse">
+      <border color="rgba(169, 169, 169, 1)" dashArray="long-dash" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+      <border color="rgba(169, 169, 169, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.65" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>团队管理的"温度与尺度"：从"指令式"到"赋能式"</p>
+      </content>
+    </shape>
+    <shape width="278.19" height="32" topLeftX="48" topLeftY="119.98" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">初期管理方式</p>
+      </content>
+    </shape>
+    <shape width="277.96" height="90" topLeftX="48" topLeftY="148.98" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>采用"指令式"管理："你按这个方案做，明天给我结果。"导致年轻工程师积极性不高，出现"为了完成任务而应付"的情况。</p>
+      </content>
+    </shape>
+    <shape width="260" height="32" topLeftX="33" topLeftY="261.13" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">管理方式转变</p>
+      </content>
+    </shape>
+    <shape width="260" height="90" topLeftX="33" topLeftY="289.63" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>推行"方案共创制"：每月组织"头脑风暴会"，鼓励所有人提想法；对新人分配"微项目"，给予试错空间并提供支持。</p>
+      </content>
+    </shape>
+    <shape width="278.19" height="32" topLeftX="48" topLeftY="402.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">管理感悟</p>
+      </content>
+    </shape>
+    <shape width="278.19" height="84" topLeftX="48" topLeftY="430.77" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>优秀团队不是"管"出来的，而是"赋能"出来的——给方向、给资源、给信任，技术人才自然会爆发出创造力。</p>
+      </content>
+    </shape>
+    <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">反思契机</p>
+      </content>
+    </shape>
+    <shape width="260" height="113" topLeftX="667.27" topLeftY="196.48" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>95后工程师小李直言："我有个轻量化悬架的想法，但怕你觉得不成熟，没敢提。"这一反馈促使管理者反思管理方式。</p>
+      </content>
+    </shape>
+    <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">实施成果</p>
+      </content>
+    </shape>
+    <shape width="260" height="113" topLeftX="667.27" topLeftY="363.13" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>半年后，团队提交的创新提案数量增加3倍，小李主导的"3D打印轻量化转向节"方案还申请了专利。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

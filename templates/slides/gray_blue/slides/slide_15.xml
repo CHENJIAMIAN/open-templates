@@ -1,0 +1,96 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 248, 1)"/>
+        </fill>
+        <border color="rgba(33, 114, 182, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 248, 1)"/>
+        </fill>
+        <border color="rgba(33, 114, 182, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 248, 1)"/>
+        </fill>
+        <border color="rgba(33, 114, 182, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(33, 114, 182, 1)" width="1"/>
+        <content fontSize="14" fontFamily="宋体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(33, 114, 182, 1)" width="1"/>
+        <content fontSize="15" fontFamily="宋体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>资源需求与协调</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">人力资源</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>需临时增配数据标注工程师3名（外包），已启动招聘流程，预计12/5到岗</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">预算需求</p>
+        </content>
+      </shape>
+      <shape width="260" height="90" topLeftX="33" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>项目总预算38万元（含人力、算力、营销），已通过财务部初审</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">资源协调机制</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84" topLeftX="48" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>建立“资源协调群”，每日同步资源到位情况，设置资源风险预警机制（延迟&gt;3天启动应急预案）。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">算力资源</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>多模态模型训练需额外GPU资源500卡时，已协调云厂商预留资源池</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">外部合作</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>计划与行业知识库供应商签订合作协议，获取专业领域数据，法务审核中</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

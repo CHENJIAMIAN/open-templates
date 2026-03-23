@@ -1,0 +1,32 @@
+{
+  "id": "slides/gray_blue",
+  "family": "slides",
+  "name": "gray_blue",
+  "displayName": "Gray Blue",
+  "description": "Presentation slide template for Gray Blue.",
+  "tags": [
+    "slides",
+    "presentation",
+    "gray",
+    "blue"
+  ],
+  "sourcePath": "templates/slides/gray_blue",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/gray_blue",
+  "preview": {
+    "cover": "showcase/assets/slides/gray_blue/cover.png",
+    "gallery": [
+      "showcase/assets/slides/gray_blue/cover.png"
+    ]
+  }
+}

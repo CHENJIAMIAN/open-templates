@@ -1,0 +1,71 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.66" startY="-5.50" endX="47.66" endY="548.25" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="135.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="260.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="383.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="837.59" height="45" topLeftX="74.48" topLeftY="51.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>全周期宣传计划</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="122.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>前期预热</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="153.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>1月1-20日：内部邮件推送年会主题海报，发起“我的年度故事”征文活动</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="247.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>现场氛围</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="277.65" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>入口处设置“时光长廊”（年度大事记照片墙），签到区提供定制徽章打印</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="371.70" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>后期传播</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="402.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动次日发布精彩集锦视频，制作电子纪念册通过企业邮箱分发</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

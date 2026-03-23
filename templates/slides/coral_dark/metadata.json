@@ -1,0 +1,32 @@
+{
+  "id": "slides/coral_dark",
+  "family": "slides",
+  "name": "coral_dark",
+  "displayName": "Coral Dark",
+  "description": "Presentation slide template for Coral Dark.",
+  "tags": [
+    "slides",
+    "presentation",
+    "coral",
+    "dark"
+  ],
+  "sourcePath": "templates/slides/coral_dark",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/coral_dark",
+  "preview": {
+    "cover": "showcase/assets/slides/coral_dark/cover.png",
+    "gallery": [
+      "showcase/assets/slides/coral_dark/cover.png"
+    ]
+  }
+}

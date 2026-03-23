@@ -1,0 +1,53 @@
+<slide>
+  <style/>
+  <data>
+    <img src="KfkMblpXAo3Lpax6S71czGeNndf" width="960" height="298.56" topLeftX="0" topLeftY="0">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="142.79" bottomOffset="98.65" presetHandlers="0"/>
+    </img>
+    <shape width="457" height="42" topLeftX="30.09" topLeftY="207.83" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p textAlign="left">从算力到应用 全链路科技解决方案</p>
+      </content>
+    </shape>
+    <shape width="307" height="16" topLeftX="30.09" topLeftY="183.15" alpha="0.55" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">以算力为核，以数据为翼，驱动产业迈向智能新纪元</p>
+      </content>
+    </shape>
+    <shape width="283" height="68" topLeftX="650.90" topLeftY="438.50" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>万物互联的时代，没有孤立的个体，只有协同的生态。我们整合云计算、物联网、大数据技术，打通信息壁垒，实现数据互通，为产业升级注入源源不断的动力。</p>
+      </content>
+    </shape>
+    <shape width="282.50" height="31.93" topLeftX="650.90" topLeftY="403.95" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>让科技成果 惠及千行百业</p>
+      </content>
+    </shape>
+    <shape width="96" height="18" topLeftX="30.09" topLeftY="488.50" type="text">
+      <content fontSize="12" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>创新・突破・引领</p>
+      </content>
+    </shape>
+    <shape width="325" height="84" topLeftX="30.09" topLeftY="332.80" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(0, 0, 0, 1)">聚焦人工智能、云计算</span>
+          <span color="rgba(128, 128, 128, 1)">与物联网融合创新</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="631.64" startY="407.61" endX="631.64" endY="505.61" alpha="0.16">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <line startX="912.23" startY="38.58" endX="933.56" endY="38.58">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="922.90" startY="28.76" endX="922.90" endY="48.40">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

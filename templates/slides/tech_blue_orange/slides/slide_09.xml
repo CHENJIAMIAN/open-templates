@@ -1,0 +1,93 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270" presetHandlers="16" alpha="0.90" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0" presetHandlers="16" alpha="0.70" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90" presetHandlers="16" alpha="0.50" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>自动化运维与工具链</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>配置管理工具</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>需熟练使用Ansible、Puppet等配置管理工具，如"基于Ansible开发15个模块化Playbook，实现100+节点批量配置，人工操作减少75%"</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>自动化脚本开发</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>掌握Python/Shell编写自动化脚本的能力，实现运维流程自动化</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>CI/CD流水线</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>使用Jenkins、Git实现CI/CD流水线，提升开发部署效率</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>基础设施即代码</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>应用Terraform等IaC工具，如"通过Terraform实现多云资源编排，资源交付周期从7天缩短至4小时"</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

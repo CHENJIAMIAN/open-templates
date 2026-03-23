@@ -1,0 +1,75 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 0.922)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>原生多模态：从"拼接"到"融合"的范式转变</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用统一架构从底层支持多模态学习，实现跨模态生成与推理能力涌现</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="53.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>统一架构支持</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>训练效率提升30%、模态切换更自然、涌现跨模态新能力（如图文关联推理）</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="346.50" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键优势</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年腾讯Hunyuan 2.0、Google Gemini 2.0等模型支持256K超长上下文，可处理长篇文档、视频片段等复杂输入</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="640.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业进展</p>
+        </content>
+      </shape>
+      <img src="KBXzbJzcCo3eopxR7qjcs98Unug" width="278" height="151.66" topLeftX="48.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="AHVFb3vFdoDjRCx6Nb7cA5hwnAe" width="278" height="151.66" topLeftX="341" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="QLZjbT7JsowzohxuKjzc0lyfnNg" width="278" height="151.66" topLeftX="634.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="50" topLeftX="48.07" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="11" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>原生多模态模型区别于早期"文本模型+图像模型"的简单拼接，采用统一架构从底层支持多模态学习，实现跨模态生成与推理能力涌现。优势包括训练效率提升30%、模态切换更自然、涌现跨模态新能力（如图文关联推理）。2025年腾讯Hunyuan 2.0、Google Gemini 2.0等模型支持256K超长上下文，可处理长篇文档、视频片段等复杂输入。</p>
+        </content>
+      </shape>
+      <shape width="864" height="29" topLeftX="48.07" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>范式转变概述</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

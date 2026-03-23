@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="43" height="2" topLeftX="48" topLeftY="135" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="347.38" topLeftY="132.79" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="646.77" topLeftY="132.79" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="197.69" topLeftY="323.81" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="497.07" topLeftY="323.81" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标市场选择策略</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>东南亚市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="48" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拥有6.5亿人口红利和60%的互联网普及率，智能手机和智能穿戴设备需求旺盛，如OPPO在印尼通过经销商网络覆盖2万个销售点</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拉美市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="347.38" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>墨西哥凭借USMCA协议关税优势成为北美市场跳板，本地组装产品可享受零关税</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>欧洲市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="646.77" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>高端市场需求旺盛但环保法规严格，需符合欧盟RoHS、CE认证等标准</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>韩国市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>TCL通过与三星合作切入并拓展半导体显示业务，展示了在成熟市场的突破路径</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场特征差异</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>俄罗斯市场交易集中在少数大型企业；墨西哥市场客户分散且政策复杂；越南市场既有大型企业主导又有中小企业参与机会</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

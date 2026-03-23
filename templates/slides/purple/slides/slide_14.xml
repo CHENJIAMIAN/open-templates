@@ -1,0 +1,62 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理/代表目标（O）示例</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦团队管理与新领域拓展，如“Q1拓展医疗行业新客户，贡献销售额200万元”</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售代表</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦个人业绩与客户维护，如“Q1完成个人销售额300万元，老客户复购率提升至85%”</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>BD经理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦线索获取与渠道建设，如“Q1通过行业展会获取有效线索50条，转化率≥15%”</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

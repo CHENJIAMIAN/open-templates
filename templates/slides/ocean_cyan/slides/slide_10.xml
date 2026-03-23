@@ -1,0 +1,77 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="138.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品矩阵与服务模式</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过预测性维护（降低设备故障率20%）、质量控制（缺陷检测准确率95%）、生产排程优化（提升效率20%）三大模块</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能制造优化系统</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>面向金融机构，提供实时交易欺诈检测（降低欺诈率40%）、信用评分（审批效率提升50%），支持API接口快速集成</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能风控引擎</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>涵盖交通流量分析（拥堵率下降20%）、能耗管理（节能15%），适配摄像头、传感器等多源数据接入</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>智慧城市监测套件</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="147.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体架构</p>
+        </content>
+      </shape>
+      <shape width="820" height="71" topLeftX="70.12" topLeftY="196.42" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司构建“1+N”产品矩阵：“1”为核心AI平台（集成数据处理、模型训练、应用部署功能），“N”为行业垂直解决方案。服务模式采用“基础版SaaS订阅（年费19.8万元）+专业版定制开发（项目费50-200万元）+增值数据服务（按次计费）”，满足不同客户需求</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

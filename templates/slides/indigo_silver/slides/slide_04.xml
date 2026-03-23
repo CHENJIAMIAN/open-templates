@@ -1,0 +1,55 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 5, 17, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="R1AUb1otQoPxFRxFPhkc1yftnbh" width="359.45" height="433.85" topLeftX="547.85" topLeftY="50.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="103.76" bottomOffset="103.76" presetHandlers="16"/>
+      </img>
+      <shape width="444.56" height="70.27" topLeftX="75.32" topLeftY="50.30" type="text">
+        <content textType="headline" fontSize="42" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Objectives summary</p>
+        </content>
+      </shape>
+      <shape width="444.56" height="84" topLeftX="75.32" topLeftY="133.46" type="text">
+        <content textType="caption" fontSize="13" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>This quarter’s objectives focused on strengthening core capabilities and execution stability, with emphasis on feature adoption, system reliability, and key initiative delivery.Together, they reflect a shift toward more efficient collaboration and more sustainable delivery rhythms.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="243.23" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Improve feature adoption</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="272.05" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 85% of target through targeted initiatives.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="323.83" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Reduce incident rate</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="352.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 70%, with work remaining on legacy services.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="416.88" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Launch X initiative</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="445.70" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 95% with strong cross-functional execution.</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

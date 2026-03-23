@@ -1,0 +1,149 @@
+<slide>
+  <style/>
+  <data>
+    <img src="LRMwb9ByWoKwz7xd4FwcSe2Jnue" width="397.83" height="540" topLeftX="562.17" topLeftY="0" contrast="3" saturation="19">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="969" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(23, 23, 23, 1) 61%,rgba(7, 7, 7, 0) 79%,rgba(3, 3, 3, 0) 91%,rgba(0, 0, 0, 0) 100%)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="46" height="15" topLeftX="32.33" topLeftY="25.76" type="text">
+      <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="10">四代技术</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="46" height="15" topLeftX="88.84" topLeftY="25.76" type="text">
+      <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="10">公司名称</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="31.83" startY="339.91" endX="610.63" endY="339.91" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="31.83" startY="411.35" endX="610.63" endY="411.35" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="31.83" startY="482.79" endX="610.63" endY="482.79" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <shape width="168" height="66" topLeftX="32.33" topLeftY="270" type="text">
+      <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" fontSize="44">96%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="168" height="66" topLeftX="32.33" topLeftY="341.10" type="text">
+      <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" fontSize="44">23%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="168" height="66" topLeftX="32.33" topLeftY="412.54" type="text">
+      <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" fontSize="44">77%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="79.44" height="24.14" topLeftX="233.55" topLeftY="305.58" type="text">
+      <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" fontSize="14">系统可用性</span>
+          </strong>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="167.33" height="28.33" topLeftX="396.68" topLeftY="300.89" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="10">系统在高负载条件下仍能保持稳定运行，确保关键服务不中断。</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="93.72" height="24.14" topLeftX="233.55" topLeftY="376.68" type="text">
+      <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="14">延迟优化幅度</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="93.72" height="24.14" topLeftX="233.55" topLeftY="449.50" type="text">
+      <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="14">自动化覆盖率</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="167.33" height="28.33" topLeftX="396.68" topLeftY="372.49" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">核心处理流程的延迟大幅下降，显著提升任务响应速度与整体效率。</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="167.33" height="28.33" topLeftX="396.34" topLeftY="442.88" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">主要模块已完成自动化部署，</span>
+        </p>
+        <p>
+          <span color="rgba(255, 255, 255, 1)">实现更高一致性与更低操作成本。</span>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="577.79" height="36" topLeftX="32.33" topLeftY="188.88" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>从探索新技术到实现场景落地，真正的挑战在于如何将复杂性隐藏在简单的界面背后。我们希望通过这套方法论，让用户看到的永远是清晰而直接的结果，而把系统的重量交给技术本身承担。</p>
+      </content>
+    </shape>
+    <shape width="473.26" height="50.53" topLeftX="32.33" topLeftY="129.76" type="text">
+      <content fontSize="30" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">架构升级的必要性</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="46" height="15" topLeftX="886.51" topLeftY="26.32" type="text">
+      <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="10">产品手册</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="80.84" startY="28.82" endX="80.84" endY="37.82">
+      <border color="rgba(197, 199, 200, 1)" width="1"/>
+    </line>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

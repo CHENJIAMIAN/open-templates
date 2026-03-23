@@ -1,0 +1,53 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(247, 244, 237, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="278" height="45" topLeftX="48.27" topLeftY="78.19" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>立体主义</p>
+      </content>
+    </shape>
+    <shape width="71" height="39" topLeftX="48.27" topLeftY="154.54" type="text">
+      <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="278.47" height="34" topLeftX="48.27" topLeftY="193.54" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">核心特征</p>
+      </content>
+    </shape>
+    <shape width="278.21" height="90" topLeftX="48.27" topLeftY="223.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>将物体分解为几何切面，多视角重构画面。</p>
+      </content>
+    </shape>
+    <shape width="71" height="39" topLeftX="48.27" topLeftY="325.89" type="text">
+      <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="278.47" height="34" topLeftX="48.27" topLeftY="364.89" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">推荐图片</p>
+      </content>
+    </shape>
+    <shape width="278.21" height="90" topLeftX="48.27" topLeftY="395.28" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>毕加索《亚威农少女》（破碎的人体轮廓与棱角分明的面部特征），搜索关键词：Pablo Picasso Les Demoiselles d'Avignon</p>
+      </content>
+    </shape>
+    <img src="SW1nbrtnWojtfRxKLRBcTLFkn1d" width="237.11" height="437.36" topLeftX="375.05" topLeftY="51.32">
+      <crop type="rect" leftOffset="4.45" rightOffset="4.45" topOffset="0" bottomOffset="0" presetHandlers="34"/>
+    </img>
+    <img src="ZqHab0aqtohgK3x67RZcna7Inzf" width="296" height="437.36" topLeftX="619.05" topLeftY="51.32">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="3.32" bottomOffset="3.32" presetHandlers="34"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

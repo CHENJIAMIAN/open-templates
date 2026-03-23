@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(230, 236, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(230, 236, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="28" alpha="0.80" type="round-rect">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(230, 236, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(230, 236, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>用户访谈方法与要点</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.38" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>设计半结构化问题提纲，避免引导性提问</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>设计问题提纲</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="651.79" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>选择具有代表性的用户样本（如不同使用频率的用户）</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>选择用户样本</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(255, 255, 255, 0.702)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户访谈是通过一对一深度交流获取用户观点的方法，适用于探索用户行为动机和潜在需求。例如在CJ252案例中，通过对京港地铁项目相关人员的访谈，收集到了AED维护服务的具体需求和痛点。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 0.922)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户访谈概述</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.38" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>访谈时长控制在45-60分钟</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>控制访谈时长</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="651.79" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用“5Why”技巧挖掘深层原因</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>挖掘深层原因</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

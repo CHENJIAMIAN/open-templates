@@ -1,0 +1,111 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(242, 248, 250, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="180" height="1" topLeftX="143.07" topLeftY="400.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="180" height="1" topLeftX="-33.61" topLeftY="220.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="960" height="1" topLeftX="0" topLeftY="310.50" rotation="180" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="180" height="1" topLeftX="324.39" topLeftY="221.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="180" height="1" topLeftX="507.07" topLeftY="402.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="9" height="9" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(49, 163, 217, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="9" height="9" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+      <fill>
+        <fillColor color="rgba(49, 163, 217, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="9" height="9" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(49, 163, 217, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="9" height="9" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(49, 163, 217, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>家具行业市场现状与趋势洞察</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能化与功能性融合</p>
+      </content>
+    </shape>
+    <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能储物、可变形家具等创新产品溢价能力提升30%以上</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>环保健康考量</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>超过68%的消费者将环保材料列为购买决策的关键指标</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>线上线下融合</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>纯电商家具品牌开始布局线下体验店，传统品牌则加速数字化转型</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场总体状况</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">当前家具行业正经历从传统制造向"产品+服务"转型的关键时期，市场规模稳步增长，2023年中国家具市场规模已突破8000亿元。疫情后，"家文化"回归带动家居场景升级，客厅、书房等空间的家具更新需求显著增长。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

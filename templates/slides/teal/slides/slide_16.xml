@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特色体验：非遗、自然与节庆深度参与</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>非遗手作</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="48.27" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理扎染体验（周城村，150元/人，亲手染制围巾）；建水紫陶制作（碗窑村，200元/人，拉坯+绘画+烧制）；彝绣刺绣（楚雄彝人古镇，100元/人，绣制小钱包）。</p>
+        </content>
+      </shape>
+      <img src="TYM7bKm0xob8rzxidbBctF2MnFl" width="259.14" height="194" topLeftX="48.27" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自然探索</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="340.43" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">中科院植物园夜游（80元/人，19:30-21:00，观测萤火虫与夜间开花植物）；普者黑溶洞探险（120元/人，专业向导带领，看钟乳石与地下河）；独龙江徒步（贡山出发，3天2晚，看原始森林与纹面女文化）。</p>
+        </content>
+      </shape>
+      <img src="PkSwbKUXOoZ7lzx9lIRc92SsnKd" width="259.14" height="194" topLeftX="340.43" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>节庆参与</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="632.59" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">泼水节（4月13-15日，西双版纳曼听公园浴佛、德宏瑞丽花车巡游）；火把节（7月16-20日，楚雄太阳历文化园祭火大典、云南民族村篝火狂欢）；三月街（4月12-18日，大理苍山脚下赛马、对歌、药材交易）。</p>
+        </content>
+      </shape>
+      <img src="Kbjvbv9NooNSsVxo3bIcUb67nSf" width="259.14" height="194" topLeftX="632.59" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

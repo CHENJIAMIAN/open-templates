@@ -1,0 +1,115 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="203.07" startY="310.88" endX="203.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="198.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="54.27" startY="132.99" endX="54.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="49.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="353.79" startY="132.99" endX="353.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="503.88" startY="310.88" endX="503.88" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="498.88" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="349.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="654.79" startY="133.99" endX="654.79" endY="313.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="650.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>云南少数民族文化交融</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="224.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>白族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112.16" topLeftX="224.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>扎染技艺以板蓝根为染料，大理周城村可体验从织布到染色全过程</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="74.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>纳西族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="74.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>保留古老象形文字和宗教仪式，丽江古城四方街延续茶马古道商业传统</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="374.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>傣族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="374.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>泼水节（4月13-15日）以“水的祝福”为核心，西双版纳与瑞丽展现传统与现代碰撞</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="525.59" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>彝族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="525.59" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>火把节（农历六月二十四）在楚雄、石林等地举办，祭火大典与万人左脚舞展现原始崇拜与集体欢腾</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="675.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体概况</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="675.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">云南聚居着25个世居少数民族，占全省总人口的34%，多元文化在这里交织共生。独龙族的纹面习俗、藏族的锅庄舞、哈尼族的梯田农耕文化等，共同构成了云南“十里不同俗”的文化画卷。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

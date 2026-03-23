@@ -1,0 +1,58 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="49.80" topLeftY="123.41" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="503.26" topLeftY="123.41" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <img src="E42EbruVQoTWZ0xlHaAcXU9engd" width="862.80" height="303.72" topLeftX="48" topLeftY="236.28">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="90.80" bottomOffset="90.80"/>
+      </img>
+      <shape width="388" height="36" topLeftX="69.33" topLeftY="107.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">核心特征</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="388" height="77" topLeftX="69.33" topLeftY="142.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>捕捉光影瞬间，快速笔触与环境色融合。</p>
+        </content>
+      </shape>
+      <shape width="388" height="36" topLeftX="522.80" topLeftY="107.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">推荐图片</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="388" height="77" topLeftX="522.80" topLeftY="142.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>莫奈《睡莲》（水面倒影的朦胧光影与斑驳色彩），搜索关键词：Claude Monet Water Lilies pond</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">印象派</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

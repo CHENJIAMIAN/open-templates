@@ -1,0 +1,114 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="832.99" height="46.85" topLeftX="63.51" topLeftY="26.06" type="text">
+      <content textType="sub-headline" fontSize="32" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.4">Goal achievement overview</p>
+      </content>
+    </shape>
+    <shape width="820.87" height="18.62" topLeftX="75.63" topLeftY="72.91" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>Starting from outcomes to review goal achievement and execution performance</p>
+      </content>
+    </shape>
+    <shape width="410.78" height="164.86" topLeftX="485.72" topLeftY="135.92" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="410.78" height="164.86" topLeftX="63.51" topLeftY="311.12" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="410.78" height="164.86" topLeftX="485.72" topLeftY="311.12" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="410.78" height="164.86" topLeftX="63.51" topLeftY="135.92" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="261.21" height="33.03" topLeftX="503.72" topLeftY="143.92" type="text">
+      <content textType="sub-headline" fontSize="22" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p textAlign="left">
+          <span fontSize="22">O2</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="378.94" height="26.96" topLeftX="503.72" topLeftY="187.29" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>Improve goal clarity and alignment</p>
+      </content>
+    </shape>
+    <shape width="378.94" height="69.83" topLeftX="503.72" topLeftY="217.25" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Improve goal decomposition and shared understanding to reduce misalignment and unnecessary iteration during execution.</p>
+      </content>
+    </shape>
+    <shape width="261.21" height="33.03" topLeftX="81.51" topLeftY="319.12" type="text">
+      <content textType="sub-headline" fontSize="22" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p textAlign="left">
+          <span fontSize="22">O3</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="378.94" height="26.96" topLeftX="81.51" topLeftY="362.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>Optimize collaboration and decision flow</p>
+      </content>
+    </shape>
+    <shape width="378.94" height="69.83" topLeftX="81.51" topLeftY="392.46" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Optimize cross-functional collaboration to reduce communication overhead and improve decision-making responsiveness.</p>
+      </content>
+    </shape>
+    <shape width="261.21" height="33.03" topLeftX="503.72" topLeftY="319.12" type="text">
+      <content textType="sub-headline" fontSize="22" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p textAlign="left">
+          <span fontSize="22">O4</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="378.94" height="26.96" topLeftX="503.72" topLeftY="362.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>Build sustainable delivery capability</p>
+      </content>
+    </shape>
+    <shape width="378.94" height="69.83" topLeftX="503.72" topLeftY="392.46" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Maintain delivery momentum while building more predictable and sustainable execution rhythms.</p>
+      </content>
+    </shape>
+    <shape width="261.21" height="33.03" topLeftX="81.51" topLeftY="143.92" type="text">
+      <content textType="sub-headline" fontSize="22" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p textAlign="left">
+          <span fontSize="22">O1</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="378.94" height="26.96" topLeftX="81.51" topLeftY="187.29" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>Strengthen core execution foundations</p>
+      </content>
+    </shape>
+    <shape width="378.94" height="69.83" topLeftX="81.51" topLeftY="217.25" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Strengthen focus on core goals and critical paths to improve execution stability and delivery quality on high-priority initiatives.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

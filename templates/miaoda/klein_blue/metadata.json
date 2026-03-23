@@ -1,0 +1,31 @@
+{
+    "id":  "miaoda/klein_blue",
+    "family":  "miaoda",
+    "name":  "klein_blue",
+    "displayName":  "Klein Blue",
+    "description":  "UI style prompt template for a Klein Blue aesthetic.",
+    "tags":  [
+                 "klein",
+                 "blue",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/klein_blue",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/klein_blue",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/klein_blue/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/klein_blue/gallery-1.png"
+                                ]
+                }
+}

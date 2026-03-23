@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(232, 239, 248, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+        <p>北极星指标月度表现</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="650.07" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>67.3%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="650.07" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>免费用户交互成功率</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="650.07" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>免费用户</p>
+      </content>
+    </shape>
+    <shape width="864.20" height="45" topLeftX="47.87" topLeftY="100.49" type="text">
+      <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">本月核心北极星指标智能交互成功率达到78.5%，付费用户与免费用户交互成功率呈现显著分层特征，事务咨询类场景成功率显著高于复杂问题解决场景，反映出模型在结构化任务中的优势。</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="349" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>89.2%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="349" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>付费用户交互成功率</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="349" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>付费用户</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="48.07" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>78.5%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="48.07" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>较上月提升2.3个百分点，超额完成月度目标（75%）</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="48.07" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>智能交互成功率</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="499.46" topLeftY="336.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>62.4%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="499.46" topLeftY="414.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>复杂问题解决场景成功率</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="499.46" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>复杂问题类</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="198.54" topLeftY="336.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>85.7%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="198.54" topLeftY="414.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>事务咨询类场景成功率</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="198.54" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>事务咨询类</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

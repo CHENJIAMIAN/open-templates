@@ -1,0 +1,42 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="363.93" height="169.62" topLeftX="564.57" topLeftY="166.35" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="60" fontFamily="寒蝉锦书宋" color="rgba(20, 13, 71, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" wrap="false">
+          <p>
+            <span fontFamily="寒蝉锦书宋" bold="false">构建</span>
+          </p>
+          <p textAlign="right" lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉锦书宋" bold="false">柔和表达</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="860.50" topLeftY="30.26" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(20, 13, 71, 1)" fontSize="12" fontFamily="思源黑体" bold="false">数字媒体</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="116" height="90" topLeftX="815.50" topLeftY="413.73" type="text">
+        <content verticalAlign="top" textType="title" fontSize="60" fontFamily="寒蝉锦书宋" color="rgba(20, 13, 71, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(20, 13, 71, 1)" fontSize="60" fontFamily="寒蝉锦书宋" bold="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <img src="FcmdbqitfoD5L5xIuY7ckZhVn6d" width="478.71" height="377.60" topLeftX="1423.47" topLeftY="-681.23">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img src="I3WAbcQIXo2qf0xltnOc4MJJnmd" width="412.07" height="412.07" topLeftX="0" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

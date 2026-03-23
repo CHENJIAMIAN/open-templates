@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/architecture-studio",
+    "family":  "webpage",
+    "name":  "architecture-studio",
+    "displayName":  "Architecture Studio",
+    "description":  "A portfolio-style website template for an architecture studio.",
+    "tags":  [
+                 "architecture",
+                 "portfolio",
+                 "studio"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/architecture-studio",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/architecture-studio",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/architecture-studio/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/architecture-studio/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

@@ -1,0 +1,39 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="409.22" height="101" topLeftX="50.28" topLeftY="63.98" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>
+          从繁杂里抽出一缕清新，做成
+          <span color="rgba(195, 169, 136, 1)">日常的仪式感。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="409.22" height="79" topLeftX="50.03" topLeftY="418.60" type="text">
+      <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+        <p>在繁杂的日程之外，我们都需要为自己留一小块安静的空间。那是让心绪沉淀的角落，让思考变得柔软的地方。也许只是一页干净的版式、一段平静的文字，就能让人获得短暂却珍贵的松弛感。</p>
+      </content>
+    </shape>
+    <shape width="256.01" height="23" topLeftX="50.03" topLeftY="388.77" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>以温柔为题，写给每天的小确幸</p>
+      </content>
+    </shape>
+    <img src="KGoJbEuOIoofhbxY407chVn9n9g" width="199.84" height="199.95" topLeftX="505" topLeftY="169.96" exposure="22">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="99.82" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <img src="POfZbHlaioMz1OxTTnTcUiagnHe" width="199.84" height="199.95" topLeftX="709.59" topLeftY="64.98" exposure="15">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="85.63" bottomOffset="14.19" presetHandlers="0"/>
+    </img>
+    <img src="TO0ab2IDLoapyBxWTatcpJI7nse" width="199.84" height="199.95" topLeftX="709.59" topLeftY="269.93" exposure="15">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="69.75" bottomOffset="30.07" presetHandlers="0"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

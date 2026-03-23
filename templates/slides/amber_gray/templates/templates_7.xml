@@ -1,0 +1,127 @@
+<slide>
+  <style/>
+  <data>
+    <img src="BRzabJVEnoFVugxYjfecvENxnVf" width="960" height="540" topLeftX="0" topLeftY="-557.94" alpha="0.35">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="OenpbA8o7on5p6x96lYct5Q5nFh" width="806.97" height="540" topLeftX="153.03" topLeftY="0">
+      <crop type="rect" leftOffset="0" rightOffset="153.03" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <shape width="646.02" height="540" topLeftX="-2.26" topLeftY="0" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(0, 0, 0, 1) 46%,rgba(0, 0, 0, 0) 100%)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="172.24" height="962.26" topLeftX="392.75" topLeftY="-27.25" rotation="270" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(0, 0, 0, 0) 100%)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="224" height="96" topLeftX="57.96" topLeftY="43.56" type="text">
+      <content fontSize="32" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.4" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="32">精准实验室检测</span>
+          <br/>
+          <span fontSize="32">赋能临床决策</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="332.15" height="50" topLeftX="57.96" topLeftY="142.56" type="text">
+      <content fontSize="11" fontFamily="思源黑体" color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">我们配备了达到国际生物安全标准的自动化检测流水线。通过严格的质控体系与样本全程追踪系统，我们确保每一份检验报告不仅具备速度，更具备辅助临床诊断的极高参考价值。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="332.15" height="50" topLeftX="57.96" topLeftY="424.36" type="text">
+      <content fontSize="11" fontFamily="思源黑体" color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>健康中心承诺：所有实验室设备均定期接受国家级校准，样本处理流程透明可追溯。我们坚持以科学严谨的态度，为您提供值得信赖的健康底数。</p>
+      </content>
+    </shape>
+    <shape width="133.18" height="48" topLeftX="57.96" topLeftY="229.08" type="text">
+      <content fontSize="30" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" fontSize="32" fontFamily="Libre Baskerville">￥40.00</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="171" height="30" topLeftX="219.12" topLeftY="238.08" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(155, 158, 162, 1)" fontSize="10">基础生化常规检测：涵盖肝肾功能及血糖筛查，最快 2 小时出具电子报告。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="143.84" height="48" topLeftX="57.96" topLeftY="285.50" type="text">
+      <content fontSize="32" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">￥128.00</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="171" height="30" topLeftX="219.12" topLeftY="293.24" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>免疫功能深度评估：精准分析免疫细胞活性，为亚健康人群提供防御预警。</p>
+      </content>
+    </shape>
+    <shape width="150.14" height="48" topLeftX="57.96" topLeftY="341.93" type="text">
+      <content fontSize="32" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">￥</span>
+          </strong>
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">3</span>
+          </strong>
+          <strong>
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">60.00</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="171" height="30" topLeftX="219.12" topLeftY="350.93" type="text">
+      <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>基因遗传风险筛查：针对常见慢性病易感基因进行深度测序与风险对标。</p>
+      </content>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="584.82" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="584.82" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="630.90" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="117.76" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="57.96" height="540.16" topLeftX="0" topLeftY="584.82" presetHandlers="0" flipX="true" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,1252 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>04</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GNuCboKqso30FKxc8IYcVb6Engc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540" height="540" topLeftX="420" topLeftY="0" alpha="0.44" type="ellipse">
+        <border color="linear-gradient(296deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.2) 50%,rgba(255, 255, 255, 0) 100%)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="540" height="540" topLeftX="0" topLeftY="0" alpha="0.44" type="ellipse">
+        <border color="linear-gradient(125deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.2) 49%,rgba(255, 255, 255, 0) 100%)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="507.98" height="42" topLeftX="226.01" topLeftY="221.30" type="text">
+        <content fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="30">数字孪生技术，赋能工业 4.0 升级之路</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="307.51" height="23" topLeftX="426.01" topLeftY="271.93" alpha="0.66" type="text">
+        <content fontSize="16" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="16">助力传统行业数字化、智能化、高效化转型</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="24" topLeftX="226.01" topLeftY="269.70" alpha="0.58" type="text">
+        <content fontSize="16" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16" fontFamily="寒蝉端黑体">2025 ©</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="309.98" startY="283.06" endX="411.88" endY="283.06" alpha="0.55">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="298" height="34" topLeftX="623.80" topLeftY="34.55" type="text">
+        <content fontSize="12" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p>前沿技术落地生根</p>
+          <p textAlign="right" lineSpacing="multiple:1.4">让创新不止于概念</p>
+        </content>
+      </shape>
+      <line startX="923.08" startY="28.55" endX="935.08" endY="28.55">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="929.08" startY="22.55" endX="929.08" endY="34.55">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="57" height="27" topLeftX="30.35" topLeftY="486.74" type="text">
+        <content fontSize="18" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p list="none" textAlign="left">
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="寒蝉端黑体" bold="false" italic="false" strikethrough="false" underline="false">12</span>
+            <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="寒蝉端黑体" bold="false" italic="false" strikethrough="false" underline="false"> 31</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="112" height="24" topLeftX="644.49" topLeftY="756.58" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="233" height="48.34" topLeftX="30.44" topLeftY="87.70" type="text">
+        <content fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(0, 0, 0, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="Noto Sans SC Medium" bold="false" italic="false" strikethrough="false" underline="false">目录</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="233" height="51" topLeftX="30.33" topLeftY="454.66" alpha="0.40" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(0, 0, 0, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">本报告提供相关政策框架、技术趋势与治理路径的基础信息，用于支持后续研究、分析与决策制定。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="439.79" startY="503.66" endX="928.13" endY="503.66" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="439.30" height="52.62" topLeftX="440.37" topLeftY="170.55" type="text">
+        <content fontSize="25" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>
+            <span fontSize="12">01</span>
+            <span fontSize="25">   连接数据、智能与人的更高维度</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="439.30" height="48.34" topLeftX="440.37" topLeftY="318.08" type="text">
+        <content fontSize="25" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">03</span>
+            <span fontSize="25">   用创新突破增长的天花板</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="439.30" height="48.34" topLeftX="440.27" topLeftY="245.50" type="text">
+        <content fontSize="25" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">02</span>
+            <span fontSize="25">   在技术与应用之间找到最优解</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="439.40" height="50.24" topLeftX="440.27" topLeftY="386.85" type="text">
+        <content fontSize="25" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">04</span>
+            <span fontSize="25">  </span>
+            <span fontSize="24"> 探索下一代智能化体验</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="439.40" height="50.24" topLeftX="440.27" topLeftY="461.33" type="text">
+        <content fontSize="25" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">05</span>
+            <span fontSize="25">   在不确定中创造确定的能力</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="77" height="18" topLeftX="855.51" topLeftY="26.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">产品手册</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="439.79" startY="431.09" endX="928.13" endY="431.09" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="439.79" startY="360.41" endX="928.13" endY="360.41" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="439.79" startY="287.84" endX="928.13" endY="287.84" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="439.79" startY="217.16" endX="928.13" endY="217.16" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="58" height="18" topLeftX="30.33" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">四代技术</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="18" topLeftX="103.16" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="90.84" startY="29.82" endX="90.84" endY="39.82">
+        <border color="rgba(197, 199, 200, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="HEttbI5cNoROmSxqN2LcvsW9nlf" width="324.83" height="400.79" topLeftX="603.07" topLeftY="106.98">
+        <crop type="rect" leftOffset="138.18" rightOffset="138.18" topOffset="0" bottomOffset="0" presetHandlers="7"/>
+      </img>
+      <line startX="30.09" startY="69.85" endX="927.90" endY="69.85" alpha="0.16">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="298.47" height="80.73" topLeftX="30.09" topLeftY="107.09" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            从算力到应用 
+            <br/>
+            全链路科技
+            <span color="rgba(128, 128, 128, 1)">解决方案</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="283" height="51" topLeftX="30.09" topLeftY="442.25" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p lineSpacing="multiple:1.4">万物互联的时代，没有孤立的个体，只有协同的生态。我们整合云计算、物联网、大数据技术，打通信息壁垒，实现数据互通。</p>
+        </content>
+      </shape>
+      <shape width="109" height="45" topLeftX="29.59" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" lineSpacing="multiple:1.3">
+          <p>
+            <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">物联网 + 云计算 </span>
+            <br/>
+            <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">开启万物智联新时代</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="248.59" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">数字转型</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="860.90" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">智胜未来</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="282.50" height="31.93" topLeftX="30.09" topLeftY="389.39" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>万物互联</p>
+        </content>
+      </shape>
+      <line startX="29.60" startY="426.60" endX="571.08" endY="426.60" alpha="0.16">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="156.40" height="21" topLeftX="403.03" topLeftY="481.77" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)">自然流畅，精炼结构</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="109" height="45" topLeftX="450.43" topLeftY="436.77" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="title" fontSize="30" fontFamily="寒蝉端黑体" color="rgba(0, 0, 0, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontFamily="寒蝉端黑体">62K</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="283" height="51" topLeftX="30.09" topLeftY="287.63" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" autoFit="shape-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(0, 0, 0, 1)">适配多种输出格式，确保色彩与质感一致。在滚动与切换中保持信息稳定，使重点始终清晰，在滚动与切换中保持信息稳定。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="282.50" height="31.93" topLeftX="30.09" topLeftY="234.77" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>算力革命</p>
+        </content>
+      </shape>
+      <line startX="29.60" startY="271.97" endX="571.58" endY="271.97" alpha="0.16">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="157" height="17" topLeftX="403.03" topLeftY="327.14" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">强调操作反馈与节奏</p>
+        </content>
+      </shape>
+      <shape width="109" height="45" topLeftX="451.03" topLeftY="282.14" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="title" fontSize="30" fontFamily="寒蝉端黑体" color="rgba(0, 0, 0, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontFamily="寒蝉端黑体">232K</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="KSQdbbPhtoW0AmxaPx2cCduOnAb" width="542.12" height="962.54" topLeftX="210.21" topLeftY="-210.70" rotation="90">
+        <crop type="rect" leftOffset="584.53" rightOffset="584.53" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <line startX="479.50" startY="-0.50" endX="480.50" endY="247.08" alpha="0.20">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="479.50" startY="292.92" endX="480.50" endY="540.50" alpha="0.20">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="960" startY="270" endX="500.50" endY="270" alpha="0.20">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="459" startY="270" endX="-0.50" endY="270" alpha="0.20">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="8" height="8" topLeftX="476" topLeftY="266" alpha="0.60" type="ellipse">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="400" height="84" topLeftX="29.94" topLeftY="26.22" type="text">
+        <content fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">技术革新的浪潮已至，每一次突破都在</span>
+            <span color="rgba(158, 159, 172, 1)">重构未来的边界。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="327" height="54" topLeftX="607.67" topLeftY="458.38" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="right" autoFit="shape-auto-fit">
+          <p>从第一台计算机的诞生到 AI 大模型的普及，人类的科技探索从未止步。当下，云计算的普及、算力的跃升、数据的爆发，正为各行业带来前所未有的发展机遇。</p>
+        </content>
+      </shape>
+      <shape width="18" height="18" topLeftX="47.94" topLeftY="496.38" alpha="0.50" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="67" height="24" topLeftX="78.02" topLeftY="492.38" type="text">
+        <content fontSize="16" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16" fontFamily="寒蝉端黑体">2025 ©</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="18" height="18" topLeftX="29.94" topLeftY="496.38" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="KfkMblpXAo3Lpax6S71czGeNndf" width="960" height="298.56" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="142.79" bottomOffset="98.65" presetHandlers="0"/>
+      </img>
+      <shape width="457" height="42" topLeftX="30.09" topLeftY="207.83" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="left">从算力到应用 全链路科技解决方案</p>
+        </content>
+      </shape>
+      <shape width="307" height="16" topLeftX="30.09" topLeftY="183.15" alpha="0.55" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">以算力为核，以数据为翼，驱动产业迈向智能新纪元</p>
+        </content>
+      </shape>
+      <shape width="283" height="68" topLeftX="650.90" topLeftY="438.50" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>万物互联的时代，没有孤立的个体，只有协同的生态。我们整合云计算、物联网、大数据技术，打通信息壁垒，实现数据互通，为产业升级注入源源不断的动力。</p>
+        </content>
+      </shape>
+      <shape width="282.50" height="31.93" topLeftX="650.90" topLeftY="403.95" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>让科技成果 惠及千行百业</p>
+        </content>
+      </shape>
+      <shape width="96" height="18" topLeftX="30.09" topLeftY="488.50" type="text">
+        <content fontSize="12" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>创新・突破・引领</p>
+        </content>
+      </shape>
+      <shape width="325" height="84" topLeftX="30.09" topLeftY="332.80" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)">聚焦人工智能、云计算</span>
+            <span color="rgba(128, 128, 128, 1)">与物联网融合创新</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="631.64" startY="407.61" endX="631.64" endY="505.61" alpha="0.16">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <line startX="912.23" startY="38.58" endX="933.56" endY="38.58">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="922.90" startY="28.76" endX="922.90" endY="48.40">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="391.76" height="131.18" topLeftX="30.33" topLeftY="70.23" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3">
+          <p lineSpacing="multiple:1.3">
+            <strong>
+              <span fontSize="30">多变与跨领域</span>
+            </strong>
+            <strong>
+              <span color="rgba(128, 128, 128, 1)" fontSize="30">融合的趋势</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <line startX="34.91" startY="371.83" endX="932.51" endY="371.83" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="35.41" startY="265" endX="35.41" endY="372.33" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="142.57" height="24.16" topLeftX="47.49" topLeftY="263.17" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="10">2024/07</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="254.47" startY="370.08" endX="254.47" endY="482.08" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="471.09" startY="265.55" endX="471.09" endY="372.89" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="684.50" startY="371.33" endX="684.50" endY="483.33" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="29.84" topLeftY="365.01" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="47.49" topLeftY="287.33" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <strong>需求洞察</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="124.42" height="47.81" topLeftX="47.49" topLeftY="313.94" alpha="0.50" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>通过调研明确技术目标，并识别最具潜力的核心问题。</p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="266.93" topLeftY="384.83" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="10">2024/09</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="266.93" topLeftY="408.99" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>方案构建</p>
+        </content>
+      </shape>
+      <shape width="124.42" height="47.81" topLeftX="266.93" topLeftY="435.61" alpha="0.50" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>基于需求提出初步技术方案，形成可执行的系统设计思路。</p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="483.17" topLeftY="265.25" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="10">2025/01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="483.17" topLeftY="289.41" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>模型验证</p>
+        </content>
+      </shape>
+      <shape width="124.42" height="47.81" topLeftX="483.17" topLeftY="316.02" alpha="0.50" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>在实验或小规模场景中进行验证，以评估技术可行性与稳定性。</p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="696.58" topLeftY="388.07" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="10">2025/08</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.57" height="24.16" topLeftX="696.58" topLeftY="412.23" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>部署与优化</p>
+        </content>
+      </shape>
+      <shape width="124.42" height="47.81" topLeftX="696.58" topLeftY="438.85" alpha="0.50" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>推动技术在真实环境落地，并根据反馈持续迭代改进。</p>
+        </content>
+      </shape>
+      <shape width="362.35" height="48.09" topLeftX="564.54" topLeftY="126.75" alpha="0.50" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="right">
+          <p textAlign="right">
+            <span fontSize="10">当前科技发展呈现加速、多变与跨领域融合的趋势。</span>
+          </p>
+          <p textAlign="right">
+            <span fontSize="10">在此背景下，技术应用范围不断扩大，涉及产业与公共秩序。</span>
+          </p>
+          <p textAlign="right">
+            <span fontSize="10">本部分内容可用于补充数据、案例或现状描述。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="248.91" topLeftY="366.27" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="465.44" topLeftY="366.27" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="678.94" topLeftY="366.27" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="77" height="18" topLeftX="855.51" topLeftY="26.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">产品手册</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="18" topLeftX="30.33" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">四代技术</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="18" topLeftX="103.16" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="90.84" startY="29.82" endX="90.84" endY="39.82">
+        <border color="rgba(197, 199, 200, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="474.01" height="48.95" topLeftX="30.49" topLeftY="79.07" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true">
+          <p>
+            打造面向未来的
+            <span color="rgba(128, 128, 128, 1)">数字化基础设施</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="147.79" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>终端设备：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="182.28" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>计算平台：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="216.78" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>集成生态：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="251.27" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>数据中心：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="285.76" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>轻量装置：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="320.25" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>交互和应用终端：</p>
+        </content>
+      </shape>
+      <shape width="124.98" height="24.16" topLeftX="30.34" topLeftY="386.29" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>后端服务：</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="148.79" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>智能终端A</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="183.28" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>边缘节点A</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.88" topLeftY="184.24" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>云端节点B</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="412.12" topLeftY="184.24" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>运算模块C</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="526.37" topLeftY="184.24" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>高性能单元D</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="217.78" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>合作平台A </p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.88" topLeftY="253.54" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>开放接口B</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="252.27" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>数据集群A </p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="286.76" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>本地节点A</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.88" topLeftY="287.40" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>本地节点B</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="412.12" topLeftY="252.75" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>便携装置C </p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="321.25" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>交互屏A</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.88" topLeftY="321.25" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>交互屏B</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="412.12" topLeftY="321.25" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>移动界面C</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="526.37" topLeftY="321.25" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>触控模块D</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="640.62" topLeftY="321.25" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>运维单元D</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="182.38" topLeftY="387.29" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>核心服务A</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.63" topLeftY="387.29" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>核心服务B</p>
+        </content>
+      </shape>
+      <shape width="432.69" height="88.75" topLeftX="29.59" topLeftY="445.91" alpha="0.50" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>数字化不只是形式更新，而是一种底层逻辑的重写。通过标准化的数据、可扩展的架构和清晰的模型，我们得以使复杂问题可计算、可预测，从而带来更稳健的业务增长动力。</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="183.63" topLeftY="354.02" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>便携装置E</p>
+        </content>
+      </shape>
+      <shape width="440" height="88.75" topLeftX="487" topLeftY="445.91" alpha="0.50" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>技术不仅解决问题，也定义了问题本身的边界。在新一代智能体系中，我们更加关注交互效率、响应速度和用户路径，以确保用户与系统之间的沟通更加自然、可靠并富有一致性。</p>
+        </content>
+      </shape>
+      <shape width="100.30" height="19.99" topLeftX="297.88" topLeftY="148.79" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>智能终端B</p>
+        </content>
+      </shape>
+      <shape width="77" height="18" topLeftX="855.51" topLeftY="26.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">产品手册</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="18" topLeftX="30.33" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">四代技术</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="18" topLeftX="103.16" topLeftY="25.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="90.84" startY="29.82" endX="90.84" endY="39.82">
+        <border color="rgba(197, 199, 200, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="IEgbbBGYro9QMSxpBIvcAc5Rnwc" width="699.36" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="92.12" rightOffset="72.53" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="424.06" height="52.33" topLeftX="30.33" topLeftY="456.46" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>面向未来的数字化基础设施</p>
+        </content>
+      </shape>
+      <shape width="578.80" height="50.79" topLeftX="30.33" topLeftY="409.14" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">本节用于展示与本主题相关的技术趋势，例如人工智能、大数据、自动化、生物科技等。</span>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">可在此处添加技术原理简介、应用场景说明，以及对社会带来的潜在影响。</span>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="279.77" height="77.01" topLeftX="627.13" topLeftY="105.57" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>随着算法能力的提升，产品不再只是工具，而是能够主动学习和进化的系统。通过智能推荐、自动化流程和数据分析，我们正在构建一个能够自我优化的生态，让体验更加精准、顺畅、高效。</p>
+        </content>
+      </shape>
+      <shape width="279.77" height="48.27" topLeftX="627.13" topLeftY="458.52" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">这些趋势共同构成当前技术变革的核心动力，为后续治理与政策制定奠定方向基础。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="627.13" topLeftY="202.72" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="769.89" topLeftY="202.72" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="769.89" topLeftY="302.44" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="108" height="72" topLeftX="641.51" topLeftY="214.05" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">人工智能（AI）</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">推动自动化进程，预测分析与智能决策的发展。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="108" height="72" topLeftX="784.69" topLeftY="214.05" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12">大数据</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">支持海量信息整合，增强大模型的基础分析能力。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="627.13" topLeftY="302.44" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="108" height="72" topLeftX="641.72" topLeftY="312.94" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">自动化系统</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">提升流程效率，降低人工操作带来的不稳定性。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="108" height="72" topLeftX="784.69" topLeftY="312.94" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12">生物科技</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">在医疗与材料科学领域突破性应用，加快研究进展。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="279.77" height="29.40" topLeftX="627.13" topLeftY="66.22" type="text">
+        <content fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span fontSize="18" fontFamily="Noto Sans SC Medium">用技术语言重写商业逻辑</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="LRMwb9ByWoKwz7xd4FwcSe2Jnue" width="397.83" height="540" topLeftX="562.17" topLeftY="0" contrast="3" saturation="19">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="969" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(23, 23, 23, 1) 61%,rgba(7, 7, 7, 0) 79%,rgba(3, 3, 3, 0) 91%,rgba(0, 0, 0, 0) 100%)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="46" height="15" topLeftX="32.33" topLeftY="25.76" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="10">四代技术</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="46" height="15" topLeftX="88.84" topLeftY="25.76" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="10">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="31.83" startY="339.91" endX="610.63" endY="339.91" alpha="0.24">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="31.83" startY="411.35" endX="610.63" endY="411.35" alpha="0.24">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="31.83" startY="482.79" endX="610.63" endY="482.79" alpha="0.24">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="168" height="66" topLeftX="32.33" topLeftY="270" type="text">
+        <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(255, 255, 255, 1)" fontSize="44">96%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="168" height="66" topLeftX="32.33" topLeftY="341.10" type="text">
+        <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(255, 255, 255, 1)" fontSize="44">23%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="168" height="66" topLeftX="32.33" topLeftY="412.54" type="text">
+        <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(255, 255, 255, 1)" fontSize="44">77%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="79.44" height="24.14" topLeftX="233.55" topLeftY="305.58" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="14">系统可用性</span>
+            </strong>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="167.33" height="28.33" topLeftX="396.68" topLeftY="300.89" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="10">系统在高负载条件下仍能保持稳定运行，确保关键服务不中断。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="93.72" height="24.14" topLeftX="233.55" topLeftY="376.68" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="14">延迟优化幅度</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="93.72" height="24.14" topLeftX="233.55" topLeftY="449.50" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="14">自动化覆盖率</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="167.33" height="28.33" topLeftX="396.68" topLeftY="372.49" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">核心处理流程的延迟大幅下降，显著提升任务响应速度与整体效率。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="167.33" height="28.33" topLeftX="396.34" topLeftY="442.88" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">主要模块已完成自动化部署，</span>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)">实现更高一致性与更低操作成本。</span>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="577.79" height="36" topLeftX="32.33" topLeftY="188.88" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>从探索新技术到实现场景落地，真正的挑战在于如何将复杂性隐藏在简单的界面背后。我们希望通过这套方法论，让用户看到的永远是清晰而直接的结果，而把系统的重量交给技术本身承担。</p>
+        </content>
+      </shape>
+      <shape width="473.26" height="50.53" topLeftX="32.33" topLeftY="129.76" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">架构升级的必要性</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="46" height="15" topLeftX="886.51" topLeftY="26.32" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="10">产品手册</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="80.84" startY="28.82" endX="80.84" endY="37.82">
+        <border color="rgba(197, 199, 200, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="86.27" height="24.16" topLeftX="656.94" topLeftY="112.80" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>顶部外壳模块</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="95.19" topLeftX="30.33" topLeftY="41.77" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3">
+          <p>
+            从概念到落地的
+            <span color="rgba(128, 128, 128, 1)">过程</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="184.91" height="58.92" topLeftX="31.33" topLeftY="449.41" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left">
+            <span fontSize="10">当前科技发展呈现加速、多变与跨领域融合的趋势。在此背景下，技术应用范围不断扩大，涉及产业与公共秩序。本部分内容可用于补充数据、案例或现状描述。</span>
+          </p>
+        </content>
+      </shape>
+      <img src="ZJrabeQdEoZ0RhxDdRmcHnP9nbe" width="334.81" height="476.66" topLeftX="280.08" topLeftY="31.67">
+        <crop type="rect" leftOffset="10.42" rightOffset="6.30" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <line startX="591.71" startY="136.96" endX="926.52" endY="136.96" alpha="0.20">
+        <border width="1"/>
+      </line>
+      <line startX="563.27" startY="215.62" endX="926.52" endY="215.62" alpha="0.20">
+        <border width="1"/>
+      </line>
+      <line startX="592.21" startY="296.34" endX="926.52" endY="296.34" alpha="0.20">
+        <border width="1"/>
+      </line>
+      <line startX="609.64" startY="377.06" endX="926.52" endY="377.06" alpha="0.20">
+        <border width="1"/>
+      </line>
+      <shape width="86.27" height="24.16" topLeftX="656.94" topLeftY="191.46" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>信号感应层</p>
+        </content>
+      </shape>
+      <shape width="86.27" height="24.16" topLeftX="656.94" topLeftY="272.81" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>核心功能组件</p>
+        </content>
+      </shape>
+      <shape width="86.27" height="24.16" topLeftX="656.94" topLeftY="352.90" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>散热或隔离层</p>
+        </content>
+      </shape>
+      <shape width="166.90" height="39.79" topLeftX="759.11" topLeftY="136.96" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>
+            <span fontSize="10">用于保护内部结构，并提供基础交互与外部视觉识别。</span>
+          </p>
+          <p>
+            <br/>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="166.90" height="39.79" topLeftX="759.11" topLeftY="215.62" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="10">承担设备的感应、识别或触控功能，实现输入信号的初步采集。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="166.90" height="39.79" topLeftX="759.11" topLeftY="296.34" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>
+            <span fontSize="10">包含主要运行逻辑，用于处理核心任务与关键操作指令。</span>
+          </p>
+          <p>
+            <br/>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="167" height="60" topLeftX="759.11" topLeftY="377.06" alpha="0.60" type="text">
+        <content fontSize="7" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="10">用于调节内部温度或隔离不同结构，提升整体运行安全性。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="84" height="66" topLeftX="842.57" topLeftY="445.72" alpha="0.50" type="text">
+        <content fontSize="44" fontFamily="寒蝉端黑体" color="rgba(0, 0, 0, 1)" bold="true" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(0, 0, 0, 1)" fontSize="44">4.0</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="92.96" height="19.99" topLeftX="32.33" topLeftY="223.13" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>智能终端A</p>
+        </content>
+      </shape>
+      <shape width="92.96" height="19.99" topLeftX="32.33" topLeftY="163.96" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>边缘节点A</p>
+        </content>
+      </shape>
+      <shape width="92.96" height="19.99" topLeftX="135.43" topLeftY="163.96" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>云端节点B</p>
+        </content>
+      </shape>
+      <shape width="92.96" height="19.99" topLeftX="32.33" topLeftY="194.41" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>合作平台A </p>
+        </content>
+      </shape>
+      <shape width="92.96" height="19.99" topLeftX="135.43" topLeftY="194.41" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 236, 236, 1)"/>
+        </fill>
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p>开放接口B</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

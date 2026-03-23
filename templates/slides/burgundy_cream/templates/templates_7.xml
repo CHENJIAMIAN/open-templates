@@ -1,0 +1,68 @@
+<slide>
+  <style/>
+  <data>
+    <img src="SGnFbidZIovnb1xsS8Ec1TbRnoc" width="405" height="540" topLeftX="0" topLeftY="0" alpha="0.93" exposure="27" saturation="-41" temperature="-8">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+    </img>
+    <shape width="193.59" height="80.73" topLeftX="468.81" topLeftY="56.84" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(20, 13, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <span fontFamily="寒蝉锦书宋" bold="false">不同场景下</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontFamily="寒蝉锦书宋" bold="false">使用方式</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="18" topLeftX="458.13" topLeftY="367.24" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="true" textAlign="center" autoFit="shape-auto-fit">
+        <p>
+          <strong>信息呈现</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="18" topLeftX="577.46" topLeftY="367.24" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="true" textAlign="center" autoFit="shape-auto-fit">
+        <p>
+          <strong>视觉平衡</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="18" topLeftX="707.47" topLeftY="367.24" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="true" textAlign="center" autoFit="shape-auto-fit">
+        <p>
+          <strong>内容适配</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="429.20" height="51" topLeftX="468.81" topLeftY="423.04" alpha="0.45" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>页面依据模块化结构呈现内容，使信息在不同场景下保持清晰。留白用于调节阅读节奏，提升整体观感与舒适度。所有元素遵循统一的间距与排版方式。页面依据模块化结构呈现内容，使信息在不同场景下保持清晰。</p>
+      </content>
+    </shape>
+    <shape width="45.63" height="45.63" topLeftX="468.81" topLeftY="309.13" alpha="0.35" type="ellipse">
+      <border color="rgba(43, 47, 54, 1)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <icon width="25" height="25" topLeftX="479.13" topLeftY="319.45" iconType="iconpark/Health/traditional-chinese-medicine.svg">
+      <border color="rgba(20, 13, 71, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="45.63" height="45.63" topLeftX="588.14" topLeftY="309.13" alpha="0.35" type="ellipse">
+      <border color="rgba(43, 47, 54, 1)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <icon width="25" height="25" topLeftX="598.46" topLeftY="319.45" iconType="iconpark/Base/female.svg">
+      <border color="rgba(20, 13, 71, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="45.63" height="45.63" topLeftX="718.16" topLeftY="309.13" alpha="0.35" type="ellipse">
+      <border color="rgba(43, 47, 54, 1)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <icon width="25" height="25" topLeftX="728.47" topLeftY="319.45" iconType="iconpark/Abstract/two-ellipses.svg">
+      <border color="rgba(20, 13, 71, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

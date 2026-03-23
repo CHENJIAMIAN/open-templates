@@ -1,0 +1,265 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>候选场地对比分析</p>
+        </content>
+      </shape>
+      <table id="buL" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="5" width="171.92"/>
+        </colgroup>
+        <tr height="54.61">
+          <td id="bua">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">场地类型</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buU">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">推荐场地</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bPm">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">核心参数</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVS">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">档期情况</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVF">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">优劣势分析</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="116.59">
+          <td id="buM">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">上海地标建筑</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWW">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">船厂1862</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWA">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1000㎡剧场，800个固定座位</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPX">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1月31日可预订</span>
+              </p>
+            </content>
+          </td>
+          <td id="bVB">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：空间开阔，工业风设计独特；需确认临时加座可行性</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="116.59">
+          <td id="bVZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">高端酒店</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buh">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">苏宁宝利嘉酒店</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">700㎡宴会厅，序厅可作红毯区</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWf">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">2月1日有档期</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPw">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：配套齐全，房间折扣1800元/晚；面积略紧凑</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="85.60">
+          <td id="bVl">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">文化场馆</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVv">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">艺仓美术馆4F</span>
+              </p>
+            </content>
+          </td>
+          <td id="buk">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">展览空间+黄浦江畔红毯区</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWV">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1月31日可预订</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWz">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：江景视野；需额外增加10万场地费及搭建费</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

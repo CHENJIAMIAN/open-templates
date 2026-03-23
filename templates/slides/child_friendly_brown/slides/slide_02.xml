@@ -1,0 +1,73 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="144.80" endX="914.24" endY="144.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="D10lbruhgoLsdIxayVvco80rnCb" width="405" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+      </img>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="70.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="171.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场概况与发展现状</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="171.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="223.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>产品类型与技术创新</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="223.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="275.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>用户需求与消费行为</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="275.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="327.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场竞争格局</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="327.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="380.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>政策环境与未来展望</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="380.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

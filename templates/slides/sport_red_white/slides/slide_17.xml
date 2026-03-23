@@ -1,0 +1,56 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>环保材料应用与推广</p>
+        </content>
+      </shape>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">规模化应用绿色材料</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>使用回收塑料瓶制成的环保纱线，累计转化超1.9亿个塑料瓶用于服装生产</p>
+        </content>
+      </shape>
+      <img src="PzEGbbhcnop9Hsxx8ycc4g0mnLb" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">推广生物基跑鞋</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用可再生植物原料（如蓖麻油）制作中底，销量突破千万双</p>
+        </content>
+      </shape>
+      <img src="FEyDbQdB4oWTpOxmEwucAJgBn5Q" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">研发全降解运动鞋</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在工业堆肥环境下降解率超80%，达到行业领先标准，减少运动装备对环境的长期影响</p>
+        </content>
+      </shape>
+      <img src="Rxa8bPTf1o7jmKxHaiycmGoIn2g" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

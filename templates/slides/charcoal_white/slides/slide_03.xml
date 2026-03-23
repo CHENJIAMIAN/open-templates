@@ -1,0 +1,108 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 238, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540.61" height="540" topLeftX="419.39" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <chart width="451.71" height="396.18" topLeftX="463.19" topLeftY="105.52" id="bau">
+        <chartPlotArea>
+          <chartPlot type="column">
+            <chartExtra/>
+            <chartLabels color="rgb(255, 255, 255)" position="outside" series="true" bold="true"/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(64, 64, 64)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(207, 242, 103)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="x">
+              <chartAxisLine/>
+              <chartLabel fontSize="10" color="rgb(161, 161, 161)"/>
+            </chartAxis>
+            <chartAxis type="y" position="left"/>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="单位算力支撑的模型训练 Token 量">2024,2025,,</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="Q1">1.2,5.5,,</chartField>
+            <chartField name="Q2">1.8,7.8,,</chartField>
+            <chartField name="">,,,</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle color="rgb(255, 255, 255)">2023 第二季度大学学费</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(0, 0, 0)"/>
+          <chartFont color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(0, 0, 0)"/>
+        </chartStyle>
+      </chart>
+      <shape width="403" height="48" topLeftX="488.19" topLeftY="58.52" alpha="0.80" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16">单位算力支撑的模型训练</span>
+            <br/>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16">Token 量（万亿 Token/EFLOPS）</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="230" height="45" topLeftX="47.62" topLeftY="100.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">大模型算力核心增长</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="70" height="60" topLeftX="47.62" topLeftY="177.10" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="40">12.8</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="24" topLeftX="124.62" topLeftY="201.60" type="text">
+        <content fontSize="16" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="16">EFLOPS</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="310" height="54" topLeftX="47.62" topLeftY="234.10" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">Q2 新增算力集群规模，算力资源分散、调度杂乱，会大幅拖慢模型迭代速度 —— 把算力集群统一管理起来，效率才能翻倍。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="74" height="60" topLeftX="47.62" topLeftY="322.94" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="40">41%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="310" height="36" topLeftX="47.62" topLeftY="377.94" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">Q3 算力支撑效率同比提升。统一调度 + 资源复用的模式，让相同算力能支撑更多模型训练 / 推理任务。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

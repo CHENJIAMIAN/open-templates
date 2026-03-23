@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术创新驱动策略</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>材料实验室建设</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>建立材料实验室，研发生物基材料（如蓖麻油衍生鞋面科技），兼顾性能升级与环保属性</p>
+      </content>
+    </shape>
+    <img src="XEoTbpzAsoy0O0xg8ukcFmzanag" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>无水染色工艺突破</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>突破无水染色工艺，降低生产环节水耗与能耗，如单件产品节水40升，相当于成年人20天饮水量</p>
+      </content>
+    </shape>
+    <img src="MkgFbr8SLoywppxDfmZcINrpnhe" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能穿戴技术开发</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>开发智能穿戴技术，通过传感器实时监测运动数据，为产品迭代提供用户反馈</p>
+      </content>
+    </shape>
+    <img src="WDzSbEcXVoRwncxUhyAcvWVRnDg" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

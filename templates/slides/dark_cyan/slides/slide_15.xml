@@ -1,0 +1,105 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(38, 42, 50, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险应对策略</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">风险分散</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="12" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过多元化布局实现，企业应在墨西哥、越南、印度多地设厂，避免单一市场依赖；同时拓展欧美高端市场与东南亚大众市场，平衡收入来源。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">合规管理</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聘请当地律师处理法律事务，建立合规审查机制，确保业务运营符合当地法律法规。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">数据安全</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>措施包括本地化服务器存储用户数据，符合GDPR等数据隐私法规要求。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">供应链韧性</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="13" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">建设需加强与供应商合作，发展备选供应商，建立安全库存，华勤技术构建的"1+5+5"全球化布局（上海总部、国内5大研发中心、全球5大制造基地）增强了应对风险的能力。</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="580.92" topLeftY="75.76" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="446.02" topLeftY="181.75" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="330.29" topLeftY="301.57" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="255.31" topLeftY="432.97" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

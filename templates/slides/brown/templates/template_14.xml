@@ -1,0 +1,107 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(32, 32, 32, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="349.31" height="97.94" topLeftX="305.34" topLeftY="244.46" type="ellipse">
+      <border color="rgba(255, 196, 127, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="263.64" height="85.18" topLeftX="348.18" topLeftY="177.42" alpha="0.75" type="ellipse">
+      <border color="rgba(255, 196, 127, 1)" dashArray="long-dash" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="136" height="44.51" topLeftX="412" topLeftY="126.98" alpha="0.50" type="ellipse">
+      <border color="rgba(255, 196, 127, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="263.64" height="85.18" topLeftX="348.18" topLeftY="323.62" alpha="0.75" type="ellipse">
+      <border color="rgba(255, 196, 127, 1)" dashArray="long-dash" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="136" height="45" topLeftX="412" topLeftY="414.27" alpha="0.50" type="ellipse">
+      <border color="rgba(255, 196, 127, 1)" width="1"/>
+      <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <line startX="619.86" startY="215.49" endX="654.86" endY="216.49" alpha="0.24">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <startArrow type="solid-circle"/>
+    </line>
+    <line startX="619.86" startY="365.64" endX="654.86" endY="366.64" alpha="0.24">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <startArrow type="solid-circle"/>
+    </line>
+    <line startX="334.64" startY="436.93" endX="395.64" endY="436.93" alpha="0.24">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <endArrow type="solid-circle"/>
+    </line>
+    <line startX="279.24" startY="292.88" endX="300.24" endY="292.88" alpha="0.24">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <endArrow type="solid-circle"/>
+    </line>
+    <line startX="331.64" startY="149.74" endX="398.64" endY="149.74" alpha="0.24">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <endArrow type="solid-circle"/>
+    </line>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.65" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>职业道德与行为规范</p>
+      </content>
+    </shape>
+    <shape width="276.41" height="32" topLeftX="46" topLeftY="119.98" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">恪守职业道德</p>
+      </content>
+    </shape>
+    <shape width="276.19" height="90" topLeftX="46" topLeftY="148.98" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>员工应恪守职业道德，保持廉洁自律，不得利用职务之便谋取不正当利益。</p>
+      </content>
+    </shape>
+    <shape width="239.73" height="32" topLeftX="33" topLeftY="261.13" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">职业形象要求</p>
+      </content>
+    </shape>
+    <shape width="239.73" height="90" topLeftX="33" topLeftY="289.63" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>在对外交往中，应保持专业、礼貌的职业形象，言行举止符合公司规范。</p>
+      </content>
+    </shape>
+    <shape width="280.19" height="32" topLeftX="46" topLeftY="402.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">工作场所规范</p>
+      </content>
+    </shape>
+    <shape width="280.19" height="84" topLeftX="46" topLeftY="430.77" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>严禁在工作场所发生争吵、冲突或其他不文明行为。</p>
+      </content>
+    </shape>
+    <shape width="263.64" height="32" topLeftX="662.27" topLeftY="167.98" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">禁止不当行为</p>
+      </content>
+    </shape>
+    <shape width="263.43" height="113" topLeftX="662.27" topLeftY="196.48" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>禁止收受客户或合作伙伴的回扣、礼品，严禁从事与公司利益相冲突的兼职活动。</p>
+      </content>
+    </shape>
+    <shape width="263.64" height="32" topLeftX="662.27" topLeftY="334.63" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">同事关系准则</p>
+      </content>
+    </shape>
+    <shape width="263.64" height="113" topLeftX="662.27" topLeftY="363.13" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>同事之间应相互尊重、团结协作，营造积极向上的工作氛围。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

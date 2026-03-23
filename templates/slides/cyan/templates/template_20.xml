@@ -1,0 +1,77 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(242, 248, 250, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>外部资源整合与合作策略</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="48" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>战略合作体系构建</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="48" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>与3家知名室内设计公司达成排他合作，为其项目提供定制家具解决方案；与2家房产中介建立渠道合作，向新业主推荐产品；与1家智能家居品牌跨界联名，开发整合产品。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="270" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>供应链资源优化</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="270" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>与FSC认证木材供应商签订长期协议，确保材料质量和成本优势；与区域物流服务商合作，实现48小时配送承诺；与安装服务商网络建立合作，覆盖主要城市安装需求。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="492" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>资源整合创新模式</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="492" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>"设计+产品+服务"一体化解决方案，为用户提供从设计咨询到产品安装的全流程服务；"空间改造联盟"整合设计、施工、家具等资源，提供一站式服务。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="714" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>外部合作评估机制</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="714" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>每季度对合作伙伴进行绩效评估，重点考察服务质量、响应速度和合作效益，建立动态调整机制。</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="48" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="270" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="492" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="714" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

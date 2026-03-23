@@ -1,0 +1,52 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(237, 244, 246, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="480" startY="115.57" endX="481" endY="496.63" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="390" height="36" topLeftX="55.33" topLeftY="366.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>单位经济模型</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="55.18" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">以专业版客户为例：客户获取成本（CAC）30万元（含销售佣金、行业展会、Demo开发）；客户生命周期价值（LTV）120万元（平均合作4年，年付费30万元，续费率85%）；LTV/CAC=4，高于行业平均水平（3），具备规模化潜力。</p>
+      </content>
+    </shape>
+    <img src="Z57RbRHGyowg0sxuubdcn6llnph" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="5"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>单位经济与渠道策略</p>
+      </content>
+    </shape>
+    <shape width="390" height="36" topLeftX="514.95" topLeftY="366.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>渠道策略</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="514.81" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">线上（入驻阿里云、华为云市场，分成比例3:7）+线下（与100家工业自动化集成商合作，渠道佣金25%）+直销（聚焦重点行业TOP 50客户，配备10人直销团队）。已与某省级制造业协会达成合作，获得200家企业试点资源。</p>
+      </content>
+    </shape>
+    <img src="MPgJbfumloSApKxpvdrcWJZ1njh" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="5"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

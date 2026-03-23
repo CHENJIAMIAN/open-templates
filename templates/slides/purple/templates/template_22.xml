@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="280" height="46" topLeftX="48.07" topLeftY="125.64" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="340" topLeftY="125.64" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="632.07" topLeftY="125.64" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="188.52" topLeftY="323.23" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="480.44" topLeftY="323.23" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>OKR周期规划与时间管理</p>
+      </content>
+    </shape>
+    <shape width="236" height="124" topLeftX="64.55" topLeftY="177.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>通常以季度为核心周期，匹配销售业务的季度冲刺节奏</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="64.55" topLeftY="130.64" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>周期设定</p>
+      </content>
+    </shape>
+    <shape width="236" height="124" topLeftX="356.48" topLeftY="177.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>完成OKR制定与全员对齐，明确目标与KR</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="356.48" topLeftY="130.64" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>第1周</p>
+      </content>
+    </shape>
+    <shape width="236" height="124" topLeftX="648.55" topLeftY="177.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>执行期，每周跟踪进度，每月调整优先级</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="648.55" topLeftY="130.64" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>第2-10周</p>
+      </content>
+    </shape>
+    <shape width="236" height="130" topLeftX="205" topLeftY="374.79" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>复盘评估，总结达成情况与改进方向</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="205" topLeftY="328.23" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>第11-12周</p>
+      </content>
+    </shape>
+    <shape width="236" height="130" topLeftX="496.92" topLeftY="374.79" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>80%精力投入核心KR，20%应对突发任务，避免因临时需求打乱OKR节奏</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="496.92" topLeftY="328.23" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>时间分配</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

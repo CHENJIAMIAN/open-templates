@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Industry Research Cover</title>
+  <desc id="desc">Cover illustration for an open templates industry research example.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="36" fill="url(#bg)"/>
+  <rect x="92" y="94" width="156" height="18" rx="9" fill="url(#line)"/>
+  <text x="92" y="192" fill="#f8fafc" font-size="60" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Industry Research</text>
+  <text x="92" y="246" fill="#cbd5e1" font-size="26" font-family="Segoe UI, Arial, sans-serif">Open source AI template ecosystems and showcase strategy</text>
+  <g fill="none" stroke="#94a3b8" stroke-width="2" opacity="0.75">
+    <rect x="92" y="320" width="1016" height="280" rx="28" fill="#0f172a" opacity="0.72"/>
+    <path d="M140 536 L280 480 L420 500 L560 432 L700 448 L840 374 L980 392" stroke="url(#line)" stroke-width="6" fill="none"/>
+    <path d="M140 536 L280 480 L420 500 L560 432 L700 448 L840 374 L980 392 L980 560 L140 560 Z" fill="#22c55e" opacity="0.08" stroke="none"/>
+    <line x1="140" y1="360" x2="980" y2="360"/>
+    <line x1="140" y1="430" x2="980" y2="430"/>
+    <line x1="140" y1="500" x2="980" y2="500"/>
+  </g>
+  <g fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif">
+    <text x="140" y="608" font-size="18">Market shape</text>
+    <text x="386" y="608" font-size="18">Template families</text>
+    <text x="622" y="608" font-size="18">Showcase coverage</text>
+    <text x="858" y="608" font-size="18">Release path</text>
+  </g>
+  <text x="92" y="664" fill="#94a3b8" font-size="20" font-family="Segoe UI, Arial, sans-serif">Synthetic example for the open-templates repository</text>
+</svg>

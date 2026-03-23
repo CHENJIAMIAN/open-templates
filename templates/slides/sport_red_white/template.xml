@@ -1,0 +1,1233 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>运动品牌企业文化：从价值观到行动的全链路构建</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)" fontSize="30"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)" fontSize="29"/>
+      <body fontColor="rgba(31, 35, 41, 1)" fontSize="18"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GoicbRZZ7okoqoxlgpQcOIbinLg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="705.45" height="106.09" topLeftX="50.88" topLeftY="410.22" type="text">
+        <content textType="headline" fontSize="64" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业文化宣传</p>
+        </content>
+      </shape>
+      <shape width="112.85" height="24" topLeftX="51.88" topLeftY="320.93" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="112.85" height="31.89" topLeftX="51.88" topLeftY="345.02" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="819.77" topLeftY="427.22" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="131.36" height="31.89" topLeftX="775.83" topLeftY="450.66" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GPqJbQJ37o28rIx7Vt1cV3W9npB" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464" height="458.59" topLeftX="39.92" topLeftY="39.71" presetHandlers="20" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <line startX="78.83" startY="146.54" endX="470.39" endY="146.54" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="352.86" height="38" topLeftX="117.53" topLeftY="171.19" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>品牌价值观：运动精神的基因解码</p>
+        </content>
+      </shape>
+      <shape width="391.06" height="45" topLeftX="79.33" topLeftY="79.67" type="text">
+        <content textType="title" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="79.33" topLeftY="174.19" alpha="0.60" type="text">
+        <content textType="caption" fontSize="26" fontFamily="DouYinMeiHao" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.86" height="38" topLeftX="117.53" topLeftY="229.21" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工文化：让运动精神融入日常</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="79.33" topLeftY="232.21" alpha="0.60" type="text">
+        <content textType="caption" fontSize="26" fontFamily="DouYinMeiHao" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.86" height="38" topLeftX="117.53" topLeftY="287.24" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>创新研发：以科技赋能运动体验</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="79.33" topLeftY="290.24" alpha="0.60" type="text">
+        <content textType="caption" fontSize="26" fontFamily="DouYinMeiHao" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.86" height="38" topLeftX="117.53" topLeftY="345.26" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会责任：可持续发展的实践路径</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="79.33" topLeftY="348.26" alpha="0.60" type="text">
+        <content textType="caption" fontSize="26" fontFamily="DouYinMeiHao" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="352.86" height="38" topLeftX="117.53" topLeftY="403.28" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>品牌叙事：连接用户的情感共鸣</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="79.33" topLeftY="406.28" alpha="0.60" type="text">
+        <content textType="caption" fontSize="26" fontFamily="DouYinMeiHao" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VUuubefrBo5dgdxfiO5cGyienFb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+        <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>品牌价值观</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.26" type="custom">
+        <border color="rgba(161, 161, 161, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(217, 118, 113, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(217, 118, 113, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(217, 118, 113, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(217, 118, 113, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(217, 118, 113, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(217, 118, 113, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="Barlow Condensed" color="rgba(217, 118, 113, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(217, 118, 113, 1)" fontSize="30" fontFamily="Barlow Condensed" bold="false" italic="false" strikethrough="false" underline="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="Barlow Condensed" color="rgba(217, 118, 113, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(217, 118, 113, 1)" fontSize="30" fontFamily="Barlow Condensed" bold="false" italic="false" strikethrough="false" underline="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="Barlow Condensed" color="rgba(217, 118, 113, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(217, 118, 113, 1)" fontSize="30" fontFamily="Barlow Condensed" bold="false" italic="false" strikethrough="false" underline="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="864" height="54" topLeftX="48" topLeftY="47.91" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>核心价值观提炼方法论</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>行业坐标分析</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="31.35" topLeftY="347.41" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>明确运动领域消费者核心需求，如专业性能提升、健康生活方式、社群归属感等</p>
+        </content>
+      </shape>
+      <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>企业基因回溯</p>
+        </content>
+      </shape>
+      <shape width="280" height="115.26" topLeftX="340" topLeftY="294.45" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>从品牌创立初心、技术突破节点中提炼独特价值主张</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>用户情感共鸣挖掘</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="639" topLeftY="223.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>将运动精神转化为普适性语言，如自我超越、坚持热爱等</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.10" topLeftY="204.57" iconType="iconpark/Base/equalizer.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="204.84" rotation="0" iconType="iconpark/Office/find-one.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.78" topLeftY="336.29" rotation="0" iconType="iconpark/Health/safe-retrieval.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="336.56" rotation="0" iconType="iconpark/Travel/local.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>价值观具象化表达体系</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>功能价值</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>聚焦科技赋能运动表现，如“以创新科技突破身体极限”</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>表达体系设计</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>设计Slogan创作逻辑，将价值观与用户成长轨迹绑定；搭配动态视觉符号系统，如跑步时的流线型LOGO变体，强化记忆点。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>情感价值</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>强调个体成长与自我实现，如“每一次迈步都是对自我的重新定义”</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会价值</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>关注环保责任与社群共建，如“让运动成为连接人与自然的纽带”</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="104.19" height="222.73" topLeftX="470.68" topLeftY="210.37" rotation="45" path="M0,0 L3.7527233450977606,0.18927068071872485 C60.16957868409219,5.91221600483322 104.1948471011565,53.50368639088874 104.1948471011565,111.3660780356142 C104.1948471011565,169.22846968033966 60.16957868409219,216.8199400663952 3.7527233450977606,222.54279556104566 L0,222.7321560712284 L0,182.2309252813423 L6.6977904735633365,181.20983376367272 C39.221512717004,174.56209410733268 63.687110380359975,145.81792322908782 63.687110380359975,111.3660780356142 C63.687110380359975,76.91423284214058 39.221512717004,48.169972134431696 6.6977904735633365,41.522232478091624 L0,40.50114096042208 L0,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="105.45" height="222.51" topLeftX="383.48" topLeftY="123.95" rotation="45" path="M105.44666921479809,0 L105.44666921479809,40.72580444997003 L100.80199449938436,41.41057445429791 C67.17585137052004,48.05831411063797 41.88092497443265,76.80221550049072 41.88092497443265,111.25379120557226 C41.88092497443265,145.70527708118976 67.17585137052004,174.4491784710425 100.80199449938436,181.09691812738257 L105.44666921479809,181.7817779611745 L105.44666921479809,222.5075824111445 L103.84692979930303,222.42952060689936 C45.51762623809293,216.70666511224888 0,169.11564387351353 0,111.25379120557226 C0,53.39193853763099 45.51762623809293,5.800917298895632 103.84692979930303,0.07797197478113582 L105.44666921479809,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="119" height="119" topLeftX="419.98" topLeftY="218.88" rotation="45" alpha="0.28" type="ellipse">
+        <border color="rgba(217, 118, 113, 1)" dashArray="dash" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <shape width="290.84" height="35" topLeftX="47.80" topLeftY="152.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>员工培训体系</p>
+        </content>
+      </shape>
+      <shape width="290.75" height="120" topLeftX="47.80" topLeftY="185.19" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>入职培训融入价值观实践案例（如产品研发背后的运动精神故事），设置“价值观实践勋章”激励日常行为</p>
+        </content>
+      </shape>
+      <shape width="291.74" height="35" topLeftX="620.06" topLeftY="303.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品叙事设计</p>
+        </content>
+      </shape>
+      <shape width="291.50" height="120" topLeftX="620.06" topLeftY="336.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在鞋服吊牌、包装中嵌入价值观文案（如“这双鞋陪你征服第100次晨跑”），强化用户体验与品牌精神的联结</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>价值观渗透策略</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="XOj6bO5PNodLncx5xlscNbw6nLh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+        <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工文化</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="868.57" height="45" topLeftX="47.55" topLeftY="47.71" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>运动化办公生态构建</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="117.20" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>专业运动空间设置</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="150.60" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>打造“运动+办公”融合场景：设置专业运动空间，如24小时健身房、瑜伽室、跑步机办公桌，鼓励员工在工作间隙参与体育锻炼</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="372.19" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>内部运动挑战赛举办</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="405.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>定期举办内部运动挑战赛，如季度马拉松、篮球联赛，将运动数据与团队绩效激励挂钩，形成“运动即工作方式”的文化氛围</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="244.76" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>健康激励计划推行</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="278.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推行健康激励计划，员工完成5公里跑步或1小时运动可获得积分，兑换品牌产品或额外假期</p>
+        </content>
+      </shape>
+      <img src="Dx8abaQsEoKS97x1FfScYZwSnsh" width="494" height="371.38" topLeftX="47.55" topLeftY="118.20">
+        <crop type="rect" leftOffset="0.59" rightOffset="0.59" topOffset="0" bottomOffset="0" presetHandlers="29"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>人才培养体系设计</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>校招层面</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>启动“未来之星计划”，联合体育院校开设定向培养课程，融入运动科学与品牌理念</p>
+        </content>
+      </shape>
+      <img src="XFHybbB16o4K6exbtVzcumDAnqc" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>内部培养</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>搭建“运动学园”学习平台，提供在线课程与线下工作坊，内容涵盖产品技术、运动训练、团队管理等</p>
+        </content>
+      </shape>
+      <img src="Ji3hbdBSvoAlh7x4qTwciv6wnrR" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>导师与轮岗</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>实施导师制与轮岗计划，资深员工带领新人参与跨部门项目（如产品测试、赛事筹备），加速文化传承与能力提升</p>
+        </content>
+      </shape>
+      <img src="JXTIbwImDoxHQXxi52OcC2ulnob" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队凝聚力运动活动</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>多元化运动社团体系</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>成立跑步、篮球、骑行等超30个专业社团，配备认证教练提供免费指导，年均开展活动近千场</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>家庭运动日</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>邀请员工家属参与亲子运动项目，增强团队归属感，将运动升华为团队文化纽带</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>极限挑战活动</p>
+        </content>
+      </shape>
+      <shape width="280" height="134.70" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>组织戈壁徒步、雪山攀登等极限挑战，锤炼员工韧性与协作能力</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="151.29" alpha="0.80" type="diamond">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="228.67" alpha="0.50" type="diamond">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="309.58" alpha="0.30" type="diamond">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="141.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>运动突破奖</p>
+        </content>
+      </shape>
+      <shape width="538.93" height="60" topLeftX="382.39" topLeftY="172.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>奖励在马拉松中打破个人最佳成绩的员工</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="243.54" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>运动精神金牌</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="274.54" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>授予工作满5年、10年、20年的长期贡献者</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="343.82" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>季度价值观践行者评选</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="374.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>表彰在创新、协作、可持续等维度表现突出的员工，获奖案例纳入内部培训教材，形成“榜样引领”的良性循环</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工激励与认可机制</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Fdd9byVmGoaGalx50YgcgsNQnnb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+        <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>创新研发</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术创新驱动策略</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>材料实验室建设</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立材料实验室，研发生物基材料（如蓖麻油衍生鞋面科技），兼顾性能升级与环保属性</p>
+        </content>
+      </shape>
+      <img src="XEoTbpzAsoy0O0xg8ukcFmzanag" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>无水染色工艺突破</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>突破无水染色工艺，降低生产环节水耗与能耗，如单件产品节水40升，相当于成年人20天饮水量</p>
+        </content>
+      </shape>
+      <img src="MkgFbr8SLoywppxDfmZcINrpnhe" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能穿戴技术开发</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>开发智能穿戴技术，通过传感器实时监测运动数据，为产品迭代提供用户反馈</p>
+        </content>
+      </shape>
+      <img src="WDzSbEcXVoRwncxUhyAcvWVRnDg" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(217, 118, 113, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品设计理念与流程</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>运动员共创模式</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>邀请专业运动员参与产品测试，如长跑运动员反馈中底弹性需求，优化缓震科技</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>产品叙事策略</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>在产品叙事中融入运动故事，如吊牌标注“这双鞋的中底科技源自1000小时跑者测试”，强化技术可信度</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>场景化设计</p>
+        </content>
+      </shape>
+      <shape width="280" height="134.70" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>针对不同运动场景（如马拉松、越野跑、日常训练）开发专用装备，细化功能差异</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 0.922)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="265.51" height="2" topLeftX="48.39" topLeftY="253.29" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="347.30" topLeftY="213.29" presetHandlers="0" alpha="0.60" type="rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="646.76" topLeftY="173.29" presetHandlers="0" alpha="0.30" type="rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="266" height="180" topLeftX="48.39" topLeftY="309" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>发起“我的运动装备”UGC征集活动，邀请用户分享装备改进建议，优质创意纳入研发计划</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="48.39" topLeftY="273" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>UGC征集活动</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="47.86" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户共创研发机制</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="347.30" topLeftY="269" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>设立运动实验室开放日，定期邀请用户参观研发过程，参与新材料触感测试、鞋型试穿，增强参与感</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="347.30" topLeftY="233" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>运动实验室开放日</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="646.76" topLeftY="229" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>与运动社群合作开展“极限环境测试”，如在高海拔、高温环境下验证产品性能，收集极端场景数据</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="646.64" topLeftY="193" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>极限环境测试</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="JUjeb2p8aoMRHIxqQutcU11Onqd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+        <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会责任</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>环保材料应用与推广</p>
+        </content>
+      </shape>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">规模化应用绿色材料</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>使用回收塑料瓶制成的环保纱线，累计转化超1.9亿个塑料瓶用于服装生产</p>
+        </content>
+      </shape>
+      <img src="PzEGbbhcnop9Hsxx8ycc4g0mnLb" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">推广生物基跑鞋</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用可再生植物原料（如蓖麻油）制作中底，销量突破千万双</p>
+        </content>
+      </shape>
+      <img src="FEyDbQdB4oWTpOxmEwucAJgBn5Q" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">研发全降解运动鞋</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在工业堆肥环境下降解率超80%，达到行业领先标准，减少运动装备对环境的长期影响</p>
+        </content>
+      </shape>
+      <img src="Rxa8bPTf1o7jmKxHaiycmGoIn2g" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>循环经济体系构建</p>
+        </content>
+      </shape>
+      <img src="Ul7YbcIbNoZZJExSsvdcoC32nxh" width="404.90" height="540" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="0.05" rightOffset="0.05" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品全生命周期管理</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>启动“旧鞋新生”计划，通过线下门店与线上小程序回收废旧运动鞋，经专业技术处理后用于建造环保运动场</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>包装减量化</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用可降解材料制作鞋盒，减少印刷与胶水使用</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品租赁模式</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>针对专业运动装备（如滑雪板、骑行服）提供短期租赁服务，延长产品使用周期</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Fdd9byVmGoaGalx50YgcgsNQnnb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+        <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>品牌叙事</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="424" height="52.55" topLeftX="48.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="138.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <shape width="424" height="52.55" topLeftX="488.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户情感共鸣策略</p>
+        </content>
+      </shape>
+      <shape width="380" height="177.36" topLeftX="70.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>发起“我的运动时刻”故事征集，分享普通人通过运动实现自我超越的经历（如产后妈妈通过跑步重拾健康、职场人用骑行缓解压力）</p>
+        </content>
+      </shape>
+      <shape width="380" height="36" topLeftX="70.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦个体成长与突破</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="147.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用“我们”叙事视角</p>
+        </content>
+      </shape>
+      <shape width="380" height="177.36" topLeftX="510.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>短视频记录不同运动场景下的用户状态（如晨跑者的城市剪影、健身房的汗水瞬间），传递“运动即生活方式”理念</p>
+        </content>
+      </shape>
+      <shape width="380" height="36" topLeftX="510.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>打造场景化内容矩阵</p>
+        </content>
+      </shape>
+      <shape width="820" height="71" topLeftX="70.12" topLeftY="196.54" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在品牌传播中使用“我们都在运动中寻找更好的自己”，拉近与用户距离</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>文化传播矩阵搭建</p>
+        </content>
+      </shape>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">线上话题挑战赛</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>发起话题挑战赛（如#我的运动战袍#），鼓励用户分享运动装备穿搭与故事</p>
+        </content>
+      </shape>
+      <img src="QASTbkM95okUqexbKpkc4pPrntf" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">线下快闪体验店</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>打造“运动精神体验馆”快闪店，设置互动装置（如模拟登山步道、VR运动游戏），传递品牌价值观</p>
+        </content>
+      </shape>
+      <img src="YRZdbdv1Aorh5ZxmYcjc76VtnjE" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">产品实验室直播</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>举办产品实验室开放日直播，工程师现场讲解设计理念，实时解答用户问题，增强技术透明度</p>
+        </content>
+      </shape>
+      <img src="RtyEbMj2QoY6Q1xxZSqcbZz0nsk" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="QOzlbn7cuo8KZmxuJudcWAzinte" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="695.36" height="106.09" topLeftX="51.88" topLeftY="413.22" type="text">
+        <content textType="headline" fontSize="64" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢关注</p>
+        </content>
+      </shape>
+      <shape width="112.85" height="24" topLeftX="51.88" topLeftY="320.93" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="112.85" height="31.89" topLeftX="51.88" topLeftY="345.02" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="819.77" topLeftY="427.22" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="112.85" height="31.89" topLeftX="794.34" topLeftY="450.66" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,100 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="863" height="1" topLeftX="49" topLeftY="223" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="863" height="1" topLeftX="49" topLeftY="326" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="1" topLeftX="49" topLeftY="427" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="30.62" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能扭矩分配系统开发</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="138.31" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>50ms</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="140.31" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>系统响应时间控制在50ms以内</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="175.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>系统响应时间</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="239.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>40%</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="241.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>冰雪路面操控稳定性提升40%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="276.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>操控稳定性提升</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="339.96" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>12万公里</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="341.96" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>累计完成12万公里可靠性测试</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="376.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>可靠性测试</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="440.78" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>15个版本</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="442.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>算法迭代15个版本</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="477.80" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>算法迭代</p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46" topLeftX="47.93" topLeftY="82.62" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2023年负责智能扭矩分配系统开发，基于路面识别的动态扭矩分配算法，通过多传感器融合（摄像头+毫米波雷达+惯导）实现路面附着系数实时估算，获企业年度创新金奖，最终通过ISO 26262 ASIL-D功能安全认证。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

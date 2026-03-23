@@ -1,0 +1,35 @@
+{
+    "id":  "miaoda/scrapbook_journal",
+    "family":  "miaoda",
+    "name":  "scrapbook_journal",
+    "displayName":  "Scrapbook Journal",
+    "description":  "UI style prompt template for a Scrapbook Journal aesthetic.",
+    "tags":  [
+                 "scrapbook",
+                 "journal",
+                 "editorial",
+                 "typography",
+                 "organic",
+                 "paper",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/scrapbook_journal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/scrapbook_journal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/scrapbook_journal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/scrapbook_journal/gallery-1.png"
+                                ]
+                }
+}

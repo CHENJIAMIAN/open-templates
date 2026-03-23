@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="MOTpbWOQRolvMrxytbmctPypnfh" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="844.75" height="96" topLeftX="56.32" topLeftY="392.70" type="text">
+      <content textType="title" fontSize="66" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(255, 235, 203, 0.961) 0%,rgba(217, 255, 206, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>谢谢</p>
+      </content>
+    </shape>
+    <shape width="174.14" height="20" topLeftX="56.32" topLeftY="44.93" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="174.14" height="28" topLeftX="56.32" topLeftY="68.93" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="292.85" height="20" topLeftX="610.22" topLeftY="44.93" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(232, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="292.85" height="28" topLeftX="610.22" topLeftY="68.93" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(232, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>2026-01-09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

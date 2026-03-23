@@ -1,0 +1,87 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(237, 240, 242, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="82" height="1.03" topLeftX="10.51" topLeftY="146.49" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="82" height="1.03" topLeftX="10.51" topLeftY="250.49" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="82" height="1.03" topLeftX="10.51" topLeftY="354.49" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="82" height="1.03" topLeftX="10.51" topLeftY="460.49" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="461.12" height="48" topLeftX="48.47" topLeftY="42.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>企业级应用场景分析</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="135.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>工业场景包括远程设备检修、AR作业指导</p>
+      </content>
+    </shape>
+    <shape width="446" height="36" topLeftX="63.82" topLeftY="100.72" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>工业制造</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="239.86" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>医疗场景涵盖手术实时影像叠加、远程会诊</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="205.41" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>医疗</p>
+      </content>
+    </shape>
+    <img src="D2OSbZIV2o7yr9xK3zEcCu8nn4f" width="404" height="540" topLeftX="556" topLeftY="0">
+      <crop type="rect" leftOffset="0.50" rightOffset="0.50" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="345" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>教育场景则实现沉浸式实训</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="310.55" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>教育培训</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="450.14" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全球工业应用智能眼镜市场预计2025年达6.584亿美元，2025-2032年CAGR约24.5%，2032年将扩大至30.526亿美元</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="415.68" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场预测</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

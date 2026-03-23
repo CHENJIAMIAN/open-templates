@@ -1,0 +1,77 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="48" height="34" topLeftX="383.33" topLeftY="53.67" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="48" height="34" topLeftX="383.33" topLeftY="170.48" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="48" height="34" topLeftX="383.33" topLeftY="283.50" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="48" height="34" topLeftX="383.33" topLeftY="396.19" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="72" topLeftX="433.48" topLeftY="82.74" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" autoFit="normal-auto-fit">
+        <p>需提前确定调研要解决的核心问题</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="72" topLeftX="433.48" topLeftY="198.05" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" autoFit="normal-auto-fit">
+        <p>根据调研目标选择定量或定性方法</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="72" topLeftX="433.48" topLeftY="312.07" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" autoFit="normal-auto-fit">
+        <p>避免主观偏见影响结果解读</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="72" topLeftX="433.48" topLeftY="425.09" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" autoFit="normal-auto-fit">
+        <p>确保调研结论能直接指导产品实践</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="30" topLeftX="433.48" topLeftY="396.62" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>可操作性</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="30" topLeftX="433.48" topLeftY="53.78" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>目标明确性</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="30" topLeftX="433.48" topLeftY="170.59" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>方法适配性</p>
+      </content>
+    </shape>
+    <shape width="466.41" height="30" topLeftX="433.48" topLeftY="283.61" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>数据客观性</p>
+      </content>
+    </shape>
+    <shape width="312.98" height="161.42" topLeftX="48.32" topLeftY="47.96" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>科学调研的基本原则</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

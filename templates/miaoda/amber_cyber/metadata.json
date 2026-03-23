@@ -1,0 +1,36 @@
+{
+    "id":  "miaoda/amber_cyber",
+    "family":  "miaoda",
+    "name":  "amber_cyber",
+    "displayName":  "Amber Cyber",
+    "description":  "UI style prompt template for a Amber Cyber aesthetic.",
+    "tags":  [
+                 "amber",
+                 "cyber",
+                 "neon",
+                 "cyberpunk",
+                 "futuristic",
+                 "warm",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/amber_cyber",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/amber_cyber",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/amber_cyber/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/amber_cyber/gallery-1.png"
+                                ]
+                }
+}

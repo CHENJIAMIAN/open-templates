@@ -1,0 +1,94 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(241, 246, 251, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" type="ellipse">
+      <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+      <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="395.10" topLeftY="204.57" iconType="iconpark/Base/equalizer.svg">
+      <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" type="ellipse">
+      <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+      <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="204.84" rotation="0" iconType="iconpark/Office/find-one.svg">
+      <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" type="ellipse">
+      <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+      <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="395.78" topLeftY="336.29" rotation="0" iconType="iconpark/Health/safe-retrieval.svg">
+      <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" type="ellipse">
+      <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+      <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="336.56" rotation="0" iconType="iconpark/Travel/local.svg">
+      <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>持续学习与培训经历</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>技术迭代能力体现</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+        <p>持续学习体现技术迭代能力，需列举针对性培训并说明学习成果。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>学习成果示例</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+        <p>通过AWS云服务培训，获得AWS Certified DevOps Engineer认证（编号6）。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心培训课程</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Linux系统管理进阶课程、云计算基础培训、AI运维（AIOps）实战训练营（编号1、6）。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业趋势补充培训</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>低代码开发平台（搭贝）培训，掌握设备管理应用快速构建（编号9）；Service Mesh技术专题培训，深化云原生架构认知（编号8）。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,22 @@
+{
+  "id": "lark_doc/industry_research",
+  "family": "lark_doc",
+  "name": "industry_research",
+  "displayName": "Industry Research",
+  "description": "Deep research template for producing structured industry or sector reports.",
+  "tags": ["research", "industry", "analysis", "reporting"],
+  "sourcePath": "templates/lark_doc/industry_research",
+  "entryFiles": ["industry_research.md"],
+  "examplePath": "examples/lark_doc/industry_research",
+  "preview": {
+    "cover": "showcase/assets/lark_doc/industry_research/cover.svg"
+  },
+  "initMode": "copy-file",
+  "visibility": "public",
+  "outputType": "markdown",
+  "artifactHints": [
+    "Define the target industry, geography, and time window.",
+    "Collect market, competition, technology, and policy evidence.",
+    "Write a sourced report with clear conclusions and caveats."
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/luxe_chronicle",
+    "family":  "miaoda",
+    "name":  "luxe_chronicle",
+    "displayName":  "Luxe Chronicle",
+    "description":  "UI style prompt template for a Luxe Chronicle aesthetic.",
+    "tags":  [
+                 "luxe",
+                 "chronicle",
+                 "editorial",
+                 "typography",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/luxe_chronicle",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/luxe_chronicle",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/luxe_chronicle/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/luxe_chronicle/gallery-1.png"
+                                ]
+                }
+}

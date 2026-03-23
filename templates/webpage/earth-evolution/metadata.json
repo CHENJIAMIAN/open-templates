@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/earth-evolution",
+    "family":  "webpage",
+    "name":  "earth-evolution",
+    "displayName":  "Earth Evolution",
+    "description":  "A science and education template for visual storytelling about Earth.",
+    "tags":  [
+                 "science",
+                 "education",
+                 "timeline"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/earth-evolution",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/earth-evolution",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/earth-evolution/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/earth-evolution/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

@@ -1,0 +1,35 @@
+{
+    "id":  "slides/image_mode_paper_craft_village",
+    "family":  "slides",
+    "name":  "image_mode_paper_craft_village",
+    "displayName":  "Image Mode Paper Craft Village",
+    "description":  "Presentation slide template for Image Mode Paper Craft Village.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "paper",
+                 "craft",
+                 "village"
+             ],
+    "sourcePath":  "templates/slides/image_mode_paper_craft_village",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_paper_craft_village",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_paper_craft_village/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_paper_craft_village/cover.png"
+                                ]
+                }
+}

@@ -1,0 +1,62 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中期创新突破计划（1-3年）</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="48.96" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能电驱系统</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="48.96" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主导技术路线规划，推动"碳化硅全域应用"项目落地，电机控制器效率提升至99%，整车能耗降低10%</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="348.47" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>分布式驱动技术</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="348.47" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>布局技术研发，完成轮毂电机系统可行性研究，突破传动效率与NVH性能瓶颈</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="647.98" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI能量管理系统</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="647.98" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立智能系统，通过用户行为学习实现续航里程预测精度提升至95%，充电策略自适应优化</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="48" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="348.47" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="647.98" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

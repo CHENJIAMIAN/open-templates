@@ -1,0 +1,82 @@
+<slide>
+    <style/>
+    <data>
+      <img src="UBN6bjwM1o9mFRxL06ecPDNbnnf" width="408.64" height="540" topLeftX="551.36" topLeftY="0" exposure="20" contrast="1" saturation="-30" temperature="-39">
+        <crop type="rect" leftOffset="18.89" rightOffset="3.09" topOffset="0" bottomOffset="105.92" presetHandlers="0"/>
+      </img>
+      <shape width="404" height="60" topLeftX="44.92" topLeftY="78.19" type="text">
+        <content fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="40" bold="false">「清醒 · 自然 · 克制」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="167" height="108" topLeftX="68.58" topLeftY="236.69" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">通过弱化装饰与情绪表达，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">让视觉聚焦于光影、节奏与真实触感，保持理性而不冰冷的观看状态。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <line startX="67.21" startY="342.45" endX="455.41" endY="342.45" alpha="0.49">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <line startX="260.37" startY="202.15" endX="260.37" endY="342.45" alpha="0.49">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <icon width="25" height="25" topLeftX="68.58" topLeftY="201.65" iconType="iconpark/Health/detection.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="285.68" topLeftY="200.65" iconType="iconpark/Travel/pyramid-one.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="68.58" topLeftY="375.49" iconType="iconpark/Others/sleaves.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="170" height="90" topLeftX="285.68" topLeftY="236.69" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">以植物形态与自然结构为灵感来源，呈现未经修饰的生长轨迹，让设计顺应环境，而非主导环境的作用。</span>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="384" height="36" topLeftX="71.32" topLeftY="409.89" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">避免过度表达与视觉负担，通过简化元素与层级关系，构建通透、耐看的整体秩序。呈现未经修饰的生长轨迹，让设计顺应环境。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="126" height="26" topLeftX="103.40" topLeftY="201.65" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" bold="false">回归感知本身</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="157" height="26" topLeftX="321.12" topLeftY="201.65" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">尊重生长变化</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="126" height="26" topLeftX="106.40" topLeftY="375.49" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">留白胜于堆叠</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,36 @@
+{
+    "id":  "webpage/transformer-tutorial",
+    "family":  "webpage",
+    "name":  "transformer-tutorial",
+    "displayName":  "Transformer Tutorial",
+    "description":  "An educational webpage template for explaining transformer models.",
+    "tags":  [
+                 "education",
+                 "ai",
+                 "transformer",
+                 "tutorial"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/transformer-tutorial",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/transformer-tutorial",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/transformer-tutorial/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/transformer-tutorial/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

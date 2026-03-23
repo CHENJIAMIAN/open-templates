@@ -1,0 +1,77 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(26, 26, 26, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" alpha="0.34" type="ellipse">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+      <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" alpha="0.34" type="ellipse">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+      <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" alpha="0.34" type="ellipse">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+      <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>给汽车行业新人的"避坑指南"：从我的教训中汲取经验</p>
+      </content>
+    </shape>
+    <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>前三年别急于"选方向"，先练"基本功"</p>
+      </content>
+    </shape>
+    <shape width="290.16" height="130" topLeftX="47.84" topLeftY="184.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">有新人入职就想专攻智能驾驶，却连最基础的汽车动力学都没吃透，结果在仿真分析时频频出错。汽车工程是"底层决定上层"的学科，材料力学、机械设计、控制理论这些基本功，是未来跨界的基础——就像盖房子，地基不牢，再高的楼也会塌。</p>
+      </content>
+    </shape>
+    <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="11" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>学会"向上管理"：不是拍马屁，而是"让领导成为你的资源"</p>
+      </content>
+    </shape>
+    <shape width="290.16" height="130" topLeftX="47.84" topLeftY="377.77" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">新人常怕打扰领导，遇到问题自己死磕，其实领导掌握更多信息和资源——比如我刚工作时遇到一个底盘异响问题，自己琢磨了一周没头绪，后来鼓起勇气找领导汇报（说清楚"异响出现在10-20km/h低速转向时""影响试生产进度""需要经验丰富的师傅一起排查"），领导立刻联系了车间的资深技师，当天就找到了原因（转向节球头润滑不足）。</p>
+      </content>
+    </shape>
+    <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>主动暴露短板，而不是隐藏短板</p>
+      </content>
+    </shape>
+    <shape width="280" height="150" topLeftX="631.80" topLeftY="241.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>我曾因不懂电池管理，在项目中刻意回避相关工作，结果新能源浪潮来临时差点被淘汰；后来主动申请参与电池集成项目，虽然初期频频碰壁（比如第一次拆电池包时差点碰坏电芯），但补齐了能力短板，反而在后来的新能源车型项目中成为核心成员。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

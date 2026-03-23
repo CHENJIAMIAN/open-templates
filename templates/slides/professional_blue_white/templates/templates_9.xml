@@ -1,0 +1,89 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270" presetHandlers="16" alpha="0.90" type="round1rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0" presetHandlers="16" alpha="0.70" type="round1rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90" presetHandlers="16" alpha="0.50" type="round1rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>焦点小组实施要点</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="48" topLeftY="172.69" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+        <p>讨论主题</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="48" topLeftY="204.19" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>明确讨论主题并提前准备议题</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="48" topLeftY="316.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+        <p>主持人安排</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="48" topLeftY="347.77" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>安排专业主持人把控节奏</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>参与者选择</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>选择背景异质的参与者以获取多元视角</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>记录整理</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+      <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全程录音并整理关键观点</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

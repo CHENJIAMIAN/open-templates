@@ -1,0 +1,92 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="112.16" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="123.16" topLeftY="168.46" iconType="iconpark/Character/check-one.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="375.45" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="386.45" topLeftY="168.46" iconType="iconpark/Abstract/two-ellipses.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="638.73" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="649.73" topLeftY="168.46" iconType="iconpark/Abstract/circular-connection.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="820" height="45" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>活动形式分类与选择</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="111.34" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如攀岩、溯溪、露营等，适合在自然环境中锻炼身体、增强团队合作能力</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="111.34" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>户外拓展</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="374.97" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如猜谜语、团队拼图、角色扮演等，适合天气不佳或场地有限的情况</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="374.97" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>室内游戏</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="638.60" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过专业培训师针对团队问题进行沟通技巧、领导力等针对性培训</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="638.60" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队建设培训</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

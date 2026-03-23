@@ -1,0 +1,32 @@
+{
+  "id": "slides/warm_cream",
+  "family": "slides",
+  "name": "warm_cream",
+  "displayName": "Warm Cream",
+  "description": "Presentation slide template for Warm Cream.",
+  "tags": [
+    "slides",
+    "presentation",
+    "warm",
+    "cream"
+  ],
+  "sourcePath": "templates/slides/warm_cream",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/warm_cream",
+  "preview": {
+    "cover": "showcase/assets/slides/warm_cream/cover.png",
+    "gallery": [
+      "showcase/assets/slides/warm_cream/cover.png"
+    ]
+  }
+}

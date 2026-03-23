@@ -1,0 +1,273 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>潜在风险及应对措施</p>
+        </content>
+      </shape>
+      <table id="bVb" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="4" width="214.90"/>
+        </colgroup>
+        <tr height="51.36">
+          <td id="bPI">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">风险类型</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVL">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">可能性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVE">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">影响程度</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buC">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">应对措施</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWP">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">场地容量不足</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWx">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNV">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">提前确认加座方案，预留50个临时座位</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bNW">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">设备故障（LED屏）</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWO">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">低</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWr">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWo">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">准备备用投影设备，技术团队全程值守</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWQ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">突发医疗事件</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bNP">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">低</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNN">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">现场设置医疗点，配备AED及常用药品</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWc">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">极端天气影响交通</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWp">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWn">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWs">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">提前3天发布天气提醒，协调5辆应急大巴</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

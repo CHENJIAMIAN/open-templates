@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="XxUNbSwN6onPGwxXpqxcrkJNnoe" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="104.15" height="75" topLeftX="780.48" topLeftY="62.32" type="text">
+      <content textType="title" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="859.72" height="75" topLeftX="52.68" topLeftY="419.57" type="text">
+      <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">销售团队OKR实施与管理全流程</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

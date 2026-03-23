@@ -1,0 +1,69 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42" height="42" topLeftX="50.04" topLeftY="168.85" iconType="iconpark/Charts/chart-proportion.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="272.04" topLeftY="168.85" iconType="iconpark/Connect/connection-point-two.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="494.04" topLeftY="168.85" iconType="iconpark/Health/pure-natural.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="716.04" topLeftY="168.85" iconType="iconpark/Edit/minus-the-bottom.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>公司发展历程与愿景使命</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="48" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>发展理念</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="48" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司自成立以来，始终秉持创新、诚信、卓越的发展理念，历经多年行业沉淀，已成长为领域内具有重要影响力的企业。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="270" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司愿景</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="270" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成为行业标杆，为客户创造持续价值，为员工搭建成长平台，为社会贡献专业力量。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="492" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业使命</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="492" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过技术创新和优质服务，推动行业进步，实现可持续发展。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="714" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>意义价值</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="714" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>了解公司的发展历程有助于新员工更好地理解企业价值观和发展方向，建立对公司的认同感和归属感。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

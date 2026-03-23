@@ -1,0 +1,62 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="325.52" startY="136.73" endX="325.52" endY="465.14" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="634.52" startY="136.73" endX="634.52" endY="465.14" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>物资采购与场地布置</p>
+      </content>
+    </shape>
+    <shape width="234" height="36" topLeftX="53.77" topLeftY="293.19" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>物资采购</p>
+      </content>
+    </shape>
+    <shape width="234" height="138" topLeftX="53.77" topLeftY="328.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>根据活动需求购买相应的道具和装备，户外拓展需采购攀岩装备、溯溪装备等，室内游戏需准备猜谜语道具、团队拼图等，选择质量可靠、价格合理的供应商。</p>
+      </content>
+    </shape>
+    <img src="KjC4b0ELxoEv4bxT6wGcF38Qn0g" width="245.55" height="138" topLeftX="48" topLeftY="137.99">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+    </img>
+    <shape width="234" height="36" topLeftX="363" topLeftY="293.19" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>场地布置</p>
+      </content>
+    </shape>
+    <img src="Qme6b8QXPonFjJxEaY8cSgYynCc" width="245.55" height="138" topLeftX="357.23" topLeftY="137.99">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+    </img>
+    <shape width="234" height="36" topLeftX="672.23" topLeftY="293.19" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>设备预订</p>
+      </content>
+    </shape>
+    <img src="OAJ7bhfzToVYBSxXHNCcpiebn4e" width="245.55" height="138" topLeftX="666.45" topLeftY="137.99">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+    </img>
+    <shape width="234" height="138" topLeftX="363" topLeftY="328.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>准备活动现场装饰和布置用品，如创意海报、彩色气球、彩带等，营造良好活动氛围。</p>
+      </content>
+    </shape>
+    <shape width="234" height="138" topLeftX="672.23" topLeftY="328.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>提前预订场地相关设备和设施，明确使用要求和注意事项，如预订户外拓展基地的攀岩设备时了解使用方法和安全注意事项，确保设备安全有效使用。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

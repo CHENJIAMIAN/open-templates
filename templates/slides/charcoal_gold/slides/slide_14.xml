@@ -1,0 +1,91 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 247, 236, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540" height="1" topLeftX="-222.61" topLeftY="269.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="46" topLeftX="74.48" topLeftY="47.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间规划：甘特图式进度管理</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="125.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>启动预热期</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="156.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间节点：第1周1-7日；关键任务：发布预告、宣讲会、平台搭建；负责人：统筹组+宣传组</p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="139.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 247, 236, 1)"/>
+        </fill>
+        <border color="rgba(232, 178, 20, 1)" width="3"/>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="222.31" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>报名匹配期</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="252.81" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间节点：第2周1-3日；关键任务：员工报名、分组匹配、信息确认；负责人：执行组</p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="235.31" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 247, 236, 1)"/>
+        </fill>
+        <border color="rgba(232, 178, 20, 1)" width="3"/>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="319.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>执行实施期</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="349.52" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间节点：第2周4日-第3周；关键任务：探访活动、手工改造、线上打卡；负责人：各执行小组</p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="331.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 247, 236, 1)"/>
+        </fill>
+        <border color="rgba(232, 178, 20, 1)" width="3"/>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="415.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>总结表彰期</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="446.23" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间节点：第4周1-7日；关键任务：数据统计、成果展示、表彰大会；负责人：统筹组+宣传组</p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="427.73" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 247, 236, 1)"/>
+        </fill>
+        <border color="rgba(232, 178, 20, 1)" width="3"/>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

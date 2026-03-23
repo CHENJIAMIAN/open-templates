@@ -1,0 +1,37 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="Re0WbjJxBoS8AWx82inc7G8PnDg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="839.82" height="101.03" topLeftX="58.32" topLeftY="390.70" type="text">
+        <content textType="title" fontSize="72" fontFamily="思源黑体" color="rgba(235, 247, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>产品运营推广计划</p>
+        </content>
+      </shape>
+      <shape width="101.41" height="20" topLeftX="60.32" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(245, 248, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="101.41" height="28" topLeftX="60.32" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(245, 248, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="20" topLeftX="173.64" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(245, 248, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="28" topLeftX="173.64" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(245, 248, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

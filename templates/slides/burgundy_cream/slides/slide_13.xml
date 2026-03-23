@@ -1,0 +1,58 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(20, 13, 71, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="415.70" height="122.36" topLeftX="27.23" topLeftY="386.78" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="100" fontFamily="寒蝉锦书宋" color="rgba(232, 214, 245, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span fontSize="100" fontFamily="寒蝉锦书宋">感谢观看</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="15" topLeftX="34.24" topLeftY="20.50" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(232, 214, 245, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span fontFamily="思源黑体" bold="false">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <img src="CLvdbdcu7oOiHgxvithcQ0n5n5d" width="478.71" height="377.60" topLeftX="1423.47" topLeftY="-681.23">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="67" height="15" topLeftX="168.98" topLeftY="20.50" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(232, 214, 245, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span fontFamily="思源黑体" bold="false">结尾说明</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="22.26" startY="43.61" endX="932.21" endY="43.61" alpha="0.50">
+        <border color="rgba(232, 214, 245, 1)" width="1"/>
+      </line>
+      <shape width="246.02" height="42" topLeftX="34.24" topLeftY="111.47" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(232, 214, 245, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p>页面用于承载补充信息或总结性内容，为内容提供自然的收束。</p>
+        </content>
+      </shape>
+      <shape width="246.02" height="42" topLeftX="34.24" topLeftY="163.81" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(232, 214, 245, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p>页面用于延展核心内容，在统一的视觉体系中，为整体呈现留下清晰的收尾。</p>
+        </content>
+      </shape>
+      <img src="P4W4bvBYjoXq8DxfHKvcCSv9ndZ" width="180.17" height="181.38" topLeftX="779.83" topLeftY="180.96">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img src="HrJRbKRNyouV9HxfwA5cKFmNnLR" width="180.17" height="181.38" topLeftX="779.83" topLeftY="360.26" flipX="true">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img src="M1f5bfy9goPdkqxSqo9c7zUEnxd" width="180.17" height="181.38" topLeftX="779.83" topLeftY="539.57">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

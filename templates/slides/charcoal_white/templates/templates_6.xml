@@ -1,0 +1,148 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="166" height="151.58" topLeftX="47.17" topLeftY="182.54" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="357" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+      <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">大模型实时推理性能与用户体验</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="630" height="36" topLeftX="47.62" topLeftY="104.15" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">它直接关系到从用户输入指令到模型生成回复的响应速度、对话过程的流畅度以及系统在高并发访问下的稳定性。卓越的实时推理性能，意味着用户能获得近乎即时的交互反馈，享受如与人对话般自然、流畅的体验。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="68" height="60" topLeftX="65.81" topLeftY="270" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)" fontSize="40">5.1S</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="142" height="18" topLeftX="65.81" topLeftY="201.33" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <strong>平均单次推理响应时间</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="510.34" height="151.58" topLeftX="47.17" topLeftY="339.07" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="166" height="151.58" topLeftX="218.86" topLeftY="182.54" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(237, 238, 241, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="166" height="151.58" topLeftX="391.51" topLeftY="182.54" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(237, 238, 241, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="344.44" height="308.11" topLeftX="563.20" topLeftY="182.54" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(237, 238, 241, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="80" height="60" topLeftX="234.34" topLeftY="270" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">25M</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="142" height="18" topLeftX="234.34" topLeftY="201.33" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <strong>
+            <span color="rgba(28, 29, 26, 1)">日处理推理请求峰值</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="60" topLeftX="410.03" topLeftY="270" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">3K+</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="142" height="18" topLeftX="412" topLeftY="201.33" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <strong>
+            <span color="rgba(28, 29, 26, 1)">并发用户支撑数</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="116" height="60" topLeftX="65.81" topLeftY="424.26" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>99.9%</p>
+      </content>
+    </shape>
+    <shape width="142" height="18" topLeftX="65.81" topLeftY="353.39" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <strong>
+            <span color="rgba(31, 35, 41, 1)">SLA 服务可用性</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="432" height="36" topLeftX="65.81" topLeftY="376.51" alpha="0.70" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span bold="false">通过多区域部署和容灾备份机制，实现了 99.9% 的服务等级协议（SLA），确保业务连续性。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="114" height="60" topLeftX="586.10" topLeftY="424.26" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">86.7%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="100" height="18" topLeftX="586.10" topLeftY="201.33" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">用户满意度</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="302" height="90" topLeftX="586.10" topLeftY="226.20" alpha="0.70" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(28, 29, 26, 1)">根据用户调研反馈，86% 的用户对当前大模型应用的响应速度和交互流畅度表示满意。</span>
+        </p>
+        <p/>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

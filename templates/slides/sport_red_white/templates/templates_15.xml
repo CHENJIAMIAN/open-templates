@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 0.922)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="265.51" height="2" topLeftX="48.39" topLeftY="253.29" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="265.51" height="2" topLeftX="347.30" topLeftY="213.29" presetHandlers="0" alpha="0.60" type="rect">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="265.51" height="2" topLeftX="646.76" topLeftY="173.29" presetHandlers="0" alpha="0.30" type="rect">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="266" height="180" topLeftX="48.39" topLeftY="309" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>发起“我的运动装备”UGC征集活动，邀请用户分享装备改进建议，优质创意纳入研发计划</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="48.39" topLeftY="273" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>UGC征集活动</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.27" topLeftY="47.86" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>用户共创研发机制</p>
+      </content>
+    </shape>
+    <shape width="266" height="180" topLeftX="347.30" topLeftY="269" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>设立运动实验室开放日，定期邀请用户参观研发过程，参与新材料触感测试、鞋型试穿，增强参与感</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="347.30" topLeftY="233" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>运动实验室开放日</p>
+      </content>
+    </shape>
+    <shape width="266" height="180" topLeftX="646.76" topLeftY="229" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>与运动社群合作开展“极限环境测试”，如在高海拔、高温环境下验证产品性能，收集极端场景数据</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="646.64" topLeftY="193" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>极限环境测试</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

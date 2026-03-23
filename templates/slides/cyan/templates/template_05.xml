@@ -1,0 +1,62 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(242, 248, 250, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标消费群体画像与需求分层</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>新中产家庭(28-40岁)</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="100" topLeftX="438.70" topLeftY="110.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>占比达45%，注重品质与设计感，消费预算在1-3万元区间，偏好现代简约风格，关注"设计+环保+性价比"的平衡</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>年轻租房群体(22-28岁)</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="100" topLeftX="438.70" topLeftY="263.55" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>占比30%，预算有限但追求个性化表达，倾向模块化、可移动家具，重视"颜值+多功能+易安装"</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>品质改善型家庭(40岁以上)</p>
+      </content>
+    </shape>
+    <shape width="478.16" height="100" topLeftX="438.70" topLeftY="417.44" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>占比25%，注重材质与工艺，具有较高的品牌忠诚度，追求"耐用性+舒适度+文化内涵"</p>
+      </content>
+    </shape>
+    <shape width="70" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+      <content textType="sub-headline" fontSize="42" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="70" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+      <content textType="sub-headline" fontSize="42" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="70" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+      <content textType="sub-headline" fontSize="42" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

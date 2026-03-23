@@ -1,0 +1,99 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(32, 32, 32, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="0" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="0" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(205, 136, 56, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+        <p list="none" textAlign="center"/>
+      </content>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="0" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="0" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+        <p>绩效考核与奖惩机制</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>公司实行季度考核与年度考核相结合的方式，考核指标包括工作业绩、能力提升、团队协作等方面。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>考核方式</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>考核结果将作为薪酬调整、晋升、培训发展的重要依据。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>考核结果应用</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.6)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>绩效考核是衡量员工工作表现、促进个人与公司共同发展的重要手段。通过公正、透明的绩效考核与奖惩机制，激发员工工作积极性和创造力。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>总体概述</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="358.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>对于表现优秀的员工，公司给予表彰和奖励，包括奖金、荣誉称号、晋升机会等。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>奖励机制</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="358.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>对于未达考核标准的员工，将提供绩效改进计划，帮助其提升工作表现。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>改进机制</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

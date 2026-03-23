@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="QKhzb7m4LoTQuhxr12sc8gTNnph" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="856.83" height="200.71" topLeftX="48" topLeftY="47.16" type="text">
+      <content textType="headline" fontSize="70" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(210, 232, 255, 1) 0%,rgba(211, 214, 252, 1) 100%)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+        <p>感谢观看</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="48" topLeftY="421.97" type="text">
+      <content fontSize="14" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="119.39" height="31.89" topLeftX="48" topLeftY="448.06" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>王章志</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="183.03" topLeftY="421.97" type="text">
+      <content fontSize="14" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="185.86" height="31.89" topLeftX="183.03" topLeftY="448.06" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>2026-01-09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,32 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="TE3Jbcy3uoYC1MxrdxYcDGufnEg" width="459.54" height="342.90" topLeftX="250.23" topLeftY="98.55">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="670" height="94" topLeftX="142.24" topLeftY="223" type="text">
+        <content textType="sub-headline" fontSize="36" color="rgba(248, 240, 230, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span fontSize="36" fontFamily="slide-font-50642a730f1e0a16b8f7d3ba7ec8b036">"我们正进入一个持续盈利的增长新阶段，这将为股东创造有意义的长期价值”</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="344" height="27" topLeftX="308" topLeftY="342.11" type="text">
+        <content textType="headline" fontSize="18" color="rgba(248, 240, 230, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(248, 240, 230, 1)" fontSize="18" fontFamily="slide-font-c093259110dcb940ee9bd3feb6cb1c71" bold="false">Roy Mann &amp; Eran Zinman, Co-CEOs</span>
+          </p>
+        </content>
+      </shape>
+      <img src="H4ZHbKBmYoJ7UFx5UG9c4e5Pnag" width="125.33" height="19.91" topLeftX="417.33" topLeftY="148.51">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

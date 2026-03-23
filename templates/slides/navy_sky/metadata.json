@@ -1,0 +1,32 @@
+{
+  "id": "slides/navy_sky",
+  "family": "slides",
+  "name": "navy_sky",
+  "displayName": "Navy Sky",
+  "description": "Presentation slide template for Navy Sky.",
+  "tags": [
+    "slides",
+    "presentation",
+    "navy",
+    "sky"
+  ],
+  "sourcePath": "templates/slides/navy_sky",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/navy_sky",
+  "preview": {
+    "cover": "showcase/assets/slides/navy_sky/cover.png",
+    "gallery": [
+      "showcase/assets/slides/navy_sky/cover.png"
+    ]
+  }
+}

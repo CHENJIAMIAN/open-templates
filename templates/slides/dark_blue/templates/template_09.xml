@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>800V高压平台开发项目</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="650.07" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>8%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="650.07" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>系统效率提升8%</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="650.07" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>系统效率</p>
+      </content>
+    </shape>
+    <shape width="864.20" height="45" topLeftX="47.87" topLeftY="100.49" type="text">
+      <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>2024年主导完成800V高压平台开发项目，解决碳化硅器件应用中的EMC问题</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="349" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>15分钟</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="349" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>通过拓扑优化将充电时间缩短至15分钟（10%-80%SOC）</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="349" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>充电时间</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="48.07" topLeftY="154.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>250kW</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="48.07" topLeftY="232.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>完成250kW快充系统设计，采用"模块化架构+液冷集成"设计</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="48.07" topLeftY="203.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>快充系统</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="499.46" topLeftY="336.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>1.2万台</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="499.46" topLeftY="414.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>实现平台在2款车型上的量产应用，累计装车1.2万台</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="499.46" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>装车量</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="198.54" topLeftY="336.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>3项</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="198.54" topLeftY="414.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>突破高频化磁件设计、宽禁带器件驱动保护、多支路均流控制</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="198.54" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>关键技术</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

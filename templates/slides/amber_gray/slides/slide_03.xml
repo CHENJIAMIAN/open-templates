@@ -1,0 +1,76 @@
+<slide>
+    <style/>
+    <data>
+      <img src="BXXobaR8joUZDJxAmaAc1H10nPf" width="399.69" height="435.86" topLeftX="571.79" topLeftY="82.08">
+        <crop type="rect" leftOffset="96.86" rightOffset="278.31" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="VLeXbntJXonevLx7TDAcyNgJnTe" width="281.11" height="299.62" topLeftX="276.59" topLeftY="-14.08">
+        <crop type="rect" leftOffset="254.52" rightOffset="188.42" topOffset="96.75" bottomOffset="10.91" presetHandlers="8"/>
+      </img>
+      <img src="BwBTbNRv3oRepLxvwPjckBTRnxh" width="358.28" height="253.39" topLeftX="-8.63" topLeftY="300.01">
+        <crop type="rect" leftOffset="92.19" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="221" height="165" topLeftX="26.69" topLeftY="92.67" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <ul>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">以人为本的健康空间：我们不仅提供领先的诊疗技术，更致力于营造一个让身心得以放松的疗愈环境，确保每位访客都能感受到宾至如归的尊重。</span>
+              </p>
+            </li>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">数字化预防医学体系：通过引入尖端的实时健康追踪系统，我们将医疗服务的触角延伸至日常，为您提供主动式的健康预警与深度评估报告。</span>
+              </p>
+            </li>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">一站式全生命周期管理：从初期的身体检查到后期的康复随访。</span>
+              </p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="126" height="54" topLeftX="26.69" topLeftY="28.08" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" bold="true" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            重新定义
+            <br/>
+            全周期健康管理
+          </p>
+        </content>
+      </shape>
+      <shape width="140.78" height="66" topLeftX="370.22" topLeftY="300.01" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>健康中心汇集了来自海内外的资深医师与科研人员，跨学科的专家团队为您共同研判，确保方案的科学性。</p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="944.25" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="944.25" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="990.33" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="477.19" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

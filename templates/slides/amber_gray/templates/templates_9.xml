@@ -1,0 +1,60 @@
+<slide>
+  <style/>
+  <data>
+    <img src="CnjdbcfEjo5zKgxttkucw1PLnDg" width="960" height="540" topLeftX="0" topLeftY="0">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="375" height="173" topLeftX="26.21" topLeftY="340.25" type="text">
+      <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p>Pharmacy</p>
+        <p lineSpacing="multiple:1.2">Service</p>
+      </content>
+    </shape>
+    <shape width="59" height="53" topLeftX="26.21" topLeftY="270" type="text">
+      <content textType="title" fontSize="44" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(0, 0, 0, 0.851)" fontSize="44" fontFamily="Libre Baskerville" bold="false">03</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="0" topLeftY="659.52" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="933.13" topLeftY="659.52" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="705.59" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="192.46" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <img src="Mg3SbdDApoXDntxjDycc4K1rnDd" width="23.57" height="24" topLeftX="844.12" topLeftY="27.61">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="56.13" height="24" topLeftX="878.05" topLeftY="27.61" type="text">
+      <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+        <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+          <strong>
+            <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,91 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540" height="1" topLeftX="-222.61" topLeftY="269.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="139.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="235.31" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="331.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="42.66" topLeftY="427.73" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="46" topLeftX="74.48" topLeftY="47.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业竞争焦点演变</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="125.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争方向转变</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="156.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争从硬件参数比拼转向生态构建与场景落地</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="222.31" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容生态挑战</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="252.81" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>当前行业面临内容生态碎片化问题，应用数量不足500款，生态完善程度成为差异化关键</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="319.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户关注重点</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="349.52" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>外观设计与日常穿戴兼容性、隐私数据安全（面部识别信息泄露风险）也是用户关注重点</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="415.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>厂商发展策略</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="446.23" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>推动厂商在技术创新同时注重用户体验与安全保障</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

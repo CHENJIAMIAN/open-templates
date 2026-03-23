@@ -1,0 +1,12 @@
+<theme>
+  <background>
+    <fillColor color="rgba(249, 249, 249, 1)"/>
+  </background>
+  <textStyles>
+    <headline fontColor="rgba(32, 32, 32, 1)" fontFamily="Noto Sans SC SemiBold"/>
+    <sub-headline fontColor="rgba(137, 83, 219, 1)" fontFamily="DouYinMeiHao"/>
+    <body fontColor="rgba(31, 35, 41, 1)"/>
+    <caption fontColor="rgba(147, 147, 147, 1)" fontSize="14" fontFamily="思源黑体"/>
+    <title fontColor="rgba(32, 32, 32, 1)" fontFamily="Noto Sans SC SemiBold"/>
+  </textStyles>
+</theme>

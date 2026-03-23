@@ -1,0 +1,62 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <shape width="104.19" height="222.73" topLeftX="470.68" topLeftY="210.37" rotation="45" path="M0,0 L3.7527233450977606,0.18927068071872485 C60.16957868409219,5.91221600483322 104.1948471011565,53.50368639088874 104.1948471011565,111.3660780356142 C104.1948471011565,169.22846968033966 60.16957868409219,216.8199400663952 3.7527233450977606,222.54279556104566 L0,222.7321560712284 L0,182.2309252813423 L6.6977904735633365,181.20983376367272 C39.221512717004,174.56209410733268 63.687110380359975,145.81792322908782 63.687110380359975,111.3660780356142 C63.687110380359975,76.91423284214058 39.221512717004,48.169972134431696 6.6977904735633365,41.522232478091624 L0,40.50114096042208 L0,0 Z" alpha="0.80" type="custom">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="105.45" height="222.51" topLeftX="383.48" topLeftY="123.95" rotation="45" path="M105.44666921479809,0 L105.44666921479809,40.72580444997003 L100.80199449938436,41.41057445429791 C67.17585137052004,48.05831411063797 41.88092497443265,76.80221550049072 41.88092497443265,111.25379120557226 C41.88092497443265,145.70527708118976 67.17585137052004,174.4491784710425 100.80199449938436,181.09691812738257 L105.44666921479809,181.7817779611745 L105.44666921479809,222.5075824111445 L103.84692979930303,222.42952060689936 C45.51762623809293,216.70666511224888 0,169.11564387351353 0,111.25379120557226 C0,53.39193853763099 45.51762623809293,5.800917298895632 103.84692979930303,0.07797197478113582 L105.44666921479809,0 Z" alpha="0.50" type="custom">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="119" height="119" topLeftX="419.98" topLeftY="218.88" rotation="45" alpha="0.28" type="ellipse">
+      <border color="rgba(217, 118, 113, 1)" dashArray="dash" width="1"/>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+    </shape>
+    <shape width="290.84" height="35" topLeftX="47.80" topLeftY="152.19" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>员工培训体系</p>
+      </content>
+    </shape>
+    <shape width="290.75" height="120" topLeftX="47.80" topLeftY="185.19" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="right" autoFit="normal-auto-fit">
+        <p>入职培训融入价值观实践案例（如产品研发背后的运动精神故事），设置“价值观实践勋章”激励日常行为</p>
+      </content>
+    </shape>
+    <shape width="291.74" height="35" topLeftX="620.06" topLeftY="303.59" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品叙事设计</p>
+      </content>
+    </shape>
+    <shape width="291.50" height="120" topLeftX="620.06" topLeftY="336.59" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>在鞋服吊牌、包装中嵌入价值观文案（如“这双鞋陪你征服第100次晨跑”），强化用户体验与品牌精神的联结</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>价值观渗透策略</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

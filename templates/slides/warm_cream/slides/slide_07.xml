@@ -1,0 +1,87 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐场地方案</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>工业遗产改造空间，兼具艺术氛围与实用性，交通便利（距地铁4号线杨树浦站800米）</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">场地优势</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>上海船厂1862时尚艺术中心</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">最终选择</p>
+        </content>
+      </shape>
+      <img src="K15ObHZeJoAA2BxxUm0c4OZAnth" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="26"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主舞台设LED大屏（12m×5m），观众区临时加座至1000个，红毯区配置环形立柱屏幕</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">布置方案</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2楼剧场（主会场，1000人）、一楼序厅（红毯及签到区）、侧厅（Studio拍摄及休息区）</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">空间分配</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

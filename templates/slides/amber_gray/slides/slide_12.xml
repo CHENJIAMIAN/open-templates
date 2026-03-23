@@ -1,0 +1,54 @@
+<slide>
+    <style/>
+    <data>
+      <img src="GEsMb9dwEosPMyxlIIYcMfWUnmd" width="906.27" height="346.73" topLeftX="26.86" topLeftY="24.64">
+        <crop type="rect" leftOffset="0" rightOffset="65.54" topOffset="126.53" bottomOffset="73.39" presetHandlers="8"/>
+      </img>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="780.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="780.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="826.17" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="313.04" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="238" height="99" topLeftX="26.86" topLeftY="382.47" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">严苛消毒，无菌诊疗。</span>
+          </p>
+          <p list="none" textAlign="left">
+            <span bold="false">我们严格执行“一人一用一消毒”的感控标准。所有器械均经过高温高压蒸汽灭菌及预真空处理，并粘贴化学指示标签，确保灭菌合格率达 100%，彻底杜绝交叉感染隐患。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="238" height="83" topLeftX="307.36" topLeftY="382.47" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">可视化安全保障。</span>
+            <br/>
+            <span bold="false">患者可实时查验器械包的独立包装及封条状态。我们致力于将医疗安全透明化，为您和家人的每一次就诊建立起坚实的安全屏障。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

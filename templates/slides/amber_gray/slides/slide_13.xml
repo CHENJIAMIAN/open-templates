@@ -1,0 +1,64 @@
+<slide>
+    <style/>
+    <data>
+      <img src="CePEbpCWyoIYGYxW9ZFcA582npe" width="289.22" height="346.33" topLeftX="335.39" topLeftY="26.22">
+        <crop type="rect" leftOffset="102.45" rightOffset="100.07" topOffset="0" bottomOffset="4.95" presetHandlers="8"/>
+      </img>
+      <img src="IMNDb3gRjo3mhvx1QgXclKeHnSe" width="289.22" height="346.33" topLeftX="26.90" topLeftY="168.03">
+        <crop type="rect" leftOffset="14.75" rightOffset="14.75" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="HxUkbhrxioCBnYxJKPEcoH4lnaf" width="289.22" height="346.33" topLeftX="643.88" topLeftY="168.03">
+        <crop type="rect" leftOffset="14.75" rightOffset="14.75" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="101.18" height="48" topLeftX="335.39" topLeftY="382.35" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            <strong>
+              <span fontSize="16">隐形矫正，</span>
+            </strong>
+            <br/>
+            <strong>
+              <span fontSize="16">重塑自信笑容</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="150.60" height="48" topLeftX="335.39" topLeftY="437.35" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>我们采用数字化 3D 建模技术，为您量身定制隐形矫治方案。</p>
+        </content>
+      </shape>
+      <shape width="101.18" height="48" topLeftX="643.88" topLeftY="65.03" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            微创技术，
+            <br/>
+            让治疗更加舒适精准
+          </p>
+        </content>
+      </shape>
+      <shape width="206.67" height="48" topLeftX="643.88" topLeftY="120.03" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>依托先进的口腔内窥镜与激光治疗设备，我们实现了高精度、低痛感的微创诊疗。</p>
+        </content>
+      </shape>
+      <shape width="101.18" height="48" topLeftX="26.90" topLeftY="65.03" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            温柔呵护，
+            <br/>
+            守护孩子的牙齿发育
+          </p>
+        </content>
+      </shape>
+      <shape width="289.22" height="48" topLeftX="26.90" topLeftY="120.03" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>我们致力于为儿童营造轻松的诊疗环境。</p>
+          <p list="none" textAlign="left">帮助孩子建立良好的口腔卫生习惯。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

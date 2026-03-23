@@ -1,0 +1,34 @@
+{
+    "id":  "miaoda/washi_and_ink",
+    "family":  "miaoda",
+    "name":  "washi_and_ink",
+    "displayName":  "Washi And Ink",
+    "description":  "UI style prompt template for a Washi And Ink aesthetic.",
+    "tags":  [
+                 "washi",
+                 "and",
+                 "ink",
+                 "organic",
+                 "paper",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/washi_and_ink",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/washi_and_ink",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/washi_and_ink/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/washi_and_ink/gallery-1.png"
+                                ]
+                }
+}

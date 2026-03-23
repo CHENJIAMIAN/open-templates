@@ -1,0 +1,75 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="51.02" startY="105.77" endX="52.02" endY="187.77" alpha="0.30">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="51.02" startY="210.46" endX="52.02" endY="292.46" alpha="0.30">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="51.02" startY="315.59" endX="52.02" endY="397.59" alpha="0.30">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="51.02" startY="420.73" endX="52.02" endY="502.73" alpha="0.30">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="461.12" height="48" topLeftX="48.47" topLeftY="42.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售KR的四大核心维度</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="135.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>Q1新增潜在客户200个，其中战略级客户（年采购额≥100万）20个；新客户签约额达到300万元</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="100.72" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>新客户开发</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="239.86" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>老客户续费率从80%提升至85%；客户满意度评分达到4.5/5分</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="205.41" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>客户维护</p>
+      </content>
+    </shape>
+    <img src="EGkdbdlkboxQJTxpUf0c9dAPn6c" width="404" height="540" topLeftX="556" topLeftY="0">
+      <crop type="rect" leftOffset="0.50" rightOffset="0.50" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="345" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>季度总销售额突破800万元，毛利率≥35%；新产品销售额占比达到25%</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="310.55" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售业绩</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="56" topLeftX="63.43" topLeftY="450.14" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>Q1参加4场行业展会，获取有效线索80条；完成华南区3个城市的渠道布局</p>
+      </content>
+    </shape>
+    <shape width="446.16" height="36" topLeftX="63.43" topLeftY="415.68" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场拓展</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

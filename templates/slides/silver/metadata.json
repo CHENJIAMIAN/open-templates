@@ -1,0 +1,31 @@
+{
+  "id": "slides/silver",
+  "family": "slides",
+  "name": "silver",
+  "displayName": "Silver",
+  "description": "Presentation slide template for Silver.",
+  "tags": [
+    "slides",
+    "presentation",
+    "silver"
+  ],
+  "sourcePath": "templates/slides/silver",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/silver",
+  "preview": {
+    "cover": "showcase/assets/slides/silver/cover.png",
+    "gallery": [
+      "showcase/assets/slides/silver/cover.png"
+    ]
+  }
+}

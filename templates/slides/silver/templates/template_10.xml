@@ -1,0 +1,96 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(26, 26, 26, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="233.07" startY="310.88" endX="233.07" endY="490.88" alpha="0.34">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.34">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(169, 169, 169, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <line startX="56.27" startY="132.99" endX="56.27" endY="312.99" alpha="0.34">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+      <fill>
+        <fillColor color="rgba(169, 169, 169, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <line startX="414.79" startY="132.99" endX="414.79" endY="312.99" alpha="0.34">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="596.91" startY="310.88" endX="596.91" endY="490.88" alpha="0.34">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(169, 169, 169, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(169, 169, 169, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>跨部门协作的"技术翻译"能力：让不同专业说"同一种语言"</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>转变方法</p>
+      </content>
+    </shape>
+    <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>用"场景化语言"替代技术参数："当车辆以80km/h紧急避让时，EE架构若导致底盘执行器延迟150ms，侧向偏移量将增加0.8米，远超安全阈值，可能引发碰撞风险。"</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>协作困境</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>汽车研发中跨部门协作因专业术语存在"语言壁垒"。电子部门强调"功能安全ASIL等级要达到B级"，底盘部门坚持"响应延迟需控制在100ms内"，双方各执一词，协作陷入僵局。</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>解决方案</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>共同优化出"分级校验逻辑"：紧急工况下简化安全校验流程，优先确保底盘响应速度（延迟控制在100ms内）；常规工况下严格执行ASIL B级安全校验，保障系统长期稳定性。</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>经验总结</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>跨部门协作核心是"翻译"——把专业术语转化为对方能理解的"业务场景"，让不同专业工程师站在"用户安全"共同立场思考，共识自然水到渠成。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

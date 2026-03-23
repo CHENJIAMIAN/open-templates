@@ -1,0 +1,53 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="495.73" height="94.51" topLeftX="39.79" topLeftY="26.06" type="text">
+      <content textType="headline" fontSize="60" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>Key results</p>
+      </content>
+    </shape>
+    <undefined width="469.89" height="384.53" topLeftX="37.87" topLeftY="126.32" id="bNg" type="chart"/>
+    <shape width="398.43" height="64" topLeftX="541.21" topLeftY="282.59" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="12">Approximately 12% of key results fell short of expectations, primarily in areas with lower execution stability or insufficient prerequisites.</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="398.43" height="64" topLeftX="541.21" topLeftY="413.56" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="12">Around 35% of key results progressed in a stable and predictable manner, validating the effectiveness of our approach in well-defined and mature paths.</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="158.86" height="40.41" topLeftX="541.21" topLeftY="228.74" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="14" fontFamily="Inter">12%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="158.86" height="40.41" topLeftX="541.21" topLeftY="359.71" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="14" fontFamily="Inter">35%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="398.43" height="80" topLeftX="541.21" topLeftY="105.02" type="text">
+      <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">These outcomes highlight the importance of earlier validation under uncertainty, while reinforcing the value of stable results as a foundation for scaling and reuse in future cycles.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

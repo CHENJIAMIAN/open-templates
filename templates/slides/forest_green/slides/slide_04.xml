@@ -1,0 +1,59 @@
+<slide>
+    <style/>
+    <data>
+      <img src="GlpDbK6bUozaOpx2zMmc4CIwnYb" width="960" height="270" topLeftX="0" topLeftY="270" alpha="0.88" exposure="-20" saturation="-14" temperature="-14">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="135" bottomOffset="135" presetHandlers="0"/>
+      </img>
+      <shape width="160" height="60" topLeftX="400" topLeftY="49.74" type="text">
+        <content textType="title" fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="40">顺时而生</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="343" height="30" topLeftX="308.50" topLeftY="158.44" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" bold="false">我们关注自然的细微变化，体验生活</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="325" height="37" topLeftX="317.50" topLeftY="196.09" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="14">我们关注自然的细微变化，将时间、气息与东方审美等融入日常生活体验之中</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="209" height="19" topLeftX="374.40" topLeftY="114.42" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="14">东方语境下的表达</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="72" height="54" topLeftX="497.45" topLeftY="446.55" type="text">
+        <content textType="title" fontSize="36" fontFamily="Noto Serif SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="Noto Serif SC ExtraLight">春觅</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="480" startY="458.61" endX="480" endY="496.27" alpha="0.50">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="32" height="42" topLeftX="430.67" topLeftY="455.11" type="text">
+        <content textType="title" fontSize="16" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.3">
+            <span fontSize="16">企业</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span fontSize="16">名称</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

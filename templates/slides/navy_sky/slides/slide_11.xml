@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="286" height="78" topLeftX="48.27" topLeftY="72.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">指标波动原因探讨</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="48.27" topLeftY="158.54" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="Barlow Condensed" color="rgba(142, 169, 211, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="286" height="34" topLeftX="48.27" topLeftY="197.54" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">客观原因</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="286" height="90" topLeftX="48.27" topLeftY="227.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>受行业原材料涨价影响，成本控制压力增大；外部供应商产能不足导致2个项目交付延期</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="48.27" topLeftY="325.89" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="Barlow Condensed" color="rgba(142, 169, 211, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="286" height="34" topLeftX="48.27" topLeftY="364.89" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">主观原因</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="286" height="90" topLeftX="48.27" topLeftY="395.28" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场调研周期不足（规划失误）导致新品迭代滞后；团队数据分析能力不足，仅20%成员掌握专业工具，制约决策效率</p>
+        </content>
+      </shape>
+      <img src="T8Zlb9BQIoj3ysxIyYgccVMEnmc" width="237.11" height="437.36" topLeftX="375.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="4.45" rightOffset="4.45" topOffset="0" bottomOffset="0" presetHandlers="34"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="EFY1b8H7DovlztxaPFJc2bwjnof" width="296" height="437.36" topLeftX="619.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="3.32" bottomOffset="3.32" presetHandlers="34"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

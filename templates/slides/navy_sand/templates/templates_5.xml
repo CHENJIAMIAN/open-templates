@@ -1,0 +1,128 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="102.58" height="31" topLeftX="59.53" topLeftY="70.60" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.75)" width="1"/>
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="12">核心要点</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.64" height="64.53" topLeftX="59.53" topLeftY="129.91" type="text">
+      <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="40" fontFamily="Noto Sans SC Light">关键增长</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="192.53" height="51.59" topLeftX="59.53" topLeftY="189.82" type="text">
+      <content textType="caption" fontSize="16" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>用于说明接下来关注方向</p>
+        <p>增长是否可靠</p>
+      </content>
+    </shape>
+    <shape width="206.87" height="75.20" topLeftX="59.53" topLeftY="377.56" alpha="0.65" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12">用于说明当前阶段的主要关注内容，</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12">突出其在整体结构中的位置。用于补充另一项核心要素搭配起来使用，与前者形成并列关系</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <br/>
+          <br/>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="336.12" height="336.12" topLeftX="469.13" topLeftY="117.50" rotation="247.21" alpha="0.50" type="ellipse">
+      <border color="linear-gradient(90deg,rgba(255, 255, 255, 1) 0%,rgba(0, 0, 0, 1) 100%)"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="104.44" height="104.44" topLeftX="445.62" topLeftY="325.66" rotation="37" alpha="0.92" type="ellipse">
+      <fill>
+        <fillColor color="rgba(18, 18, 18, 1)"/>
+      </fill>
+      <border color="linear-gradient(41deg,rgba(255, 255, 255, 0.05) 0%,rgba(255, 255, 255, 0.24) 100%)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="149.71" height="149.71" topLeftX="716.41" topLeftY="338.95" rotation="36.72" alpha="0.92" type="ellipse">
+      <fill>
+        <fillColor color="rgba(28, 28, 28, 1)"/>
+      </fill>
+      <border color="linear-gradient(41deg,rgba(255, 255, 255, 0.05) 0%,rgba(255, 255, 255, 0.24) 100%)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="63.28" height="63.28" topLeftX="773.61" topLeftY="99.20" rotation="73.93" alpha="0.92" type="ellipse">
+      <fill>
+        <fillColor color="rgba(28, 28, 28, 1)"/>
+      </fill>
+      <border color="linear-gradient(41deg,rgba(255, 255, 255, 0.05) 0%,rgba(255, 255, 255, 0.24) 100%)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="90.82" height="43.11" topLeftX="591.78" topLeftY="253.42" type="text">
+      <content textType="caption" fontSize="30" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center">
+        <p>
+          <span fontSize="30">2.4M</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="92.44" height="32.04" topLeftX="745.04" topLeftY="387.72" type="text">
+      <content textType="caption" fontSize="22" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center">
+        <p textAlign="center">320K</p>
+        <p textAlign="center">
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="149.71" height="32.14" topLeftX="716.41" topLeftY="419.76" type="text">
+      <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" textAlign="center">
+        <p>
+          <span fontSize="14" fontFamily="Noto Sans SC Light">阶段活跃规模</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="90.82" height="49.61" topLeftX="759.84" topLeftY="112.87" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="center">
+        <p lineSpacing="multiple:1.3">
+          <span fontSize="14" bold="false">2025</span>
+        </p>
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span fontSize="14" bold="false">2026</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="131.86" height="32.14" topLeftX="431.39" topLeftY="383.75" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="12" fontFamily="Noto Sans SC Light">路径完成率</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="90.82" height="32.04" topLeftX="451.91" topLeftY="354.68" type="text">
+      <content textType="caption" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center">
+        <p>
+          <span fontSize="18">+37%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="131.86" height="32.14" topLeftX="571.26" topLeftY="296.53" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="14">累计有效行为量</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

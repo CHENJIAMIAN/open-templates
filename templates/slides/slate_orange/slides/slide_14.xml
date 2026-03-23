@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>全球市场竞争态势</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>头部科技巨头</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>苹果、微软、Meta等科技巨头依托生态优势（iOS/Windows系统适配、开发者生态）占据70%市场份额</p>
+        </content>
+      </shape>
+      <img src="G2xFbFx4hoQ2fnxFOh5cYjTlnjh" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>中国品牌崛起</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>华为、小米通过本土化场景（文旅AR导览、方言实时翻译）快速崛起，2025年预计占全球市场18%</p>
+        </content>
+      </shape>
+      <img src="XTypb90X7or0DoxGaSvcIuONnAd" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>标杆产品表现</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>Meta Ray-Ban Meta累计出货量突破200万台，成为消费级市场标杆产品</p>
+        </content>
+      </shape>
+      <img src="FIe4bcb5uoxwlyxZ5ZycfwBUnDf" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

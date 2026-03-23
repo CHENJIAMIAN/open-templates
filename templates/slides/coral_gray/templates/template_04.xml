@@ -1,0 +1,53 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(240, 243, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48" startY="231.16" endX="912" endY="232.16" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="379.12" endX="912" endY="380.12" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="699.41" height="70" topLeftX="48.28" topLeftY="282.19" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI、大数据等技术正深度渗透教育场景，推动个性化学习成为主流方向。智能推荐算法、实时数据反馈和跨设备同步技术的成熟，为解决学习效率问题提供了技术支撑。</p>
+      </content>
+    </shape>
+    <shape width="699.62" height="36" topLeftX="48.07" topLeftY="247.43" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术驱动</p>
+      </content>
+    </shape>
+    <shape width="81.55" height="57" topLeftX="830.52" topLeftY="245.19" type="text">
+      <content textType="sub-headline" fontSize="47" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="147.50" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业背景与发展趋势</p>
+      </content>
+    </shape>
+    <shape width="699.41" height="70" topLeftX="48.28" topLeftY="430.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>后疫情时代用户对在线学习的接受度显著提升，但碎片化学习需求与传统长课程模式之间的矛盾日益突出。职场教育细分领域增长尤为迅速，25-40岁职场人群年均学习投入增长达15%。</p>
+      </content>
+    </shape>
+    <shape width="699.62" height="36" topLeftX="48.07" topLeftY="395.39" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>场景细分</p>
+      </content>
+    </shape>
+    <shape width="81.55" height="57" topLeftX="830.52" topLeftY="393.15" type="text">
+      <content textType="sub-headline" fontSize="47" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

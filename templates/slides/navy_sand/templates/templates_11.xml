@@ -1,0 +1,98 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="202.80" height="217.10" topLeftX="167.23" topLeftY="283.23" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="307.51" height="345.98" topLeftX="379.02" topLeftY="154.35" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="202.80" height="210.46" topLeftX="697.43" topLeftY="63.54" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="202.80" height="217.10" topLeftX="697.43" topLeftY="283.23" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="237.93" height="89.48" topLeftX="59.70" topLeftY="35.74" type="text">
+      <content textType="caption" fontSize="30" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p>
+          <span fontFamily="Noto Sans SC Light">内容中的</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontFamily="Noto Sans SC Light">结构性问题</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="237.93" height="56.16" topLeftX="59.70" topLeftY="136.22" alpha="0.65" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="Noto Sans SC Light">在信息产出效率不断提升的同时，数据理解与决策支持往往未能同步优化，导致判断延迟与方向偏差。</span>
+        </p>
+      </content>
+    </shape>
+    <img src="WnLQbBoh7o8ex5xqlAecKhton7I" width="307.51" height="345.98" topLeftX="379.02" topLeftY="154.35" saturation="-12">
+      <crop type="rect" leftOffset="145.87" rightOffset="161.68" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      <border width="1" lineJoin="miter" miterLimit="10"/>
+    </img>
+    <shape width="172.57" height="75.28" topLeftX="185.16" topLeftY="418.33" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12" fontFamily="Noto Sans SC Light">数值看似丰富，但并不总是指向有效决策。当关注点停留在易被观察的结果层面，关键行为与真实动因往往被忽略。</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.57" height="21.39" topLeftX="185.16" topLeftY="299.10" type="text">
+      <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>
+          <strong>表象指标</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.57" height="56.16" topLeftX="712.54" topLeftY="433.90" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p>
+          <span fontFamily="Noto Sans SC Light">信息来源分散或缺乏关联，会打断整体理解路径，使分析停留在局部结论之上。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.57" height="21.39" topLeftX="712.54" topLeftY="299.10" type="text">
+      <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>数据割裂</p>
+      </content>
+    </shape>
+    <shape width="172.57" height="56.16" topLeftX="712.54" topLeftY="208.09" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p>
+          <span fontFamily="Noto Sans SC Light">数据更新节奏无法支撑即时判断，导致决策建立在过期信息之上，影响整体响应效率。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.57" height="21.39" topLeftX="712.54" topLeftY="77.29" type="text">
+      <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>反馈滞后</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,22 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="GjxebP24RoWi2bxzDItcWT05njd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="829.53" height="82.14" topLeftX="76.81" topLeftY="415.41" type="text">
+        <content textType="headline" fontSize="60" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>未来趋势与战略前瞻</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="15.98" topLeftY="387.41" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

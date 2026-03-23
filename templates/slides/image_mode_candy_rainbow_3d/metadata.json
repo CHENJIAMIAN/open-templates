@@ -1,0 +1,35 @@
+{
+    "id":  "slides/image_mode_candy_rainbow_3d",
+    "family":  "slides",
+    "name":  "image_mode_candy_rainbow_3d",
+    "displayName":  "Image Mode Candy Rainbow 3D",
+    "description":  "Presentation slide template for Image Mode Candy Rainbow 3D.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "candy",
+                 "rainbow",
+                 "3d"
+             ],
+    "sourcePath":  "templates/slides/image_mode_candy_rainbow_3d",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_candy_rainbow_3d",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_candy_rainbow_3d/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_candy_rainbow_3d/cover.png"
+                                ]
+                }
+}

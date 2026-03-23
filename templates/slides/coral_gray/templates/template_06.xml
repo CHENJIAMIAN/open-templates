@@ -1,0 +1,91 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(240, 243, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48" startY="227.45" endX="912" endY="227.45" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="330.28" endX="912" endY="330.28" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="431.10" endX="912" endY="431.10" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="30.62" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场容量测算</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="48" topLeftX="48.07" topLeftY="139.31" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="34" fontFamily="思源黑体" color="rgba(240, 153, 157, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>8000万</p>
+      </content>
+    </shape>
+    <shape width="655.68" height="70" topLeftX="256.40" topLeftY="141.31" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心目标用户群体总规模</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="182.33" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标用户规模</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="48" topLeftX="48.07" topLeftY="240.14" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="34" fontFamily="思源黑体" color="rgba(240, 153, 157, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>30%</p>
+      </content>
+    </shape>
+    <shape width="655.68" height="70" topLeftX="256.40" topLeftY="242.14" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>具有明确付费意愿的用户比例，对应2400万人</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="283.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>付费意愿占比</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="48" topLeftX="48.07" topLeftY="340.96" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="34" fontFamily="思源黑体" color="rgba(240, 153, 157, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>1-3%</p>
+      </content>
+    </shape>
+    <shape width="655.68" height="70" topLeftX="256.40" topLeftY="342.96" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>结合差异化竞争策略预计可获取的市场份额</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="383.97" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场份额</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="48" topLeftX="48.07" topLeftY="441.78" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="34" fontFamily="思源黑体" color="rgba(240, 153, 157, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>4.8-72亿元</p>
+      </content>
+    </shape>
+    <shape width="655.68" height="70" topLeftX="256.40" topLeftY="443.78" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>基于行业平均客单价(200-500元/年)测算的营收规模</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="484.80" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>潜在年营收</p>
+      </content>
+    </shape>
+    <shape width="864.13" height="46" topLeftX="47.93" topLeftY="79.62" type="text">
+      <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场增长动力主要来自职场技能更新加速(年均12%)、在线学习渗透率提升(目前35%，预计年增长5%)以及用户付费习惯养成(付费率年增长8%)。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

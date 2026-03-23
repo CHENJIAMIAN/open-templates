@@ -1,0 +1,60 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="357" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">大模型算力需求的学科驱动分析</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="630" height="54" topLeftX="47.62" topLeftY="104.15" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">本图展示了驱动大模型算力需求增长的主要学科领域分布。人工智能与机器学习作为核心引擎，贡献了超过五分之一的算力需求。同时，高性能计算和数据科学等支撑学科的需求也占据了重要地位，反映了大模型发展对底层算力基础设施和海量数据处理能力的强劲依赖。</span>
+          </p>
+        </content>
+      </shape>
+      <chart width="894.59" height="357.27" topLeftX="30.47" topLeftY="162.53" id="bKy">
+        <chartPlotArea>
+          <chartPlot type="bar">
+            <chartExtra>
+              <chartStack/>
+            </chartExtra>
+            <chartBars borderColor="rgb(255, 255, 255)" borderWidth="2"/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(237, 245, 211)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(222, 245, 152)"/>
+              </chartSeries>
+              <chartSeries index="3">
+                <chartBars color="rgb(207, 242, 103)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="2023第二季度">人工智能与机器学习,高性能计算,数据科学与大数据,计算机体系结构,软件工程,网络与分布式系统</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="阶段一">5425,3550,4800,2400,3123,4023</chartField>
+            <chartField name="阶段二">6251,4580,5250,4700,3456,3803</chartField>
+            <chartField name="阶段三">3650,4400,3850,3200,2043,4678</chartField>
+          </dim2>
+        </chartData>
+        <chartStyle>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

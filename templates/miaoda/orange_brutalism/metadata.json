@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/orange_brutalism",
+    "family":  "miaoda",
+    "name":  "orange_brutalism",
+    "displayName":  "Orange Brutalism",
+    "description":  "UI style prompt template for a Orange Brutalism aesthetic.",
+    "tags":  [
+                 "orange",
+                 "brutalism",
+                 "warm",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/orange_brutalism",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/orange_brutalism",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/orange_brutalism/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/orange_brutalism/gallery-1.png"
+                                ]
+                }
+}

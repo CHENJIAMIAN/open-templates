@@ -1,0 +1,114 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 5, 17, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="342.99" height="94.51" topLeftX="60.62" topLeftY="36.06" type="text">
+        <content textType="headline" fontSize="60" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="60">Milestone</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="394.99" height="84" topLeftX="453.87" topLeftY="58.30" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">This timeline outlines the phased progression of key objectives throughout the cycle. Each milestone represents a validation point or decision checkpoint to ensure alignment in direction and pace.</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="189.76" height="33.12" topLeftX="63.51" topLeftY="285.05" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+        <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(0, 0, 0, 1)">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="Inter">Step 1</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="189.76" height="33.12" topLeftX="264.11" topLeftY="285.05" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+        <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+          <p>Step 2</p>
+        </content>
+      </shape>
+      <shape width="189.76" height="33.12" topLeftX="464.71" topLeftY="285.05" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+        <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+          <p>Step 3</p>
+        </content>
+      </shape>
+      <shape width="189.76" height="33.12" topLeftX="665.32" topLeftY="285.05" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+        <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+          <p>Step 4</p>
+        </content>
+      </shape>
+      <shape width="187.50" height="144.76" topLeftX="65.78" topLeftY="343.72" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Define scope and key assumptions, completing initial validation to establish a clear starting point for execution.</p>
+        </content>
+      </shape>
+      <shape width="179.76" height="22.61" topLeftX="73.51" topLeftY="221.84" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>2026.01.05</p>
+        </content>
+      </shape>
+      <shape width="179.76" height="22.61" topLeftX="274.11" topLeftY="221.84" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>2026.02.05</p>
+        </content>
+      </shape>
+      <shape width="179.76" height="22.61" topLeftX="474.71" topLeftY="221.84" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>2026.02.15</p>
+        </content>
+      </shape>
+      <shape width="179.76" height="22.61" topLeftX="675.32" topLeftY="221.84" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>2026.03.10</p>
+        </content>
+      </shape>
+      <line startX="61.52" startY="227.09" endX="62.52" endY="303.62">
+        <border color="rgba(255, 255, 255, 0.5)" dashArray="dash" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="263.10" startY="227.85" endX="264.10" endY="304.39">
+        <border color="rgba(255, 255, 255, 0.5)" dashArray="dash" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="463.71" startY="227.85" endX="464.71" endY="304.39">
+        <border color="rgba(255, 255, 255, 0.5)" dashArray="dash" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="663.32" startY="227.56" endX="664.32" endY="304.10">
+        <border color="rgba(255, 255, 255, 0.5)" dashArray="dash" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <shape width="179.76" height="144.76" topLeftX="274.11" topLeftY="343.72" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Advance core capabilities along critical paths while collecting early feedback to refine execution direction.</p>
+        </content>
+      </shape>
+      <shape width="176.66" height="144.76" topLeftX="474.71" topLeftY="343.72" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Expand implementation scope and strengthen cross-functional alignment to reduce uncertainty during scaling.</p>
+        </content>
+      </shape>
+      <shape width="181.65" height="144.76" topLeftX="673.43" topLeftY="343.72" type="text">
+        <content textType="caption" fontSize="13" fontFamily="Inter" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">Stabilize proven practices and complete milestone delivery, laying the foundation for continuous improvement in the next cycle.</p>
+          <p lineSpacing="multiple:1.3">
+            <br/>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

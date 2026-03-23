@@ -1,0 +1,105 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="60" startY="177.15" endX="900" endY="178.15" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="60" startY="257.89" endX="900" endY="258.89" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="60" startY="338.63" endX="900" endY="339.63" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="60" startY="419.37" endX="900" endY="420.37" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="60" startY="500.11" endX="900" endY="501.11" alpha="0.24">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <shape width="173.96" height="65.45" topLeftX="60.15" topLeftY="46.54" type="text">
+      <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="40" fontFamily="Noto Sans SC Light" bold="false">要点总结</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="502.48" height="31.94" topLeftX="162.07" topLeftY="280.34" type="text">
+      <content fontSize="22" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="22" fontFamily="Noto Sans SC Light">持续关注能够带来新视角的表达方式。</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="618.47" height="31.94" topLeftX="162.07" topLeftY="440.82" type="text">
+      <content fontSize="22" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="22" fontFamily="Noto Sans SC Light">寻找更灵活的结构，让内容在不同场景中自如延展。</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="618.47" height="31.94" topLeftX="162.07" topLeftY="360.08" type="text">
+      <content fontSize="25" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontFamily="Noto Sans SC Light">探索更高效的呈现节奏，提升信息的可读性与识别度</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="629.80" height="31.94" topLeftX="162.07" topLeftY="200.60" type="text">
+      <content fontSize="22" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="22" fontFamily="Noto Sans SC Light">尝试跨媒介组合，让整体系统具备可持续生长的空间。</span>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <icon width="24" height="24" topLeftX="94.14" topLeftY="206.02" iconType="iconpark/Base/equalizer.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="24" height="24" topLeftX="94.14" topLeftY="286.76" iconType="iconpark/Travel/take-off-one.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="24" height="24" topLeftX="94.14" topLeftY="367.50" iconType="iconpark/Base/loading.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="24" height="24" topLeftX="94.14" topLeftY="448.24" iconType="iconpark/Charts/ranking.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="306" height="21" topLeftX="596.50" topLeftY="68.77" type="text">
+      <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span fontFamily="Noto Sans SC Light">整体进展总结，汇报当前阶段的整体情况。</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

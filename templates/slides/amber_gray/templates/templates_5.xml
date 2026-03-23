@@ -1,0 +1,146 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="754.58" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="754.58" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="800.66" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="287.52" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <img src="Z8ZZbPgCXoOEaOxWDj3cvm6dnDh" width="238" height="238" topLeftX="694.62" topLeftY="276.03">
+      <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <img src="KrvobgSVEonkmhxsJ2Mcex5Rnjh" width="238" height="238" topLeftX="442.72" topLeftY="276.03">
+      <crop type="rect" leftOffset="154.08" rightOffset="200.11" topOffset="20.55" bottomOffset="74.55" presetHandlers="8"/>
+    </img>
+    <img src="LUUmbyq6qoEAsoxUarYcnzU7nvb" width="238" height="238" topLeftX="442.72" topLeftY="26.58">
+      <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <img src="Efkqbf9Q0oQ76LxLLVeccEbynxh" width="238" height="238" topLeftX="694.62" topLeftY="26.58">
+      <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <shape width="190" height="68" topLeftX="710.62" topLeftY="175.58" type="text">
+      <content textType="title" fontSize="28" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(0, 0, 0, 0.851)" fontSize="28" fontFamily="Libre Baskerville" bold="false">Health</span>
+        </p>
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(0, 0, 0, 0.851)" fontSize="28" fontFamily="Libre Baskerville" bold="false">Management</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="128" height="96" topLeftX="459.62" topLeftY="354.03" type="text">
+      <content textType="title" fontSize="80" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(0, 0, 0, 0.851)" fontSize="80" fontFamily="Libre Baskerville" bold="false">91</span>
+          <span color="rgba(0, 0, 0, 0.851)" fontSize="60" fontFamily="Libre Baskerville" bold="false">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="161" height="42" topLeftX="459.62" topLeftY="450.03" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 0.749)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(0, 0, 0, 0.749)">预防性护理与全周期康复方案覆盖率</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="256" height="90" topLeftX="24.89" topLeftY="26.58" type="text">
+      <content textType="caption" fontSize="32" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+          <strong>
+            <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">以人为本，</span>
+          </strong>
+          <br/>
+          <strong>
+            <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">构建全维健康生态</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="372.35" height="116" topLeftX="24.89" topLeftY="173.18" type="text">
+      <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">健康不仅是疾病的缺席，更是身体、心理与社会适应能力的完美状态。我们致力于打破传统医疗的边界，为每一位追求高品质生活的人士提供支撑。</span>
+        </p>
+        <p list="none" textAlign="left"/>
+        <p list="none" textAlign="left">
+          <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">核心指标 (SDGs/关键点)：</span>
+        </p>
+        <ul>
+          <li>
+            <p textAlign="left">
+              <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">精准预防：通过前沿检测技术，提前识别潜在风险。</span>
+            </p>
+          </li>
+          <li>
+            <p textAlign="left">
+              <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">全人关怀：关注身心平衡，提供多维度的康复支持。</span>
+            </p>
+          </li>
+          <li>
+            <p textAlign="left">
+              <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">数字驱动：每一份数据都为您未来的健康决策赋能。</span>
+            </p>
+          </li>
+        </ul>
+      </content>
+    </shape>
+    <shape width="112" height="24" topLeftX="24.89" topLeftY="137.98" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">为什么这很重要</span>
+        </p>
+      </content>
+    </shape>
+    <chart width="397.25" height="211.45" topLeftX="0" topLeftY="321" id="bYM">
+      <chartPlotArea>
+        <chartPlot type="column">
+          <chartExtra/>
+          <chartSeriesList>
+            <chartSeries index="1">
+              <chartBars color="rgb(93, 168, 255)"/>
+            </chartSeries>
+          </chartSeriesList>
+        </chartPlot>
+        <chartAxes>
+          <chartAxis type="y" position="left">
+            <chartGridLine/>
+          </chartAxis>
+        </chartAxes>
+      </chartPlotArea>
+      <chartData>
+        <dim1>
+          <chartField name="2023 第二季度学费">精准预防,全人关怀,数字驱动</chartField>
+        </dim1>
+        <dim2>
+          <chartField name="A 大学">3210,4291,5301</chartField>
+        </dim2>
+      </chartData>
+      <chartTitle>2023 第二季度大学学费</chartTitle>
+      <chartStyle>
+        <chartBorder color="rgb(255, 255, 255)"/>
+      </chartStyle>
+    </chart>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

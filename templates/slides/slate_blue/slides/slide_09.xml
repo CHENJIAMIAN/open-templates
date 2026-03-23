@@ -1,0 +1,143 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(244, 242, 235, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="343.89" height="101" topLeftX="50.28" topLeftY="64.98" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            在纸与光之间，
+            <br/>
+            做一场
+            <span color="rgba(195, 169, 136, 1)">静默的旅行</span>
+            <span color="rgba(195, 169, 136, 1)" fontSize="36">。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="354.09" height="65.50" topLeftX="50.28" topLeftY="253.88" type="text">
+        <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p list="none" textAlign="left">
+            <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">当喧嚣褪去，我们与文字相拥，与时光对坐。在诗与远方的憧憬里，在柴米油盐的烟火中，拾取散落的美好，编织成属于自己的温暖篇章。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="211" height="211.03" topLeftX="480" topLeftY="54.91" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="152.13" height="23" topLeftX="497.68" topLeftY="180.99" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="Noto Serif SC Medium" bold="false" italic="false" strikethrough="false" underline="false">小物件，大情绪</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="172" height="42.24" topLeftX="497.68" topLeftY="207.94" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p list="none" textAlign="left">
+            <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">在设计里留一点空，让观者自己把故事续写完成</span>
+            <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">.</span>
+          </p>
+        </content>
+      </shape>
+      <icon width="28" height="28.11" topLeftX="497.68" topLeftY="78.41" iconType="iconpark/Travel/road-sign-both.svg">
+        <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="211" height="211.03" topLeftX="698.48" topLeftY="54.91" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="152.13" height="23" topLeftX="716.16" topLeftY="180.99" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="16">暖色记忆的采集簿</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="172" height="42.24" topLeftX="716.16" topLeftY="207.94" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>当我们放慢脚步，世界的纹理便开始清晰起来——细碎但真实。</p>
+        </content>
+      </shape>
+      <icon width="28" height="28.11" topLeftX="716.16" topLeftY="78.41" iconType="iconpark/Travel/sunshade.svg">
+        <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="211" height="211.03" topLeftX="480" topLeftY="273.68" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="152.13" height="23" topLeftX="497.68" topLeftY="398.94" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="16">让空间呼吸的设计</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="172" height="42.24" topLeftX="497.68" topLeftY="426.72" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>这份方案既注重功能，也保留感性，关注每一次互动。</p>
+        </content>
+      </shape>
+      <icon width="28" height="28.11" topLeftX="497.68" topLeftY="297.19" iconType="iconpark/Hardware/desk-lamp.svg">
+        <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="211" height="211.03" topLeftX="698.48" topLeftY="273.68" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="152.13" height="23" topLeftX="716.16" topLeftY="398.94" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="16">将时间做成便签</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="172" height="42.24" topLeftX="716.16" topLeftY="426.72" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>用简洁的排版和柔和的语句，把复杂的想法说得直白而温柔。</p>
+        </content>
+      </shape>
+      <icon width="28" height="28.11" topLeftX="716.16" topLeftY="297.19" iconType="iconpark/Others/bookmark-three.svg">
+        <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="152.13" height="23" topLeftX="70.09" topLeftY="223.11" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>以留白诉说从容</p>
+        </content>
+      </shape>
+      <line startX="61.61" startY="226.55" endX="54.86" endY="244.37">
+        <border color="rgba(207, 194, 149, 1)" width="1"/>
+      </line>
+      <shape width="354.09" height="65.50" topLeftX="50.28" topLeftY="369.97" type="text">
+        <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>我们平时习惯用效率塑造生活，但却常常忘记慢下来也是一种能力。当脚步变得轻柔，思绪会更愿意展开，而灵感也会在这份悠缓中自然出现。</p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="152.13" height="23" topLeftX="70.09" topLeftY="339.20" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>将时间做成便签</p>
+        </content>
+      </shape>
+      <line startX="61.61" startY="342.64" endX="54.86" endY="360.47">
+        <border color="rgba(207, 194, 149, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

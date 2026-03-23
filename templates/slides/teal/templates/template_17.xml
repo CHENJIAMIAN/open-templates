@@ -1,0 +1,81 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(250, 247, 236, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="270" height="34" topLeftX="190.79" topLeftY="148.53" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">食品类</p>
+      </content>
+    </shape>
+    <shape width="270" height="110" topLeftX="190.79" topLeftY="178.92" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">嘉华鲜花饼（现烤玫瑰味，2元/个，保质期15天）、普洱茶（勐海七子饼茶，200-500元/饼，熟茶养胃）、野生菌干货（牛肝菌、鸡油菌，100-200元/斤，超市购买避免景区高价）</p>
+      </content>
+    </shape>
+    <shape width="270" height="34" topLeftX="190.79" topLeftY="317.45" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">美妆特产</p>
+      </content>
+    </shape>
+    <shape width="270" height="110" topLeftX="190.79" topLeftY="347.85" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>精油（香格里拉玫瑰精油，10ml/200元，保湿护肤）、三七粉（文山产，100-300元/斤，活血化瘀）</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>购物与伴手礼推荐：地道风物与非遗好物</p>
+      </content>
+    </shape>
+    <img src="VHKub2uZuoqEwJxVko2cX2EOnoc" width="120" height="120" topLeftX="48" topLeftY="147.86">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <img src="TrqEbFnQqo0z9sxc8A0cTXHInac" width="120" height="120" topLeftX="48" topLeftY="317.45">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="270" height="34" topLeftX="641.95" topLeftY="148.53" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">工艺品</p>
+      </content>
+    </shape>
+    <shape width="270" height="110" topLeftX="641.95" topLeftY="178.92" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">建水紫陶（汽锅、茶具，300-1000元/件，认准“仁烨堂”等老字号）、大理银器（雪花银手镯，按克计价，约15元/克，古城内“寸四银庄”可信赖）、彝绣挂件（50-200元/件，楚雄彝人古镇款式多样）</p>
+      </content>
+    </shape>
+    <shape width="270" height="34" topLeftX="641.95" topLeftY="317.45" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">购物贴士</p>
+      </content>
+    </shape>
+    <shape width="270" height="110" topLeftX="641.95" topLeftY="347.85" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>景区银器、药材谨慎购买（易有假货），推荐昆明南屏街、大理洋人街正规商店，保留小票以便退换</p>
+      </content>
+    </shape>
+    <img src="NV3ebfh7fo6vgIxkrtAcbnxdnLb" width="120" height="120" topLeftX="499.16" topLeftY="147.86">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <img src="OWUtbRHi1ot0ELxYNKEclYHFnHe" width="120" height="120" topLeftX="499.16" topLeftY="317.45">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

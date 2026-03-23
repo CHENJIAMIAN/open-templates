@@ -1,0 +1,89 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(232, 239, 248, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="242.04" height="242.04" topLeftX="358.98" topLeftY="153.23" rotation="359.54" alpha="0.20" type="ellipse">
+      <border color="rgba(193, 193, 193, 1)" width="6" lineJoin="miter" miterLimit="10"/>
+      <content paddingRight="3" fontSize="16" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="12" height="12" topLeftX="554.85" topLeftY="177.56" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(33, 114, 182, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="12" height="12" topLeftX="391.95" topLeftY="177.56" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(33, 114, 182, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="12" height="12" topLeftX="555.85" topLeftY="357.44" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(33, 114, 182, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="12" height="12" topLeftX="391.95" topLeftY="357.44" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(33, 114, 182, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="210.67" height="210.67" topLeftX="374.67" topLeftY="168.91" rotation="359.54" alpha="0.40" type="ellipse">
+      <border color="rgba(182, 182, 182, 1)" dashArray="dot" lineJoin="miter" miterLimit="10"/>
+      <content paddingRight="3" fontSize="16" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48.27" topLeftY="47.60" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>数据闭环体系建设</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="120" topLeftX="622.29" topLeftY="186.05" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>引入半监督学习标注方案，标注成本降低40%，标注准确率达91.3%</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="34" topLeftX="622.29" topLeftY="155.05" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">数据标注</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="120" topLeftX="46.27" topLeftY="186.05" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>设计多触点反馈入口，反馈收集率提升至65%（原为28%）</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="34" topLeftX="46.27" topLeftY="155.05" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">反馈收集</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="120" topLeftX="622.29" topLeftY="361.73" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>搭建自动化训练流水线，模型迭代周期从15天压缩至72小时</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="34" topLeftX="622.29" topLeftY="330.73" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">模型训练</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="120" topLeftX="46.27" topLeftY="361.73" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>开发模型效果看板，核心指标实时可视化，异常检测响应时间&lt;2小时</p>
+      </content>
+    </shape>
+    <shape width="291.98" height="34" topLeftX="46.27" topLeftY="330.73" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">效果验证</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

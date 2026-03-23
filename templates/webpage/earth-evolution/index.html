@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      // 运行时动态计算 basename 并安全设置 <base>
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Aeon - 亘古：地球演化史</title>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;400;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #050505;
+            --text-main: #e5e5e5;
+            --text-muted: #78716c;
+            --accent: #a8a29e;
+            --curve: cubic-bezier(0.22, 1, 0.36, 1);
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Noto Serif SC', serif;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        /* 噪点纹理 */
+        .noise {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 50;
+            opacity: 0.05;
+            mix-blend-mode: overlay;
+        }
+
+        /* 滚动进度条 */
+        #progress-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--accent));
+            width: 0%;
+            z-index: 100;
+            transition: width 0.1s linear;
+        }
+
+        /* 核心揭示动画 */
+        .reveal {
+            opacity: 0;
+            transform: translateY(40px);
+            transition: opacity 1.6s var(--curve), transform 1.6s var(--curve);
+            will-change: transform, opacity;
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* 逐行展示延迟 */
+        .stagger-1 { transition-delay: 0.2s; }
+        .stagger-2 { transition-delay: 0.4s; }
+        .stagger-3 { transition-delay: 0.6s; }
+        .stagger-4 { transition-delay: 0.8s; }
+        .stagger-5 { transition-delay: 1.0s; }
+
+        .image-container {
+            overflow: hidden;
+            position: relative;
+            background: #000;
+            border: 1px solid rgba(255,255,255,0.03);
+            border-radius: 2px;
+        }
+
+        .parallax-img {
+            transition: transform 0.4s var(--curve);
+            will-change: transform;
+            transform: scale(1.05);
+        }
+
+        .section-tag {
+            font-size: 0.7rem;
+            letter-spacing: 0.6em;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .time-badge {
+            font-style: italic;
+            color: var(--text-muted);
+            border-left: 2px solid #292524;
+            padding-left: 1rem;
+            font-size: 0.9rem;
+            margin-bottom: 2rem;
+            display: block;
+        }
+
+        .title-reveal {
+            background: linear-gradient(to bottom, #fff, #888);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        /* 隐藏滚动条 */
+        ::-webkit-scrollbar { width: 0; }
+        body { -ms-overflow-style: none; scrollbar-width: none; }
+
+        /* 装饰背景 */
+        .glow-overlay {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60%;
+            height: 60%;
+            background: radial-gradient(circle, rgba(168,162,158,0.05) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: -1;
+        }
+    </style>
+
+</head>
+<body>
+
+    <div id="progress-bar"></div>
+    <div class="noise">
+        <svg width="100%" height="100%">
+            <filter id="noiseFilter">
+                <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="4" stitchTiles="stitch" />
+            </filter>
+            <rect width="100%" height="100%" filter="url(#noiseFilter)" />
+        </svg>
+    </div>
+
+    <!-- 开场屏 -->
+    <section class="h-screen w-full flex flex-col items-center justify-center relative z-20 px-8">
+        <div class="glow-overlay"></div>
+        <div class="max-w-4xl text-center">
+            <h1 class="reveal text-5xl md:text-8xl font-light tracking-[0.4em] mb-8 title-reveal">
+                地球往事
+            </h1>
+            <p class="reveal stagger-1 text-base md:text-xl font-extralight text-stone-500 tracking-[0.6em] uppercase mb-16">
+                4,600,000,000 YEARS OF EVOLUTION
+            </p>
+            <div class="reveal stagger-2 w-px h-32 bg-gradient-to-b from-stone-700 to-transparent mx-auto"></div>
+        </div>
+        <div class="absolute bottom-12 reveal stagger-3 text-stone-800 text-[10px] tracking-[1.5em] uppercase">
+            Scroll to Experience
+        </div>
+    </section>
+
+    <!-- 1: 冥古宙 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12">
+        <div class="flex flex-col md:flex-row w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：熔岩与陨石 -->
+                <img src="https://image.pollinations.ai/prompt/Hadean%20eon%20Earth%20surface%20molten%20lava%20flows%20volcanic%20eruptions%20dark%20smoke%20meteor%20impacts%20realistic%20cinematic%208k%20photography%20style?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="冥古宙：熔火地球">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-start">
+                <span class="reveal stagger-1 section-tag">Phase 01 / 熔炉</span>
+                <span class="reveal stagger-2 time-badge">距今 46 - 40 亿年前</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">冥古宙</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 leading-relaxed border-b border-stone-900 pb-6">
+                        地球在星云坍缩中诞生。这是一段被熔岩主宰的岁月，灼热的地壳尚未定型，整颗行星犹如一颗沉睡在深空中的火种。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        “忒伊亚”的惊世一撞，在毁灭中孕育了月球，也为这颗死寂的岩石注入了演化的变数。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2: 太古宙 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12 bg-[#080808]">
+        <div class="flex flex-col md:flex-row-reverse w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：叠层石与原始海洋 -->
+                <img src="https://image.pollinations.ai/prompt/Archean%20eon%20primordial%20green%20ocean%20stromatolites%20rock%20formations%20in%20shallow%20water%20ancient%20earth%20atmosphere%20hyper%20realistic%20cinematic%20landscape%208k?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="太古宙：原始海洋与叠层石">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-end text-right">
+                <span class="reveal stagger-1 section-tag">Phase 02 / 汤泉</span>
+                <span class="reveal stagger-2 time-badge">距今 40 - 25 亿年前</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">太古宙</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 leading-relaxed border-b border-stone-900 pb-6">
+                        地表逐渐冷却，漫长的降雨汇聚成海洋。在深海热液喷口的阴影中，最原始的单细胞生物在寂静中萌发。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        大陆基石在板块的漂移中成型，蓝色的星球第一次在黑暗的宇宙中透出深邃的光泽。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3: 元古宙 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12">
+        <div class="flex flex-col md:flex-row w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：雪球地球 -->
+                <img src="https://image.pollinations.ai/prompt/Proterozoic%20eon%20Snowball%20Earth%20frozen%20planet%20ice%20glaciers%20covering%20continents%20pale%20cold%20sunlight%20reflection%20from%20space%20realistic%20cinematic%208k?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="元古宙：大氧化与雪球地球">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-start">
+                <span class="reveal stagger-1 section-tag">Phase 03 / 极寒</span>
+                <span class="reveal stagger-2 time-badge">距今 25 - 5.4 亿年前</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">元古宙</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 leading-relaxed border-b border-stone-900 pb-6">
+                        蓝藻光合作用释放的氧气引发了大氧化事件，也将地球推入封冻的“雪球地球”时代。生命在严寒下顽强蜕变。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        真核细胞出现，臭氧层开始守护大地。复杂生命的基石正是在这长达 20 亿年的沉静中悄然奠定。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4: 古生代 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12 bg-[#080808]">
+        <div class="flex flex-col md:flex-row-reverse w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：古生代三叶虫 -->
+                <img src="https://image.pollinations.ai/prompt/Paleozoic%20ocean%20floor%20trilobites%20ancient%20marine%20life%20underwater%20cinematic%20lighting%20realistic%208k%20photography?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="古生代：三叶虫与陆地征服">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-end text-right">
+                <span class="reveal stagger-1 section-tag">Phase 04 / 爆发</span>
+                <span class="reveal stagger-2 time-badge">距今 5.4 - 2.5 亿年前</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">古生代</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 texture-shimmer leading-relaxed border-b border-stone-900 pb-6">
+                        寒武纪大爆发让海洋瞬间充满生命。三叶虫与奇虾在浅海中巡航，生命首次突破海洋的束缚，向陆地进军。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        蕨类森林覆盖大地，鱼类演化出四肢，寂静的荒原从此响起了爬行的声响。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 5: 中生代 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12">
+        <div class="flex flex-col md:flex-row w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：霸王龙雨林 -->
+                <img src="https://image.pollinations.ai/prompt/Mesozoic%20era%20Cretaceous%20dense%20jungle%20Tyrannosaurus%20Rex%20prowling%20through%20ferns%20misty%20dramatic%20sunlight%20cinematic%20realistic%208k%20movie%20still?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="中生代：恐龙时代">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-start">
+                <span class="reveal stagger-1 section-tag">Phase 05 / 王朝</span>
+                <span class="reveal stagger-2 time-badge">距今 2.5 - 0.66 亿年前</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">中生代</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 leading-relaxed border-b border-stone-900 pb-6">
+                        巨兽的统治时代。恐龙占据了陆地每一个角落，天空与海洋同样见证了它们的辉煌。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        板块的大规模分裂重塑了气候，显花植物首次盛开，世界从此变得色彩斑斓。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 6: 新生代 -->
+    <section class="min-h-screen flex items-center justify-center py-40 px-6 md:px-12 bg-[#080808]">
+        <div class="flex flex-col md:flex-row-reverse w-full max-w-7xl mx-auto gap-16 md:gap-32 items-center">
+            <div class="w-full md:w-1/2 image-container aspect-[9/16] reveal">
+                <!-- 写实：猿猴与人类 - 修正为早期人类与猿类 -->
+                <img src="https://image.pollinations.ai/prompt/Cenozoic%20era%20group%20of%20early%20humans%20and%20apes%20evolution%20ancestor%20in%20savanna%20tall%20grass%20dramatic%20lighting%20realistic%20cinematic%208k?width=720&height=1280&nologo=true" 
+                     class="w-full h-full object-cover grayscale brightness-75 hover:grayscale-0 transition-all duration-1000 parallax-img" 
+                     alt="新生代：灵长类的崛起">
+            </div>
+            <div class="w-full md:w-1/2 flex flex-col items-end text-right">
+                <span class="reveal stagger-1 section-tag">Phase 06 / 觉醒</span>
+                <span class="reveal stagger-2 time-badge">距今 6600 万年前至今</span>
+                <h2 class="reveal stagger-3 text-6xl md:text-8xl font-bold mb-12 tracking-tighter text-stone-100">新生代</h2>
+                <div class="space-y-8 max-w-lg">
+                    <p class="reveal stagger-4 text-lg md:text-xl font-light text-stone-400 leading-relaxed border-b border-stone-900 pb-6">
+                        陨石的余晖中，哺乳动物在废墟上崛起。灵长类在森林与草原的更迭中站起，目光投向了星空。
+                    </p>
+                    <p class="reveal stagger-5 text-lg md:text-xl font-light text-stone-400 leading-relaxed">
+                        一万年的文明史在四十六亿年的时钟里不过一瞬，但意识的火花已点亮了黑夜。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 终章 -->
+    <section class="h-screen w-full flex flex-col items-center justify-center bg-black px-8 relative overflow-hidden">
+        <div class="max-w-2xl text-center z-10">
+            <h2 class="reveal text-5xl md:text-7xl font-bold text-stone-200 mb-10 tracking-[0.2em]">此刻</h2>
+            <p class="reveal stagger-1 text-xl md:text-2xl font-light text-stone-500 italic leading-relaxed">
+                “我们是星辰的孩子，<br>是宇宙用于凝视它自身的眼睛。”
+            </p>
+            <div class="reveal stagger-2 mt-16 w-2 h-2 bg-stone-500 rounded-full mx-auto animate-pulse"></div>
+        </div>
+    </section>
+
+    <footer class="fixed bottom-8 left-8 z-40 mix-blend-difference pointer-events-none">
+        <span class="text-stone-500 text-[10px] tracking-[1em] opacity-40">AEON · 亘古</span>
+    </footer>
+
+    <script>
+        // 1. 初始化揭示动画
+        const revealOptions = {
+            threshold: 0.15,
+            rootMargin: "0px"
+        };
+
+        const revealObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const reveals = entry.target.querySelectorAll('.reveal');
+                    reveals.forEach(el => el.classList.add('active'));
+                    revealObserver.unobserve(entry.target);
+                }
+            });
+        }, revealOptions);
+
+        document.querySelectorAll('section').forEach(section => {
+            revealObserver.observe(section);
+        });
+
+        // 2. 进度条与平滑视差逻辑
+        window.addEventListener('scroll', () => {
+            const progressBar = document.getElementById('progress-bar');
+            const scrollPercent = (window.pageYOffset / (document.body.scrollHeight - window.innerHeight)) * 100;
+            progressBar.style.width = `${scrollPercent}%`;
+
+            const images = document.querySelectorAll('.parallax-img');
+            const viewHeight = window.innerHeight;
+
+            images.forEach(img => {
+                const rect = img.parentElement.getBoundingClientRect();
+                if (rect.top < viewHeight && rect.bottom > 0) {
+                    const centerPos = (rect.top + rect.height / 2) / viewHeight;
+                    const yOffset = (centerPos - 0.5) * 60; 
+                    img.style.transform = `scale(1.1) translateY(${yOffset}px)`;
+                }
+            });
+        });
+
+        // 3. 初始加载
+        window.addEventListener('DOMContentLoaded', () => {
+            setTimeout(() => {
+                document.querySelector('section').querySelectorAll('.reveal').forEach(el => el.classList.add('active'));
+            }, 300);
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(250, 248, 241, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="233.07" startY="310.88" endX="233.07" endY="490.88" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <line startX="56.27" startY="132.99" endX="56.27" endY="312.99" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <line startX="414.79" startY="132.99" endX="414.79" endY="312.99" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="596.91" startY="310.88" endX="596.91" endY="490.88" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>滇西6日精华：腾冲+瑞丽边境风情</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day3-4：瑞丽</p>
+      </content>
+    </shape>
+    <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">"一寨两国"景区体验秋千荡出国境线，中缅街购买翡翠饰品；姐勒金塔（南传佛教建筑，门票15元）感受宗教文化；傍晚在瑞丽江广场参加"万人傣迪"泼水狂欢（4月泼水节期间）。</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day1-2：腾冲</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>热海景区看大滚锅喷气（门票50元含地热博物馆），煮鸡蛋体验；下午泡柏联温泉（680元/人，私汤入户）；和顺古镇逛元龙阁、千手观音古树群，住百年老宅改造的客栈。</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day5：芒市</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>勐巴娜西珍奇园看热带植物（门票35元），树包塔拍自然奇观；新玩厂夜市尝撒撇（苦肠蘸水）、泡鲁达（椰奶甜品）。</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day6：返程</p>
+      </content>
+    </shape>
+    <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>上午参观畹町桥（滇缅公路历史遗迹），下午乘大巴返回保山（2小时），转高铁至昆明。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

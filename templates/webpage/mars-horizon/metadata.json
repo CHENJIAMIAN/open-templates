@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/mars-horizon",
+    "family":  "webpage",
+    "name":  "mars-horizon",
+    "displayName":  "Mars Horizon",
+    "description":  "A futuristic landing page template with a space exploration vibe.",
+    "tags":  [
+                 "space",
+                 "landing-page",
+                 "futuristic"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/mars-horizon",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/mars-horizon",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/mars-horizon/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/mars-horizon/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

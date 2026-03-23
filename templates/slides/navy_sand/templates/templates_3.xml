@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="72.86" startY="667.93" endX="72.86" endY="1207.93">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="912.86" startY="667.93" endX="912.86" endY="1207.93">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="12.22" startY="707.93" endX="973.50" endY="707.93">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="12.22" startY="1167.93" endX="973.50" endY="1167.93">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <shape width="351.10" height="114.63" topLeftX="304.45" topLeftY="81.80" type="text">
+      <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit" wrap="false">
+        <p>
+          <span fontFamily="Noto Sans SC Light">影响整体表现的</span>
+        </p>
+        <p textAlign="center" lineSpacing="multiple:1.4">
+          <span fontFamily="Noto Sans SC Light">主要维度</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="125.35" height="36.25" topLeftX="59.10" topLeftY="37.56" alpha="0.65" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12" fontFamily="Noto Sans SC Light">阶段进展，用于概述</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12" fontFamily="Noto Sans SC Light">当前阶段的整体情况。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="125.35" height="36.25" topLeftX="775.57" topLeftY="37.56" alpha="0.65" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">核心要点</p>
+        <p lineSpacing="multiple:1.4">系统运行的要素</p>
+      </content>
+    </shape>
+    <shape width="169.62" height="128" topLeftX="262.54" topLeftY="371.18" presetHandlers="8" alpha="0.15" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="168.16" height="128" topLeftX="441.27" topLeftY="371.18" presetHandlers="8" alpha="0.15" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="122.12" height="36.25" topLeftX="461.67" topLeftY="388.48" type="text">
+      <content textType="caption" fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <strong>
+            <span fontSize="20">38.9万频率</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="122.12" height="46.97" topLeftX="461.67" topLeftY="437.96" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>用于说明当前阶段的主要关注内容。</p>
+      </content>
+    </shape>
+    <shape width="122.12" height="36.25" topLeftX="284.39" topLeftY="388.48" type="text">
+      <content textType="caption" fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+        <p>
+          <span fontSize="20">季度趋势</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="122.12" height="46.97" topLeftX="284.39" topLeftY="437.96" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>用于补充核心要素，与前者形成并列关系。</p>
+      </content>
+    </shape>
+    <img src="PWvQbHlxxo6ljOxUkSzc7Imjnrf" width="282.37" height="265.23" topLeftX="618.55" topLeftY="233.25" exposure="32" saturation="-19">
+      <crop type="rect" leftOffset="6.05" rightOffset="0" topOffset="4.77" bottomOffset="34.65" presetHandlers="8"/>
+    </img>
+    <img src="K7sTbNWcJokGKYxhNFCcbSIJnIf" width="346.90" height="128" topLeftX="262.54" topLeftY="233.25" exposure="42" contrast="-3" saturation="-30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="39.17" bottomOffset="39.17" presetHandlers="8"/>
+    </img>
+    <img src="V1AXb3aPeo0louxPgimcQJ34nAb" width="194.35" height="265.23" topLeftX="59.08" topLeftY="233.25" exposure="18" contrast="11" saturation="30">
+      <crop type="rect" leftOffset="86.61" rightOffset="86.61" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

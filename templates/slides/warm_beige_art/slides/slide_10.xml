@@ -1,0 +1,57 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.25" height="372.35" topLeftX="48" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="417.25" height="372.35" topLeftX="494.75" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">中国水墨画</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="386.18" height="36" topLeftX="63.54" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="62.99" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>墨色浓淡与书法笔触，描绘自然与意境。</p>
+        </content>
+      </shape>
+      <img src="OYuabiDv6o6agAxuAXxc792xn2c" width="386.18" height="217" topLeftX="63.54" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+      <shape width="386.18" height="36" topLeftX="510.29" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="509.74" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>传统山水图（留白背景与写意山石、流水），搜索关键词："Chinese Ink Painting landscape mountains"</p>
+        </content>
+      </shape>
+      <img src="NxO4be2pWoUORtxtwhDc02xmnOg" width="386.72" height="217" topLeftX="509.74" topLeftY="134.27">
+        <crop type="rect" leftOffset="33.12" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

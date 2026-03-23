@@ -1,0 +1,87 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 244, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="296.25" endX="912" endY="297.25" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="478.65" startY="131.59" endX="478.05" endY="471.59" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49.09" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(89, 172, 193, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="388.40" height="32" topLeftX="523.60" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">专业版</p>
+        </content>
+      </shape>
+      <shape width="388.40" height="104" topLeftX="523.60" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>定制化开发+SaaS订阅，根据项目复杂度收费（50-200万元/项目），包含专属模型训练、系统集成服务</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>收入模型与定价策略</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="32" topLeftX="63.79" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">基础版</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="104" topLeftX="63.79" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>SaaS订阅，按功能模块收费（如预测性维护模块年费9.8万元/年），适合中小客户</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="63.70" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">企业版</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="63.70" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度服务包（300-800万元/年），覆盖全流程AI咨询、驻场运维、数据增值服务</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="523.60" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">辅助收入</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="523.60" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>API调用收费（0.1元/次，月免费额度10万次）、技术培训（2万元/人次）、硬件销售分成（与服务器厂商合作，分成15%）</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,59 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="416.76" height="94.51" topLeftX="480" topLeftY="26.06" type="text">
+      <content textType="headline" fontSize="60" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>what didn't</p>
+      </content>
+    </shape>
+    <shape width="394.99" height="84" topLeftX="480" topLeftY="133.46" type="text">
+      <content textType="caption" fontSize="13" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>This section highlights areas where outcomes did not fully meet expectations.Rather than isolated failures, these issues reflect gaps in alignment, coverage, or timing that impacted execution quality.</p>
+      </content>
+    </shape>
+    <shape width="359.45" height="36" topLeftX="537.31" topLeftY="242" type="text">
+      <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>Late Alignment</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="480" topLeftY="238" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="16" fontFamily="Inter">1</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="359.45" height="84" topLeftX="537.31" topLeftY="270.82" type="text">
+      <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Key stakeholders surfaced edge-case concerns late in the process, resulting in rework and delayed convergence.</p>
+      </content>
+    </shape>
+    <shape width="359.45" height="36" topLeftX="537.31" topLeftY="381.71" type="text">
+      <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>Beta Cohorts</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="480" topLeftY="377.71" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>2</p>
+      </content>
+    </shape>
+    <shape width="359.45" height="84" topLeftX="537.31" topLeftY="410.53" type="text">
+      <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Limited diversity within beta cohorts reduced our ability to identify usage gaps across different scenarios early on.</p>
+      </content>
+    </shape>
+    <img src="PonIbZNiOooHbjxxLJvc1OA0nMh" width="302.50" height="540" topLeftX="78.52" topLeftY="0">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

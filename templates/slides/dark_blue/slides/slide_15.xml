@@ -1,0 +1,127 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="298" height="169.22" topLeftX="48" topLeftY="147.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298" height="169.22" topLeftX="355.45" topLeftY="147.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298" height="169.22" topLeftX="48" topLeftY="326.86" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298" height="169.22" topLeftX="355.45" topLeftY="326.86" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="249.66" height="348.89" topLeftX="662.34" topLeftY="147.19" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="40.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>研发流程优化与效率提升</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48" topLeftX="68.06" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">50%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>引入MBSE方法，将需求传递效率提升50%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">需求传递效率</p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46.06" topLeftX="47.87" topLeftY="91.68" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2024年推动研发流程数字化转型，建立"仿真驱动设计"模式，牵头搭建企业级测试用例库，覆盖三电系统98%的测试场景，有效降低后期整改成本。</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48" topLeftX="375.50" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">35%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>数字化转型使设计变更减少35%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">设计变更减少</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48" topLeftX="68.06" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">20%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>仿真驱动设计模式使开发周期缩短20%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">开发周期缩短</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48" topLeftX="375.50" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">40%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业级测试用例库使测试效率提升40%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">测试效率提升</p>
+        </content>
+      </shape>
+      <shape width="208.15" height="48" topLeftX="682.61" topLeftY="161.32" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">60%</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="240.54" topLeftX="683.07" topLeftY="236.58" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>有效提升问题发现提前率达60%</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="28" topLeftX="683.07" topLeftY="210.70" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">问题发现提前率</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

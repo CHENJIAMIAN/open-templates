@@ -1,0 +1,34 @@
+{
+    "id":  "miaoda/paper_gold",
+    "family":  "miaoda",
+    "name":  "paper_gold",
+    "displayName":  "Paper Gold",
+    "description":  "UI style prompt template for a Paper Gold aesthetic.",
+    "tags":  [
+                 "paper",
+                 "gold",
+                 "warm",
+                 "bold",
+                 "organic",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/paper_gold",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/paper_gold",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/paper_gold/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/paper_gold/gallery-1.png"
+                                ]
+                }
+}

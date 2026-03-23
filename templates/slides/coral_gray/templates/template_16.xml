@@ -1,0 +1,92 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(240, 243, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.65" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>开发迭代流程</p>
+      </content>
+    </shape>
+    <shape width="359.40" height="32" topLeftX="104.50" topLeftY="130.98" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">开发框架</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="84" topLeftX="104.50" topLeftY="162.98" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>采用Scrum敏捷开发框架，设置2周冲刺周期。</p>
+      </content>
+    </shape>
+    <shape width="54" height="48" topLeftX="48" topLeftY="129.48" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="32" topLeftX="104.50" topLeftY="261.13" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">测试策略</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="84" topLeftX="104.50" topLeftY="292.63" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">采用"用户体验+功能验证"双轨制：邀请10名目标用户参与封闭测试，重点验证学习路径规划的合理性；同时进行功能压力测试，确保并发用户数5000时系统响应时间&lt;2秒。</p>
+      </content>
+    </shape>
+    <shape width="54" height="48" topLeftX="48" topLeftY="259.63" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="32" topLeftX="104.50" topLeftY="391.27" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">迭代计划</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="84" topLeftX="104.50" topLeftY="422.77" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>首个迭代版本计划在MVP上线后2周发布，重点优化推荐算法和小组互动功能。</p>
+      </content>
+    </shape>
+    <shape width="54" height="48" topLeftX="48" topLeftY="389.77" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape width="359.40" height="32" topLeftX="552.60" topLeftY="130.98" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">MVP开发阶段</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="84" topLeftX="552.60" topLeftY="162.48" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>分为三个阶段：基础功能开发（4周）、内部测试（2周）、小范围公测（2周）。</p>
+      </content>
+    </shape>
+    <shape width="54" height="48" topLeftX="496.10" topLeftY="129.48" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="32" topLeftX="552.60" topLeftY="261.13" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">迭代机制</p>
+      </content>
+    </shape>
+    <shape width="359.10" height="84" topLeftX="552.60" topLeftY="292.63" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>设计三级反馈通道：App内即时反馈按钮（收集功能问题）、每周用户访谈（深度需求）、数据看板（行为指标）。</p>
+      </content>
+    </shape>
+    <shape width="54" height="48" topLeftX="496.10" topLeftY="259.63" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(240, 153, 157, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

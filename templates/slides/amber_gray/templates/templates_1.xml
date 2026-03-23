@@ -1,0 +1,97 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="26.87" height="540.16" topLeftX="1722.24" topLeftY="254.46" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="540.16" topLeftX="2655.37" topLeftY="254.46" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="2189.38" topLeftY="300.53" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="26.87" height="961.15" topLeftX="2189.38" topLeftY="-212.60" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.41)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <img src="WoXNbS3DmoFAx4xUNbTcnoZxnyb" width="183.72" height="113.94" topLeftX="768.53" topLeftY="-13.31">
+      <crop type="rect" leftOffset="23.22" rightOffset="247.01" topOffset="132.03" bottomOffset="7.35" presetHandlers="8"/>
+    </img>
+    <img src="WfMfbZQ7voriUUxgKyOc8mjcn9e" width="183.72" height="218.25" topLeftX="768.53" topLeftY="108.72">
+      <crop type="rect" leftOffset="103.69" rightOffset="103.69" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <img src="Wq0nbgyXhoV32Jx7peQcfoKKnld" width="183.72" height="218.25" topLeftX="768.53" topLeftY="335.06">
+      <crop type="rect" leftOffset="186.39" rightOffset="125.01" topOffset="43.24" bottomOffset="14.81" presetHandlers="8"/>
+    </img>
+    <img src="MNv2bqd86oemkGx1A5HcZRRJnsc" width="183.72" height="218.25" topLeftX="576.54" topLeftY="-13.31">
+      <crop type="rect" leftOffset="93.63" rightOffset="235.31" topOffset="39.51" bottomOffset="28.33" presetHandlers="8"/>
+    </img>
+    <img src="Dq1JbRnbqo6Nocx0I5NcMgeznkh" width="183.72" height="218.25" topLeftX="576.54" topLeftY="213.03">
+      <crop type="rect" leftOffset="145.04" rightOffset="62.34" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <img src="Ubi9bWTWvoBi2TxJ5J7cCHZoneh" width="183.72" height="113.94" topLeftX="576.54" topLeftY="439.37">
+      <crop type="rect" leftOffset="9.37" rightOffset="9.37" topOffset="0" bottomOffset="104.31" presetHandlers="8"/>
+    </img>
+    <img src="EXtcbi42LoE9IexsI7DcreO9nee" width="183.72" height="218.25" topLeftX="2092.08" topLeftY="105.43">
+      <crop type="rect" leftOffset="27" rightOffset="46.66" topOffset="113.09" bottomOffset="54.85" presetHandlers="8"/>
+    </img>
+    <shape width="261.33" height="255.42" topLeftX="1922.60" topLeftY="505.20" type="text">
+      <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" wrap="false">
+        <p lineSpacing="multiple:1.2">MTP</p>
+        <p lineSpacing="multiple:1.2">Health</p>
+        <p lineSpacing="multiple:1.2">Center</p>
+      </content>
+    </shape>
+    <img src="JZ7GbhsJKoW60Nx6YQScq4XFnue" width="23.57" height="24" topLeftX="29.59" topLeftY="30.88">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="56.13" height="24" topLeftX="63.52" topLeftY="30.88" type="text">
+      <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+        <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+          <strong>
+            <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="326.42" height="53.36" topLeftX="28.53" topLeftY="439.74" type="text">
+      <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false">
+        <p>我们将持续探索未来医疗的无限可能，通过整合全球顶尖的科研资源与临床经验，为您和您的家庭构建起一道全方位、多维度的健康堡垒。每一次技术的进步，都是为了让关怀更加触手可及。</p>
+      </content>
+    </shape>
+    <shape width="290.20" height="255.42" topLeftX="28.53" topLeftY="258.70" type="text">
+      <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" wrap="false">
+        <p lineSpacing="multiple:1.2">MTP</p>
+        <p lineSpacing="multiple:1.2">
+          <span bold="false">健康服务</span>
+        </p>
+      </content>
+    </shape>
+    <img src="Nnq9bVuzSo1KVFxhaLPcYb5mnkb" width="183.72" height="218.25" topLeftX="2408.50" topLeftY="-196.66">
+      <crop type="rect" leftOffset="27" rightOffset="46.66" topOffset="113.09" bottomOffset="54.85" presetHandlers="8"/>
+    </img>
+    <img src="Sx6hbR4ZNobpvrxHp1ccTO9ynEb" width="183.72" height="218.25" topLeftX="384.62" topLeftY="156.39">
+      <crop type="rect" leftOffset="9.37" rightOffset="9.37" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+    </img>
+    <img src="S6YPbeQhlosKA9xbH7bc62cgnWe" width="183.72" height="170.28" topLeftX="384.62" topLeftY="383.03">
+      <crop type="rect" leftOffset="60.90" rightOffset="60.90" topOffset="0" bottomOffset="47.97" presetHandlers="8"/>
+    </img>
+    <img src="CAG9bXoXOoEDH2xns2UchNtAnju" width="183.72" height="161.32" topLeftX="384.62" topLeftY="-13.31">
+      <crop type="rect" leftOffset="102.15" rightOffset="102.15" topOffset="56.93" bottomOffset="0" presetHandlers="8"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

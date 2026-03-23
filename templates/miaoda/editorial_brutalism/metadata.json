@@ -1,0 +1,32 @@
+{
+    "id":  "miaoda/editorial_brutalism",
+    "family":  "miaoda",
+    "name":  "editorial_brutalism",
+    "displayName":  "Editorial Brutalism",
+    "description":  "UI style prompt template for a Editorial Brutalism aesthetic.",
+    "tags":  [
+                 "editorial",
+                 "brutalism",
+                 "typography",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/editorial_brutalism",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/editorial_brutalism",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/editorial_brutalism/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/editorial_brutalism/gallery-1.png"
+                                ]
+                }
+}

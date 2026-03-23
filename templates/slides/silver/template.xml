@@ -1,0 +1,927 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>个人经验分享</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="IDbRbXPKEoooPpxXzz3cNOLFnzf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="876.34" height="86.28" topLeftX="52" topLeftY="402.96" type="text">
+        <content textType="headline" fontSize="65" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人经验分享</p>
+        </content>
+      </shape>
+      <shape width="127.54" height="24" topLeftX="781.31" topLeftY="74.96" alpha="0.70" type="text">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="127.54" height="31.89" topLeftX="781.31" topLeftY="96.06" alpha="0.70" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="116.47" height="24" topLeftX="792.39" topLeftY="149.38" alpha="0.70" type="text">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="116.47" height="31.89" topLeftX="792.39" topLeftY="170.48" alpha="0.70" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Xkalb8jYDoS5VyxGMTqchBZGnSb" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464.00" height="366" topLeftX="47.92" topLeftY="87.00" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(47, 47, 47, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <line startX="83.89" startY="189.54" endX="475.45" endY="189.54" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="391.06" height="45" topLeftX="84.39" topLeftY="119.67" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="211.68" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第一章 初入职场</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40" topLeftX="84.39" topLeftY="211.68" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="263.80" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第二章 技术深耕</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="263.80" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="315.93" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第三章 格局升级</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="315.93" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="368.05" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第四章 行业洞察与未来展望</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="368.05" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="X0KLb1b1QoByUqxmx4Ucn4LQnqj" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="130.04" height="72" topLeftX="47.93" topLeftY="58.10" alpha="0.50" type="text">
+        <content textType="title" fontSize="50" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="384.88" height="225.33" topLeftX="47.93" topLeftY="157.33" type="text">
+        <content textType="headline" fontSize="48" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第一章 初入职场</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" alpha="0.34" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="281" alpha="0.34" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" alpha="0.34" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864.00" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>校园到职场：理论知识的"落地"阵痛</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>2014年入职第一天，带着大学四年机械设计与汽车构造的理论知识走进车间，第一次接触实车装配就遭遇了"纸上谈兵"的尴尬——图纸上清晰的"公差配合"，在生产线因焊接变形、零件来料误差变得"面目全非"。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>理论与实践的差距</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>参与某紧凑车型底盘装配项目时，严格按照设计图纸安装下摆臂衬套，结果80%的车辆出现转向异响。跟着资深工程师蹲守生产线3天，找到问题根源——忽略了低温环境下橡胶衬套的收缩特性。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>底盘装配项目经历</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>在衬套安装时特意留出了0.3mm的补偿间隙，异响问题彻底解决。这次经历让我意识到：汽车工程从不是单纯的理论推导，而是"实践的艺术"。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>解决方案与效果</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心感悟</p>
+        </content>
+      </shape>
+      <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>脱离了真实工况的理论，再完美也只是空中楼阁，只有把理论放进生产线的"熔炉"里淬炼，才能真正解决问题。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="338.75" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <line startX="414.72" startY="126.93" endX="414.72" endY="228.34" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="414.72" startY="253.76" endX="414.72" endY="355.16" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="414.72" startY="380.59" endX="414.72" endY="481.99" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <icon width="40.00" height="40.00" topLeftX="66.71" topLeftY="146.89" iconType="iconpark/Office/doc-success.svg">
+        <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>汽车行业特有的技术壁垒：从"零件认知"到"系统思维"</p>
+        </content>
+      </shape>
+      <shape width="295" height="227.23" topLeftX="69.71" topLeftY="235.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车工程中的任何技术问题都不能孤立看待，必须放在整车层面分析——就像医生不能只治疗表面症状，而要找到病因与全身系统的关联，只有建立"系统思维"，才能真正解决汽车研发中的复杂问题。</p>
+        </content>
+      </shape>
+      <shape width="295" height="34" topLeftX="69.71" topLeftY="201.48" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心观点</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="156.34" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车工程真正的难点在于"系统集成"——如何让上万个零件在整车层面协同工作，发挥出1+1＞2的效能。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="121.89" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>系统集成难点</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="283.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责某车型ESP标定时，初期仅关注传感器数据精度，忽略了与制动系统、转向系统的协同逻辑，导致冬季冰雪路面测试中出现ESP介入延迟问题。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="248.71" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>实践案例</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="409.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>CAN总线通信时延导致传感器采集的车辆状态数据与制动执行器的响应不同步，独立符合标准的零件在整车系统中产生不协同问题。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="375.54" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>问题根源</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>我的第一位导师：职业启蒙的"三个锦囊"</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>永远带三个本子进车间</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>故障本记问题、参数本记标准、灵感本记想法，养成严谨工作习惯，及时记录并分类梳理车间遇到的故障细节、零件标准参数和优化思路，避免信息遗漏或思路中断。</p>
+        </content>
+      </shape>
+      <img src="EEnbbwBJpoqebyx9NO4c6k8mnTe" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="107.74" rightOffset="107.74" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>解决问题前先问三个为什么</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>为什么发生？为什么现在发生？为什么是这个部位发生？建立根因分析逻辑框架，深入挖掘问题本质关联，如遇到转向异响时，找到"橡胶衬套收缩"的根本原因。</p>
+        </content>
+      </shape>
+      <img src="SV66b8xtGoQiifxCrdncErgMngm" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>汽车工程师的底线是"零缺陷"</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>因为我们造的不是机器，是承载生命的交通工具，每一个螺栓的扭矩、每一个间隙的公差，都直接关系到用户的生命安全，容不得半点"差不多"。</p>
+        </content>
+      </shape>
+      <img src="BImub1MsooSJrHxBuybcUKa6njd" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.00" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.00" startY="149.25" endX="912" endY="150.25" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48.00" startY="261.32" endX="912" endY="262.32" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48.00" startY="373.39" endX="912" endY="374.39" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="606.24" height="80.00" topLeftX="305.83" topLeftY="165.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>工作第3年，因误将"自由长度"写成"安装长度"，导致首批弹簧到货后无法装配，被总工严厉批评："汽车研发没有'差不多'，1mm的误差可能导致整车安全系数下降30%。"</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="165.78" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>错误经历</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.39" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新人期的"试错成本"：在"允许犯错"与"敬畏风险"间找平衡</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80.00" topLeftX="305.83" topLeftY="277.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>养成"三重核对"习惯：自己严格计算参数，同事交叉审核，仿真验证跑一遍，确保每一个数据都与实际工况匹配。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="277.85" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>改进措施</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80.00" topLeftX="305.83" topLeftY="389.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在汽车这个承载生命安全的行业里，"允许犯错"是成长的必经之路，但"敬畏风险"才是工程师的底线——每一次严谨的核对，都是对生命的负责。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="389.93" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心体会</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="UAkQbfJrvoudS3xJvqsckvqhnge" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="130.04" height="72" topLeftX="47.93" topLeftY="58.10" alpha="0.50" type="text">
+        <content textType="title" fontSize="50" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="384.88" height="225.33" topLeftX="47.93" topLeftY="157.33" type="text">
+        <content textType="headline" fontSize="48" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第二章 技术深耕</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="255.69" height="34" topLeftX="190.79" topLeftY="161.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">传统困境</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110.00" topLeftX="190.79" topLeftY="191.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2020年某纯电车型开发中，出现高速工况下电池包热失控预警误报问题，传统故障树分析聚焦零件失效排查陷入僵局</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="34" topLeftX="190.79" topLeftY="330.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">解决方案</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110.00" topLeftX="190.79" topLeftY="360.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>提出"硬件加固+软件升级"组合方案：线束防松结构解决振动接触问题，动态滤波算法适配高速场景温度传感器波动</p>
+        </content>
+      </shape>
+      <img src="VjSXblXvMosAoLxjtvRccuR7nVe" width="120.00" height="120.00" topLeftX="48.00" topLeftY="160.86">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="0.00" bottomOffset="0.00" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="MYvDbKzOVofHy8xWTKhcj5rBn8c" width="120.00" height="120.00" topLeftX="48.00" topLeftY="330.45">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="0.00" bottomOffset="0.00" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="255.69" height="34" topLeftX="641.95" topLeftY="161.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">创新方法</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110.00" topLeftX="641.95" topLeftY="191.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>构建"创新树"，分析振动导致线束接触不良、气流扰动使温度传感器波动、软件滤波算法未适配高速场景等变量关联</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="34" topLeftX="641.95" topLeftY="330.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">实践启示</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110.00" topLeftX="641.95" topLeftY="360.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>复杂问题解法需跳出"零件坏了"思维定式，从系统逻辑和变量关联中寻找答案，让"卡脖子"难点变技术突破支点</p>
+        </content>
+      </shape>
+      <img src="TsUnb3PwWoT2bexN5qzcXpZan8d" width="120.00" height="120.00" topLeftX="499.16" topLeftY="160.86">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="0.00" bottomOffset="0.00" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Vr9nb4bORovUYLxZKHEcRM86n2b" width="120.00" height="120.00" topLeftX="499.16" topLeftY="330.45">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="0.00" bottomOffset="0.00" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>解决"卡脖子"问题的实战方法论：从"故障树"到"创新树"</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="233.07" startY="310.88" endX="233.07" endY="490.88" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <line startX="56.27" startY="132.99" endX="56.27" endY="312.99" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <line startX="414.79" startY="132.99" endX="414.79" endY="312.99" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="596.91" startY="310.88" endX="596.91" endY="490.88" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门协作的"技术翻译"能力：让不同专业说"同一种语言"</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>转变方法</p>
+        </content>
+      </shape>
+      <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>用"场景化语言"替代技术参数："当车辆以80km/h紧急避让时，EE架构若导致底盘执行器延迟150ms，侧向偏移量将增加0.8米，远超安全阈值，可能引发碰撞风险。"</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>协作困境</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车研发中跨部门协作因专业术语存在"语言壁垒"。电子部门强调"功能安全ASIL等级要达到B级"，底盘部门坚持"响应延迟需控制在100ms内"，双方各执一词，协作陷入僵局。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>解决方案</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>共同优化出"分级校验逻辑"：紧急工况下简化安全校验流程，优先确保底盘响应速度（延迟控制在100ms内）；常规工况下严格执行ASIL B级安全校验，保障系统长期稳定性。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>经验总结</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门协作核心是"翻译"——把专业术语转化为对方能理解的"业务场景"，让不同专业工程师站在"用户安全"共同立场思考，共识自然水到渠成。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MbBDbRt5Zow9pAxhoHWcBInFnUb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="130.04" height="72" topLeftX="47.93" topLeftY="58.10" alpha="0.50" type="text">
+        <content textType="title" fontSize="50" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="384.88" height="225.33" topLeftX="47.93" topLeftY="157.33" type="text">
+        <content textType="headline" fontSize="48" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第三章 格局升级</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="527.29" height="176.00" topLeftX="384.71" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="329" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" alpha="0.56" type="round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="527.29" height="176.00" topLeftX="384.71" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>项目管理中的"资源博弈"：在有限条件下实现最优解</p>
+        </content>
+      </shape>
+      <shape width="478.34" height="104.00" topLeftX="406.33" topLeftY="171.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将原计划采用的铝合金下摆臂改为高强度钢材质，降低了15%的成本，重量仅增加3kg，通过优化悬架弹簧参数抵消了重量增加对底盘性能的影响。</p>
+        </content>
+      </shape>
+      <shape width="479.16" height="32.02" topLeftX="406.33" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>材料调整方案</p>
+        </content>
+      </shape>
+      <shape width="283.60" height="288.11" topLeftX="69.71" topLeftY="174.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.702)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车研发永远绕不开"时间、成本、质量"的三角博弈，资源博弈的核心在于先明确"不可妥协的底线"，再在"可优化区间"内寻找平衡点。团队在压缩周期、降低成本的同时，底盘性能指标仅小幅下降0.3分，仍达到行业优秀水平。资源博弈不是"牺牲某一方"的妥协，而是"守住底线、灵活调整"的智慧。</p>
+        </content>
+      </shape>
+      <shape width="284.08" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体策略与成果</p>
+        </content>
+      </shape>
+      <shape width="478.34" height="104.00" topLeftX="406.33" topLeftY="355.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将部分非关键冬季测试场景转为仿真替代，节省了15天时间，同时保留了关键的-30℃极寒实车测试，确保低温环境下的底盘可靠性。</p>
+        </content>
+      </shape>
+      <shape width="479.16" height="32.02" topLeftX="406.33" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>测试优化方案</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <border color="rgba(169, 169, 169, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" alpha="0.75" type="ellipse">
+        <border color="rgba(169, 169, 169, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(169, 169, 169, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" alpha="0.75" type="ellipse">
+        <border color="rgba(169, 169, 169, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(169, 169, 169, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队管理的"温度与尺度"：从"指令式"到"赋能式"</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48.00" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">初期管理方式</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48.00" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>采用"指令式"管理："你按这个方案做，明天给我结果。"导致年轻工程师积极性不高，出现"为了完成任务而应付"的情况。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33.00" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">管理方式转变</p>
+        </content>
+      </shape>
+      <shape width="260.00" height="90.00" topLeftX="33.00" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>推行"方案共创制"：每月组织"头脑风暴会"，鼓励所有人提想法；对新人分配"微项目"，给予试错空间并提供支持。</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48.00" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">管理感悟</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84.00" topLeftX="48.00" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>优秀团队不是"管"出来的，而是"赋能"出来的——给方向、给资源、给信任，技术人才自然会爆发出创造力。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">反思契机</p>
+        </content>
+      </shape>
+      <shape width="260" height="113.00" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>95后工程师小李直言："我有个轻量化悬架的想法，但怕你觉得不成熟，没敢提。"这一反馈促使管理者反思管理方式。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">实施成果</p>
+        </content>
+      </shape>
+      <shape width="260" height="113.00" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>半年后，团队提交的创新提案数量增加3倍，小李主导的"3D打印轻量化转向节"方案还申请了专利。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="RlHcb1bLEoZMPOxj7P8cbk4EnVg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="130.04" height="72" topLeftX="47.93" topLeftY="58.10" alpha="0.50" type="text">
+        <content textType="title" fontSize="50" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="384.88" height="225.33" topLeftX="47.93" topLeftY="157.33" type="text">
+        <content textType="headline" fontSize="48" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第四章 行业洞察与未来展望</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154.00" rotation="330" alpha="0.34" type="ellipse">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" alpha="0.34" type="ellipse">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0.00" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" alpha="0.34" type="ellipse">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0.00" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>给汽车行业新人的"避坑指南"：从我的教训中汲取经验</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>前三年别急于"选方向"，先练"基本功"</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="130" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">有新人入职就想专攻智能驾驶，却连最基础的汽车动力学都没吃透，结果在仿真分析时频频出错。汽车工程是"底层决定上层"的学科，材料力学、机械设计、控制理论这些基本功，是未来跨界的基础——就像盖房子，地基不牢，再高的楼也会塌。</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="11" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>学会"向上管理"：不是拍马屁，而是"让领导成为你的资源"</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="130" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">新人常怕打扰领导，遇到问题自己死磕，其实领导掌握更多信息和资源——比如我刚工作时遇到一个底盘异响问题，自己琢磨了一周没头绪，后来鼓起勇气找领导汇报（说清楚"异响出现在10-20km/h低速转向时""影响试生产进度""需要经验丰富的师傅一起排查"），领导立刻联系了车间的资深技师，当天就找到了原因（转向节球头润滑不足）。</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>主动暴露短板，而不是隐藏短板</p>
+        </content>
+      </shape>
+      <shape width="280" height="150.00" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>我曾因不懂电池管理，在项目中刻意回避相关工作，结果新能源浪潮来临时差点被淘汰；后来主动申请参与电池集成项目，虽然初期频频碰壁（比如第一次拆电池包时差点碰坏电芯），但补齐了能力短板，反而在后来的新能源车型项目中成为核心成员。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="BT7Vbj6O5ovFk5xh6AKcRgGwnUh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="56.00" startY="50.74" endX="57.00" endY="179.74" alpha="0.50">
+        <border color="rgba(248, 249, 252, 1)" width="1"/>
+      </line>
+      <shape width="836.41" height="86.28" topLeftX="56.00" topLeftY="385.62" type="text">
+        <content textType="headline" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢您的时间</p>
+        </content>
+      </shape>
+      <shape width="147.03" height="24" topLeftX="72" topLeftY="52.24" alpha="0.70" type="text">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="147.03" height="31.89" topLeftX="72" topLeftY="73.33" alpha="0.70" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>王章志</p>
+        </content>
+      </shape>
+      <shape width="147.03" height="24" topLeftX="72" topLeftY="124.66" alpha="0.70" type="text">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="147.03" height="31.89" topLeftX="72.00" topLeftY="145.75" alpha="0.70" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

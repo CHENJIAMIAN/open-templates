@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/industrial-design-portfolio",
+    "family":  "webpage",
+    "name":  "industrial-design-portfolio",
+    "displayName":  "Industrial Design Portfolio",
+    "description":  "A portfolio template for industrial design work and case studies.",
+    "tags":  [
+                 "portfolio",
+                 "design",
+                 "industrial-design"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/industrial-design-portfolio",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/industrial-design-portfolio",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/industrial-design-portfolio/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/industrial-design-portfolio/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

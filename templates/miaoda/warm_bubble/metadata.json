@@ -1,0 +1,32 @@
+{
+    "id":  "miaoda/warm_bubble",
+    "family":  "miaoda",
+    "name":  "warm_bubble",
+    "displayName":  "Warm Bubble",
+    "description":  "UI style prompt template for a Warm Bubble aesthetic.",
+    "tags":  [
+                 "warm",
+                 "bubble",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/warm_bubble",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/warm_bubble",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/warm_bubble/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/warm_bubble/gallery-1.png"
+                                ]
+                }
+}

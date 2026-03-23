@@ -1,0 +1,1538 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>儿童陪伴产品市场调研分析报告</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MVOgbFCUmo20pwx64BBc1v4AnJb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="860.83" height="108.73" topLeftX="48" topLeftY="40.55" type="text">
+        <content textType="headline" fontSize="70" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>儿童陪伴产品调研</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="181.65" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="31.89" topLeftX="48" topLeftY="203.74" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="262" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="48" topLeftY="284.09" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="144.80" endX="914.24" endY="144.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="D10lbruhgoLsdIxayVvco80rnCb" width="405" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+      </img>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="70.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="171.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场概况与发展现状</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="171.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="223.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>产品类型与技术创新</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="223.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="275.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>用户需求与消费行为</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="275.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="327.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场竞争格局</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="327.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="380.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>政策环境与未来展望</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="380.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="WA3sb7de9oyEcUxMyt3cycNTnrk" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="154.77" height="100.37" topLeftX="48.25" topLeftY="400.34" alpha="0.17" type="text">
+        <content textType="title" fontSize="70" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="384.45" height="234.54" topLeftX="48.25" topLeftY="72.98" type="text">
+        <content textType="headline" fontSize="56" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场概况与发展现状</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场规模与增长态势</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="32" topLeftX="48.07" topLeftY="113.61" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场洞察</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="52.42" topLeftX="48.07" topLeftY="144.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国儿童陪伴产品市场呈现高速增长态势，儿童陪伴类产品在亲子服务市场中占比显著。中国智能玩具市场增速迅猛，2030年将占全球近30%份额。</p>
+        </content>
+      </shape>
+      <table id="bXA" topLeftX="48.07" topLeftY="216.65">
+        <colgroup>
+          <col span="4" width="214.90"/>
+        </colgroup>
+        <tr height="55.60">
+          <td id="bcS">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">市场领域</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bYx">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">时间范围</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bcq">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">规模</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bcP">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">增长率</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="55.60">
+          <td id="bcb">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">亲子服务市场</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bcv">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">2025年</span>
+              </p>
+            </content>
+          </td>
+          <td id="bYj">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">3000亿元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bcC">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="55.60">
+          <td id="bcZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">全球儿童陪伴聊天机器人</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bch">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">2024-2031年</span>
+              </p>
+            </content>
+          </td>
+          <td id="bYG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">1.47亿美元→2.32亿美元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bcm">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">6.9%（CAGR）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="55.60">
+          <td id="bcp">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">中国儿童陪伴聊天机器人</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bcF">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">2023-2030年</span>
+              </p>
+            </content>
+          </td>
+          <td id="bYS">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">3.96亿元→5.54亿元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bct">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">6.24%（CAGR）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="55.60">
+          <td id="bcW">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(136, 123, 92, 1)" fontSize="14">中国智能玩具市场</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bcf">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">2025-2030年</span>
+              </p>
+            </content>
+          </td>
+          <td id="bcd">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">650亿元→1500亿元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bcA">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(252, 249, 245, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(136, 123, 92, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(136, 123, 92, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(252, 249, 245, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="598.68" topLeftY="75.23" iconType="iconpark/Travel/mountain.svg">
+        <border color="rgba(237, 177, 70, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="461.61" topLeftY="183.51" iconType="iconpark/Travel/flag.svg">
+        <border color="rgba(237, 177, 70, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="329.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="346.74" topLeftY="301.04" iconType="iconpark/Travel/tent.svg">
+        <border color="rgba(237, 177, 70, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="248.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="265.76" topLeftY="432.97" iconType="iconpark/Travel/map-draw.svg">
+        <border color="rgba(237, 177, 70, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>细分市场结构分析</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">教育陪伴类</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">早教机器人、AI学习设备等，2023年市场规模720亿元，占比38.7%，“双减”政策推动家庭教育场景需求激增。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="523.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">情感交互类</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="523.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能陪伴机器人、AI毛绒玩具等，如汤姆猫AI童伴机器人海外销量占比95%，“Magic.M”机器人首日众筹突破50万元。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="410.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">功能服务类</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="410.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>融合定位、健康监测的儿童手表，家长关注度最高的功能包括定位（93.7%）、通话（89.2%）、AI问答（76.5%）。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="327.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">沉浸式体验类</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="327.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="13" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AR/VR互动玩具，2025年市场规模预计50亿元，年复合增长率40%，如乐高与Meta合作的“LEGO AR Builder”全球销量同比增长42%。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>区域消费特征</p>
+        </content>
+      </shape>
+      <img src="HwITbBerloeOeExP87ScEdKJnic" width="404.90" height="540" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="0.05" rightOffset="0.05" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>一线及新一线城市</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>贡献42%市场份额，偏好高端智能化产品，如售价数千元的类人型陪伴机器人，北京、广东、上海为技术研发与消费核心区域。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>下沉市场</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>三线以下城市线上订单量2023年同比增长43%，偏好百元级普惠产品，如贝美“Magic.M”通过家庭社交功能覆盖下沉用户，价格敏感度达60%。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>海外市场</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国品牌出海表现亮眼，汤姆猫AI机器人海外销量占比95%，北美、欧洲及东南亚市场增长显著。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42" height="42" topLeftX="50.04" topLeftY="168.85" iconType="iconpark/Charts/chart-proportion.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="272.04" topLeftY="168.85" iconType="iconpark/Connect/connection-point-two.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="494.04" topLeftY="168.85" iconType="iconpark/Health/pure-natural.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="716.04" topLeftY="168.85" iconType="iconpark/Edit/minus-the-bottom.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>市场增长驱动因素</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="48" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策支持</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="48" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>《人形机器人创新发展指导意见》《家庭教育促进法》等政策推动行业标准化，加速技术商业化落地。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="270" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>需求升级</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="270" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>90后、95后父母更注重高质量陪伴，68%认为“情感联结”是核心目标，兼具教育与情感功能的产品成为替代方案。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="492" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术革新</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="492" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>多模态AI（如GPT-4o）提升交互能力，使产品从“单向输出”转向“双向共创”，AI毛绒玩具市场2027年预计达323亿元。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="714" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>人口结构</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="714" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2016-2025年中国0-14岁儿童数量从2.22亿增长至2.5亿，持续释放需求。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="EpVKbhQCJoUkEkxTaB5cb0Xlnsf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="154.77" height="100.37" topLeftX="48.25" topLeftY="400.34" alpha="0.17" type="text">
+        <content textType="title" fontSize="70" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="384.45" height="234.54" topLeftX="48.25" topLeftY="72.98" type="text">
+        <content textType="headline" fontSize="56" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品类型与技术创新</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="296.25" endX="912" endY="297.25" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="478.65" startY="131.59" endX="478.05" endY="471.59" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49.09" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="388.40" height="32" topLeftX="523.60" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">IP娱乐陪伴型</p>
+        </content>
+      </shape>
+      <shape width="388.40" height="104" topLeftX="523.60" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如汤姆猫AI机器人，依托IP亲和力建立情感链接，互动娱乐性强，但教育深度不足，部分保留屏幕设计引发家长“无屏化”焦虑。</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主流产品类型及特征</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="32" topLeftX="63.79" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">桌面教辅机器人</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="104" topLeftX="63.79" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>以阿尔法蛋、步步高为代表，覆盖小学到高中全学科辅导，知识密度高但场景受限，需固定在书桌使用。</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="63.70" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">随身表达教练</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="63.70" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如Luki AI，极致便携（单手可握或挂脖佩戴）、无屏化设计，通过主动式AI引导提升语言表达与社交能力，切入碎片化使用场景。</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="523.60" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">智能穿戴设备</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="523.60" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>儿童手表集成定位、通话、AI问答功能，出门问问产品实现11重定位，家长最关注“无打扰监听”（82%）与“课堂模式”（76%）。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="14" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="14" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="29" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能化与个性化</p>
+        </content>
+      </shape>
+      <shape width="452" height="99" topLeftX="76.06" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能早教机器人通过行为分析提供定制化学习内容，如某初创公司智能早教机器人2025年获得5%市场份额。</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴产品趋势</p>
+        </content>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨界融合</p>
+        </content>
+      </shape>
+      <shape width="452" height="99" topLeftX="76.06" topLeftY="362.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>"AI+IP"模式降低市场教育成本，奥飞娱乐依托"喜羊羊"IP推出AI毛绒玩具，实现内容与硬件深度绑定；"教育+旅游"产品如"小小环球旅行家"计划，融合文化体验与学习。</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>绿色健康</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>环保材料应用成为差异化标签，可降解玩具、有机食品等产品市场口碑良好，家长对安全性、环保性要求提升。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>产品价格与市场定位</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>高端市场</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>类人型机器人售价数千元，主打拟人化交互与教育功能，如某知名早教品牌高端课程每月收费5000元，仍保持高需求。</p>
+        </content>
+      </shape>
+      <img src="OOKPbDW9aoE6o1xTfvJcbIAjnce" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>中端市场</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>智能陪伴设备价格500-2000元，如阿尔法蛋、米兔系列，平衡功能与性价比，2023年销量突破百万台。</p>
+        </content>
+      </shape>
+      <img src="BgpEb0yFRoP92HxX8Feco4Lqn9c" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>大众市场</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>百元级产品如贝美“Magic.M”机器人，通过家庭圈社交功能覆盖下沉用户，首日众筹金额突破50万元。</p>
+        </content>
+      </shape>
+      <img src="SQg4bRjLJoxIxYxfBTPcIE0enRS" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Au1sbBgxioTL4AxeM6Rcy4B3nOg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="154.77" height="100.37" topLeftX="48.25" topLeftY="400.34" alpha="0.17" type="text">
+        <content textType="title" fontSize="70" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="384.45" height="234.54" topLeftX="48.25" topLeftY="72.98" type="text">
+        <content textType="headline" fontSize="56" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户需求与消费行为</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心用户画像</p>
+        </content>
+      </shape>
+      <img src="ACUsbzKsbo5rSKxbJEDcizb2nXd" width="404.90" height="540" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="427.55" rightOffset="427.55" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>年龄分布</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>80后、90后父母占比76%，Z世代（95后）更依赖短视频、KOL推荐，68%购买决策受社交媒体影响。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>需求优先级</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>情感联结（76%）、教育功能（27.7%）、安全性（23.3%），一线城市家长更注重科技含量，下沉市场更关注实用性。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>决策角色</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>母亲为主要决策者（68%），但父亲在科技类产品选择参与度提升，尤其关注技术参数与安全性能。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="149.25" endX="912" endY="150.25" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48" startY="261.32" endX="912" endY="262.32" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48" startY="373.39" endX="912" endY="374.39" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="165.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>电商平台占比64%（京东43%、天猫29.2%），社交电商（抖音、小红书）崛起，2023年母婴类商品直播带货GMV同比增长95%。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="165.78" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>渠道偏好</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.39" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>购买决策路径</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="277.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>KOL测评（68%）、用户口碑（81%）、品牌信任（42.1%），某智能早教机器人通过500个妈妈群体验装推广，三个月自然传播覆盖120万人。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="277.85" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>决策影响因素</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="389.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>体验店转化效率高，亲子主题体验店客户转化率38%，高于传统门店12%，如上海某亲子体验中心智能早教机器人试用转化率23.6%。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="389.93" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>线下作用</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>价格敏感度分析</p>
+        </content>
+      </shape>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">教育类产品</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>价格敏感度低，家长视为长期投资，某知名早教品牌高价课程仍保持高复购率（61%）</p>
+        </content>
+      </shape>
+      <img src="IEoMbW8zZopncRxtRB8cTpkXnse" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">娱乐类产品</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>价格敏感度高，60%家长选择娱乐服务时优先考虑性价比，亲子旅游平台优惠活动可使预订量增长30%</p>
+        </content>
+      </shape>
+      <img src="OpvcbZS9eoWSZhx1JNDcWTningb" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">家庭服务类</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>日常开支属性导致敏感度高，共享家政、套餐服务更受欢迎，某家庭服务公司套餐价格降低单次成本20%，用户增长45%</p>
+        </content>
+      </shape>
+      <img src="TliabhJAroHmB0xNg8qc5yQqnud" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="IOQ2bG2A8oZ9PHxCoJacloh8n0e" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="154.77" height="100.37" topLeftX="48.25" topLeftY="400.34" alpha="0.17" type="text">
+        <content textType="title" fontSize="70" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="384.45" height="234.54" topLeftX="48.25" topLeftY="72.98" type="text">
+        <content textType="headline" fontSize="56" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场竞争格局</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42" height="42" topLeftX="48" topLeftY="181.60" iconType="iconpark/Foods/tea-drink.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="347.51" topLeftY="181.60" iconType="iconpark/Base/all-application.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="647.02" topLeftY="181.60" iconType="iconpark/Others/weixin-favorites.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场竞争态势</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="48.96" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>整体格局</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="48.96" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2023年中国市场CR3（优必选、商汤科技、萤石网络）合计占据45.3%份额，小米、科大讯飞通过生态链布局位列第二梯队。</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="348.47" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>细分领域</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="348.47" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育硬件市场科大讯飞阿尔法蛋累计销量突破500万台；儿童手表市场小米以28.6%出货量份额居首；AI玩具市场奥飞娱乐、孩之宝通过IP融合快速崛起。</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="647.98" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争焦点</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="647.98" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>从单一硬件比拼转向“硬件+内容+服务”生态竞争，如科大讯飞整合学习机、AI助手、教育内容，2023年智慧教育业务营收78.6亿元。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="325.52" startY="136.73" endX="325.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="634.52" startY="136.73" endX="634.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>头部企业策略</p>
+        </content>
+      </shape>
+      <shape width="234" height="36" topLeftX="53.77" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术驱动</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="53.77" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>科大讯飞依托语音识别技术，推出“星火大模型”教育专属版本，实现个性化学习路径规划；优必选聚焦人形机器人，拓展教育、服务场景。</p>
+        </content>
+      </shape>
+      <img src="O6w7bkwNHoRw2yx2goFcHHXKnsh" width="245.55" height="138" topLeftX="48" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="36" topLeftX="363" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>生态整合</p>
+        </content>
+      </shape>
+      <img src="H6XrbYk2goEvAExrQHdcdMGfnWc" width="245.55" height="138" topLeftX="357.23" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="36" topLeftX="672.23" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球化布局</p>
+        </content>
+      </shape>
+      <img src="SxQlbzJrlorkr7xJZ8qcE09Bnic" width="245.55" height="138" topLeftX="666.45" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="138" topLeftX="363" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>小米生态链连接6亿台设备，米兔系列覆盖0-12岁全场景，用户粘性显著；Babycare布局“智能硬件+母婴服务”，AI天才小丑鸭上市首月售罄。</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="672.23" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汤姆猫AI机器人海外销量占比95%，北美、欧洲市场增速领先；Makeblock编程机器人进入欧美学校采购体系，2024年一线城市学校采购占比18.3%。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴品牌差异化路径</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术创新</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">某初创公司开发智能早教机器人，通过个性化服务2025年获得5%市场份额；Luki AI以“随身表达教练”切入细分场景，无屏化设计提升专注力。</p>
+        </content>
+      </shape>
+      <img src="VyBUbmwbzoNjANxuTaIc1C2tnHe" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>模式创新</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">采用订阅制商业模式，如某品牌通过会员服务提供定制化课程，年续费率61%；探索租赁、共享模式降低使用门槛，覆盖下沉市场。</p>
+        </content>
+      </shape>
+      <img src="RtFUbaRb1oaIpRx7gmCcocblnJh" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>细分人群</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>针对孤独症儿童干预、双语启蒙等垂直领域，开发专用陪伴设备，满足特定需求。</p>
+        </content>
+      </shape>
+      <img src="PSyxb4ahgoc36QxRTrTcM7gnn2e" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>渠道竞争格局</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>线上渠道</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>电商平台（京东、天猫）占比64%，社交电商（抖音、快手）贡献40%线上销售额，直播带货单场GMV突破千万元。</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>线下渠道</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>母婴连锁（孩子王、爱婴室）占比25%，体验店通过“互动+服务”提升转化，单店坪效高于传统零售30%。</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>O2O融合</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>线上预约、线下体验成为趋势，某在线教育平台与线下机构合作，实现“家门口课程服务”，O2O渠道占比2025年将达25%。</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="资源圆体" color="rgba(237, 177, 70, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="资源圆体" color="rgba(237, 177, 70, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="资源圆体" color="rgba(237, 177, 70, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="WA3sb7de9oyEcUxMyt3cycNTnrk" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="154.77" height="100.37" topLeftX="48.25" topLeftY="400.34" alpha="0.17" type="text">
+        <content textType="title" fontSize="70" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="384.45" height="234.54" topLeftX="48.25" topLeftY="72.98" type="text">
+        <content textType="headline" fontSize="56" fontFamily="资源圆体" color="rgba(174, 146, 118, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策环境与未来展望</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策监管框架</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>安全标准</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>《消费品安全法》要求儿童产品通过第三方检测，铅含量≤100ppm、邻苯二甲酸酯≤0.1%，需附加注册卡与追踪标识。</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>教育合规</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>《在线教育服务管理办法》规范内容质量，教育机构需具备办学资质，教师需持教师资格证。</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据隐私</p>
+        </content>
+      </shape>
+      <shape width="280" height="134.70" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>《儿童个人信息网络保护规定》要求收集数据需家长明示同意，2027年超80%产品将通过国家认证，采用端侧加密技术。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险与挑战</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术伦理</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="48.27" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI内容价值观偏差、儿童过度依赖虚拟陪伴可能导致社交能力退化，需建立“情绪干预边界”机制。</p>
+        </content>
+      </shape>
+      <img src="FUeubtTwjotvCrx1XGycWbRdnWc" width="259.14" height="194" topLeftX="48.27" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场竞争</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="340.43" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>低端产品同质化引发价格战，2023年智能玩具毛利率下降3.2个百分点，企业需通过创新提升附加值。</p>
+        </content>
+      </shape>
+      <img src="MSetbQxTbocdX2xSC59cvcQxnKc" width="259.14" height="194" topLeftX="340.43" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>渠道下沉难题</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="632.59" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>三四线城市售后服务网络不完善，部分品牌通过“县域体验店”“以旧换新”策略缓解矛盾。</p>
+        </content>
+      </shape>
+      <img src="LKKgbEANNoSk0mxuaeDc9AQAnnh" width="259.14" height="194" topLeftX="632.59" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="TMXObVAgoomPkux3DFxc2yzGnoc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="682.97" height="108.73" topLeftX="48" topLeftY="40.55" type="text">
+        <content textType="headline" fontSize="70" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left">
+          <p>谢谢</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="22" topLeftX="832.05" topLeftY="50.99" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="22" topLeftX="832.05" topLeftY="74.08" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="22" topLeftX="832.05" topLeftY="105.63" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="22" topLeftX="832.05" topLeftY="128.72" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

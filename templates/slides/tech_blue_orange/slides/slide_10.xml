@@ -1,0 +1,69 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="49.62" startY="107.60" endX="49.62" endY="185.60">
+        <border color="rgba(254, 155, 53, 1)" width="1"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>监控与可观测性体系</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Prometheus+Grafana（指标监控）、ELK（日志分析）、SkyWalking（链路追踪）</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="53.07" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术栈组成</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>部署Prometheus监控体系，开发20+自定义Exporter，故障检测时间从2小时缩短至5分钟</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="346.50" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键成果</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>基于业务峰谷设置动态阈值，无效告警减少85%</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="640.07" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>告警策略设计</p>
+        </content>
+      </shape>
+      <img src="AVkVbIJFxoT6ctxRwV3cNN1Kn7b" width="278" height="151.66" topLeftX="48.07" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <img src="SHEmb3o6yocrU2xFYOxcVytKn5b" width="278" height="151.66" topLeftX="341" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <img src="UaYnbwBlPotY5ax8PmvcFItWnIf" width="278" height="151.66" topLeftX="634.07" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <shape width="846.91" height="50" topLeftX="65.16" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>监控是运维的"眼睛"，需构建覆盖指标、日志、链路的全栈可观测性体系（编号11）</p>
+        </content>
+      </shape>
+      <shape width="846.91" height="29" topLeftX="65.16" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>总体概述</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,31 @@
+{
+    "id":  "miaoda/vintage_sleeve",
+    "family":  "miaoda",
+    "name":  "vintage_sleeve",
+    "displayName":  "Vintage Sleeve",
+    "description":  "UI style prompt template for a Vintage Sleeve aesthetic.",
+    "tags":  [
+                 "vintage",
+                 "sleeve",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/vintage_sleeve",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/vintage_sleeve",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/vintage_sleeve/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/vintage_sleeve/gallery-1.png"
+                                ]
+                }
+}

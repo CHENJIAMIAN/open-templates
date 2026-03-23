@@ -1,0 +1,22 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="LQqFb9DDzoQNpPxv6nwcD0Cln8g" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="95.87" height="58.46" topLeftX="432.06" topLeftY="133.98" type="text">
+        <content textType="title" fontSize="43" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="869.97" height="92.53" topLeftX="45.01" topLeftY="203.03" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>第四章 未来规划与价值承诺</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,30 @@
+{
+    "id":  "miaoda/blueprint",
+    "family":  "miaoda",
+    "name":  "blueprint",
+    "displayName":  "Blueprint",
+    "description":  "UI style prompt template for a Blueprint aesthetic.",
+    "tags":  [
+                 "blueprint",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/blueprint",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/blueprint",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/blueprint/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/blueprint/gallery-1.png"
+                                ]
+                }
+}

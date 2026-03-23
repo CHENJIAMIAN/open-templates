@@ -1,0 +1,56 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 244, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="149.25" endX="912" endY="150.25" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48" startY="261.32" endX="912" endY="262.32" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48" startY="373.39" endX="912" endY="374.39" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="165.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>当前人工智能技术正加速渗透各行业，据IDC预测，到2025年全球AI市场规模将达到1500亿美元，其中制造业AI应用占比超过30%。本项目聚焦中小型企业智能化转型需求，精准切入市场空白。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="165.78" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场机遇</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.39" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场机遇与融资需求</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="277.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队核心成员由来自斯坦福大学、中科院等机构的AI专家组成，平均拥有10年以上技术研发与行业落地经验。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="277.85" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队优势</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="389.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>本次计划融资1500万元，资金将主要用于技术研发（40%）、市场推广（30%）、团队建设（20%）及应急储备（10%），预计2027年实现盈亏平衡，2029年营收突破1亿元。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="389.93" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>融资计划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

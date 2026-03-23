@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/slate_formal",
+    "family":  "miaoda",
+    "name":  "slate_formal",
+    "displayName":  "Slate Formal",
+    "description":  "UI style prompt template for a Slate Formal aesthetic.",
+    "tags":  [
+                 "slate",
+                 "formal",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/slate_formal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/slate_formal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/slate_formal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/slate_formal/gallery-1.png"
+                                ]
+                }
+}

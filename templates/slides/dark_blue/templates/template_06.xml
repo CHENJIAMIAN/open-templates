@@ -1,0 +1,113 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="5" type="round-rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="5" type="round-rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="48" topLeftY="121.89" presetHandlers="5" alpha="0.90" type="round-rect">
+      <fill>
+        <fillColor color="rgba(224, 190, 124, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="5" type="round-rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="5" type="round-rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="48" topLeftY="305.99" presetHandlers="5" type="round-rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>个人技术定位与发展历程</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="360.38" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>深耕汽车三电系统与智能驾驶领域6年</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>专业领域</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="651.79" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>从电池系统工程师逐步成长为智能电驱系统技术负责人</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>职业成长</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="69.71" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.902)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>专业方向聚焦"高压系统集成+智能控制算法"交叉领域，形成"系统设计-算法开发-测试验证"的闭环技术能力体系</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术定位</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="360.38" topLeftY="357.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>掌握从需求定义到量产交付的全流程技术能力</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术能力</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="651.79" topLeftY="357.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>累计申请相关专利8项，发表技术论文3篇，参与制定企业标准2项</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>专业成果</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="108" topLeftX="69.71" topLeftY="357.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>经历3个完整产品周期，主导完成2代高压平台开发</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="69.71" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>项目经验</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

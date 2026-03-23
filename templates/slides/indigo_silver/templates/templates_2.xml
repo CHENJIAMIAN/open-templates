@@ -1,0 +1,85 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="C15HbsCSKoIsyQx9oYbcX9lknNW" width="509.75" height="540" topLeftX="450.25" topLeftY="0">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="268.17" height="94.51" topLeftX="75.32" topLeftY="26.06" type="text">
+      <content textType="headline" fontSize="60" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="60">Agenda</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="509.75" height="36" topLeftX="132.62" topLeftY="160.84" type="text">
+      <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="24">Goal achievement overview</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="75.32" topLeftY="156.84" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="16" fontFamily="Inter">1</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="509.75" height="36" topLeftX="132.62" topLeftY="224.07" type="text">
+      <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Key results</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="75.32" topLeftY="220.07" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>2</p>
+      </content>
+    </shape>
+    <shape width="509.75" height="36" topLeftX="132.62" topLeftY="287.31" type="text">
+      <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Lessons learned</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="75.32" topLeftY="283.31" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>3</p>
+      </content>
+    </shape>
+    <shape width="509.75" height="36" topLeftX="132.62" topLeftY="350.54" type="text">
+      <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Blockers</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="75.32" topLeftY="346.54" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="16" fontFamily="Inter">4</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="509.75" height="36" topLeftX="132.62" topLeftY="413.77" type="text">
+      <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>Next-cycle improvements</p>
+      </content>
+    </shape>
+    <shape width="44" height="44" topLeftX="75.32" topLeftY="409.77" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="16" fontFamily="Inter">5</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

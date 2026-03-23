@@ -1,0 +1,42 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="LiYHbm3vVooGFhxGgCZc3BZonig" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="50" bottomOffset="50"/>
+      </img>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" alpha="0.17" type="rect">
+        <fill>
+          <fillColor color="rgba(15, 9, 54, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="599.68" height="169.62" topLeftX="371.36" topLeftY="343.90" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="40" fontFamily="寒蝉锦书宋" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" wrap="false">
+          <p textAlign="left">
+            <span fontFamily="寒蝉锦书宋" bold="false">深色底蕴中保持清晰</span>
+          </p>
+          <p>
+            <span fontFamily="寒蝉锦书宋" bold="false">保持聚焦，让重点在安静处</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉锦书宋" bold="false">完美显现</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="282.10" height="49.67" topLeftX="32.47" topLeftY="31.50" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">页面以层级结构组织信息，使内容在深色背景中保持清晰。适度留白用于调节视觉密度，提升整体阅读体验，形成稳定的排版方式。</p>
+        </content>
+      </shape>
+      <img src="S0yeba6wDo0FlSxWaVlcthtsnjd" width="49.91" height="50.24" topLeftX="875.82" topLeftY="32.50">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

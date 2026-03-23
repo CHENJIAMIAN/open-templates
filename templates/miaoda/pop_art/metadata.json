@@ -1,0 +1,31 @@
+{
+    "id":  "miaoda/pop_art",
+    "family":  "miaoda",
+    "name":  "pop_art",
+    "displayName":  "Pop Art",
+    "description":  "UI style prompt template for a Pop Art aesthetic.",
+    "tags":  [
+                 "pop",
+                 "art",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/pop_art",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/pop_art",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/pop_art/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/pop_art/gallery-1.png"
+                                ]
+                }
+}

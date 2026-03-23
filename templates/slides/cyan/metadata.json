@@ -1,0 +1,31 @@
+{
+  "id": "slides/cyan",
+  "family": "slides",
+  "name": "cyan",
+  "displayName": "Cyan",
+  "description": "Presentation slide template for Cyan.",
+  "tags": [
+    "slides",
+    "presentation",
+    "cyan"
+  ],
+  "sourcePath": "templates/slides/cyan",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/cyan",
+  "preview": {
+    "cover": "showcase/assets/slides/cyan/cover.png",
+    "gallery": [
+      "showcase/assets/slides/cyan/cover.png"
+    ]
+  }
+}

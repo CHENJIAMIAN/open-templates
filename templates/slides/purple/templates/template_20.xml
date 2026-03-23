@@ -1,0 +1,52 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="480" startY="115.57" endX="481" endY="496.63" alpha="0.32">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="390" height="36" topLeftX="55.33" topLeftY="369.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售经理</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="55.18" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标：拓展医疗行业新客户。KR1：Q1完成医疗行业潜在客户调研，形成50家目标客户清单；KR2：带领团队完成20家医疗客户拜访，签约3家，贡献销售额150万元。</p>
+      </content>
+    </shape>
+    <img src="BXxpbS1S0osaJtxmCJ3chtfJnNc" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="260.30" bottomOffset="260.30" presetHandlers="15"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售经理/代表KR示例</p>
+      </content>
+    </shape>
+    <shape width="390" height="36" topLeftX="514.95" topLeftY="369.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售代表</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="514.81" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">目标：个人Q1销售额300万元。KR1：每月完成25家潜在客户拜访，其中10家进入谈判阶段；KR2：老客户复购订单金额达到100万元，占个人总业绩33%；KR3：CRM系统客户信息更新及时率100%，确保跟进效率。</p>
+      </content>
+    </shape>
+    <img src="OmzcbbbfloDQ9exQjiZcedFZn2f" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="204.16" bottomOffset="204.16" presetHandlers="15"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

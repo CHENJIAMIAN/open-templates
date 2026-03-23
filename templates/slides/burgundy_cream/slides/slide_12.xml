@@ -1,0 +1,174 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="283.15" height="540" topLeftX="676.85" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(232, 214, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="193.59" height="80.73" topLeftX="31.57" topLeftY="28.96" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span fontFamily="寒蝉锦书宋" bold="false">内容表现</span>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉锦书宋" bold="false">示例</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="59.50" height="36.78" topLeftX="32.14" topLeftY="151.82" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(23, 16, 71, 1)" fontSize="30" fontFamily="寒蝉锦书宋" bold="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="59.50" height="36.78" topLeftX="371.22" topLeftY="151.86" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(23, 16, 71, 1)" fontSize="30" fontFamily="寒蝉锦书宋" bold="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="266.40" height="51" topLeftX="31.57" topLeftY="237.91" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            用于展示核心信息或关键指标，通过简化结构突出重点。
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="248" height="34" topLeftX="371.22" topLeftY="236" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>适合呈现阶段变化或对比关系，通过清晰的视觉层级。</p>
+        </content>
+      </shape>
+      <line startX="91.14" startY="213.78" endX="284.73" endY="213.78" alpha="0.15">
+        <border width="1"/>
+      </line>
+      <line startX="430.22" startY="211.87" endX="623.31" endY="211.87" alpha="0.15">
+        <border width="1"/>
+      </line>
+      <shape width="67" height="18" topLeftX="32.14" topLeftY="204.78" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+          <p>关注重点</p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="371.22" topLeftY="202.87" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+          <p>变化趋势</p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="32.14" topLeftY="325.36" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontFamily="思源黑体" bold="false">趋势示意</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="707.24" topLeftY="332.36" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontFamily="思源黑体">结果展示</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="223.21" height="51" topLeftX="707.24" topLeftY="94.27" alpha="0.55" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>用于呈现不同方案、状态或结果之间的差异。通过并列结构强化对比关系，使信息更直观易读。</p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="707.24" topLeftY="61.32" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontFamily="思源黑体">对比示例</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="222.95" height="51" topLeftX="707.24" topLeftY="161.84" alpha="0.55" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>用于呈现不同方案、状态或结果之间的差异。通过并列结构强化对比关系，使信息更直观易读。</p>
+        </content>
+      </shape>
+      <chart width="595.72" height="176" topLeftX="11.87" topLeftY="347.65" alpha="0.92" id="bku">
+        <chartPlotArea>
+          <chartPlot type="line">
+            <chartExtra/>
+            <chartLabels value="false" fontSize="10"/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartLine color="rgb(173, 130, 247)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartLine color="rgb(38, 22, 155)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="y" position="left">
+              <chartGridLine/>
+            </chartAxis>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="月份">1 月,2 月,3 月</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="收入">200,135,320</chartField>
+            <chartField name="支出">50,95,155</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle fontSize="12">Q1 收支情况</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+      <chart width="262.42" height="137.84" topLeftX="694.58" topLeftY="374.44" alpha="0.79" id="bZv">
+        <chartPlotArea>
+          <chartPlot type="bar">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(255, 255, 255)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(38, 22, 155)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="y" position="left">
+              <chartGridLine/>
+              <chartLabel fontSize="10"/>
+            </chartAxis>
+            <chartAxis type="x"/>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="销售额">A 店,B店,,</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="食材类">5650,4350,,</chartField>
+            <chartField name="饮品类">7930,7130,,</chartField>
+            <chartField name="">,,,</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle fontSize="12">分店销售额</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(232, 214, 245)"/>
+          <chartBorder color="rgb(232, 214, 245)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

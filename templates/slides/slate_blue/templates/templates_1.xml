@@ -1,0 +1,67 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(244, 242, 235, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="CpApb6xYJoV1vLxmlqFcsGConne" width="960" height="374.71" topLeftX="0" topLeftY="0" exposure="9">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="806.22" bottomOffset="259.07" presetHandlers="0"/>
+    </img>
+    <shape width="878.52" height="167.89" topLeftX="36.57" topLeftY="311.55" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="437" height="94" topLeftX="61.42" topLeftY="333.12" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1.3">
+          <span color="rgba(43, 40, 33, 1)" fontSize="36" fontFamily="Noto Serif SC Medium">于烟火日常中 </span>
+          <br/>
+          <span color="rgba(43, 40, 33, 1)" fontSize="36" fontFamily="Noto Serif SC Medium">寻得诗意与远方。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="46" height="20" topLeftX="702.63" topLeftY="438.04" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span color="rgba(139, 136, 125, 1)" fontSize="14" fontFamily="Noto Serif SC Light">2026</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="340.28" height="23.85" topLeftX="43.57" topLeftY="498.57" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(155, 151, 134, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left">
+        <p textAlign="left">
+          <span color="rgba(155, 151, 134, 1)" fontSize="14" fontFamily="Noto Serif SC Light">风遇山止，船到岸停，而我们与美好撞个满怀</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="22" height="20" topLeftX="869.67" topLeftY="438.04" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span color="rgba(139, 136, 125, 1)" fontSize="14" fontFamily="Noto Serif SC Light">02</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="761.15" startY="447.85" endX="861.35" endY="448.85" alpha="0.29">
+      <border color="rgba(105, 102, 88, 1)" width="1"/>
+    </line>
+    <shape width="23.85" height="23.85" topLeftX="915.09" topLeftY="287.70" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content paddingRight="1" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="340.28" height="20.26" topLeftX="568.81" topLeftY="498.57" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(155, 151, 134, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right">
+        <p textAlign="right">
+          <span color="rgba(155, 151, 134, 1)" fontSize="14" fontFamily="Noto Serif SC Light">演讲人</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

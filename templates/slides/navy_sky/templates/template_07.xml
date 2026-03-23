@@ -1,0 +1,49 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="868.57" height="46" topLeftX="47.55" topLeftY="47.71" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心项目推进成果</p>
+      </content>
+    </shape>
+    <shape width="342.69" height="36" topLeftX="573.41" topLeftY="117.20" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>流程优化专项</p>
+      </content>
+    </shape>
+    <shape width="342.90" height="84" topLeftX="573.41" topLeftY="150.60" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>梳理12个核心业务流程，识别并消除冗余环节15处，使平均处理时长从5天压缩至2天，支撑业务响应速度提升40%</p>
+      </content>
+    </shape>
+    <shape width="342.69" height="36" topLeftX="573.41" topLeftY="372.19" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场拓展计划</p>
+      </content>
+    </shape>
+    <shape width="342.90" height="84" topLeftX="573.41" topLeftY="405.59" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>通过精准定位目标客户，完成80家中小企业签约，开拓了新的业绩增长点</p>
+      </content>
+    </shape>
+    <shape width="342.69" height="36" topLeftX="573.41" topLeftY="244.76" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>系统升级项目</p>
+      </content>
+    </shape>
+    <shape width="342.90" height="84" topLeftX="573.41" topLeftY="278.16" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>联合技术部门完成需求调研3轮、功能开发6项，于Q3实现系统上线，覆盖80%业务场景，操作步骤减少40%</p>
+      </content>
+    </shape>
+    <img src="MnfFbcoBZo7SeJxoawxc397wnKe" width="494" height="371.38" topLeftX="47.55" topLeftY="118.20">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="143.64" bottomOffset="143.64" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

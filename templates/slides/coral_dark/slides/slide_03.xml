@@ -1,0 +1,67 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(109, 48, 24, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="Eg1xbJqH4oCyTSx0GuscCS9QnBc" width="128.25" height="20.54" topLeftX="69.20" topLeftY="54.52">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="415" height="30" topLeftX="69.20" topLeftY="437.11" alpha="0.70" type="text">
+        <content fontSize="20" color="rgba(255, 183, 131, 1)" letterSpacing="0.6" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 183, 131, 1)" fontSize="20" fontFamily="slide-font-0bcb5ad8d633c4afbe28e01320e78eb8">营收同比增长 26%，达历史新高</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="115" height="90" topLeftX="505.60" topLeftY="54.52" alpha="0.60" type="text">
+        <content fontSize="12" color="rgba(255, 210, 146, 1)" letterSpacing="0.7" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">增⻓引擎 I：</span>
+          </p>
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">⾼价值客户群体的加速增⻓。⾼端客户成为年度经常性收⼊的核⼼驱动⼒</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="115" height="90" topLeftX="653.77" topLeftY="54.52" alpha="0.60" type="text">
+        <content fontSize="12" color="rgba(255, 210, 146, 1)" letterSpacing="0.7" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">增⻓引擎 II：</span>
+          </p>
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">多产品战略提前实现 ARR 目标，人工智能驱动的营销活动管理得到成效</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="115" height="90" topLeftX="801.95" topLeftY="54.52" alpha="0.60" type="text">
+        <content fontSize="12" color="rgba(255, 210, 146, 1)" letterSpacing="0.7" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">增⻓引擎 III：</span>
+          </p>
+          <p>
+            <span color="rgba(255, 210, 146, 1)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">以 AI 驱动的创新重塑工作新的工作方式。简化 AI 定价，扩展 AI 的能力</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="94" height="240" topLeftX="62.35" topLeftY="234.77" type="text">
+        <content fontSize="160" color="rgba(255, 183, 131, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 183, 131, 1)" fontSize="160" fontFamily="slide-font-0bddbb37ace2432f444ec676195a676f" bold="false">3</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="280" height="210" topLeftX="163.35" topLeftY="243.11" type="text">
+        <content fontSize="140" color="rgba(255, 183, 131, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 183, 131, 1)" fontSize="140" fontFamily="slide-font-fc43b2186b72ca2dd4f7289e27aedfa5">亿</span>
+            <span color="rgba(255, 183, 131, 1)" fontSize="60" fontFamily="slide-font-fc43b2186b72ca2dd4f7289e27aedfa5">美元</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

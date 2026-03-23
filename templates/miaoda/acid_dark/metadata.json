@@ -1,0 +1,31 @@
+{
+    "id":  "miaoda/acid_dark",
+    "family":  "miaoda",
+    "name":  "acid_dark",
+    "displayName":  "Acid Dark",
+    "description":  "UI style prompt template for a Acid Dark aesthetic.",
+    "tags":  [
+                 "acid",
+                 "dark",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/acid_dark",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/acid_dark",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/acid_dark/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/acid_dark/gallery-1.png"
+                                ]
+                }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "slides/slate_blue",
+  "family": "slides",
+  "name": "slate_blue",
+  "displayName": "Slate Blue",
+  "description": "Presentation slide template for Slate Blue.",
+  "tags": [
+    "slides",
+    "presentation",
+    "slate",
+    "blue"
+  ],
+  "sourcePath": "templates/slides/slate_blue",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/slate_blue",
+  "preview": {
+    "cover": "showcase/assets/slides/slate_blue/cover.png",
+    "gallery": [
+      "showcase/assets/slides/slate_blue/cover.png"
+    ]
+  }
+}

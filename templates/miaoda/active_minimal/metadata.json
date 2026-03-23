@@ -1,0 +1,32 @@
+{
+    "id":  "miaoda/active_minimal",
+    "family":  "miaoda",
+    "name":  "active_minimal",
+    "displayName":  "Active Minimal",
+    "description":  "UI style prompt template for a Active Minimal aesthetic.",
+    "tags":  [
+                 "active",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/active_minimal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/active_minimal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/active_minimal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/active_minimal/gallery-1.png"
+                                ]
+                }
+}

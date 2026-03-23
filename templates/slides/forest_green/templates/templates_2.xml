@@ -1,0 +1,88 @@
+<slide>
+  <style/>
+  <data>
+    <img src="JRZcbNyJXoqR0WxzNW5cIuoFnoc" width="285.09" height="540" topLeftX="674.91" topLeftY="0" temperature="-39">
+      <crop type="rect" leftOffset="446.65" rightOffset="231.43" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <shape width="80" height="60" topLeftX="40.81" topLeftY="33.79" type="text">
+      <content textType="title" fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p textAlign="left">
+          <span color="rgba(42, 45, 26, 1)" fontSize="40" fontFamily="思源宋体" bold="false">目录</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="209" height="24" topLeftX="45.76" topLeftY="140.25" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="18">清韵入墨 · 意在无形</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="637" height="16" topLeftX="45.76" topLeftY="173.36" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="12">本页用于展示整体背景、设计灵感或主题概念，以轻柔的图像与文字开场，营造东方雅意。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="46.26" topLeftY="341.10" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">01 自然之源</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="46.26" topLeftY="389.97" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">02 东方审美</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="46.26" topLeftY="438.83" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">03 材质与气息</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="240.83" topLeftY="340.79" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">04 使用场景</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="240.83" topLeftY="390.68" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">05 延展应用</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="240.83" topLeftY="438.83" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">06 东方审美</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="435.40" topLeftY="341.10" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">09 材质与气息</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="133" height="21" topLeftX="435.40" topLeftY="389.97" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(42, 45, 26, 1)" fontSize="16">10 色彩体系</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

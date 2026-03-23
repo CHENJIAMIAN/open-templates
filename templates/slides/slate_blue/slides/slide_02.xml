@@ -1,0 +1,102 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="394.62" height="541.35" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(244, 242, 235, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="196" height="34" topLeftX="50.03" topLeftY="53.80" alpha="0.75" type="text">
+        <content textType="sub-headline" fontSize="24" fontFamily="Noto Serif SC SemiBold" color="rgba(172, 159, 102, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(172, 159, 102, 1)" fontSize="24">2026</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="303" height="51" topLeftX="50.03" topLeftY="89.90" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>一纸清欢 半盏流年</p>
+        </content>
+      </shape>
+      <img src="OykNb26BnoWtF3xS7iicvG40n1f" width="394.62" height="263.08" topLeftX="50.03" topLeftY="212.92" exposure="15">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="394.62" height="99.49" topLeftX="515.38" topLeftY="65.69" alpha="0.50" type="text">
+        <content verticalAlign="top" textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4">
+          <p>
+            <span fontSize="14" fontFamily="Noto Serif SC Light">当喧嚣褪去，我们与文字相拥，与时光对坐。在诗与远方的憧憬里，在柴米油盐的烟火中，拾取散落的美好，编织成属于自己的温暖篇章。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="515.38" topLeftY="270" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="18">初心・邂逅・回响</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="515.38" topLeftY="327.75" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>素笺・浅墨・流年</p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="515.38" topLeftY="385.51" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>遇见・铭记・珍藏</p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="515.38" topLeftY="443.26" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>诗意・生活・远方</p>
+        </content>
+      </shape>
+      <line startX="515.38" startY="303.22" endX="910.50" endY="303.22" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="515.38" startY="360.98" endX="910.50" endY="360.98" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="515.38" startY="418.73" endX="910.50" endY="418.73" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="515.38" startY="476.48" endX="910.50" endY="476.48" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="214" height="26" topLeftX="692.14" topLeftY="270" alpha="0.28" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" italic="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontSize="18" italic="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="692.14" topLeftY="327.75" alpha="0.28" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" italic="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontSize="18" italic="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="692.14" topLeftY="385.51" alpha="0.28" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" italic="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontSize="18" italic="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="26" topLeftX="692.14" topLeftY="443.26" alpha="0.28" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" italic="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span fontSize="18" italic="false">04</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

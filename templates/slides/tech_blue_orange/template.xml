@@ -1,0 +1,1338 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>运维工程师个人专业资料介绍</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="M1svbyZVOo0yHrxBR9vcGxxnndc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.99" startY="443.24" endX="54.99" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="179.05" startY="443.24" endX="180.05" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="432" height="257.76" topLeftX="51" topLeftY="61.70" type="text">
+        <content textType="headline" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人资料介绍</p>
+        </content>
+      </shape>
+      <shape width="98.80" height="24" topLeftX="66.84" topLeftY="441.39" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="98.80" height="31.89" topLeftX="66.84" topLeftY="462.48" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="191.89" topLeftY="440.40" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="191.89" topLeftY="461.49" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="144.80" endX="914.24" endY="144.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="XSKwbUsAUoRfyHxO6hhcrgyvnAg" width="405" height="540" topLeftX="0" topLeftY="0" saturation="12">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="70.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="490.05" topLeftY="171.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>个人基础信息</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="171.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="490.05" topLeftY="223.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>核心技能矩阵</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="223.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="490.05" topLeftY="275.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>工作与项目经验</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="275.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="490.05" topLeftY="327.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>职业发展与认证</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="327.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="490.05" topLeftY="380.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>自我评价与差异化优势</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="380.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Rf4wbcTkZowdiwxW7n3cEkVmnLm" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="754.04" height="86" topLeftX="151.14" topLeftY="42.69" type="text">
+        <content textType="headline" fontSize="64" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人基础信息</p>
+        </content>
+      </shape>
+      <shape width="104.36" height="86" topLeftX="42.78" topLeftY="37.69" alpha="0.38" type="text">
+        <content textType="title" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>01</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人概况与联系方式</p>
+        </content>
+      </shape>
+      <img src="Y93EbYnxWorW4hxESqBcc7rMnMg" width="404.90" height="540" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="0.05" rightOffset="0.05" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>基本信息</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>姓名、性别、年龄、籍贯、现居地等基础信息是个人资料的首要组成部分。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>联系方式</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>根据行业规范，需包含有效联系方式（电话、邮箱）及现居地，便于招聘方快速建立联系。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>专业平台账号</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>若有专业技术平台账号（如GitHub、LinkedIn），建议补充链接以展示技术实践成果。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="325.52" startY="136.73" endX="325.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="634.52" startY="136.73" endX="634.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育背景与学术成就</p>
+        </content>
+      </shape>
+      <shape width="234" height="36" topLeftX="53.77" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育经历要点</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="53.77" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育经历应突出专业相关性与实践能力。参考行业最佳实践，需包含学历、毕业院校、专业及学习期间的学术成果。</p>
+        </content>
+      </shape>
+      <img src="JdzEboMMVo2McaxXIyUcVVvsnFh" width="245.55" height="138" topLeftX="48" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="4"/>
+      </img>
+      <shape width="234" height="36" topLeftX="363" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>学术成果示例</p>
+        </content>
+      </shape>
+      <img src="PsnKbxxoNoBXMIxs0lucArsAnng" width="245.55" height="138" topLeftX="357.23" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="4"/>
+      </img>
+      <shape width="234" height="36" topLeftX="672.23" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>知识广度体现</p>
+        </content>
+      </shape>
+      <img src="Ih9ybou3Ion8zRxorm5cf5Aenfj" width="245.55" height="138" topLeftX="666.45" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="4"/>
+      </img>
+      <shape width="234" height="138" topLeftX="363" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>例如某知名大学计算机科学与技术专业背景，可强调"连续四年获得奖学金，全国大学生计算机应用大赛省赛一等奖"等竞赛经历，以及"校园网数据库优化项目，将查询速度提升50%"的实践成果。</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="672.23" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨专业课程学习（如网络安全、云计算）也应提及，以体现知识广度。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.19" height="222.73" topLeftX="470.68" topLeftY="210.37" rotation="45" path="M0,0 L3.7527233450977606,0.18927068071872485 C60.16957868409219,5.91221600483322 104.1948471011565,53.50368639088874 104.1948471011565,111.3660780356142 C104.1948471011565,169.22846968033966 60.16957868409219,216.8199400663952 3.7527233450977606,222.54279556104566 L0,222.7321560712284 L0,182.2309252813423 L6.6977904735633365,181.20983376367272 C39.221512717004,174.56209410733268 63.687110380359975,145.81792322908782 63.687110380359975,111.3660780356142 C63.687110380359975,76.91423284214058 39.221512717004,48.169972134431696 6.6977904735633365,41.522232478091624 L0,40.50114096042208 L0,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="105.45" height="222.51" topLeftX="383.48" topLeftY="123.95" rotation="45" path="M105.44666921479809,0 L105.44666921479809,40.72580444997003 L100.80199449938436,41.41057445429791 C67.17585137052004,48.05831411063797 41.88092497443265,76.80221550049072 41.88092497443265,111.25379120557226 C41.88092497443265,145.70527708118976 67.17585137052004,174.4491784710425 100.80199449938436,181.09691812738257 L105.44666921479809,181.7817779611745 L105.44666921479809,222.5075824111445 L103.84692979930303,222.42952060689936 C45.51762623809293,216.70666511224888 0,169.11564387351353 0,111.25379120557226 C0,53.39193853763099 45.51762623809293,5.800917298895632 103.84692979930303,0.07797197478113582 L105.44666921479809,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="119" height="119" topLeftX="419.98" topLeftY="218.88" rotation="45" alpha="0.28" type="ellipse">
+        <border color="rgba(254, 155, 53, 1)" dashArray="dash" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <shape width="290.84" height="35" topLeftX="47.80" topLeftY="152.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>职业定位要求</p>
+        </content>
+      </shape>
+      <shape width="290.75" height="160" topLeftX="47.80" topLeftY="185.19" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>职业定位需清晰具体，体现对岗位的理解与规划。参考模板示例，可表述为："致力于成为技术全面的系统稳定性专家，专注于云原生架构与智能运维（AIOps）方向，通过自动化与AI技术提升系统可靠性与业务支撑能力"。</p>
+        </content>
+      </shape>
+      <shape width="291.74" height="35" topLeftX="620.06" topLeftY="303.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业趋势认知</p>
+        </content>
+      </shape>
+      <shape width="291.50" height="160" topLeftX="620.06" topLeftY="336.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>此部分需结合行业趋势，展示对运维领域从"基础保障"向"价值创造"转型的认知。</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>职业定位与发展愿景</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="303.07" startY="305.88" endX="303.07" endY="465.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="306.38" endX="959.86" endY="306.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="298.07" topLeftY="301.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <line startX="56.27" startY="151.99" endX="56.27" endY="311.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="51.27" topLeftY="302.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <line startX="552.79" startY="152.99" endX="552.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="547.79" topLeftY="301.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心优势概览</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="324.79" topLeftY="337.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>效率提升</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="324.79" topLeftY="373.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过自动化工具将部署效率提升40%</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="76.73" topLeftY="152.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术深度</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="76.73" topLeftY="187.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>10年运维经验，主导5个千万级用户系统架构；Linux内核调优、Kubernetes集群管理、AI故障预测（准确率93%）</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="573.25" topLeftY="152.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>业务价值</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="573.25" topLeftY="187.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>优化系统响应时间，支撑业务日活增长30%；互联网与制造业双领域实践，覆盖核心业务系统与企业级私有云</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="IPztbZphLon7SdxQwlncKJpInIc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="754.04" height="86" topLeftX="151.14" topLeftY="42.69" type="text">
+        <content textType="headline" fontSize="64" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心技能矩阵</p>
+        </content>
+      </shape>
+      <shape width="104.36" height="86" topLeftX="42.78" topLeftY="37.69" alpha="0.38" type="text">
+        <content textType="title" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270" presetHandlers="16" alpha="0.90" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0" presetHandlers="16" alpha="0.70" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90" presetHandlers="16" alpha="0.50" type="round1rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>自动化运维与工具链</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>配置管理工具</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>需熟练使用Ansible、Puppet等配置管理工具，如"基于Ansible开发15个模块化Playbook，实现100+节点批量配置，人工操作减少75%"</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>自动化脚本开发</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>掌握Python/Shell编写自动化脚本的能力，实现运维流程自动化</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>CI/CD流水线</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>使用Jenkins、Git实现CI/CD流水线，提升开发部署效率</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>基础设施即代码</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>应用Terraform等IaC工具，如"通过Terraform实现多云资源编排，资源交付周期从7天缩短至4小时"</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="49.62" startY="107.60" endX="49.62" endY="185.60">
+        <border color="rgba(254, 155, 53, 1)" width="1"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>监控与可观测性体系</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Prometheus+Grafana（指标监控）、ELK（日志分析）、SkyWalking（链路追踪）</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="53.07" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术栈组成</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>部署Prometheus监控体系，开发20+自定义Exporter，故障检测时间从2小时缩短至5分钟</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="346.50" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键成果</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="400.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>基于业务峰谷设置动态阈值，无效告警减少85%</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="640.07" topLeftY="366.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>告警策略设计</p>
+        </content>
+      </shape>
+      <img src="AVkVbIJFxoT6ctxRwV3cNN1Kn7b" width="278" height="151.66" topLeftX="48.07" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <img src="SHEmb3o6yocrU2xFYOxcVytKn5b" width="278" height="151.66" topLeftX="341" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <img src="UaYnbwBlPotY5ax8PmvcFItWnIf" width="278" height="151.66" topLeftX="634.07" topLeftY="206.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="4"/>
+      </img>
+      <shape width="846.91" height="50" topLeftX="65.16" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>监控是运维的"眼睛"，需构建覆盖指标、日志、链路的全栈可观测性体系（编号11）</p>
+        </content>
+      </shape>
+      <shape width="846.91" height="29" topLeftX="65.16" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>总体概述</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="TYfGbPW4YodYHGxiUTRc9lvhn5g" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.36" height="86" topLeftX="42.78" topLeftY="37.69" alpha="0.38" type="text">
+        <content textType="title" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="754.04" height="86" topLeftX="151.14" topLeftY="42.69" type="text">
+        <content textType="headline" fontSize="64" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>工作与项目经验</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="388.40" height="45" topLeftX="48.27" topLeftY="47.57" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>互联网行业运维实践</p>
+        </content>
+      </shape>
+      <img src="YcIobPUUKoZdhtxYQxscz5iGnhh" width="388.40" height="374.89" topLeftX="48.27" topLeftY="116.85">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="6.76" bottomOffset="6.76" presetHandlers="11"/>
+      </img>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="79.14" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>突出高并发场景的系统保障能力，可描述"负责日活5000万电商平台运维，保障双11期间99.99%可用性"</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="52.18" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>高并发场景保障</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="70" topLeftX="477" topLeftY="192" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>具体工作包括服务器部署、监控告警、故障处理（编号1、6）</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="165.04" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心工作内容</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="300.86" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>独立负责核心业务系统运维，将故障响应时间缩短至30分钟以内，运维效率提升30%（编号1）</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="273.90" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>量化关键成果</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="413.72" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Linux系统、MySQL/Oracle数据库、Zabbix监控等，体现基础能力扎实（编号1）</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="386.76" type="text">
+        <content fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术栈能力</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>制造业企业级项目</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>主导企业级私有云平台建设，实现业务系统高可用与弹性伸缩，涵盖服务器、网络、存储、安全全栈运维</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>基础设施建设</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>国家级科研项目参与经历，节省大量运维成本</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>业务价值</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>IT安全防护体系建立，降低网络攻击风险</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>安全贡献</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心能力要求</p>
+        </content>
+      </shape>
+      <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>制造业项目需展示大规模基础设施的建设与管理能力，体现跨团队协作与全局规划能力</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="427" height="172.98" topLeftX="48" topLeftY="146.61" presetHandlers="5" alpha="0.20" type="rect">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="48" topLeftY="329.25" presetHandlers="5" alpha="0.20" type="rect">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="485" topLeftY="146.61" presetHandlers="5" alpha="0.20" type="rect">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="485" topLeftY="329.25" presetHandlers="5" alpha="0.20" type="rect">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="378" height="48" topLeftX="71.06" topLeftY="160.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(254, 155, 53, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">30分钟</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="71.86" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>开发服务器自动化部署平台，基于PXE+Kickstart实现标准化装机，单台部署时间从4小时压缩至30分钟</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="71.86" topLeftY="208.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">单台部署时间</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="71.06" topLeftY="343.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(254, 155, 53, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">80+</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="71.86" topLeftY="419.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>引入Ansible自动化工具，编写80+Playbook覆盖配置管理与部署</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="71.86" topLeftY="390.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">Playbook数量</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="508.06" topLeftY="160.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(254, 155, 53, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">800小时</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="508.86" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全年减少人工操作800小时</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="508.86" topLeftY="208.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">减少人工操作</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="508.06" topLeftY="343.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(254, 155, 53, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">98%</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="508.86" topLeftY="419.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>配置一致性从60%提升至98%</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="508.86" topLeftY="390.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">配置一致性</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="34.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>自动化与效率提升项目</p>
+        </content>
+      </shape>
+      <shape width="864.20" height="49" topLeftX="47.87" topLeftY="86.46" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自动化项目是运维价值提升的核心证明。需强调工具选型逻辑（如Ansible适合配置管理）与量化收益（效率提升百分比、成本节约金额）。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="SRlkbvoZNoMyj7xeG8ncq7I5nqd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="754.04" height="86" topLeftX="151.14" topLeftY="42.69" type="text">
+        <content textType="headline" fontSize="64" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>职业发展与认证</p>
+        </content>
+      </shape>
+      <shape width="104.36" height="86" topLeftX="42.78" topLeftY="37.69" alpha="0.38" type="text">
+        <content textType="title" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.10" topLeftY="204.57" iconType="iconpark/Base/equalizer.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="204.84" rotation="0" iconType="iconpark/Office/find-one.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.78" topLeftY="336.29" rotation="0" iconType="iconpark/Health/safe-retrieval.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="336.56" rotation="0" iconType="iconpark/Travel/local.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>持续学习与培训经历</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>技术迭代能力体现</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>持续学习体现技术迭代能力，需列举针对性培训并说明学习成果。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>学习成果示例</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>通过AWS云服务培训，获得AWS Certified DevOps Engineer认证（编号6）。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心培训课程</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>Linux系统管理进阶课程、云计算基础培训、AI运维（AIOps）实战训练营（编号1、6）。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业趋势补充培训</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>低代码开发平台（搭贝）培训，掌握设备管理应用快速构建（编号9）；Service Mesh技术专题培训，深化云原生架构认知（编号8）。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="342.95" height="95.51" topLeftX="42.07" topLeftY="347.70" path="M342.9508200963337,95.50723605181165 L0,95.50723605181165 L50.18784463001808,7.772650490936212 C52.944284227574826,2.9604493975254136 58.057447322027855,-0.004288753259666845 63.59116791646229,0 L279.35965217987143,0 C284.88997233546934,-0.002199360645982997 289.99885745848275,2.962538790139097 292.75189661720293,7.772650490936212 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="4" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="226.18" height="95.51" topLeftX="100.48" topLeftY="245.59" path="M226.18402841983422,95.50723605181165 L0,95.50723605181165 L51.26479651703356,5.9011045492369805 C53.353104728991276,2.2480764842915204 57.23234729206956,-0.004288753259666845 61.431998946813394,0 L164.73009115794616,0 C168.92645206542878,-0.002199360645982997 172.80240388124588,2.2492861326468114 174.886434121764,5.9011045492369805 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="6" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="109.25" height="89.62" topLeftX="158.89" topLeftY="149.37" path="M109.25291876342546,89.62405629183944 L0,89.62405629183944 L49.56655154710346,2.946263521358823 C51.163551192963965,0.14295844198889482 54.72424942115807,-0.830698515987778 57.518532612218614,0.7717556506754337 C58.4218427354181,1.2894851467398314 59.1703780457658,2.0403468712784267 59.686367216322004,2.946263521358823 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技能升级路径</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="35" topLeftX="307.92" topLeftY="146.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>高级阶段（5年+）</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="60" topLeftX="307.92" topLeftY="177.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>云原生架构、CI/CD流水线、大规模集群管理</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="35" topLeftX="360.90" topLeftY="245.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>中级阶段（3-5年）</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="60" topLeftX="360.90" topLeftY="276.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Ansible自动化、Docker容器化、高可用架构设计</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="35" topLeftX="416.92" topLeftY="352.08" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>初级阶段（1-3年）</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="60" topLeftX="416.92" topLeftY="383.08" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Linux基础、监控工具（Zabbix）、简单脚本编写</p>
+        </content>
+      </shape>
+      <shape width="44.74" height="55" topLeftX="191.18" topLeftY="177.11" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="28" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="265.85" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="364.08" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="霞鹜 975 圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47" startY="144.05" endX="90.76" endY="144.05">
+        <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="346.38" startY="144.05" endX="390.14" endY="144.05" alpha="0.30">
+        <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="645.77" startY="144.05" endX="689.52" endY="144.05" alpha="0.30">
+        <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="196.69" startY="324.54" endX="240.45" endY="324.54" alpha="0.30">
+        <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="496.07" startY="324.54" endX="539.83" endY="324.54" alpha="0.30">
+        <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业趋势与技术适配</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>云原生深化</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="48" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Kubernetes Operator、Service Mesh（编号7、8）</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>智能化转型</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="347.38" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AIOps、大模型故障预测（编号10）</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>安全左移</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="646.77" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>容器安全扫描、零信任架构（编号10）</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AIOps应用案例</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关注AIOps趋势，学习LSTM故障预测模型，将故障预测准确率提升至93%（编号6）</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>边缘计算与5G协同</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>研究边缘计算与5G协同，参与企业边缘节点部署方案设计（编号9）</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="IPztbZphLon7SdxQwlncKJpInIc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="754.04" height="86" topLeftX="151.14" topLeftY="42.69" type="text">
+        <content textType="headline" fontSize="64" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自我评价与差异化优势</p>
+        </content>
+      </shape>
+      <shape width="104.36" height="86" topLeftX="42.78" topLeftY="37.69" alpha="0.38" type="text">
+        <content textType="title" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="51.02" startY="105.77" endX="52.02" endY="187.77" alpha="0.22">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="210.46" endX="52.02" endY="292.46" alpha="0.22">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="315.59" endX="52.02" endY="397.59" alpha="0.22">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="420.73" endX="52.02" endY="502.73" alpha="0.22">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="461.12" height="48" topLeftX="48.47" topLeftY="42.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人能力总结</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="135.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自我评价需凝练核心竞争力，避免泛泛而谈。参考模板，可从技术深度、业务理解、团队协作三方面总结。</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="100.72" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>自我评价原则</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="239.86" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>10年运维老兵，擅长从业务视角设计技术方案，主导5个千万级用户系统高可用架构，云原生与智能运维领域有深度实践。</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="205.41" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术与业务能力</p>
+        </content>
+      </shape>
+      <img src="MTAGbZTs6oqzrNxHCxLcZA1nnDe" width="404" height="540" topLeftX="556" topLeftY="0">
+        <crop type="rect" leftOffset="0.50" rightOffset="0.50" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="345" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨团队协作能力突出，曾推动开发-运维-测试三方协作效率提升60%。</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="310.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队协作能力</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="450.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过5Why分析法定位根因，平均故障恢复时间（MTTR）缩短至15分钟。</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="415.68" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>问题解决能力</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42" height="42" topLeftX="50.04" topLeftY="168.85" iconType="iconpark/Charts/chart-proportion.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="272.04" topLeftY="168.85" iconType="iconpark/Connect/connection-point-two.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="494.04" topLeftY="168.85" iconType="iconpark/Health/pure-natural.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="716.04" topLeftY="168.85" iconType="iconpark/Edit/minus-the-bottom.svg">
+        <border color="rgba(254, 155, 53, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>行业趋势契合度</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="48" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术方向与行业演进一致性</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="48" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>趋势契合需展示技术方向与行业演进的一致性。当前运维正从"被动响应"向"主动预测"、从"人工操作"向"自动化/智能化"转型（编号8、10）。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="270" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>AIOps与云原生融合实践</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="270" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>专注AIOps与云原生融合，通过机器学习模型将故障预测准确率提升至93%，契合智能运维趋势（编号6）。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="492" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Kubernetes与微服务架构实践</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="492" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>深入Kubernetes集群管理，参与企业微服务改造，符合容器化与微服务架构趋势（编号7）。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="714" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术适配创造企业价值</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="714" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>应用混沌工程验证系统韧性，支撑业务连续性目标（编号8）。需说明如何通过技术适配为企业创造价值。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Ula8bbVswoQg6KxicgScFLZhn6d" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.99" startY="443.24" endX="49.99" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="174.05" startY="443.24" endX="175.05" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="446.97" height="234.87" topLeftX="48" topLeftY="84.59" type="text">
+        <content textType="headline" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢您的时间</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="61.84" topLeftY="441.39" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="31.89" topLeftX="61.84" topLeftY="462.48" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="186.89" topLeftY="440.40" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="186.89" topLeftY="461.49" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/lumina-attendance",
+    "family":  "webpage",
+    "name":  "lumina-attendance",
+    "displayName":  "Lumina Attendance",
+    "description":  "A dashboard-style attendance tracking webpage template.",
+    "tags":  [
+                 "attendance",
+                 "dashboard",
+                 "saas"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/lumina-attendance",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/lumina-attendance",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/lumina-attendance/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/lumina-attendance/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

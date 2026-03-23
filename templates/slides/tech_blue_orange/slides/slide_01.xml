@@ -1,0 +1,43 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="M1svbyZVOo0yHrxBR9vcGxxnndc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.99" startY="443.24" endX="54.99" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <line startX="179.05" startY="443.24" endX="180.05" endY="489.24" alpha="0.16">
+        <border width="1"/>
+      </line>
+      <shape width="432" height="257.76" topLeftX="51" topLeftY="61.70" type="text">
+        <content textType="headline" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人资料介绍</p>
+        </content>
+      </shape>
+      <shape width="98.80" height="24" topLeftX="66.84" topLeftY="441.39" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="98.80" height="31.89" topLeftX="66.84" topLeftY="462.48" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="191.89" topLeftY="440.40" type="text">
+        <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="191.89" topLeftY="461.49" type="text">
+        <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(126, 140, 150, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

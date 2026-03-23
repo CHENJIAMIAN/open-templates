@@ -1,0 +1,46 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(252, 249, 245, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="480" startY="115.57" endX="481" endY="496.63" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="390" height="36" topLeftX="55.33" topLeftY="366.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心特征</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="55.18" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>小点构建整体形象，视觉混合色彩。</p>
+      </content>
+    </shape>
+    <img src="SOlPbh1t8oW1zcxaTwUcLHe6nTg" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+    </img>
+    <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>点彩派</p>
+      </content>
+    </shape>
+    <shape width="390" height="36" topLeftX="514.95" topLeftY="366.45" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>推荐图片</p>
+      </content>
+    </shape>
+    <shape width="390" height="90" topLeftX="514.81" topLeftY="407.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>修拉《大碗岛的星期天下午》（密集彩色小点组成的公园场景），搜索关键词：Georges Seurat A Sunday on La Grande Jatte</p>
+      </content>
+    </shape>
+    <img src="R5ASbyHjjokiBsx5xUbcIzxGngg" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,49 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="JJ9ZbcgUtoiYsCxY7yQc96aQncg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6.03" topLeftX="43.31" topLeftY="426.37" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="6" height="6.03" topLeftX="43.31" topLeftY="467.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="372.17" height="295.81" topLeftX="43.31" topLeftY="57.30" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(27, 75, 135, 1)" bold="false" lineSpacing="multiple:1.2" autoFit="normal-auto-fit">
+          <p>产品调研方法与实践</p>
+        </content>
+      </shape>
+      <shape width="63.68" height="32.14" topLeftX="60.37" topLeftY="416.23" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(22, 69, 128, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="198" height="32.14" topLeftX="147.86" topLeftY="416.23" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(22, 69, 128, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="77.53" height="32.14" topLeftX="60.37" topLeftY="456.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(22, 69, 128, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="198" height="32.14" topLeftX="147.86" topLeftY="456.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(22, 69, 128, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,92 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>专利与技术改进成果</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="650.07" topLeftY="135.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>3款</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="650.07" topLeftY="213.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>"基于模型预测控制的扭矩分配方法"被纳入企业核心技术库，已在3款车型上应用</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="650.07" topLeftY="184.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>车型应用</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="349" topLeftY="135.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>25%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="349" topLeftY="213.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>"一种高集成度电池包液冷结构"专利实现冷却效率提升25%，重量减轻15%</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="349" topLeftY="184.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>冷却效率提升</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="48.07" topLeftY="135.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>12项</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="48.07" topLeftY="213.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>累计申请发明/实用新型专利12项</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="48.07" topLeftY="184.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>专利申请</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="499.46" topLeftY="316.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>15%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="499.46" topLeftY="394.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>采用新型复合材料实现车身重量减轻15%，保持结构强度不变</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="499.46" topLeftY="365.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>车身减重</p>
+      </content>
+    </shape>
+    <shape width="262" height="50" topLeftX="198.54" topLeftY="316.29" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+        <p>40%</p>
+      </content>
+    </shape>
+    <shape width="262" height="90" topLeftX="198.54" topLeftY="394.47" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>创新开发低VOC排放的涂装工艺，VOC排放降低40%，同时提升涂层耐久性30%</p>
+      </content>
+    </shape>
+    <shape width="262" height="30.67" topLeftX="198.54" topLeftY="365.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>VOC排放降低</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

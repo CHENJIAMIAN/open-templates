@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="QOzlbn7cuo8KZmxuJudcWAzinte" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="695.36" height="106.09" topLeftX="51.88" topLeftY="413.22" type="text">
+      <content textType="headline" fontSize="64" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>感谢关注</p>
+      </content>
+    </shape>
+    <shape width="112.85" height="24" topLeftX="51.88" topLeftY="320.93" type="text">
+      <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="112.85" height="31.89" topLeftX="51.88" topLeftY="345.02" type="text">
+      <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="819.77" topLeftY="427.22" type="text">
+      <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="112.85" height="31.89" topLeftX="794.34" topLeftY="450.66" type="text">
+      <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>2026-01-09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

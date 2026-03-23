@@ -1,0 +1,32 @@
+{
+    "id":  "miaoda/minimal-jade",
+    "family":  "miaoda",
+    "name":  "minimal-jade",
+    "displayName":  "Minimal Jade",
+    "description":  "UI style prompt template for a Minimal Jade aesthetic.",
+    "tags":  [
+                 "minimal",
+                 "jade",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/minimal-jade",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/minimal-jade",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/minimal-jade/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/minimal-jade/gallery-1.png"
+                                ]
+                }
+}

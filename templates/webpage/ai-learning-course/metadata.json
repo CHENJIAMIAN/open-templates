@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/ai-learning-course",
+    "family":  "webpage",
+    "name":  "ai-learning-course",
+    "displayName":  "AI Learning Course",
+    "description":  "An educational landing page for AI learning content.",
+    "tags":  [
+                 "education",
+                 "course",
+                 "ai"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/ai-learning-course",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/ai-learning-course",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/ai-learning-course/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/ai-learning-course/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

@@ -1,0 +1,81 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 244, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="255.69" height="34" topLeftX="190.79" topLeftY="148.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">技术研发（40%）</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110" topLeftX="190.79" topLeftY="178.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>600万元，用于算法迭代、平台开发、实验室建设</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="34" topLeftX="190.79" topLeftY="317.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">团队建设（20%）</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110" topLeftX="190.79" topLeftY="347.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>300万元，招聘核心岗位、完善薪酬体系</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>融资需求与风险控制</p>
+        </content>
+      </shape>
+      <img src="TABtbKcl2oJEjexAns2cekSInsc" width="120" height="120" topLeftX="48" topLeftY="147.86">
+        <crop type="rect" leftOffset="20" rightOffset="20" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Txgvb16UOoyLPixKfbNcAMkqnXb" width="120" height="120" topLeftX="48" topLeftY="317.45">
+        <crop type="rect" leftOffset="20" rightOffset="20" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="255.69" height="34" topLeftX="641.95" topLeftY="148.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">市场推广（30%）</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110" topLeftX="641.95" topLeftY="178.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>450万元，覆盖行业展会、线上投放、渠道建设</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="34" topLeftX="641.95" topLeftY="317.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">应急储备（10%）</p>
+        </content>
+      </shape>
+      <shape width="255.69" height="110" topLeftX="641.95" topLeftY="347.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>150万元，应对技术延迟、客户付费周期波动（参考素材5、7）</p>
+        </content>
+      </shape>
+      <img src="V8DgbFPpNoeQVYxC9FFczI7Hn5f" width="120" height="120" topLeftX="499.16" topLeftY="147.86">
+        <crop type="rect" leftOffset="20" rightOffset="20" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="E8WobmWVdohOvGx25rTc5mMon7f" width="120" height="120" topLeftX="499.16" topLeftY="317.45">
+        <crop type="rect" leftOffset="20" rightOffset="20" topOffset="0" bottomOffset="0" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

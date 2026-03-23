@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>经典活动案例</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>信任协作类活动</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>如信任背摔、盲人方阵、信任行走，通过坠落与承接、蒙眼协作等方式增强团队信任</p>
+      </content>
+    </shape>
+    <img src="XDh6bSMfxop2jDx7SThcAASwnob" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>创意合作类活动</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>如创意拼图、团队绘画、故事接龙，激发团队创新思维和协作精神</p>
+      </content>
+    </shape>
+    <img src="A6XubdCRIor7utx6vkxczNQ6nyb" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>策略竞技类活动</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>如急速60秒、逃脱房间、疯狂市场，培养团队快速决策和信息整合能力</p>
+      </content>
+    </shape>
+    <img src="H8mSbTrYNoK21xxO9oWcTalxnLg" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

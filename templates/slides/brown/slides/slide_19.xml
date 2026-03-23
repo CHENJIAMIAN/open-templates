@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>入职培训内容回顾</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司发展历程与愿景使命、组织架构与部门职能</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司概览</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>理解企业文化内涵，掌握公司核心价值观与行为准则</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>文化理念</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同与权利义务、考勤与请假制度等规范要求</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>规章制度</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>薪酬结构与福利体系的详细说明</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>薪酬福利</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>绩效考核标准与职业发展通道规划</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>职业发展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

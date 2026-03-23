@@ -1,0 +1,876 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>世界艺术风格视觉图鉴</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="FxX9bGKZTo9rLgxiQXpcXtMdnXw" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="400.29" height="276.96" topLeftX="48" topLeftY="73.63" type="text">
+        <content textType="headline" fontSize="64" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>艺术风格视觉鉴赏</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="424.87" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="31.89" topLeftX="48" topLeftY="450.96" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="160.35" topLeftY="424.87" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="160.35" topLeftY="450.96" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(247, 244, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="354.11" endX="912" endY="354.11" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="ENUpb06Sdor4rwxeG4CcYQY1nZb" width="960" height="239.44" topLeftX="0" topLeftY="-0.01">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="120.28" bottomOffset="120.28" presetHandlers="0"/>
+      </img>
+      <shape width="864" height="54" topLeftX="48.48" topLeftY="276.87" type="text">
+        <content textType="title" fontSize="36" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="47.87" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>传统经典艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="268.34" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>东方艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="268.34" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="488.81" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴数字与跨界风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="488.81" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="709.28" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特色艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="709.28" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="LJ67blR83oLiyixkUKWc26Gsnzd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.09" startY="149.13" endX="83.16" endY="149.13">
+        <border color="rgba(154, 104, 28, 1)"/>
+      </line>
+      <shape width="100.72" height="81" topLeftX="50.09" topLeftY="48.51" type="text">
+        <content textType="title" fontSize="54" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="377.01" height="222.63" topLeftX="48.09" topLeftY="168.74" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>传统经典艺术风格</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(247, 244, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="278" height="45" topLeftX="48.27" topLeftY="78.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>立体主义</p>
+        </content>
+      </shape>
+      <shape width="71" height="39" topLeftX="48.27" topLeftY="154.54" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="278.47" height="34" topLeftX="48.27" topLeftY="193.54" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">核心特征</p>
+        </content>
+      </shape>
+      <shape width="278.21" height="90" topLeftX="48.27" topLeftY="223.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将物体分解为几何切面，多视角重构画面。</p>
+        </content>
+      </shape>
+      <shape width="71" height="39" topLeftX="48.27" topLeftY="325.89" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="278.47" height="34" topLeftX="48.27" topLeftY="364.89" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">推荐图片</p>
+        </content>
+      </shape>
+      <shape width="278.21" height="90" topLeftX="48.27" topLeftY="395.28" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>毕加索《亚威农少女》（破碎的人体轮廓与棱角分明的面部特征），搜索关键词：Pablo Picasso Les Demoiselles d'Avignon</p>
+        </content>
+      </shape>
+      <img src="SW1nbrtnWojtfRxKLRBcTLFkn1d" width="237.11" height="437.36" topLeftX="375.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="4.45" rightOffset="4.45" topOffset="0" bottomOffset="0" presetHandlers="34"/>
+      </img>
+      <img src="ZqHab0aqtohgK3x67RZcna7Inzf" width="296" height="437.36" topLeftX="619.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="3.32" bottomOffset="3.32" presetHandlers="34"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(247, 244, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="480" startY="115.57" endX="481" endY="496.63" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="390" height="36" topLeftX="55.33" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="390" height="90" topLeftX="55.18" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>明亮色彩与大胆笔触，注重形式结构。</p>
+        </content>
+      </shape>
+      <img src="QDNlb3itFoxIK3xCbHqcqoc3nPg" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+      </img>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>后印象派</p>
+        </content>
+      </shape>
+      <shape width="390" height="36" topLeftX="514.95" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="390" height="90" topLeftX="514.81" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>梵高《星夜》（旋转的星空与扭曲的柏树，强烈的情感化色彩），搜索关键词：*Vincent van Gogh The Starry Night*</p>
+        </content>
+      </shape>
+      <img src="QWjmbFGWaoFboYxt4BWceOPRnRf" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="55.66" startY="154.18" endX="55.66" endY="540" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="50.66" topLeftY="149.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <border color="rgba(20, 121, 175, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="50.66" topLeftY="328.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <border color="rgba(20, 121, 175, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="390.21" height="45" topLeftX="47.66" topLeftY="51.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>超现实主义</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="36" topLeftX="78.48" topLeftY="134.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="120" topLeftX="78.48" topLeftY="170.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>描绘梦幻场景，融合现实与荒诞元素。</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="36" topLeftX="78.48" topLeftY="314.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="120" topLeftX="78.48" topLeftY="349.65" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>达利《记忆的永恒》（融化的钟表与荒凉 landscape），搜索关键词：Salvador Dalí melting clocks</p>
+        </content>
+      </shape>
+      <img src="KrYVbBfxZoLlvJx7e5AcTWzVnWe" width="480" height="540" topLeftX="480" topLeftY="0">
+        <crop type="rect" leftOffset="30" rightOffset="30" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="448.54" topLeftX="48" topLeftY="47.59" presetHandlers="35" type="rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <line startX="83.20" startY="162" endX="876.74" endY="162" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="201.22" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="239.89" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>消费文化符号，明亮色彩与大众图像。</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="343.24" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="381.91" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>安迪·沃霍尔《玛丽莲·梦露》（重复的名人肖像与高饱和色块），搜索关键词：Andy Warhol Marilyn Monroe silkscreen</p>
+        </content>
+      </shape>
+      <shape width="793.54" height="45" topLeftX="83.20" topLeftY="94.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">波普艺术</span>
+          </p>
+        </content>
+      </shape>
+      <img src="AaFObt7KRobaCCxU2VzcEiKvnmd" width="371.90" height="244.23" topLeftX="504.83" topLeftY="206.22">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="17.35" bottomOffset="17.35" presetHandlers="19"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="49.80" topLeftY="123.41" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="503.26" topLeftY="123.41" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 177, 70, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <img src="E42EbruVQoTWZ0xlHaAcXU9engd" width="862.80" height="303.72" topLeftX="48" topLeftY="236.28">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="90.80" bottomOffset="90.80"/>
+      </img>
+      <shape width="388" height="36" topLeftX="69.33" topLeftY="107.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">核心特征</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="388" height="77" topLeftX="69.33" topLeftY="142.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>捕捉光影瞬间，快速笔触与环境色融合。</p>
+        </content>
+      </shape>
+      <shape width="388" height="36" topLeftX="522.80" topLeftY="107.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">推荐图片</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="388" height="77" topLeftX="522.80" topLeftY="142.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>莫奈《睡莲》（水面倒影的朦胧光影与斑驳色彩），搜索关键词：Claude Monet Water Lilies pond</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">印象派</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="XN8vbcJXJoUVCBxWnVHc1j4nn3e" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.09" startY="149.13" endX="83.16" endY="149.13">
+        <border color="rgba(154, 104, 28, 1)"/>
+      </line>
+      <shape width="100.72" height="81" topLeftX="50.09" topLeftY="48.51" type="text">
+        <content textType="title" fontSize="54" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="377.01" height="222.63" topLeftX="48.09" topLeftY="168.74" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>东方艺术风格</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.25" height="372.35" topLeftX="48" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="417.25" height="372.35" topLeftX="494.75" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">中国水墨画</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="386.18" height="36" topLeftX="63.54" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="62.99" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>墨色浓淡与书法笔触，描绘自然与意境。</p>
+        </content>
+      </shape>
+      <img src="OYuabiDv6o6agAxuAXxc792xn2c" width="386.18" height="217" topLeftX="63.54" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+      <shape width="386.18" height="36" topLeftX="510.29" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="509.74" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>传统山水图（留白背景与写意山石、流水），搜索关键词："Chinese Ink Painting landscape mountains"</p>
+        </content>
+      </shape>
+      <img src="NxO4be2pWoUORtxtwhDc02xmnOg" width="386.72" height="217" topLeftX="509.74" topLeftY="134.27">
+        <crop type="rect" leftOffset="33.12" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="458.75" height="52" topLeftX="451.88" topLeftY="70.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>伊斯兰艺术</p>
+        </content>
+      </shape>
+      <img src="I8BJbgF9zogVZQxYHuIcs5uonQf" width="404.91" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0.04" rightOffset="0.04" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="48" height="34" topLeftX="455.92" topLeftY="156.26" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="48" height="34" topLeftX="455.92" topLeftY="315.07" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="404.91" height="100" topLeftX="505.72" topLeftY="189.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>几何图案与阿拉伯纹样，对称重复的装饰美学。</p>
+        </content>
+      </shape>
+      <shape width="404.91" height="100" topLeftX="505.72" topLeftY="346.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>西班牙阿尔罕布拉宫马赛克瓷砖（复杂的几何拼接与花卉图案），搜索关键词：*Alhambra Islamic geometric tiles*</p>
+        </content>
+      </shape>
+      <shape width="404.91" height="36" topLeftX="505.72" topLeftY="156.37" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="404.91" height="36" topLeftX="505.72" topLeftY="315.18" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="126" height="27" topLeftX="488.57" topLeftY="642.67" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="shape-auto-fit" wrap="false"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="PdWYbgBPyo6ZIBxCHoNcLOmXnCe" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.09" startY="149.13" endX="83.16" endY="149.13">
+        <border color="rgba(154, 104, 28, 1)"/>
+      </line>
+      <shape width="100.72" height="81" topLeftX="50.09" topLeftY="48.51" type="text">
+        <content textType="title" fontSize="54" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="377.01" height="222.63" topLeftX="48.09" topLeftY="168.74" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴数字与跨界风格</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.25" height="372.35" topLeftX="48" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="417.25" height="372.35" topLeftX="494.75" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>蒸汽波（Vaporwave）</p>
+        </content>
+      </shape>
+      <shape width="386.18" height="36" topLeftX="63.54" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="62.99" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>复古未来主义，80年代电子元素与低保真质感。</p>
+        </content>
+      </shape>
+      <img src="KXt5bw4DtouUMyxDq3dccIWanDN" width="386.18" height="217" topLeftX="63.54" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+      <shape width="386.18" height="36" topLeftX="510.29" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="509.74" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>复古电脑界面与棕榈树插画（粉蓝渐变背景与希腊雕塑元素），搜索关键词：Vaporwave retro computer aesthetic</p>
+        </content>
+      </shape>
+      <img src="UobVbk4ahoMRabxAEEEczBBDnTe" width="386.18" height="217" topLeftX="510.29" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="448.54" topLeftX="48" topLeftY="47.59" presetHandlers="35" type="rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <line startX="83.20" startY="162" endX="876.74" endY="162" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="201.22" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">核心特征</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="239.89" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="思源黑体">流动有机形态，透明质感与渐变色彩。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="343.24" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">推荐图片</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="381.91" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>动态流体图形（色彩渐变的液态 blob 与光效折射），搜索关键词：Liquid Design fluid motion graphics</p>
+        </content>
+      </shape>
+      <shape width="793.54" height="45" topLeftX="83.20" topLeftY="94.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉团圆体 黑体" bold="false">液态设计（Liquid Design）</span>
+          </p>
+        </content>
+      </shape>
+      <img src="OQjBbQ5TDoNsoKxdyh8cppSTnKc" width="371.90" height="244.23" topLeftX="504.83" topLeftY="206.22">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="17.35" bottomOffset="17.35" presetHandlers="19"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="LVTtba648oGKLIxVTZEcyd6EnAe" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="53.09" startY="149.13" endX="83.16" endY="149.13">
+        <border color="rgba(154, 104, 28, 1)"/>
+      </line>
+      <shape width="100.72" height="81" topLeftX="50.09" topLeftY="48.51" type="text">
+        <content textType="title" fontSize="54" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="377.01" height="222.63" topLeftX="48.09" topLeftY="168.74" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特色艺术风格</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="480" startY="115.57" endX="481" endY="496.63" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="390" height="36" topLeftX="55.33" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="390" height="90" topLeftX="55.18" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>小点构建整体形象，视觉混合色彩。</p>
+        </content>
+      </shape>
+      <img src="SOlPbh1t8oW1zcxaTwUcLHe6nTg" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+      </img>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>点彩派</p>
+        </content>
+      </shape>
+      <shape width="390" height="36" topLeftX="514.95" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="390" height="90" topLeftX="514.81" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>修拉《大碗岛的星期天下午》（密集彩色小点组成的公园场景），搜索关键词：Georges Seurat A Sunday on La Grande Jatte</p>
+        </content>
+      </shape>
+      <img src="R5ASbyHjjokiBsx5xUbcIzxGngg" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="448.54" topLeftX="48" topLeftY="47.59" presetHandlers="35" type="rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <line startX="83.20" startY="162" endX="876.74" endY="162" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="201.22" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="239.89" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>去冗余，追求“少即是多”的纯粹性。</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="36" topLeftX="83.33" topLeftY="343.24" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="381.91" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>唐纳德·贾德金属立方体雕塑（单色几何结构与空间关系），搜索关键词：Donald Judd minimalist sculpture</p>
+        </content>
+      </shape>
+      <shape width="793.54" height="45" topLeftX="83.20" topLeftY="94.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>极简主义</p>
+        </content>
+      </shape>
+      <img src="Ads6baJyfoVrIYxBAv4cVpNGn8g" width="371.90" height="244.23" topLeftX="504.83" topLeftY="206.22">
+        <crop type="rect" leftOffset="31.15" rightOffset="31.15" topOffset="0" bottomOffset="0" presetHandlers="19"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="50.33" startY="307.59" endX="898.97" endY="307.59" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>漫画艺术</p>
+        </content>
+      </shape>
+      <shape width="558.23" height="34" topLeftX="340.75" topLeftY="138.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">核心特征</p>
+        </content>
+      </shape>
+      <shape width="557.72" height="96" topLeftX="340.75" topLeftY="171.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>夸张造型与幽默场景，简化线条。</p>
+        </content>
+      </shape>
+      <shape width="558.23" height="34" topLeftX="340.75" topLeftY="346.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">推荐图片</p>
+        </content>
+      </shape>
+      <shape width="557.72" height="96" topLeftX="340.75" topLeftY="379.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>卡通角色插画（大眼睛人物与鲜艳色块），搜索关键词："Whimsical cartoon character illustration"</p>
+        </content>
+      </shape>
+      <img src="A8CtbdMZKoQLDgx5JNScYVV1nqb" width="263.11" height="148" topLeftX="50.33" topLeftY="335.93">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="11"/>
+      </img>
+      <img src="HsJ9bGLgjoLbzTxjM3Uc9QsnnBg" width="263.11" height="148" topLeftX="50.33" topLeftY="128.25">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="11"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="TIT0bQAvjooAKrx4qBIcHOcwn0d" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="400.29" height="276.96" topLeftX="48" topLeftY="73.63" type="text">
+        <content textType="headline" fontSize="64" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="424.87" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="31.89" topLeftX="48" topLeftY="450.96" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="160.35" topLeftY="424.87" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="160.35" topLeftY="450.96" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 104, 28, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

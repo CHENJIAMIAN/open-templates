@@ -1,0 +1,40 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="BT7Vbj6O5ovFk5xh6AKcRgGwnUh" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="56" startY="50.74" endX="57" endY="179.74" alpha="0.50">
+      <border color="rgba(248, 249, 252, 1)" width="1"/>
+    </line>
+    <shape width="836.41" height="86.28" topLeftX="56" topLeftY="385.62" type="text">
+      <content textType="headline" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>感谢您的时间</p>
+      </content>
+    </shape>
+    <shape width="147.03" height="24" topLeftX="72" topLeftY="52.24" alpha="0.70" type="text">
+      <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="147.03" height="31.89" topLeftX="72" topLeftY="73.33" alpha="0.70" type="text">
+      <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>王章志</p>
+      </content>
+    </shape>
+    <shape width="147.03" height="24" topLeftX="72" topLeftY="124.66" alpha="0.70" type="text">
+      <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="147.03" height="31.89" topLeftX="72" topLeftY="145.75" alpha="0.70" type="text">
+      <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025-12-28</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

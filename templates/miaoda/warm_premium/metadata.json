@@ -1,0 +1,32 @@
+{
+    "id":  "miaoda/warm_premium",
+    "family":  "miaoda",
+    "name":  "warm_premium",
+    "displayName":  "Warm Premium",
+    "description":  "UI style prompt template for a Warm Premium aesthetic.",
+    "tags":  [
+                 "warm",
+                 "premium",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/warm_premium",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/warm_premium",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/warm_premium/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/warm_premium/gallery-1.png"
+                                ]
+                }
+}

@@ -1,0 +1,82 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="We9BbDgYho7LuCxBAE2cBviSnof" width="443.50" height="540" topLeftX="516.50" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="353" height="12" topLeftX="58" topLeftY="35.46" type="text">
+        <content fontSize="9" color="rgba(171, 121, 50, 1)" lineSpacing="multiple:1.3" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(171, 121, 50, 1)" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">增长引擎 II</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="353" height="115" topLeftX="58" topLeftY="61.86" type="text">
+        <content fontSize="20" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+            <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">九月推出的 sunday campaigns 是CRM 套件中的全新 A</span>
+            <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">I</span>
+            <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false"> 产品，帮助营销人员快速创建、启动并优化与收入直接挂钩的营销活动。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="353" height="16" topLeftX="58" topLeftY="244.21" type="text">
+        <content fontSize="12" color="rgba(103, 100, 97, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(103, 100, 97, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">截至 11 月,已获得超过 200 个付费账户。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="86" height="66" topLeftX="60" topLeftY="186.21" type="text">
+        <content textType="sub-headline" fontSize="44" color="rgba(248, 240, 230, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(248, 240, 230, 1)" fontSize="44" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">200</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="353" height="32" topLeftX="58" topLeftY="333.61" type="text">
+        <content fontSize="12" color="rgba(103, 100, 97, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">其中约70%的用户是现有的 Sunday CRM用户，</span>
+          </p>
+          <p>
+            <span fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">证明了强大的的交叉销售吸引力。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="100" height="66" topLeftX="60" topLeftY="274.61" type="text">
+        <content textType="sub-headline" fontSize="44" color="rgba(248, 240, 230, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(248, 240, 230, 1)" fontSize="44" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">70%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="379.85" height="88" topLeftX="58" topLeftY="398.95" presetHandlers="7.953919585035485" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 35, 35, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="120" height="18" topLeftX="80.92" topLeftY="413.48" type="text">
+        <content fontSize="12" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a" bold="false">平台生态系统持续增长</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="334" height="35.40" topLeftX="80.92" topLeftY="437.04" type="text">
+        <content fontSize="12" color="rgba(255, 255, 255, 1)" bold="false">
+          <p>
+            <span fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false">应用市场收入分成已超过 100 万美元 ARR，拥有 883 个应用，反映了客户对扩展平台能力的强烈需求。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

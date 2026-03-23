@@ -1,0 +1,43 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="XfY9baY4toPRAIxXJu3cjEzNnYe" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="50" startY="59.19" endX="910" endY="60.19" alpha="0.21">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <line startX="50" startY="478.66" endX="910" endY="479.66" alpha="0.21">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="860" height="175.01" topLeftX="50" topLeftY="168.74" type="text">
+        <content textType="headline" fontSize="71" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(181, 213, 234, 1) 0%,rgba(236, 246, 254, 1) 100%)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢您的时间</p>
+        </content>
+      </shape>
+      <shape width="168.29" height="32" topLeftX="50" topLeftY="14.54" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(184, 220, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="156.12" height="32" topLeftX="753.88" topLeftY="14.54" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(184, 220, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="32" topLeftX="50" topLeftY="492.25" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(184, 220, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="215.73" height="31.89" topLeftX="694.27" topLeftY="492.31" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(184, 220, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

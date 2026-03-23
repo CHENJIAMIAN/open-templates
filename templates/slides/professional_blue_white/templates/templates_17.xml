@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 0.922)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="265.51" height="2" topLeftX="48.39" topLeftY="253.29" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="265.51" height="2" topLeftX="347.30" topLeftY="213.29" presetHandlers="0" alpha="0.60" type="rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="265.51" height="2" topLeftX="646.76" topLeftY="173.29" presetHandlers="0" alpha="0.30" type="rect">
+      <fill>
+        <fillColor color="rgba(79, 159, 224, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="266" height="180" topLeftX="48.39" topLeftY="306" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>调研成果需转化为具体的产品行动才能实现价值。</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="48.39" topLeftY="273" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>调研成果转化价值</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.27" topLeftY="47.86" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>调研与产品决策的衔接</p>
+      </content>
+    </shape>
+    <shape width="266" height="180" topLeftX="347.30" topLeftY="266" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>采用四象限法对需求进行优先级排序：横轴为用户价值，纵轴为实现难度，将需求分为“快速实现”（高价值低难度）、“战略布局”（高价值高难度）、“优化项”（低价值低难度）、“暂搁置”（低价值高难度）四类。</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="347.30" topLeftY="233" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>四象限优先级排序法</p>
+      </content>
+    </shape>
+    <shape width="266" height="180" topLeftX="646.76" topLeftY="226" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>在CJ252的京港地铁项目中，通过调研明确了AED设备巡检频率和培训需求等关键优先级，确保资源投入到核心问题上。</p>
+      </content>
+    </shape>
+    <shape width="266" height="32" topLeftX="646.64" topLeftY="193" type="text">
+      <content fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>京港地铁项目应用案例</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

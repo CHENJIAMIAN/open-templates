@@ -1,0 +1,43 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="Ula8bbVswoQg6KxicgScFLZhn6d" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48.99" startY="443.24" endX="49.99" endY="489.24" alpha="0.16">
+      <border width="1"/>
+    </line>
+    <line startX="174.05" startY="443.24" endX="175.05" endY="489.24" alpha="0.16">
+      <border width="1"/>
+    </line>
+    <shape width="446.97" height="234.87" topLeftX="48" topLeftY="84.59" type="text">
+      <content textType="headline" fontSize="70" fontFamily="霞鹜 975 圆体" color="rgba(66, 72, 92, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>感谢您的时间</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="61.84" topLeftY="441.39" type="text">
+      <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="31.89" topLeftX="61.84" topLeftY="462.48" type="text">
+      <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="186.89" topLeftY="440.40" type="text">
+      <content fontSize="14" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="180.72" height="31.89" topLeftX="186.89" topLeftY="461.49" type="text">
+      <content fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(122, 130, 155, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>2026-01-09</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

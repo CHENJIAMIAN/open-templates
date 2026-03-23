@@ -1,0 +1,102 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+      <border color="rgba(185, 185, 185, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+      <border color="rgba(185, 185, 185, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+      <border color="rgba(185, 185, 185, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+      <border color="rgba(185, 185, 185, 1)" width="1"/>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="47.80" topLeftY="48.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>个人成长与团队赋能</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>能力提升计划</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="right" autoFit="normal-auto-fit">
+        <p>系统学习车联网V2X通信协议与云端数据架构，拓展智能网联技术能力。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>职业发展路径</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="right" autoFit="normal-auto-fit">
+        <p>建立"技术+管理"双轨发展路径，提升团队领导能力，计划3年内成长为电驱系统技术总监。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>专业认证获取</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>考取ISO 26262功能安全专家认证，深化安全开发体系认知。</p>
+      </content>
+    </shape>
+    <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>团队建设与文化</p>
+      </content>
+    </shape>
+    <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>通过"传帮带"机制培养技术骨干，打造"自驱型+学习型"团队文化，推动部门技术创新氛围建设。</p>
+      </content>
+    </shape>
+    <shape width="100" height="39" topLeftX="364.90" topLeftY="204.88" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="100" height="39" topLeftX="495.10" topLeftY="204.88" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="100" height="39" topLeftX="364.90" topLeftY="336.60" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="100" height="39" topLeftX="495.10" topLeftY="336.60" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

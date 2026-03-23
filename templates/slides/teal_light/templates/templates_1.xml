@@ -1,0 +1,67 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="GNuCboKqso30FKxc8IYcVb6Engc" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="540" height="540" topLeftX="420" topLeftY="0" alpha="0.44" type="ellipse">
+      <border color="linear-gradient(296deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.2) 50%,rgba(255, 255, 255, 0) 100%)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="540" height="540" topLeftX="0" topLeftY="0" alpha="0.44" type="ellipse">
+      <border color="linear-gradient(125deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.2) 49%,rgba(255, 255, 255, 0) 100%)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="507.98" height="42" topLeftX="226.01" topLeftY="221.30" type="text">
+      <content fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="30">数字孪生技术，赋能工业 4.0 升级之路</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="307.51" height="23" topLeftX="426.01" topLeftY="271.93" alpha="0.66" type="text">
+      <content fontSize="16" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>
+          <span fontSize="16">助力传统行业数字化、智能化、高效化转型</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="24" topLeftX="226.01" topLeftY="269.70" alpha="0.58" type="text">
+      <content fontSize="16" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="16" fontFamily="寒蝉端黑体">2025 ©</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="309.98" startY="283.06" endX="411.88" endY="283.06" alpha="0.55">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <shape width="298" height="34" topLeftX="623.80" topLeftY="34.55" type="text">
+      <content fontSize="12" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+        <p>前沿技术落地生根</p>
+        <p textAlign="right" lineSpacing="multiple:1.4">让创新不止于概念</p>
+      </content>
+    </shape>
+    <line startX="923.08" startY="28.55" endX="935.08" endY="28.55">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="929.08" startY="22.55" endX="929.08" endY="34.55">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <shape width="57" height="27" topLeftX="30.35" topLeftY="486.74" type="text">
+      <content fontSize="18" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="寒蝉端黑体" bold="false" italic="false" strikethrough="false" underline="false">12</span>
+          <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="寒蝉端黑体" bold="false" italic="false" strikethrough="false" underline="false"> 31</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="112" height="24" topLeftX="644.49" topLeftY="756.58" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false"/>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

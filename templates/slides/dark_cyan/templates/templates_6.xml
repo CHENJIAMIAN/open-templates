@@ -1,0 +1,66 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(24, 26, 29, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="44.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>企业资源与能力评估</p>
+      </content>
+    </shape>
+    <shape width="268" height="110" topLeftX="53.07" topLeftY="392.76" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>华为在5G专利、华勤在汽车电子布局（智能座舱、显示屏）展示了技术实力</p>
+      </content>
+    </shape>
+    <shape width="268" height="36" topLeftX="53.07" topLeftY="358.59" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术优势</p>
+      </content>
+    </shape>
+    <shape width="268" height="110" topLeftX="346.50" topLeftY="392.76" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>惠科股份通过全球5大制造基地实现区域化供应，2025年海外收入占比达51.45%</p>
+      </content>
+    </shape>
+    <shape width="268" height="36" topLeftX="346.50" topLeftY="358.59" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>供应链韧性</p>
+      </content>
+    </shape>
+    <shape width="268" height="110" topLeftX="640.07" topLeftY="392.76" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>面临新兴市场政策红利（如印度"数字印度"计划）和AI与5G技术融合的机会，同时需应对地缘政治风险和区域贸易壁垒等威胁</p>
+      </content>
+    </shape>
+    <shape width="268" height="36" topLeftX="640.07" topLeftY="358.59" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>机会与威胁</p>
+      </content>
+    </shape>
+    <img src="RsBlbxYfxorVZCxhkAccAsysnqd" width="278" height="151.66" topLeftX="48.07" topLeftY="198.06">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+    </img>
+    <img src="L17Bbt6IcoCmaWxLoPucrTGYn9n" width="278" height="151.66" topLeftX="341" topLeftY="198.06">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+    </img>
+    <img src="XpYPb3qzbobkamxYgdwcsG7bnbg" width="278" height="151.66" topLeftX="634.07" topLeftY="198.06">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+    </img>
+    <shape width="864" height="50" topLeftX="48.07" topLeftY="137.61" type="text">
+      <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国电子企业的核心竞争力体现在技术优势、供应链韧性和快速响应能力等方面。华为2023年研发投入达1615亿元人民币，占营收比例超过22%，远高于行业平均水平，这种对技术创新的持续投入构建了重要竞争壁垒。</p>
+      </content>
+    </shape>
+    <shape width="864" height="29" topLeftX="48.07" topLeftY="108.61" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>核心竞争力</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

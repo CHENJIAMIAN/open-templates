@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/novasphere-launch",
+    "family":  "webpage",
+    "name":  "novasphere-launch",
+    "displayName":  "NovaSphere Launch",
+    "description":  "A startup launch webpage template for product announcements.",
+    "tags":  [
+                 "launch",
+                 "startup",
+                 "product"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/novasphere-launch",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/novasphere-launch",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/novasphere-launch/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/novasphere-launch/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

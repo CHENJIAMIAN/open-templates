@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      // 运行时动态计算 basename 并安全设置 <base>
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attention Is All You Need: The Transformer</title>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+        }
+    }
+    </script>
+
+    <style>
+        html { scroll-behavior: smooth; }
+        
+        /* Prioritizing PingFang SC for all text, specifically for Chinese characters */
+        body { 
+            background-color: #F9F8F4; 
+            color: #1a1a1a; 
+            font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', 'Inter', sans-serif; 
+            overflow-x: hidden; 
+        }
+        
+        /* Serif font for headings, falling back to PingFang for Chinese */
+        .font-serif { 
+            font-family: 'Playfair Display', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', serif; 
+        }
+
+        .bg-nobel-gold { background-color: #C5A059; }
+        .text-nobel-gold { color: #C5A059; }
+        .border-nobel-gold { border-color: #C5A059; }
+        
+        /* Custom Animations */
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-up { animation: fadeInUp 0.8s ease forwards; }
+        
+        .hero-gradient {
+            background: radial-gradient(circle at center, rgba(249,248,244,0) 0%, rgba(249,248,244,0.4) 60%, rgba(249,248,244,1) 100%);
+        }
+
+        #layer-canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
+
+        .attention-line { transition: stroke-width 0.3s, opacity 0.3s; }
+        .step-active { background-color: #1a1a1a !important; color: white !important; transform: scale(1.05); }
+
+        #flickering-grid-canvas {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            display: block;
+        }
+    </style>
+
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav id="navbar" class="fixed top-0 left-0 right-0 z-50 py-6 transition-all duration-300">
+        <div class="container mx-auto px-6 flex justify-between items-center">
+            <div class="flex items-center gap-4 cursor-pointer" onclick="window.scrollTo({top:0, behavior:'smooth'})">
+                <div class="w-8 h-8 bg-stone-900 rounded-sm flex items-center justify-center text-white font-serif font-bold text-xl pb-1">T</div>
+                <span class="font-serif font-bold text-lg tracking-wide hidden md:block">
+                    TRANSFORMER <span class="font-normal text-stone-500">2017</span>
+                </span>
+            </div>
+            <div class="hidden md:flex items-center gap-8 text-sm font-medium tracking-wide text-stone-600">
+                <a href="#introduction" class="nav-link hover:text-nobel-gold transition-colors uppercase">问题背景</a>
+                <a href="#mechanism" class="nav-link hover:text-nobel-gold transition-colors uppercase">自注意力</a>
+                <a href="#architecture" class="nav-link hover:text-nobel-gold transition-colors uppercase">模型架构</a>
+                <a href="#authors" class="nav-link hover:text-nobel-gold transition-colors uppercase">作者团队</a>
+            </div>
+            <button class="md:hidden text-stone-900" id="menu-btn"><i data-lucide="menu"></i></button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu" class="fixed inset-0 z-40 bg-[#F9F8F4] hidden flex-col items-center justify-center gap-8 text-xl font-serif">
+        <button id="close-menu" class="absolute top-6 right-6"><i data-lucide="x"></i></button>
+        <a href="#introduction" class="nav-link menu-link">问题背景</a>
+        <a href="#mechanism" class="nav-link menu-link">自注意力</a>
+        <a href="#architecture" class="nav-link menu-link">模型架构</a>
+        <a href="#authors" class="nav-link menu-link">作者团队</a>
+    </div>
+
+    <!-- Hero Section -->
+    <header class="relative h-screen flex items-center justify-center overflow-hidden bg-[#F9F8F4]">
+        <!-- 背景层 1: 闪烁网格 -->
+        <div id="flickering-grid-container" class="absolute inset-0 z-0 w-full h-full">
+            <canvas id="flickering-grid-canvas"></canvas>
+        </div>
+        <!-- 背景层 2: 径向渐变 (覆盖在网格之上，起到进一步柔化的作用) -->
+        <div class="absolute inset-0 hero-gradient z-10 pointer-events-none"></div>
+
+        <!-- 内容层 -->
+        <div class="relative z-20 container mx-auto px-6 text-center animate-up">
+            <div class="inline-block mb-4 px-4 py-1 border border-nobel-gold text-nobel-gold text-xs tracking-[0.2em] uppercase font-bold rounded-full bg-white/30 backdrop-blur-sm">
+                NIPS (NeurIPS) • 2017年12月
+            </div>
+            <h1 class="font-serif text-5xl md:text-8xl lg:text-9xl font-medium leading-tight mb-8 text-stone-900">
+                Attention Is <br/>All You Need
+            </h1>
+            <p class="max-w-2xl mx-auto text-lg md:text-xl text-stone-700 font-light leading-relaxed mb-12">
+                这篇论文完全摒弃了循环和卷积神经网络，提出了彻底改变自然语言处理的 <strong>Transformer</strong> 架构。
+            </p>
+            <a href="#introduction" class="nav-link flex flex-col items-center gap-2 text-sm font-medium text-stone-500 hover:text-stone-900 transition-colors">
+                <span>探索</span>
+                <span class="p-2 border border-stone-300 rounded-full bg-white/50"><i data-lucide="arrow-down" class="w-4 h-4"></i></span>
+            </a>
+        </div>
+    </header>
+
+    <!-- Content Sections -->
+    <main>
+        <!-- Introduction -->
+        <section id="introduction" class="py-32 bg-white">
+            <div class="container mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-12 gap-12">
+                <div class="md:col-span-4">
+                    <div class="text-xs font-bold tracking-widest text-stone-500 uppercase mb-3">瓶颈</div>
+                    <h2 class="font-serif text-4xl mb-6 text-stone-900">循环神经网络的终结</h2>
+                    <div class="w-16 h-1 bg-nobel-gold"></div>
+                </div>
+                <div class="md:col-span-8 text-lg text-stone-600 leading-relaxed space-y-6">
+                    <p><span class="text-5xl float-left mr-3 mt-[-8px] font-serif text-nobel-gold">在</span>2017年之前，序列转导模型主要基于复杂的循环或卷积神经网络（如RNN、LSTM）。</p>
+                    <p>根本问题在于<strong>序列化计算</strong>。RNN必须按顺序处理词语，这阻碍了并行化。此外，长距离依赖难以捕获，导致“梯度消失”。</p>
+                    <p class="font-medium text-stone-800">Transformer 通过并行化的注意力机制完美解决了这些痛点。</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Mechanism -->
+        <section id="mechanism" class="py-32 bg-white border-t border-stone-100">
+            <div class="container mx-auto px-6">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+                    <div>
+                        <div class="inline-flex items-center gap-2 px-3 py-1 bg-stone-100 text-stone-600 text-xs font-bold tracking-widest uppercase rounded-full mb-6">
+                            <i data-lucide="book-open" class="w-3 h-3"></i> 核心洞察
+                        </div>
+                        <h2 class="font-serif text-4xl md:text-5xl mb-6 text-stone-900">自注意力机制</h2>
+                        <p class="text-lg text-stone-600 mb-6">“自注意力”允许模型在处理每个词时，自动权衡序列中其他所有词的重要性。</p>
+                        <p class="text-stone-500 italic">例：悬停在下方词语上查看关联强度</p>
+                    </div>
+                    <!-- Vanilla Attention Visualizer -->
+                    <div class="bg-white p-8 rounded-xl shadow-sm border border-stone-200" id="viz-root">
+                        <div id="attention-container" class="relative w-full h-48 bg-[#F5F4F0] rounded-lg border border-stone-200 p-6 flex items-end justify-between overflow-hidden">
+                            <svg id="attention-svg" class="absolute inset-0 w-full h-full pointer-events-none"></svg>
+                            <div id="word-row" class="flex justify-between w-full relative z-10"></div>
+                        </div>
+                        <div class="mt-6 flex items-center gap-4 text-xs font-mono text-stone-500 justify-center">
+                            <div class="flex items-center gap-2"><span class="w-6 h-1 bg-nobel-gold rounded"></span> 强关注</div>
+                            <div class="flex items-center gap-2"><span class="w-6 h-1 bg-nobel-gold opacity-30 rounded"></span> 弱关注</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Architecture -->
+        <section id="architecture" class="py-32 bg-stone-900 text-stone-100 relative overflow-hidden">
+            <div class="container mx-auto px-6 relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
+                <div class="order-2 lg:order-1 flex justify-center">
+                    <div class="relative w-72 h-[450px] bg-white/5 backdrop-blur-md rounded-xl border border-white/10 p-6 flex flex-col justify-end gap-3" id="steps-container">
+                        <!-- Steps injected by JS -->
+                    </div>
+                </div>
+                <div class="order-1 lg:order-2">
+                    <div class="text-nobel-gold text-xs font-bold tracking-widest uppercase mb-4">模型架构</div>
+                    <h2 class="font-serif text-4xl md:text-5xl mb-6 text-white">编码器与解码器</h2>
+                    <p class="text-lg text-stone-400 mb-8">Transformer 由堆叠的相同层组成，每层包含两个核心部分：</p>
+                    <ul class="space-y-6">
+                        <li class="flex gap-4">
+                            <span class="font-serif text-nobel-gold text-2xl italic">1.</span>
+                            <span class="text-stone-300"><strong>多头注意力:</strong> 同时从多个子空间捕捉不同的语义关系。</span>
+                        </li>
+                        <li class="flex gap-4">
+                            <span class="font-serif text-nobel-gold text-2xl italic">2.</span>
+                            <span class="text-stone-300"><strong>位置编码:</strong> 通过正弦波函数注入词语在句子中的相对位置。</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Impact -->
+        <section class="py-32 bg-white">
+            <div class="container mx-auto px-6 grid grid-cols-1 md:grid-cols-12 gap-16 items-center">
+                <div class="md:col-span-5 relative aspect-square bg-[#F5F4F0] rounded-2xl overflow-hidden border border-stone-200">
+                    <canvas id="layer-canvas"></canvas>
+                    <div class="absolute bottom-4 left-0 right-0 text-center text-[10px] text-stone-400 font-serif italic">深度模型层级可视化</div>
+                </div>
+                <div class="md:col-span-7">
+                    <h2 class="font-serif text-4xl mb-6 text-stone-900">现代 AI 的基石</h2>
+                    <p class="text-lg text-stone-600 mb-8">
+                        从 BERT 到 GPT，再到如今的各种大模型，"Attention Is All You Need" 开启了生成式人工智能的新纪元。
+                    </p>
+                    <div class="p-8 bg-[#F9F8F4] border-l-4 border-nobel-gold rounded-r-lg">
+                        <p class="font-serif italic text-xl text-stone-800 mb-4">"我们提出了一种新的简单网络架构 Transformer，它完全基于注意力机制，彻底摒弃了循环和卷积。"</p>
+                        <span class="text-xs font-bold text-stone-400 uppercase tracking-widest">— Vaswani 等人, 2017</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Authors -->
+        <section id="authors" class="py-32 bg-[#F5F4F0]">
+            <div class="container mx-auto px-6 text-center mb-16">
+                <h2 class="font-serif text-4xl mb-4">论文作者</h2>
+                <p class="text-stone-500 uppercase text-xs tracking-widest">Google Brain & Research</p>
+            </div>
+            <div class="container mx-auto px-6 flex flex-wrap justify-center gap-6" id="authors-container">
+                <!-- Authors injected by JS -->
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-stone-900 py-20 text-stone-500 text-sm">
+        <div class="container mx-auto px-6 text-center">
+            <div class="text-white font-serif font-bold text-2xl mb-4">The Transformer</div>
+            <p>© 2024 可视化演示 • 概念基于 2017 年同名论文</p>
+        </div>
+    </footer>
+
+    <script type="module">
+        import * as THREE from 'three';
+
+        // --- GLOBAL LUCIDE ---
+        lucide.createIcons();
+
+        // --- FLICKERING GRID LOGIC (Vanilla JS Version) ---
+        class FlickeringGrid {
+            constructor(container, options = {}) {
+                this.container = container;
+                this.canvas = container.querySelector('canvas');
+                this.ctx = this.canvas.getContext('2d');
+                
+                this.squareSize = options.squareSize || 4;
+                this.gridGap = options.gridGap || 6;
+                this.flickerChance = options.flickerChance || 0.08; // 降低闪烁频率，使其更沉静
+                this.color = options.color || "rgb(197, 160, 89)"; // Nobel Gold
+                this.maxOpacity = options.maxOpacity || 0.15;      // 大幅降低透明度，使其若隐若现
+                
+                this.isInView = false;
+                this.lastTime = 0;
+                this.gridParams = null;
+                this.animationFrameId = null;
+
+                this.memoizedColor = this.toRGBA(this.color);
+                
+                this.init();
+            }
+
+            toRGBA(color) {
+                const canvas = document.createElement("canvas");
+                canvas.width = canvas.height = 1;
+                const ctx = canvas.getContext("2d");
+                ctx.fillStyle = color;
+                ctx.fillRect(0, 0, 1, 1);
+                const [r, g, b] = Array.from(ctx.getImageData(0, 0, 1, 1).data);
+                return `rgba(${r}, ${g}, ${b},`;
+            }
+
+            setupCanvas() {
+                const width = this.container.offsetWidth || window.innerWidth;
+                const height = this.container.offsetHeight || window.innerHeight;
+                const dpr = window.devicePixelRatio || 1;
+                
+                this.canvas.width = width * dpr;
+                this.canvas.height = height * dpr;
+                this.canvas.style.width = `${width}px`;
+                this.canvas.style.height = `${height}px`;
+
+                const cols = Math.ceil(width / (this.squareSize + this.gridGap)) + 1;
+                const rows = Math.ceil(height / (this.squareSize + this.gridGap)) + 1;
+
+                const squares = new Float32Array(cols * rows);
+                for (let i = 0; i < squares.length; i++) {
+                    squares[i] = Math.random() * this.maxOpacity;
+                }
+
+                this.gridParams = { cols, rows, squares, dpr, width, height };
+            }
+
+            updateSquares(deltaTime) {
+                if (!this.gridParams) return;
+                const { squares } = this.gridParams;
+                for (let i = 0; i < squares.length; i++) {
+                    if (Math.random() < this.flickerChance * deltaTime) {
+                        squares[i] = Math.random() * this.maxOpacity;
+                    }
+                }
+            }
+
+            drawGrid() {
+                const { ctx, gridParams, memoizedColor, squareSize, gridGap } = this;
+                if (!gridParams) return;
+                const { cols, rows, squares, dpr } = gridParams;
+
+                ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+
+                for (let i = 0; i < cols; i++) {
+                    for (let j = 0; j < rows; j++) {
+                        const opacity = squares[i * rows + j];
+                        if (opacity > 0.01) {
+                            ctx.fillStyle = `${memoizedColor}${opacity})`;
+                            ctx.fillRect(
+                                i * (squareSize + gridGap) * dpr,
+                                j * (squareSize + gridGap) * dpr,
+                                squareSize * dpr,
+                                squareSize * dpr,
+                            );
+                        }
+                    }
+                }
+            }
+
+            animate(time) {
+                if (!this.isInView) return;
+
+                const deltaTime = (time - this.lastTime) / 1000;
+                this.lastTime = time;
+
+                this.updateSquares(deltaTime);
+                this.drawGrid();
+                this.animationFrameId = requestAnimationFrame((t) => this.animate(t));
+            }
+
+            init() {
+                this.setupCanvas();
+
+                // Resize Observer
+                const resizeObserver = new ResizeObserver(() => {
+                    this.setupCanvas();
+                    if (this.isInView) this.drawGrid();
+                });
+                resizeObserver.observe(this.container);
+
+                // Intersection Observer
+                const intersectionObserver = new IntersectionObserver(([entry]) => {
+                    this.isInView = entry.isIntersecting;
+                    if (this.isInView) {
+                        this.lastTime = performance.now();
+                        this.animate(this.lastTime);
+                    } else {
+                        cancelAnimationFrame(this.animationFrameId);
+                    }
+                }, { threshold: 0 });
+                intersectionObserver.observe(this.canvas);
+            }
+        }
+
+        // Initialize Flickering Grid with very subtle settings
+        const heroGridContainer = document.getElementById('flickering-grid-container');
+        new FlickeringGrid(heroGridContainer, {
+            squareSize: 4,
+            gridGap: 6,
+            flickerChance: 0.06,
+            color: "#C5A059",
+            maxOpacity: 0.12  // 调整为非常淡的透明度
+        });
+
+        // --- NAVIGATION & SMOOTH SCROLL ---
+        const navbar = document.getElementById('navbar');
+        const menuBtn = document.getElementById('menu-btn');
+        const mobileMenu = document.getElementById('mobile-menu');
+        const closeMenu = document.getElementById('close-menu');
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                navbar.classList.add('bg-[#F9F8F4]/90', 'backdrop-blur-md', 'shadow-sm', 'py-4');
+                navbar.classList.remove('py-6');
+            } else {
+                navbar.classList.remove('bg-[#F9F8F4]/90', 'backdrop-blur-md', 'shadow-sm', 'py-4');
+                navbar.classList.add('py-6');
+            }
+        });
+
+        const scrollToSection = (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+
+            // Get the original href attribute
+            const href = e.currentTarget.getAttribute('href');
+            let targetId = null;
+
+            // Extract the hash/id part
+            if (href) {
+                if (href.startsWith('#')) {
+                    targetId = href.substring(1);
+                } else if (href.includes('#')) {
+                    targetId = href.substring(href.indexOf('#') + 1);
+                }
+            }
+
+            if (targetId) {
+                const targetElement = document.getElementById(targetId);
+                if (targetElement) {
+                    const headerOffset = 80;
+                    const elementPosition = targetElement.getBoundingClientRect().top;
+                    const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+                    window.scrollTo({
+                        top: offsetPosition,
+                        behavior: "smooth"
+                    });
+
+                    mobileMenu.classList.add('hidden');
+
+                    // Update URL hash without triggering navigation
+                    if (window.history.pushState) {
+                        window.history.pushState(null, null, '#' + targetId);
+                    }
+                }
+            }
+        };
+
+        // Attach click handlers to all navigation links
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', scrollToSection);
+        });
+
+        menuBtn.onclick = () => mobileMenu.classList.remove('hidden');
+        closeMenu.onclick = () => mobileMenu.classList.add('hidden');
+
+        // --- LAYER STACK SCENE ---
+        const initLayerStack = () => {
+            const canvas = document.getElementById('layer-canvas');
+            if (!canvas) return;
+            const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+            const scene = new THREE.Scene();
+            const parent = canvas.parentElement;
+            const camera = new THREE.PerspectiveCamera(45, 1, 0.1, 100);
+            camera.position.set(0, 3, 7);
+            camera.lookAt(0, 0, 0);
+
+            const group = new THREE.Group();
+            scene.add(group);
+
+            for (let i = 0; i < 6; i++) {
+                const layerGeo = new THREE.BoxGeometry(3.5, 0.1, 3.5);
+                const layerMat = new THREE.MeshStandardMaterial({ color: 0xC5A059, transparent: true, opacity: 0.7 });
+                const mesh = new THREE.Mesh(layerGeo, layerMat);
+                mesh.position.y = (i - 2.5) * 0.6;
+                group.add(mesh);
+                
+                const edges = new THREE.EdgesGeometry(layerGeo);
+                const line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.2 }));
+                mesh.add(line);
+            }
+
+            scene.add(new THREE.AmbientLight(0xffffff, 1));
+            const spot = new THREE.SpotLight(0xffffff, 5);
+            spot.position.set(5, 5, 5);
+            scene.add(spot);
+
+            const resize = () => {
+                const w = parent.clientWidth;
+                const h = parent.clientHeight;
+                renderer.setSize(w, h);
+                camera.aspect = w / h;
+                camera.updateProjectionMatrix();
+            };
+            window.addEventListener('resize', resize);
+            resize();
+
+            const animate = (time) => {
+                requestAnimationFrame(animate);
+                group.rotation.y = Math.sin(time * 0.0005) * 0.2;
+                renderer.render(scene, camera);
+            };
+            animate(0);
+        };
+        initLayerStack();
+
+        // --- ATTENTION VISUALIZER ---
+        const sentence = ["那只", "动物", "没有", "穿过", "街道", "，", "因为", "它", "太", "累", "了"];
+        const wordRow = document.getElementById('word-row');
+        const attSvg = document.getElementById('attention-svg');
+        
+        const renderAttention = (hoverIdx) => {
+            attSvg.innerHTML = '';
+            sentence.forEach((_, targetIdx) => {
+                let strength = 0.05;
+                if (hoverIdx === 7) { // "它"
+                    if (targetIdx === 1) strength = 0.9;
+                    if (targetIdx === 4) strength = 0.2;
+                    if (targetIdx === 9) strength = 0.4;
+                    if (targetIdx === 7) strength = 1.0;
+                } else {
+                    const dist = Math.abs(hoverIdx - targetIdx);
+                    strength = dist === 0 ? 1 : dist === 1 ? 0.3 : 0.05;
+                }
+
+                if (strength > 0.1) {
+                    const startX = (hoverIdx / (sentence.length - 1)) * 100;
+                    const endX = (targetIdx / (sentence.length - 1)) * 100;
+                    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+                    path.setAttribute("d", `M ${startX}% 80 C ${startX}% 10, ${endX}% 10, ${endX}% 80`);
+                    path.setAttribute("fill", "none");
+                    path.setAttribute("stroke", "#C5A059");
+                    path.setAttribute("stroke-width", strength * 4);
+                    path.setAttribute("opacity", strength);
+                    path.classList.add('attention-line');
+                    attSvg.appendChild(path);
+                }
+            });
+        };
+
+        sentence.forEach((word, idx) => {
+            const div = document.createElement('div');
+            div.textContent = word;
+            div.className = "cursor-pointer px-1 py-1 rounded transition-all text-sm md:text-base font-medium text-stone-600 hover:text-stone-900";
+            div.onmouseenter = () => {
+                document.querySelectorAll('#word-row div').forEach(d => d.classList.remove('bg-stone-800', 'text-white'));
+                div.classList.add('bg-stone-800', 'text-white');
+                renderAttention(idx);
+            };
+            wordRow.appendChild(div);
+        });
+        wordRow.children[7].dispatchEvent(new Event('mouseenter'));
+
+        // --- ARCHITECTURE STEPS ---
+        const steps = [
+            { name: "输入嵌入", desc: "词向量化" },
+            { name: "位置编码", desc: "添加顺序信息" },
+            { name: "多头注意力", desc: "上下文感知" },
+            { name: "残差连接", desc: "稳定训练" },
+            { name: "前馈网络", desc: "特征提取" }
+        ];
+        const stepsContainer = document.getElementById('steps-container');
+        steps.forEach((s, i) => {
+            const div = document.createElement('div');
+            div.className = "w-full p-3 rounded border border-stone-200 bg-white transition-all duration-300 flex items-center justify-between opacity-50";
+            div.innerHTML = `<div><div class="text-xs font-bold uppercase tracking-wider title-text">${s.name}</div><div class="text-[10px] text-nobel-gold mt-1 desc-text hidden">${s.desc}</div></div>`;
+            stepsContainer.appendChild(div);
+        });
+
+        let currentStep = 0;
+        setInterval(() => {
+            const children = stepsContainer.children;
+            if (!children.length) return;
+            for(let i=0; i<children.length; i++) {
+                children[i].classList.remove('step-active', 'opacity-100');
+                children[i].classList.add('opacity-50');
+                children[i].querySelector('.desc-text').classList.add('hidden');
+            }
+            children[currentStep].classList.add('step-active', 'opacity-100');
+            children[currentStep].classList.remove('opacity-50');
+            children[currentStep].querySelector('.desc-text').classList.remove('hidden');
+            currentStep = (currentStep + 1) % steps.length;
+        }, 1500);
+
+        // --- AUTHORS ---
+        const authors = [
+            "Ashish Vaswani", "Noam Shazeer", "Niki Parmar", "Jakob Uszkoreit", 
+            "Llion Jones", "Aidan N. Gomez", "Łukasz Kaiser", "Illia Polosukhin"
+        ];
+        const authorsContainer = document.getElementById('authors-container');
+        authors.forEach(name => {
+            const div = document.createElement('div');
+            div.className = "flex flex-col items-center p-6 bg-white rounded-xl border border-stone-200 shadow-sm w-60";
+            div.innerHTML = `<h3 class="font-serif text-lg mb-2">${name}</h3><div class="w-8 h-0.5 bg-nobel-gold opacity-60"></div>`;
+            authorsContainer.appendChild(div);
+        });
+
+    </script>
+
+</body>
+</html>

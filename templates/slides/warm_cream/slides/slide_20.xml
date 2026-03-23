@@ -1,0 +1,53 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="458.75" height="52" topLeftX="451.88" topLeftY="70.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>视觉设计规范</p>
+        </content>
+      </shape>
+      <img src="JCmzbTd3OoxWV8xxsKOchcxEnCf" width="404.91" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0.04" rightOffset="0.04" topOffset="0" bottomOffset="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="48" height="34" topLeftX="452.92" topLeftY="156.26" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="48" height="34" topLeftX="452.92" topLeftY="315.07" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="408" height="110" topLeftX="502.72" topLeftY="189.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>扁平插画，霓虹渐变色彩（蓝、紫、黄、橙），深色背景</p>
+        </content>
+      </shape>
+      <shape width="408" height="110" topLeftX="502.72" topLeftY="346.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>邀请函采用烫金工艺，伴手礼为定制星空主题U盘+笔记本</p>
+        </content>
+      </shape>
+      <shape width="408" height="36" topLeftX="502.72" topLeftY="156.37" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>主视觉风格</p>
+        </content>
+      </shape>
+      <shape width="408" height="36" topLeftX="502.72" topLeftY="315.18" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>物料体系</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

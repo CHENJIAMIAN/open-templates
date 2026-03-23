@@ -1,0 +1,49 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="458.75" height="70.34" topLeftX="451.88" topLeftY="70.07" type="text">
+      <content textType="headline" fontSize="28" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>教育与科研：从工具辅助到范式创新</p>
+      </content>
+    </shape>
+    <img src="UQFObDjlUoKGsMxC327ccYeBnvy" width="404.91" height="540" topLeftX="0" topLeftY="0">
+      <crop type="rect" leftOffset="0.04" rightOffset="0.04" topOffset="0" bottomOffset="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="54" height="34" topLeftX="452.92" topLeftY="156.26" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" bold="false" lineSpacing="multiple:0.9" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">01</p>
+      </content>
+    </shape>
+    <shape width="54" height="34" topLeftX="452.92" topLeftY="315.07" type="text">
+      <content textType="sub-headline" fontSize="34" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" bold="false" lineSpacing="multiple:0.9" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">02</p>
+      </content>
+    </shape>
+    <shape width="408" height="110" topLeftX="502.72" topLeftY="189.33" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI向高阶思维培养延伸，实现个性化辅导、自适应学习路径规划，基础教育场景中作业批改效率提升70%。</p>
+      </content>
+    </shape>
+    <shape width="408" height="110" topLeftX="502.72" topLeftY="346.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI从文献检索升级为科研伙伴，如Kosmos AI科学家系统加速材料发现、药物研发，将实验周期缩短50%。2025年AI驱动的科研新范式在蛋白质结构预测、量子力学模拟等领域取得突破。</p>
+      </content>
+    </shape>
+    <shape width="408" height="36" topLeftX="502.72" topLeftY="156.37" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>教育领域</p>
+      </content>
+    </shape>
+    <shape width="408" height="36" topLeftX="502.72" topLeftY="315.18" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>科研领域</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,36 @@
+{
+    "id":  "webpage/stock-analysis",
+    "family":  "webpage",
+    "name":  "stock-analysis",
+    "displayName":  "Stock Analysis",
+    "description":  "A finance dashboard template for stock analysis and market signals.",
+    "tags":  [
+                 "finance",
+                 "dashboard",
+                 "charts",
+                 "analytics"
+             ],
+    "category":  "dashboard",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/stock-analysis",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/stock-analysis",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/stock-analysis/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/stock-analysis/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

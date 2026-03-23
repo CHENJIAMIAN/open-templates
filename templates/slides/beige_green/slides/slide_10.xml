@@ -1,0 +1,62 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(249, 248, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>多模态技术：打破感知边界的融合架构</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>架构设计</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用"(ViT&amp;Audio)Encoder+LLM"架构，通过模态编码器将图像、音频等非文本信号转化为统一向量空间，实现跨模态理解与生成。</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心挑战</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括跨模态语义鸿沟、计算资源消耗剧增及模态偏见传递。</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>发展现状</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年主流模型已实现"输入多模态化（文字/语音/图片）+输出富媒体化（文字/图像/视频/语音）"，如GPT-4o支持图像理解与生成，豆包在多模态内容创作中表现突出。</p>
+        </content>
+      </shape>
+      <shape width="70" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="70" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="70" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

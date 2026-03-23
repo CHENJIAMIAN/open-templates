@@ -1,0 +1,102 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="202.64" height="276.40" topLeftX="483" topLeftY="222.48" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="202.64" height="129.14" topLeftX="696.27" topLeftY="369.75" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="202.64" height="129.14" topLeftX="483" topLeftY="81" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="202.64" height="276.40" topLeftX="696.27" topLeftY="81" presetHandlers="8" alpha="0.12" type="round-rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="102.58" height="31" topLeftX="60" topLeftY="39.50" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.75)" width="1"/>
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="12">核心要点</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="351.10" height="114.63" topLeftX="59" topLeftY="346.12" type="text">
+      <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="40" fontFamily="Noto Sans SC Light">阶段进展</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="40" fontFamily="Noto Sans SC Light">已完成的关键工作</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="351.10" height="31" topLeftX="59" topLeftY="472.79" alpha="0.65" type="text">
+      <content textType="caption" fontSize="16" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>偏“过程型成果”，而非“结果型数据”</p>
+      </content>
+    </shape>
+    <shape width="172.54" height="53.72" topLeftX="497.36" topLeftY="145.57" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">
+          <span fontFamily="Noto Sans SC Light">用于概括当前阶段的整体状态，明确产品所处的发展区间，后续判断提供统一参照。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.54" height="52" topLeftX="497.36" topLeftY="428.39" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="12" fontFamily="Noto Sans SC Light">说明阶段内已完成的核心工作内容，聚焦过程性进展与阶段性产出，不以结果作为唯一依据。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.54" height="53.72" topLeftX="711.31" topLeftY="290.13" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="12" fontFamily="Noto Sans SC Light">描述当前阶段的整体背景与外部条件，包括阶段目标、推进节奏及关键约束。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="172.54" height="52" topLeftX="711.31" topLeftY="448.09" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="Noto Sans SC Light">说明与前后阶段之间的衔接关系，强调工作的承上启下作用。</span>
+        </p>
+      </content>
+    </shape>
+    <icon width="18" height="18" topLeftX="711.31" topLeftY="262.37" iconType="iconpark/Base/radar.svg">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="18" height="18" topLeftX="497.36" topLeftY="118.81" iconType="iconpark/Base/setting.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="18" height="18" topLeftX="497.36" topLeftY="399.72" iconType="iconpark/Travel/local.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="18" height="18" topLeftX="711.08" topLeftY="420.19" iconType="iconpark/Charts/positive-dynamics.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

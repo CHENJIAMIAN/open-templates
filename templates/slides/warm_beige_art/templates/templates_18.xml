@@ -1,0 +1,46 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(252, 249, 245, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="50.33" startY="307.59" endX="898.97" endY="307.59" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>漫画艺术</p>
+      </content>
+    </shape>
+    <shape width="558.23" height="34" topLeftX="340.75" topLeftY="138.86" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">核心特征</p>
+      </content>
+    </shape>
+    <shape width="557.72" height="96" topLeftX="340.75" topLeftY="171.26" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>夸张造型与幽默场景，简化线条。</p>
+      </content>
+    </shape>
+    <shape width="558.23" height="34" topLeftX="340.75" topLeftY="346.93" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">推荐图片</p>
+      </content>
+    </shape>
+    <shape width="557.72" height="96" topLeftX="340.75" topLeftY="379.33" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>卡通角色插画（大眼睛人物与鲜艳色块），搜索关键词："Whimsical cartoon character illustration"</p>
+      </content>
+    </shape>
+    <img src="A8CtbdMZKoQLDgx5JNScYVV1nqb" width="263.11" height="148" topLeftX="50.33" topLeftY="335.93">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="11"/>
+    </img>
+    <img src="HsJ9bGLgjoLbzTxjM3Uc9QsnnBg" width="263.11" height="148" topLeftX="50.33" topLeftY="128.25">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="11"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,1252 @@
+<presentation id="YBWqs5oHol6UZtdSCd8csvdnnJg" xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+    <title>
+        【cobalt】学术研究报告
+    </title>
+    <theme>
+        <textStyles>
+            <headline fontColor="rgba(31, 35, 41, 1)"/>
+            <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+            <body fontColor="rgba(31, 35, 41, 1)"/>
+            <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+        </textStyles>
+    </theme>
+    <slide id="Eg1ks4wzdliBSsdzbjScrRW5nug">
+        <style/>
+        <data>
+            <img id="XRcTs0HldlenxwdEfP6cMV9Xnve" src="C7LubulYzoSLOhxghXWcD6qcnqg" width="960" height="540" topLeftX="0" topLeftY="0">
+                <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+            </img>
+            <shape width="193" height="30" topLeftX="52" topLeftY="64.631461679177" type="text" id="KQuMsVtDRlVoz6d6YUmcXeoBnUh">
+                <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false">
+                    <p>
+                    --
+                </p>
+            </content>
+        </shape>
+        <shape width="193" height="21" topLeftX="52" topLeftY="43.54055258826793" type="text" id="IQk6sUFpjl6kQhddzuTc6Hk0nfc">
+            <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false">
+                <p>
+                演讲人
+            </p>
+        </content>
+    </shape>
+    <shape width="857" height="80" topLeftX="52" topLeftY="396.2746551353134" type="text" id="YMp3sY91HlXvRhdU0c1cc2tFnuf">
+        <content textType="headline" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+            <p>
+            学术研究报告
+        </p>
+    </content>
+</shape>
+<shape width="336" height="21" topLeftX="581.0480708809105" topLeftY="43.631461679176994" type="text" id="DgN2svoxaldyQUdli0ac04JEnRd">
+    <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false" underline="false" textAlign="right">
+        <p textAlign="right">
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false" underline="false">
+                本幻灯片由&#32;
+            </span>
+            <u>
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false">
+                &#32;
+            </span>
+        </u>
+        <a href="https://aily.feishu.cn/?open-from=feishu_slides">
+            <u>
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false">
+                aily 工作助手
+            </span>
+        </u>
+    </a>
+    <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false" underline="false">
+        &#32;创建
+    </span>
+</p>
+</content>
+</shape>
+</data>
+<note id="QazkskOHNlsYBIdPkGdcDaHFnNh">
+    <content/>
+</note>
+</slide>
+<slide id="WaOasmAQaluuCidOawEbPdbZcEf">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="279.86616418109463" type="text" id="ToOis4gUYlWKE4dLqYBbTzaCcio">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="362" presetHandlers="0" alpha="0.35" type="rect" id="UwAGsUGQUl02IadoDHLbdd3ycLb">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <img id="M6Qos4a20lqoyKdgXzRbCp8tcXc" src="YQV7bJM2Yow8A1xwCevciZ6BnUb" width="959.9999999999999" height="239.43670527716284" topLeftX="0" topLeftY="-0.010989010989021608">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="7.5316473614185355" bottomOffset="7.53164736141855" presetHandlers="0"/>
+        </img>
+        <shape width="360.00000000000006" height="38" topLeftX="47.873028120590774" topLeftY="441.93162214776254" type="text" id="VCkqsyi2KlEAWidmCV0b5QT4cOf">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="57" topLeftX="47.21816000000139" topLeftY="394.98559278337154" type="text" id="CUe8sCICSl8UwUdWmsxbPIQscxc">
+        <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="360.00000000000006" height="38" topLeftX="481.1319224278958" topLeftY="441.93162214776254" type="text" id="QW6usWEawlAU2gdOaJ2bq3H3cyc">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="57" topLeftX="480.4770543073064" topLeftY="394.98559278337154" type="text" id="JY6WsAUAqliEOwdCQVvbxDrzcAb">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="VYwgssACGlUQ0OdyWzDbWlPAcDc">
+    <content/>
+</note>
+</slide>
+<slide id="ZeyqsIs4slYC8Adc3Fsb5Tk2cqh">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="279.86616418109463" type="text" id="XCgQs0wWqlcq6odh6rEb2kKFcJc">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="362" presetHandlers="0" alpha="0.35" type="rect" id="CkwisOWiKlS0kMd6vlbbCSPGcYb">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <img id="ZK4osA8cilUgQqdQfC5b2rRDc3b" src="YQV7bJM2Yow8A1xwCevciZ6BnUb" width="959.9999999999999" height="239.43670527716284" topLeftX="0" topLeftY="-0.010989010989021608">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="7.5316473614185355" bottomOffset="7.53164736141855" presetHandlers="0"/>
+        </img>
+        <shape width="280" height="38" topLeftX="47.873028120590774" topLeftY="441.93162214776254" type="text" id="CU0esMKWilmqK6d0245bmnVHcch">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="57" topLeftX="47.21816000000139" topLeftY="394.98559278337154" type="text" id="O4sOsQEimlqCMgdgNSTbEkc7cEe">
+        <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="441.93162214776254" type="text" id="ASEos8i2Al0wqudAZ2QbHKTacOc">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="394.98559278337154" type="text" id="PEwUs8OK6lkgaKdwj3Sb9K7Bcnf">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="652.7818399999985" topLeftY="441.93162214776254" type="text" id="G8kws2iIUlQqsIdiD7dblNm0cTP">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="652.1269718794091" topLeftY="394.98559278337154" type="text" id="KwsssAMS2luQkwd6u7cba8fgcAh">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="IyQcsygQalYa2CdkciPbj9JocX9">
+    <content/>
+</note>
+</slide>
+<slide id="S2sis6cwGlQ6E8deQAtbUiQvcCf">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="279.86616418109463" type="text" id="QwQssWwyAlg4YwdhqZTbi8gsczH">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="362" presetHandlers="0" alpha="0.35" type="rect" id="Lm68ssogYlG8g0deqR1bdaH8cKe">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <img id="CgoCswmAYliyeado5BxbZwS2cof" src="YQV7bJM2Yow8A1xwCevciZ6BnUb" width="959.9999999999999" height="239.43670527716284" topLeftX="0" topLeftY="-0.010989010989021608">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="7.5316473614185355" bottomOffset="7.53164736141855" presetHandlers="0"/>
+        </img>
+        <shape width="199.99999999999997" height="38" topLeftX="47.873028120590774" topLeftY="441.93162214776254" type="text" id="EcIKssAg0lIaAqdSwgDb60Zpc5f">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="45" topLeftX="47.21816000000139" topLeftY="394.98559278337154" type="text" id="TEICsISmwl0UuodeOFObXt7Jcrg">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="199.99999999999997" height="38" topLeftX="265.3536754507628" topLeftY="441.93162214776254" type="text" id="UAygsoaMAl0Mcyd0iGbb62eWcoq">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="45" topLeftX="264.6988073301734" topLeftY="394.98559278337154" type="text" id="UEsksWy8KlcuA8d8n5fbwBMjcJf">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="483.48919090152424" topLeftY="441.93162214776254" type="text" id="Y62ksU2kIlucYGdSmhAb7aIjc9e">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="482.8343227809348" topLeftY="394.98559278337154" type="text" id="IegksSu4ulSemQdfo9RbbAuRcnT">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="702.2795744728751" topLeftY="441.93162214776254" type="text" id="HokusQgKyl4qggd4tNwbA8bDc1f">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="701.6247063522857" topLeftY="394.98559278337154" type="text" id="CE2CsYmiSliaQQdUZ2fb6VfFcef">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="Rw2qs2ywcl8c2YdAKgobWgfVcjb">
+    <content/>
+</note>
+</slide>
+<slide id="Ja48sWOwWl0K0edMKzIbok9Bcqm">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="50.850907593022555" type="text" id="WKEss8ig2lUkgKdYXqyb0uSIceh">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="132.98474341192792" presetHandlers="0" alpha="0.35" type="rect" id="R260sGGCEl6EmedWIu3bS0qbcic">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <shape width="280" height="38" topLeftX="47.873028120590774" topLeftY="226.23120605899697" type="text" id="OqsmsisEali2madwjfLbD2h7cBb">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="57" topLeftX="47.21816000000139" topLeftY="179.28517669460598" type="text" id="NKOasa4wulU8g0dw36ybFj29cyf">
+        <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="226.23120605899697" type="text" id="V40QsuqyIlU02MdSyBhbKcdVc7e">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="179.28517669460598" type="text" id="OAIosgQYglk28Mdw1SdbxNO5cys">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="652.7818399999985" topLeftY="226.23120605899697" type="text" id="L6aCsmigwlCCEodovH3bhyaZcuf">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="652.1269718794091" topLeftY="179.28517669460598" type="text" id="Hy8ssUOkUlC6wSd0q5rbOdplcKf">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="47.87302812059079" topLeftY="375.477668706066" type="text" id="WMoescYAalSiEcdEtC3bp05cctf">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="47.218160000001376" topLeftY="328.53163934167503" type="text" id="AOy0siaUYlOEA6dQfeKbRISOc1d">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="JKuKsyAiAlw6O4duM8xbsYzacxe">
+    <content/>
+</note>
+</slide>
+<slide id="UUQ2sKoSmlU0igd6vbibTStyc6d">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="50.850907593022555" type="text" id="JKGYsw4e8lKw8gdewxWbFYaTcqc">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="132.98474341192792" presetHandlers="0" alpha="0.35" type="rect" id="QikGseWAmlko0odWyqkbzz8Pckg">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <shape width="280" height="38" topLeftX="47.873028120590774" topLeftY="226.23120605899697" type="text" id="JC84sOu2QlmO8OdAJFkbNDodcUh">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="57" topLeftX="47.21816000000139" topLeftY="179.28517669460598" type="text" id="Qie4sOmwClaywgdWYepbsXCocgc">
+        <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="226.23120605899697" type="text" id="P8IasygyElkOG6dAzsAbcCgKcre">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="179.28517669460598" type="text" id="Fs2osmsKOlkgWQdqOGxb7qCVcve">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="652.7818399999985" topLeftY="226.23120605899697" type="text" id="WQAws8EQylwOCQdoOeGbaSbScts">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="652.1269718794091" topLeftY="179.28517669460598" type="text" id="UwoYsckmmleaMud4tEqbuUXtcn7">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="47.87302812059079" topLeftY="375.477668706066" type="text" id="PEugs42MslkScEdSwwnbM5DEckg">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="47.218160000001376" topLeftY="328.53163934167503" type="text" id="MAUksUsqslym4UdMNuYbeZP7ccf">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="375.477668706066" type="text" id="B4sgscIImlISOQdoTXmbGXCFcod">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题5
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="328.53163934167503" type="text" id="Vy4gsYW4qlgWWydA1qCbmO2Cc8e">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                05
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="EU8csUIkOlqEkqdOg1lbBoWucDd">
+    <content/>
+</note>
+</slide>
+<slide id="PqeusQcySluMEKdcZ7ZbaJuscif">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="50.850907593022555" type="text" id="OksGsIS0Mliq6odYPoKbFKr2cZe">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="132.98474341192792" presetHandlers="0" alpha="0.35" type="rect" id="QiAsss4EOlGOm4dYfIAb217sc8e">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <shape width="280" height="38" topLeftX="47.873028120590774" topLeftY="226.23120605899697" type="text" id="FqUUsEgYqlsUyKdyjHCbKfmichS">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="57" topLeftX="47.21816000000139" topLeftY="179.28517669460598" type="text" id="USQEsWCIql4GaYduK3Xbk2rccSh">
+        <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="226.23120605899697" type="text" id="YKkmswwYgleoOQdohdNbO5lBc4b">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="179.28517669460598" type="text" id="EmEcsmuEylUuI0dq8YbbwFU4cfd">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="652.7818399999985" topLeftY="226.23120605899697" type="text" id="AYaYsokuwly4iUdopiebGC7ecUf">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="652.1269718794091" topLeftY="179.28517669460598" type="text" id="Ni4YskMeWlAE2AdsBVnbCuK9cne">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="47.87302812059079" topLeftY="375.477668706066" type="text" id="CimmsKA0Kls0Cwd0U5qbJUZfcBc">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="47.218160000001376" topLeftY="328.53163934167503" type="text" id="GWK2sK6GklwyO6dWojHbJfIAcFd">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="350.32743406029465" topLeftY="375.477668706066" type="text" id="MESoskEcqlW6Uad85HubdbtXc2d">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题5
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="349.67256593970524" topLeftY="328.53163934167503" type="text" id="VeAms4ykKlsMaad66YkbKIq3cZg">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                05
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="280" height="38" topLeftX="653.4367081205879" topLeftY="375.477668706066" type="text" id="YMY0sIsOglwqyOdaGYVbCUWxcGg">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题6
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="57" topLeftX="652.7818399999985" topLeftY="328.53163934167503" type="text" id="RGUqsk0E8lme6GdzGuLbX7AGcMw">
+    <content textType="headline" fontSize="38" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontFamily="寒蝉德黑体">
+                06
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="MySCsW8iKlUQo4dOOo4bFxnccOf">
+    <content/>
+</note>
+</slide>
+<slide id="EISqsECoClEYUCdG2NabA3FBcqh">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="60.171295942537085" type="text" id="C6cKsSIQal0MC4dM1JHbKnGdcmg">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="142.30513176144245" presetHandlers="0" alpha="0.35" type="rect" id="NasysGcuYlE8eadodosbLijAcJh">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <shape width="199.99999999999997" height="38" topLeftX="47.873028120590774" topLeftY="232.236753909205" type="text" id="O8SYsSGOSlKMsYdkDUOb1tDTcge">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="45" topLeftX="47.21816000000139" topLeftY="185.290724544814" type="text" id="QWUqsAqkalka4wdWAVYbYThhcTd">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="199.99999999999997" height="38" topLeftX="265.3536754507628" topLeftY="232.236753909205" type="text" id="AcYQswwuCliU6OdS60GbXw5acud">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="45" topLeftX="264.6988073301734" topLeftY="185.290724544814" type="text" id="TKqGsuMcaleakSdERELbysfAcCb">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="483.48919090152424" topLeftY="232.236753909205" type="text" id="KkyEs4o6mlkkk2dslQ3bdrnwcAc">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="482.8343227809348" topLeftY="185.290724544814" type="text" id="ZKOIsM0qmla0S2dIHLfbD5HVcWl">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="702.2795744728751" topLeftY="232.236753909205" type="text" id="HEsssI6Iglg8ESdqoHHbI49Lcmg">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="701.6247063522857" topLeftY="185.290724544814" type="text" id="GewssOQo2lQ4qwd8rjwbuN2Ycag">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="49.13192242789262" topLeftY="388.3022118758729" type="text" id="K6C4sgG2MlKMyUdlYgybHDPocgi">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题5
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="48.477054307303206" topLeftY="341.3561825114819" type="text" id="UAWIseQMMlYQ00deaX5beTN0cCh">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                05
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="266.0085435713513" topLeftY="388.3022118758729" type="text" id="LmKIsSaUKlocowd2poIbrjIcc9g">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题6
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="265.3536754507619" topLeftY="341.3561825114819" type="text" id="T2cUsCw2GlaCQqd0OJjbwQRLcBc">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                06
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="480.6548681205894" topLeftY="388.3022118758729" type="text" id="XOw8sAsmml2Maoduy3Tb7RXwckd">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题7
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="480" topLeftY="341.3561825114819" type="text" id="RASOsU0qKlEsKWdMfZOb3WjJc2c">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                07
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="DwiQsYkaQlsYUgdn9dTblKL3cev">
+    <content/>
+</note>
+</slide>
+<slide id="BSSas2ouGlkSQEdtAKgb7jrycJh">
+    <style/>
+    <data>
+        <shape width="864.0000000000001" height="54" topLeftX="48.47705430730635" topLeftY="60.171295942537085" type="text" id="XO4ossMiQlWiywdqohBbjjjccff">
+            <content textType="title" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="864.0000000000001" height="1" topLeftX="47.99999999999997" topLeftY="142.30513176144245" presetHandlers="0" alpha="0.35" type="rect" id="UW8esYaeYlSWM0d4286b7qXacec">
+            <fill>
+                <fillColor color="rgba(185, 185, 185, 1)"/>
+            </fill>
+            <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+        </shape>
+        <shape width="199.99999999999997" height="38" topLeftX="47.873028120590774" topLeftY="232.236753909205" type="text" id="DGEesW2s0lcMgsd4VOMb2Seuc9x">
+            <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+                <p>
+                <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                    标题1
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="100" height="45" topLeftX="47.21816000000139" topLeftY="185.290724544814" type="text" id="BKkuscg0ilqMMMdS4lPbfwxJcTc">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                    01
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="199.99999999999997" height="38" topLeftX="265.3536754507628" topLeftY="232.236753909205" type="text" id="BwYKsgcGMl6MsedH0v6bfrpRcnu">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+            <p>
+            <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+                标题2
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="100" height="45" topLeftX="264.6988073301734" topLeftY="185.290724544814" type="text" id="GiomsMwuElAegYdMZowbTDgbcDe">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                02
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="483.48919090152424" topLeftY="232.236753909205" type="text" id="UMuQsMCGmlIEuEd2nvWbGOFUcif">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题3
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="482.8343227809348" topLeftY="185.290724544814" type="text" id="NOoWsYWSslAUECd2zlcbdIQGcqg">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                03
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="702.2795744728751" topLeftY="232.236753909205" type="text" id="NcSwsGag4lwqAKdGkvybNe31cXc">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题4
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="701.6247063522857" topLeftY="185.290724544814" type="text" id="LWcqsikASlA4CwdyMIPbMshwcYb">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                04
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="49.13192242789262" topLeftY="388.3022118758729" type="text" id="TQMGsw6eYlQsyQdOkvLbheo9cYg">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题5
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="48.477054307303206" topLeftY="341.3561825114819" type="text" id="L0QwsuWIulUIuudUxQNbmZDNcPh">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                05
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="266.0085435713513" topLeftY="388.3022118758729" type="text" id="PmiEsUIG8lMIcodOYHWbIw7RcIb">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题6
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="265.3536754507619" topLeftY="341.3561825114819" type="text" id="QG8csuGiGlueYodeMsfbFhSScTc">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                06
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="480.6548681205894" topLeftY="388.3022118758729" type="text" id="NsKysE8KGleGW4d4kUWbmMJtcpc">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题7
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="480" topLeftY="341.3561825114819" type="text" id="J6s8sQEMsluaEUd4Kurb4KBbcNc">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                07
+            </span>
+        </p>
+    </content>
+</shape>
+<shape width="199.99999999999997" height="38" topLeftX="702.9344425934644" topLeftY="388.3022118758729" type="text" id="WauiseKOWlmCecda2HLbTPoJcyh">
+    <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(41, 43, 62, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>
+        <span color="rgba(41, 43, 62, 1)" fontFamily="寒蝉德黑体" bold="false">
+            标题8
+        </span>
+    </p>
+</content>
+</shape>
+<shape width="100" height="45" topLeftX="702.2795744728751" topLeftY="341.3561825114819" type="text" id="ScqGsM88SlUsmAdIjCubXK8ecCe">
+    <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(47, 63, 207, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p textAlign="left">
+            <span color="rgba(47, 63, 207, 1)" fontSize="30" fontFamily="寒蝉德黑体">
+                08
+            </span>
+        </p>
+    </content>
+</shape>
+</data>
+<note id="HO0osc8YGlC8Oyd6zFfbxM02cRP">
+    <content/>
+</note>
+</slide>
+<slide id="Mx18s1jZHl05Nmd84QGcTpPZnOg">
+    <style/>
+    <data>
+        <img id="QrAysQF1KlVf8GdLjuPco0ePnPc" src="CVE5b8PVyo5yA7xyC7ncePuSnQh" width="960" height="540" topLeftX="0" topLeftY="-1.4210854715202004e-14">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="OU4Ds2WXclb3QSdZsYWcCmbTnYd">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="CbHus2UqOlmKuodSM0HcxNhtnQg">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="TtKRsp8lxlYFZxduZVUcMEaAn6e">
+        <content/>
+    </note>
+</slide>
+<slide id="NZ0gsJ63Nl1dP9d3GIQcG1Ginaf">
+    <style/>
+    <data>
+        <img id="LV3esvRGblBTbjdITG8cIhOnnJd" src="V4erb5oO9oezF8xW25Ac82fLnTf" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="JkcTsh1BelP3dWdf8BJcLO2Snid">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="Jh8UseVPxl7wnedN1yDc44apngf">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="BLcwsI6fplK3azdTWMkcTaBXnMb">
+        <content/>
+    </note>
+</slide>
+<slide id="GqVrs6FCUl4ezJdSuT4cLsKCnbc">
+    <style/>
+    <data>
+        <img id="WoKwsVELZlWPmldIqCTc5OTunJf" src="ExHdbxfCRojBaCx8K3Oc4tvbnvh" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="YsCwsIgJIlbOYedHQjycp9xUn2c">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="WMjqs9TXPlT9ZHdXFUBcvhaAnsh">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="LzK0s57PqlbgpkdN5ficQONpnEd">
+        <content/>
+    </note>
+</slide>
+<slide id="TUxosOyLilgLVTdIwBRc5Xgjncd">
+    <style/>
+    <data>
+        <img id="VEqisJX55lOHDSddiNjctP5ynch" src="Res4bOde2omXM9xeOTscJwSunVb" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="EjMasNDGilFaqsd66YmceTF1nrc">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="V1bbsyJfflZavNdyWbBcHYyDnZl">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="FVSCssF18lVbDhd3WkTcWVj3nug">
+        <content/>
+    </note>
+</slide>
+<slide id="S122s0yYllx5GHdunKRcjgb8ncc">
+    <style/>
+    <data>
+        <img id="Usrus5BUzlWgARd1PXFcc8m0nMc" src="CVE5b8PVyo5yA7xyC7ncePuSnQh" width="960" height="540" topLeftX="0" topLeftY="-1.4210854715202004e-14">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="HV0tsK75JlNTG2d6hi8ctWQInxe">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        05
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="VXQcsHqbAlqjkKdqzv2cdDPOngc">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="U2gUsomLhllGvnd83bicQGBGnpb">
+        <content/>
+    </note>
+</slide>
+<slide id="ILpRsv8qalnrBjdYd7mcGABqnLd">
+    <style/>
+    <data>
+        <img id="TXpEsIRZnlZotXdAXT0cr8Q9nqb" src="V4erb5oO9oezF8xW25Ac82fLnTf" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="Wal4syUGJl6LJcdiQ9TcJKWtncc">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        06
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="Hndys0jvCl7aD6diSBucuBpxn8e">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="BfGRsEoxVleLwvdeMVDcVUMjnPf">
+        <content/>
+    </note>
+</slide>
+<slide id="BjjVspYhhlaedtdaf6Hc8TxDnKd">
+    <style/>
+    <data>
+        <img id="F6Yvs7lcZlFd67dBCQ1cPPIln4g" src="ExHdbxfCRojBaCx8K3Oc4tvbnvh" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="W6VlsJ3Bmldu8QdmwTzcF66enng">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        07
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="BrOgsTM0elPYvsdwGBocfjjwn1d">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="R0aUsV3zklfVDOdGTtCcySJinde">
+        <content/>
+    </note>
+</slide>
+<slide id="VRUgsqG9qls7aid6SrtcGF1gnad">
+    <style/>
+    <data>
+        <img id="GX3NsuBDjlWdmldvfENcqqyqn3b" src="Res4bOde2omXM9xeOTscJwSunVb" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="87.28591145592" height="84" topLeftX="51.873747317961275" topLeftY="154.96414748779796" alpha="0.4" type="text" id="IzDks3QiSlXLV6dBeYbcgxjDnHb">
+            <content textType="title" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="寒蝉德黑体" bold="false">
+                        08
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="769.832106223099" height="167.34631708171375" topLeftX="139.1596587738813" topLeftY="160.96414748779793" type="text" id="DopWszx09lFJVodiDRycHxFcnvf">
+            <content textType="headline" fontSize="58" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(255, 255, 255, 1)" fontSize="58" fontFamily="寒蝉德黑体">
+                        章节标题
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="HADosGvKYldsp6dSR7lcWBZVnLf">
+        <content/>
+    </note>
+</slide>
+<slide id="SrAOsnb7glVnBOdfhaBc37MVnUd">
+    <style/>
+    <data>
+        <img id="AwFtsDljjlLTLAd5r3ecLyijnQb" src="C7LubulYzoSLOhxghXWcD6qcnqg" width="960" height="540" topLeftX="0" topLeftY="0">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="193" height="30" topLeftX="52" topLeftY="64.631461679177" type="text" id="UHlVsygSZlh1sLdL3gpc3ZwPnMb">
+            <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false">
+                <p>
+                --
+            </p>
+        </content>
+    </shape>
+    <shape width="193" height="21" topLeftX="52" topLeftY="43.54055258826793" type="text" id="OTAWshFE1lKYjQdqnEGcjH3Bneb">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false">
+            <p>
+            演讲人
+        </p>
+    </content>
+</shape>
+<shape width="857" height="80" topLeftX="52" topLeftY="396.2746551353134" type="text" id="Aswts5FWElJLtZdoNrCcvaIOnNN">
+    <content textType="headline" fontSize="66" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+        <p>
+        感谢观看
+    </p>
+</content>
+</shape>
+<shape width="336" height="21" topLeftX="581.0480708809105" topLeftY="43.631461679176994" type="text" id="S2NdsmtDzlbVmvdB91KchkMDnNe">
+    <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(187, 191, 228, 1)" bold="false" underline="false" textAlign="right">
+        <p textAlign="right">
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false" underline="false">
+                本幻灯片由&#32;
+            </span>
+            <u>
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false">
+                &#32;
+            </span>
+        </u>
+        <a href="https://aily.feishu.cn/">
+            <u>
+            <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false">
+                aily 工作助手
+            </span>
+        </u>
+    </a>
+    <span color="rgba(187, 191, 228, 1)" fontSize="14" fontFamily="寒蝉德黑体" bold="false" underline="false">
+        &#32;创建
+    </span>
+</p>
+</content>
+</shape>
+</data>
+<note id="IMtysfBmsl4Hq3d5KWDcUYYSnhg">
+    <content/>
+</note>
+</slide>
+</presentation>

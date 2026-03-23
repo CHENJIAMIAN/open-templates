@@ -1,0 +1,2207 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>团队OKR制定指南</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Sm7vbtle1ovYd0xIH6HcMVUWnsZ" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="697.88" height="299.95" topLeftX="56" topLeftY="56.02" type="text">
+        <content textType="headline" fontSize="66" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(240, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队OKR制定指南</p>
+        </content>
+      </shape>
+      <shape width="148.09" height="22" topLeftX="767.21" topLeftY="291.31" alpha="0.80" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="148.09" height="31.89" topLeftX="767.21" topLeftY="313.40" alpha="0.80" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="133.61" height="22" topLeftX="781.69" topLeftY="390.46" alpha="0.80" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="133.61" height="31.89" topLeftX="781.69" topLeftY="412.55" alpha="0.80" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Uua0b1ziCoiilIxZizJcDjznn9d" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464.00" height="366" topLeftX="47.92" topLeftY="87.00" presetHandlers="19" type="rect">
+        <fill>
+          <fillColor color="rgba(42, 40, 62, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <line startX="83.89" startY="189.54" endX="475.45" endY="189.54" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="391.06" height="45" topLeftX="84.39" topLeftY="119.67" type="text">
+        <content textType="title" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="211.68" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队OKR基础认知</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40" topLeftX="84.39" topLeftY="211.68" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="263.80" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队目标（O）设定指南</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="263.80" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="315.93" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队关键结果（KR）制定方法</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="315.93" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="368.05" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队OKR实施与管理全流程</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="84.39" topLeftY="368.05" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="BKU9bLadXowKcJxvyfUcXOahnSe" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.15" height="75" topLeftX="780.48" topLeftY="62.32" type="text">
+        <content textType="title" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="859.72" height="75" topLeftX="52.68" topLeftY="419.57" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">销售团队OKR基础认知</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.00" startY="231.16" endX="912" endY="232.16" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="48.00" startY="379.12" endX="912" endY="380.12" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="699.41" height="70.00" topLeftX="48.28" topLeftY="282.19" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">OKR（Objectives and Key Results）即目标与关键成果法，是一种将战略愿景转化为具体行动的目标管理框架。其核心思想是通过明确的目标（Objective）与可量化的关键结果（Key Results），实现团队聚焦、对齐与高效执行。</p>
+        </content>
+      </shape>
+      <shape width="699.62" height="36" topLeftX="48.07" topLeftY="247.43" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR的定义</p>
+        </content>
+      </shape>
+      <shape width="81.55" height="57" topLeftX="830.52" topLeftY="245.19" type="text">
+        <content textType="sub-headline" fontSize="47" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="147.50" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR的定义与核心价值</p>
+        </content>
+      </shape>
+      <shape width="699.41" height="70.00" topLeftX="48.28" topLeftY="430.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦重点资源、促进跨团队协作、激发团队挑战潜能，帮助销售团队将“做什么”与“如何衡量成功”清晰衔接，确保所有行动都服务于核心目标。</p>
+        </content>
+      </shape>
+      <shape width="699.62" height="36" topLeftX="48.07" topLeftY="395.39" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR的核心价值</p>
+        </content>
+      </shape>
+      <shape width="81.55" height="57" topLeftX="830.52" topLeftY="393.15" type="text">
+        <content textType="sub-headline" fontSize="47" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864.00" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR的核心特点</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全员目标公开可见，促进信息共享与跨团队协作，打破部门壁垒</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">透明化</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>每个周期设定少量关键目标（通常不超过5个），避免资源分散，确保团队精力集中于核心任务</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">聚焦性</p>
+        </content>
+      </shape>
+      <img src="ASSDbnoL8oEblcxAMQpc5AwHndc" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="26"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>以季度为周期，支持根据市场变化动态调整，适应销售业务的快速变化需求</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">灵活性</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标应具备一定难度，理想完成度为60%-70%，既激发潜能又避免挫败感</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">挑战性</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR与KPI的本质区别</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="32" topLeftX="48.07" topLeftY="110.61" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>示例说明</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="52.42" topLeftX="48.07" topLeftY="141.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售团队“提升新客户开发量”是OKR目标，而“新客户开发量达成率”则是KPI指标。</p>
+        </content>
+      </shape>
+      <table id="bPL" topLeftX="48.07" topLeftY="201.80">
+        <colgroup>
+          <col span="3" width="286.53"/>
+        </colgroup>
+        <tr height="58.57">
+          <td id="bXH">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">维度</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXn">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">OKR</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwc">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">KPI</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="58.57">
+          <td id="bwL">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">核心定位</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bJz">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">目标管理工具，回答“我们要做什么”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXg">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">绩效衡量工具，回答“做得怎么样”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="58.57">
+          <td id="bXA">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">与考核关系</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">与绩效考核脱钩，鼓励挑战</span>
+              </p>
+            </content>
+          </td>
+          <td id="bwF">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">直接与绩效考核挂钩，追求100%达成</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="58.57">
+          <td id="bJS">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">设定逻辑</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXe">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">从战略拆解，自上而下与自下而上结合</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXq">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">基于历史数据，多为自上而下下达</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="58.57">
+          <td id="bws">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">灵活性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwI">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">周期短（季度），支持动态调整</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXK">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">周期较长（年度/半年度），调整成本高</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <border color="rgba(236, 98, 221, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" alpha="0.75" type="ellipse">
+        <border color="rgba(236, 98, 221, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(236, 98, 221, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" alpha="0.75" type="ellipse">
+        <border color="rgba(236, 98, 221, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(236, 98, 221, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售团队适用OKR的优势</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48.00" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">目标对齐</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48.00" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>确保个人、团队目标与公司战略一致，避免“各扫门前雪”</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33.00" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">协作效率</p>
+        </content>
+      </shape>
+      <shape width="260.00" height="90.00" topLeftX="33.00" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>公开透明的目标体系，促进销售、市场、客户成功等部门协同</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48.00" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">OKR解决销售业务痛点</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84.00" topLeftX="48.00" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>销售业务具有目标明确、结果可量化、市场变化快等特点，OKR能针对性解决以下痛点</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">敏捷响应</p>
+        </content>
+      </shape>
+      <shape width="260" height="113.00" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>季度周期调整机制，快速应对市场竞争、政策变化等外部因素</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">潜能激发</p>
+        </content>
+      </shape>
+      <shape width="260" height="113.00" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>挑战性目标设计，推动销售团队突破“舒适区”，实现业绩跃升</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.45" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>优秀销售OKR的判断标准</p>
+        </content>
+      </shape>
+      <shape width="200" height="32" topLeftX="52.79" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标（O）</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="52.79" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>简洁明确、鼓舞人心，聚焦“为什么做”，如“成为行业领先的销售团队”</p>
+        </content>
+      </shape>
+      <img src="EIrTbKuamot9texKmMBcWu4Onds" width="209.04" height="157.00" topLeftX="48.27" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0.00" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="270.34" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键结果（KR）</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="270.34" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>具体可衡量、有时间限制、直接支撑目标，如“Q3新客户签约数达到50家”</p>
+        </content>
+      </shape>
+      <img src="IAWCbPDNooUzZSxidAmcM31hnrh" width="209.04" height="157.00" topLeftX="265.82" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0.00" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="488.76" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>对齐性</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="488.76" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人KR支撑团队O，团队O支撑公司战略，形成完整目标链条</p>
+        </content>
+      </shape>
+      <img src="PpUybzRQ0oJIBrxG59YcMlgSn0f" width="209.04" height="157.00" topLeftX="484.24" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0.00" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="707.19" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>可行性</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="707.19" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>基于团队能力与资源，避免过度激进（如历史月均新客户10家，设定KR为50家则不现实）</p>
+        </content>
+      </shape>
+      <img src="GFDRbVl3iol5wjxH5aIczEkUnH0" width="209.04" height="157.00" topLeftX="702.66" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0.00" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="NhuwbstOKowClHxOOv0cFP3anFb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.15" height="75" topLeftX="780.48" topLeftY="62.32" type="text">
+        <content textType="title" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="859.72" height="75" topLeftX="52.68" topLeftY="419.57" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">销售团队目标（O）设定指南</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280.00" height="46" topLeftX="48.07" topLeftY="266.16" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="340" topLeftY="200.38" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="633.07" topLeftY="135.38" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标设定的战略对齐原则</p>
+        </content>
+      </shape>
+      <shape width="236" height="170.00" topLeftX="64.55" topLeftY="321.72" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>从管理层确认核心战略目标（如“年度营收增长30%”“新产品销售额占比20%”）</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="64.55" topLeftY="271.16" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>解读公司战略</p>
+        </content>
+      </shape>
+      <shape width="236" height="170.00" topLeftX="356.48" topLeftY="255.94" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>将战略目标转化为销售团队可执行的核心任务，例如公司战略为“提升高端市场份额”，销售目标可设定为“高端客户销售额占比≥40%”</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="356.48" topLeftY="205.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>提炼销售任务</p>
+        </content>
+      </shape>
+      <shape width="236" height="170.00" topLeftX="649.55" topLeftY="190.94" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>确保每个销售目标都能直接回答“如何帮助公司实现战略”，避免目标断层或重复</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="649.55" topLeftY="140.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>校验对齐性</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>SMART原则在销售目标中的应用</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>明确“谁在什么范围达成什么”，如“华东区销售团队Q3实现制造业客户突破”而非“拓展新市场”</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>具体（Specific）</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标需隐含可量化结果，如“提升市场份额”需转化为“市场份额从10%提升至15%”</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>可衡量（Measurable）</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>基于历史数据设定合理挑战，如历史季度最高销售额800万，目标可设为1000万</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>可实现（Achievable）</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>与团队职责、公司战略强相关，销售团队目标不应偏离“业绩增长、客户拓展”等核心职责</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>相关性（Relevant）</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>明确完成周期，如“Q4前完成华南区渠道布局”而非“长期拓展华南市场”</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>时限性（Time-bound）</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="342.95" height="95.51" topLeftX="42.07" topLeftY="347.70" path="M342.9508200963337,95.50723605181165 L0,95.50723605181165 L50.18784463001808,7.772650490936212 C52.944284227574826,2.9604493975254136 58.057447322027855,-0.004288753259666845 63.59116791646229,0 L279.35965217987143,0 C284.88997233546934,-0.002199360645982997 289.99885745848275,2.962538790139097 292.75189661720293,7.772650490936212 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="4" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="226.18" height="95.51" topLeftX="100.48" topLeftY="245.59" path="M226.18402841983422,95.50723605181165 L0,95.50723605181165 L51.26479651703356,5.9011045492369805 C53.353104728991276,2.2480764842915204 57.23234729206956,-0.004288753259666845 61.431998946813394,0 L164.73009115794616,0 C168.92645206542878,-0.002199360645982997 172.80240388124588,2.2492861326468114 174.886434121764,5.9011045492369805 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="6" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="109.25" height="89.62" topLeftX="158.89" topLeftY="149.37" path="M109.25291876342546,89.62405629183944 L0,89.62405629183944 L49.56655154710346,2.946263521358823 C51.163551192963965,0.14295844198889482 54.72424942115807,-0.830698515987778 57.518532612218614,0.7717556506754337 C58.4218427354181,1.2894851467398314 59.1703780457658,2.0403468712784267 59.686367216322004,2.946263521358823 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售团队目标的层级拆解</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="35" topLeftX="307.92" topLeftY="146.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司级OKR</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="60.00" topLeftX="307.92" topLeftY="177.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度销售额突破2亿元</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="35" topLeftX="360.90" topLeftY="245.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>部门级OKR</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="60.00" topLeftX="360.90" topLeftY="276.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售部Q3销售额达到5000万元</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="35" topLeftX="416.92" topLeftY="352.08" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人级OKR</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="60.00" topLeftX="416.92" topLeftY="383.08" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售代表根据区域/客户类型拆解，如负责的华东制造业客户Q3销售额达到800万元</p>
+        </content>
+      </shape>
+      <shape width="44.74" height="55.00" topLeftX="191.18" topLeftY="177.11" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57.00" topLeftX="164.14" topLeftY="265.85" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57.00" topLeftX="164.14" topLeftY="364.08" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(58, 58, 58, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(58, 58, 58, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(58, 58, 58, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="864.00" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售总监目标（O）示例</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>深耕北区市场，确保Q1销售额达到1000万美金（承接公司“区域深耕”战略）</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>O1</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>赋能销售团队，提升人均效能30%（支撑“团队能力提升”战略）</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>O2</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>优化销售漏斗，将新客户转化率从15%提升至20%（服务“业绩增长”核心目标）</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>O3</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标原则</p>
+        </content>
+      </shape>
+      <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售总监作为团队核心，目标需聚焦战略落地与团队效能，目标需简洁有力，每个周期聚焦2-3个核心方向，避免贪多求全</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理/代表目标（O）示例</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦团队管理与新领域拓展，如“Q1拓展医疗行业新客户，贡献销售额200万元”</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售代表</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦个人业绩与客户维护，如“Q1完成个人销售额300万元，老客户复购率提升至85%”</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>BD经理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦线索获取与渠道建设，如“Q1通过行业展会获取有效线索50条，转化率≥15%”</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="HJGIbSgnWoLDXkxVGnmceeswnEb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.15" height="75" topLeftX="780.48" topLeftY="62.32" type="text">
+        <content textType="title" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="859.72" height="75" topLeftX="52.68" topLeftY="419.57" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售团队关键结果（KR）制定方法</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600.00" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(33, 33, 33, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="598.68" topLeftY="75.23" iconType="iconpark/Travel/mountain.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="461.61" topLeftY="183.51" iconType="iconpark/Travel/flag.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="347.74" topLeftY="301.04" iconType="iconpark/Travel/tent.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="272.76" topLeftY="432.97" iconType="iconpark/Travel/map-draw.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键结果（KR）的核心特征</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">结果导向</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR是“结果”而非“任务”，如“完成20家新客户签约”而非“拜访20家潜在客户”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">量化具体</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用数字明确衡量标准，如“客户满意度提升至90分”而非“提高客户满意度”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">直接支撑</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>每个KR必须直接服务于目标（O），避免无关指标，例如目标为“提升老客户复购”，KR不应包含“新客户开发数”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">可控性</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>KR需是团队/个人可直接影响的，如“通过CRM系统记录100%客户交互”而非“公司产品迭代完成3个功能”</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="51.02" startY="105.77" endX="52.02" endY="187.77" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="210.46" endX="52.02" endY="292.46" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="315.59" endX="52.02" endY="397.59" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="51.02" startY="420.73" endX="52.02" endY="502.73" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="461.12" height="48" topLeftX="48.47" topLeftY="42.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售KR的四大核心维度</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="135.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Q1新增潜在客户200个，其中战略级客户（年采购额≥100万）20个；新客户签约额达到300万元</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="100.72" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>新客户开发</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="239.86" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>老客户续费率从80%提升至85%；客户满意度评分达到4.5/5分</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="205.41" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>客户维护</p>
+        </content>
+      </shape>
+      <img src="EGkdbdlkboxQJTxpUf0c9dAPn6c" width="404" height="540.00" topLeftX="556" topLeftY="0">
+        <crop type="rect" leftOffset="0.50" rightOffset="0.50" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="345.00" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>季度总销售额突破800万元，毛利率≥35%；新产品销售额占比达到25%</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="310.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售业绩</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="450.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Q1参加4场行业展会，获取有效线索80条；完成华南区3个城市的渠道布局</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="415.68" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场拓展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>KR制定的SMART原则实践</p>
+        </content>
+      </shape>
+      <table id="bXc" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="3" width="286.53"/>
+        </colgroup>
+        <tr height="52.33">
+          <td id="bXy">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">SMART原则</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwT">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">错误示例</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwt">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">正确示例</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bJZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">具体</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXx">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提升新客户数量”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXR">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提升华东区制造业新客户签约数量”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bwB">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">可衡量</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提高线索转化率”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bJh">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“线索转化率从15%提升至20%”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="82.03">
+          <td id="bXk">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">可实现</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXU">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“新增100家战略客户”（历史最高30家）</span>
+              </p>
+            </content>
+          </td>
+          <td id="bwD">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“新增35家战略客户”（历史最高30家，提升17%）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="82.03">
+          <td id="bJb">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">相关性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bJd">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“优化销售话术”（目标为“提升复购”）</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXm">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“老客户季度拜访率达到100%”（直接影响复购）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bXO">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">时限性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwC">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“完成CRM系统培训”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bJQ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“3月底前完成全员CRM系统操作培训”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="267" height="267" topLeftX="346.50" topLeftY="159.32" alpha="0.10" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="412.75" topLeftY="172.05" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <span color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="475.70" topLeftY="222.75" rotation="72.32" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.638599999999999 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999996 L116.97289999999997,105.44999999999999 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.638599999999999 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <span color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="447.40" topLeftY="297.75" rotation="144" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <span color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="366.65" topLeftY="294.05" rotation="216" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.6385999999999985 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999992 L116.97289999999997,105.44999999999997 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.6385999999999985 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.35" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <span color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="345.30" topLeftY="216.40" rotation="288" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.25" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <span color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <icon width="32.00" height="32" topLeftX="497.43" topLeftY="614.61" iconType="iconpark/Base/waterfalls-h.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="564.61" topLeftY="687.96" iconType="iconpark/Base/config.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="517.43" topLeftY="768.70" iconType="iconpark/Charts/ranking.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="417.21" topLeftY="747.95" iconType="iconpark/Abstract/triangle-round-rectangle.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="407.49" topLeftY="656.25" iconType="iconpark/Edit/minus-the-top.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <line startX="331.64" startY="170.32" endX="399.64" endY="170.32" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="281.64" startY="275.63" endX="335.64" endY="275.63" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="336.64" startY="419.45" endX="406.49" endY="419.45" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="599.61" startY="215.18" endX="639.61" endY="215.18" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="596.61" startY="376.63" endX="636.61" endY="376.63" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售总监KR示例</p>
+        </content>
+      </shape>
+      <shape width="276.41" height="32" topLeftX="46.00" topLeftY="127.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR1</p>
+        </content>
+      </shape>
+      <shape width="276.19" height="90" topLeftX="46.00" topLeftY="156.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>Q1参加3次北区行业活动，收获有效线索30条以上，线索转化率≥20%</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="32" topLeftX="33.00" topLeftY="258.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">总体目标</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="90" topLeftX="33.00" topLeftY="286.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>基于“深耕北区市场，Q1销售额1000万美金”目标，KR可设计为：</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="32" topLeftX="46.00" topLeftY="387.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR4</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="84.00" topLeftX="46.00" topLeftY="415.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>推动组合销售策略，套餐销售占比达到40%以上，提升客单价</p>
+        </content>
+      </shape>
+      <shape width="263.64" height="32" topLeftX="648.36" topLeftY="154.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR2</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="113.00" topLeftX="648.36" topLeftY="182.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立销售线索日同步机制，确保信息传递不隔天，避免线索流失</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="32" topLeftX="648.57" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR3</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="113.00" topLeftX="648.57" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>60%以上销售团队成员完成个人季度配额，保障整体业绩达成</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="480.00" startY="115.57" endX="481.00" endY="496.63" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="390.00" height="36" topLeftX="55.33" topLeftY="369.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理</p>
+        </content>
+      </shape>
+      <shape width="390" height="90.00" topLeftX="55.18" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标：拓展医疗行业新客户。KR1：Q1完成医疗行业潜在客户调研，形成50家目标客户清单；KR2：带领团队完成20家医疗客户拜访，签约3家，贡献销售额150万元。</p>
+        </content>
+      </shape>
+      <img src="BXxpbS1S0osaJtxmCJ3chtfJnNc" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="260.30" bottomOffset="260.30" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售经理/代表KR示例</p>
+        </content>
+      </shape>
+      <shape width="390" height="36" topLeftX="514.95" topLeftY="369.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售代表</p>
+        </content>
+      </shape>
+      <shape width="390" height="90.00" topLeftX="514.81" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">目标：个人Q1销售额300万元。KR1：每月完成25家潜在客户拜访，其中10家进入谈判阶段；KR2：老客户复购订单金额达到100万元，占个人总业绩33%；KR3：CRM系统客户信息更新及时率100%，确保跟进效率。</p>
+        </content>
+      </shape>
+      <img src="OmzcbbbfloDQ9exQjiZcedFZn2f" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="204.16" bottomOffset="204.16" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="XxUNbSwN6onPGwxXpqxcrkJNnoe" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="104.15" height="75" topLeftX="780.48" topLeftY="62.32" type="text">
+        <content textType="title" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="859.72" height="75" topLeftX="52.68" topLeftY="419.57" type="text">
+        <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(236, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">销售团队OKR实施与管理全流程</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280.00" height="46" topLeftX="48.07" topLeftY="125.64" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="340.00" topLeftY="125.64" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="632.07" topLeftY="125.64" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="188.52" topLeftY="323.23" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280.00" height="46" topLeftX="480.44" topLeftY="323.23" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR周期规划与时间管理</p>
+        </content>
+      </shape>
+      <shape width="236" height="124" topLeftX="64.55" topLeftY="177.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通常以季度为核心周期，匹配销售业务的季度冲刺节奏</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="64.55" topLeftY="130.64" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>周期设定</p>
+        </content>
+      </shape>
+      <shape width="236" height="124" topLeftX="356.48" topLeftY="177.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>完成OKR制定与全员对齐，明确目标与KR</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="356.48" topLeftY="130.64" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>第1周</p>
+        </content>
+      </shape>
+      <shape width="236" height="124" topLeftX="648.55" topLeftY="177.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>执行期，每周跟踪进度，每月调整优先级</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="648.55" topLeftY="130.64" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>第2-10周</p>
+        </content>
+      </shape>
+      <shape width="236" height="130" topLeftX="205.00" topLeftY="374.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>复盘评估，总结达成情况与改进方向</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="205.00" topLeftY="328.23" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>第11-12周</p>
+        </content>
+      </shape>
+      <shape width="236" height="130" topLeftX="496.92" topLeftY="374.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>80%精力投入核心KR，20%应对突发任务，避免因临时需求打乱OKR节奏</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="496.92" topLeftY="328.23" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>时间分配</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="121.89" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="121.89" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="28" alpha="0.80" type="round-rect">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="305.99" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="305.99" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>销售OKR跟踪机制设计</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>使用CRM系统或OKR工具（如北极星OKR）实时更新KR数据，设置进度预警（如销售额达成率低于80%时触发提醒）</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据跟踪</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>5-10分钟同步KR进展，聚焦“是否需要支持”“是否调整行动”</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>周例会</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.702)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立“数据+会议”双轨跟踪机制，确保进度可视</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 0.922)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体机制</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>分析目标偏差原因（如线索不足、转化率低），调整下月行动计划</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>月复盘会</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>制作OKR进度看板，用颜色标注健康状态（绿：正常、黄：风险、红：滞后），全员可见</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>进度可视化</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR复盘与动态调整方法</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>复盘频率</p>
+        </content>
+      </shape>
+      <shape width="260" height="91.00" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>季度末进行全面复盘，月度进行轻量复盘</p>
+        </content>
+      </shape>
+      <img src="XiO1bGBBDompafx6P3Vc7jQ4nPb" width="259.14" height="194.00" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="350.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>复盘内容</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="350.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="13" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标达成率（如KR完成度、未完成原因）；执行中的亮点与障碍（如某渠道线索质量高、某区域竞品冲击大）；改进措施（如优化线索分配机制、加强竞品应对培训）</p>
+        </content>
+      </shape>
+      <img src="FWlkbfVF6oaHGCxh5Svctu29n9c" width="259.14" height="194.00" topLeftX="350.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="651.73" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>动态调整</p>
+        </content>
+      </shape>
+      <shape width="260" height="91.00" topLeftX="651.73" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="12" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>若市场突变（如政策调整、竞品降价），可启动KR调整流程，例如原KR“新客户签约50家”因市场需求下降20%，可调整为“签约40家”，需同步说明调整依据并经上级审批</p>
+        </content>
+      </shape>
+      <img src="BSWvbDMZho4YeoxDksKc5sjhncg" width="259.14" height="194.00" topLeftX="651.73" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>销售OKR与绩效激励的结合</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>分层激励</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>基准值（如KR完成60%）：发放基础奖金；目标值（如KR完成100%）：额外奖励10%绩效工资；挑战值（如KR完成120%）：奖励20%绩效工资+晋升优先资格</p>
+        </content>
+      </shape>
+      <img src="UVmRbHS0pogXAZx1ouNcfg15nPp" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>非物质激励</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>设立“季度销售之星”“OKR达人”等荣誉，公开表彰并提供培训资源（如高端销售课程）</p>
+        </content>
+      </shape>
+      <img src="B0Gxb6xryoltZFxtPIbcXMAYnIf" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>团队激励</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>若团队整体OKR达成率≥90%，发放团队奖金池，增强协作意识</p>
+        </content>
+      </shape>
+      <img src="WueAbYZu4oq7iIxaKkxc8yzanvf" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="-0.00" topOffset="0.00" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.00" startY="296.25" endX="912" endY="297.25" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="478.65" startY="131.59" endX="478.05" endY="471.59" alpha="0.30">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49.09" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49.00" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="388.40" height="32" topLeftX="523.60" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">误区2：KR模糊不可衡量</p>
+        </content>
+      </shape>
+      <shape width="388.40" height="112" topLeftX="523.60" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如“提升团队能力”无具体指标 → 策略：用“完成销售技能认证人数≥90%”等量化KR替代</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售OKR实施常见误区与规避策略</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="32" topLeftX="63.79" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">误区1：目标过多</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="112" topLeftX="63.79" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>同时推进8个目标导致精力分散 → 策略：每个周期聚焦3-5个核心目标，优先选择对战略贡献最大的2项</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="63.70" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">误区3：与绩效考核强挂钩</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="112" topLeftX="63.70" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>导致团队为“保考核”设定保守目标 → 策略：明确OKR与考核脱钩，考核可结合KPI（如销售额、回款率）与OKR执行态度（如复盘参与度）</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="523.60" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">误区4：缺乏跟进</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="112" topLeftX="523.60" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>制定后“束之高阁”，仅季度末查看 → 策略：建立周跟踪、月对齐机制，确保问题早发现早解决</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MzhpbbRiuo0kPixJoHXc8qP5nub" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="697.88" height="299.95" topLeftX="56" topLeftY="56.02" type="text">
+        <content textType="headline" fontSize="66" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(240, 231, 255, 1) 0%,rgba(255, 232, 251, 1) 100%)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢您的时间</p>
+        </content>
+      </shape>
+      <shape width="148.09" height="22" topLeftX="767.21" topLeftY="291.31" alpha="0.80" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="148.09" height="31.89" topLeftX="767.21" topLeftY="313.40" alpha="0.80" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="133.61" height="22" topLeftX="781.69" topLeftY="390.46" alpha="0.80" type="text">
+        <content fontSize="14" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="133.61" height="31.89" topLeftX="781.69" topLeftY="412.55" alpha="0.80" type="text">
+        <content fontSize="20" fontFamily="DouYinMeiHao" color="rgba(253, 236, 255, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

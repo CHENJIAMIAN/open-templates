@@ -1,0 +1,71 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(250, 248, 241, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="47.66" startY="-5.50" endX="47.66" endY="548.25" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="135.18" type="ellipse">
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+      <border color="rgba(16, 123, 204, 1)" width="3"/>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="260.15" type="ellipse">
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+      <border color="rgba(16, 123, 204, 1)" width="3"/>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="383.70" type="ellipse">
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+      <border color="rgba(16, 123, 204, 1)" width="3"/>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="837.59" height="45" topLeftX="74.48" topLeftY="51.56" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>滇南风情5日游：西双版纳+普洱慢生活</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="122.60" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day1-2：西双版纳</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="70" topLeftX="74.48" topLeftY="153.10" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>中科院植物园白天看王莲、绞杀榕（电瓶车50元/人必坐），夜间参加萤火虫观测（80元/人）；曼听公园体验傣王行宫历史，星光夜市吃舂鸡脚、老挝冰咖啡，住告庄西双景民宿（步行5分钟到夜市）。</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="247.15" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day3-4：普洱</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="70" topLeftX="74.48" topLeftY="277.65" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>太阳河森林公园与小熊猫亲密接触，茶马古道景区骑马（180元/人）体验马帮文化；参观星巴克咖啡庄园，亲手采摘咖啡豆并烘焙。</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="371.70" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day5：建水</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="70" topLeftX="74.48" topLeftY="402.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>朱家花园看清代民居建筑，双龙桥拍古桥倒影，体验紫陶制作（200元/人），返程前买几支紫陶汽锅（炖鸡专用）作伴手礼。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

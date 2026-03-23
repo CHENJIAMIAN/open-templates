@@ -1,0 +1,101 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(24, 26, 29, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="120.09" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(38, 42, 50, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="120.09" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(38, 42, 50, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="312.55" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(38, 42, 50, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="312.55" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(38, 42, 50, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48.32" topLeftY="47.96" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>本地化运营策略</p>
+      </content>
+    </shape>
+    <shape width="375.21" height="36" topLeftX="68.51" topLeftY="178.66" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>供应链本地化</p>
+      </content>
+    </shape>
+    <shape width="386" height="71" topLeftX="68.51" topLeftY="210.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>是提升竞争力的关键，华勤在越南与本土供应商合作降低物流成本并提升响应速度，墨西哥基地辐射北美符合USMCA原产地规则，关税成本降低30%。</p>
+      </content>
+    </shape>
+    <shape width="120" height="32" topLeftX="68.51" topLeftY="138.74" type="text">
+      <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="382" height="36" topLeftX="508.37" topLeftY="178.66" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品本地化</p>
+      </content>
+    </shape>
+    <shape width="386" height="71" topLeftX="508.37" topLeftY="210.64" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>需结合当地需求，如华为在中东推出斋月主题智能穿戴设备，OPPO在印度推出支持多语言的低价机型。</p>
+      </content>
+    </shape>
+    <shape width="120" height="32" topLeftX="508.37" topLeftY="138.74" type="text">
+      <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="375.21" height="36" topLeftX="68.51" topLeftY="371.11" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>渠道本地化</p>
+      </content>
+    </shape>
+    <shape width="386" height="71" topLeftX="68.51" topLeftY="403.10" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>除传统线下零售外，应充分利用电商平台优势，TCL在北美与主流线上线下渠道达成深度合作，产品渗透率持续提升。</p>
+      </content>
+    </shape>
+    <shape width="120" height="32" topLeftX="68.51" topLeftY="334.39" type="text">
+      <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="382" height="36" topLeftX="508.37" topLeftY="371.11" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>服务本地化</p>
+      </content>
+    </shape>
+    <shape width="386" height="71" topLeftX="508.37" topLeftY="403.10" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>企业需建立本地客户服务团队，提供多语言支持和快速响应的维修服务，增强消费者信任度。</p>
+      </content>
+    </shape>
+    <shape width="120" height="32" topLeftX="508.37" topLeftY="334.39" type="text">
+      <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

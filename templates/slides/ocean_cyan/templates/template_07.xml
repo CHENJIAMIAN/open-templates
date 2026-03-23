@@ -1,0 +1,67 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(238, 242, 245, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心目标客户</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>年营收5000万-2亿元的中小型制造企业，面临生产效率低、设备维护成本高、质量检测依赖人工等痛点，缺乏自建AI团队的能力</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉团圆体 黑体">目标客户画像</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>次要目标客户</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>区域智慧城市运营方（聚焦交通、能源领域）和中小型金融机构（需风险评估、信用评分工具）</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>客户决策链</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>CTO主导技术选型，CEO与财务总监联合审批预算，采购周期通常为3-6个月</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

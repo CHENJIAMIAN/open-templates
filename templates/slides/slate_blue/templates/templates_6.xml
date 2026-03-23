@@ -1,0 +1,102 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="343.89" height="55.68" topLeftX="299.26" topLeftY="46.27" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4">
+        <p>简单配色的力量</p>
+      </content>
+    </shape>
+    <img src="FowNbqcXxocB1QxabN0c5l5wn3e" width="207.06" height="310.59" topLeftX="50" topLeftY="177.27">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="438.87" height="65.50" topLeftX="471.45" topLeftY="310.57" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p>一个空间的气质，往往源自那些被刻意忽略的细节。是木纹的触感，是风吹过窗帘时的波纹，是笔尖落在纸上的轻响。这些看似微不足道的东西，却在无形中构建出一种独特的氛围，让人愿意停留，甚至沉浸其中。</p>
+      </content>
+    </shape>
+    <shape width="132.83" height="45" topLeftX="299.26" topLeftY="310.57" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>一段关于光与影的短篇</p>
+      </content>
+    </shape>
+    <shape width="132.83" height="45" topLeftX="299.26" topLeftY="419.35" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>用简单的颜色，拼贴出复杂的心情</p>
+      </content>
+    </shape>
+    <shape width="438.87" height="65.50" topLeftX="471.45" topLeftY="419.35" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p>光影在空间里游走，它们不属于任何人，却慷慨地为每一次相遇增添情绪。清晨的第一束光、傍晚的余晖、灯下的轻微摇动，都是时间温柔的表达。只要我们愿意抬眼，就能看见世界对我们的小小回应。</p>
+      </content>
+    </shape>
+    <shape width="167.09" height="23" topLeftX="299.26" topLeftY="194.27" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>将时间做成便签</p>
+      </content>
+    </shape>
+    <shape width="108.42" height="43.99" topLeftX="471.45" topLeftY="191.27" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="left">
+        <p textAlign="left" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="36" fontFamily="Noto Serif SC SemiBold">20</span>
+          <span color="rgba(195, 169, 136, 1)" fontSize="20" fontFamily="Noto Serif SC SemiBold">+</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="108.42" height="23" topLeftX="471.45" topLeftY="236.26" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">光与影的细语</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="108.42" height="43.99" topLeftX="597.71" topLeftY="191.27" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="left">
+        <p textAlign="left" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="36" fontFamily="Noto Serif SC SemiBold">30</span>
+          <span color="rgba(195, 169, 136, 1)" fontSize="20" fontFamily="Noto Serif SC SemiBold">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="152.13" height="23" topLeftX="597.71" topLeftY="236.26" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">一杯白茶的下午</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="167.09" height="23" topLeftX="50" topLeftY="49.27" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">2026</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="108.42" height="43.99" topLeftX="730.23" topLeftY="191.27" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="left">
+        <p textAlign="left" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="36" fontFamily="Noto Serif SC SemiBold">203</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="152.13" height="23" topLeftX="730.23" topLeftY="236.26" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">我们把日常酿成风景</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="167.09" height="23" topLeftX="738.23" topLeftY="49.27" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right">
+        <p list="none" textAlign="right">
+          <span color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">0718</span>
+        </p>
+      </content>
+    </shape>
+    <line startX="756.20" startY="59.77" endX="856.40" endY="60.77" alpha="0.29">
+      <border color="rgba(105, 102, 88, 1)" width="1"/>
+    </line>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

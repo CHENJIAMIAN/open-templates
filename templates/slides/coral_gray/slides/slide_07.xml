@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(240, 243, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="5" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="5" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="5" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="5" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="5" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>政策与风险分析</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>需重点关注《个人信息保护法》对用户学习数据收集的合规要求，特别是学习行为数据的存储与使用边界。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策合规风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业监管趋严背景下，内容资质审核风险不容忽视，需建立完善的课程内容审核机制。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业监管风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主要来自两类参与者：综合型学习平台（如得到、知乎）的生态优势，以及垂直领域专业工具的功能深耕。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场竞争风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI推荐算法的冷启动问题可能影响初期用户体验，需设计混合推荐机制过渡。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户隐私争议是潜在舆情风险点，需在产品设计阶段即嵌入隐私保护方案。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>舆情风险</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

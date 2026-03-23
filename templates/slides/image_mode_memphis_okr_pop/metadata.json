@@ -1,0 +1,35 @@
+{
+    "id":  "slides/image_mode_memphis_okr_pop",
+    "family":  "slides",
+    "name":  "image_mode_memphis_okr_pop",
+    "displayName":  "Image Mode Memphis Okr Pop",
+    "description":  "Presentation slide template for Image Mode Memphis Okr Pop.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "memphis",
+                 "okr",
+                 "pop"
+             ],
+    "sourcePath":  "templates/slides/image_mode_memphis_okr_pop",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_memphis_okr_pop",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_memphis_okr_pop/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_memphis_okr_pop/cover.png"
+                                ]
+                }
+}

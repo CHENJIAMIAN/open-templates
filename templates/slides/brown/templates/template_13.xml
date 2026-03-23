@@ -1,0 +1,92 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(32, 32, 32, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(45, 45, 45, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="46" height="46" topLeftX="112.16" topLeftY="157.46" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(246, 172, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <icon width="24" height="24" topLeftX="123.16" topLeftY="168.46" iconType="iconpark/Character/check-one.svg">
+      <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(45, 45, 45, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="46" height="46" topLeftX="375.45" topLeftY="157.46" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(246, 172, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <icon width="24" height="24" topLeftX="386.45" topLeftY="168.46" iconType="iconpark/Abstract/two-ellipses.svg">
+      <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(45, 45, 45, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="46" height="46" topLeftX="638.73" topLeftY="157.46" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(246, 172, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <icon width="24" height="24" topLeftX="649.73" topLeftY="168.46" iconType="iconpark/Abstract/circular-connection.svg">
+      <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="820" height="45" topLeftX="70" topLeftY="47.72" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>办公环境与安全规范</p>
+      </content>
+    </shape>
+    <shape width="210" height="177" topLeftX="111.34" topLeftY="262.83" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>保持整洁、有序的办公环境是每位员工的责任。办公区域内禁止吸烟、饮食，物品摆放应整齐规范。</p>
+      </content>
+    </shape>
+    <shape width="210" height="32" topLeftX="111.34" topLeftY="228.81" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>办公环境要求</p>
+      </content>
+    </shape>
+    <shape width="210" height="177" topLeftX="374.97" topLeftY="262.83" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>公司高度重视安全生产，定期组织安全培训和演练。员工需熟悉消防器材位置及使用方法，遵守用电安全规定，发现安全隐患及时报告。</p>
+      </content>
+    </shape>
+    <shape width="210" height="32" topLeftX="374.97" topLeftY="228.81" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>安全生产管理</p>
+      </content>
+    </shape>
+    <shape width="210" height="177" topLeftX="638.60" topLeftY="262.83" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>涉密文件和贵重物品需妥善保管，离开办公位时应锁好抽屉、保管好个人物品。</p>
+      </content>
+    </shape>
+    <shape width="210" height="32" topLeftX="638.60" topLeftY="228.81" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>物品安全保管</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

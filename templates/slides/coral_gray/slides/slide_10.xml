@@ -1,0 +1,101 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(240, 243, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="369.43" height="82.58" topLeftX="35.18" topLeftY="399.82" path="M369.43437243270176,82.57855465530226 L0,82.57855465530226 L40.060363503814024,7.225076811913769 C42.434719625493855,2.751952915818553 46.84739817083684,-0.005704908784476841 51.62351835547192,0 L317.8022174912331,0 C322.5781614190111,-0.005704908784476841 326.99083996435405,2.751952915818553 329.3651960860339,7.225076811913769 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="4" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="275.53" height="82.58" topLeftX="82.15" topLeftY="311.59" path="M275.533619953534,82.57855465530226 L0,82.57855465530226 L40.321928679715796,6.720477629926793 C42.53650796045563,2.5596974897816835 46.64452652834159,-0.003708190709909946 51.09042949124354,0 L224.44319046229046,0 C228.88636144390773,-0.0019016362614922803 232.99094300308067,2.561504044230101 235.20279030253582,6.720477629926793 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="6" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="181.72" height="82.58" topLeftX="129.08" topLeftY="223.30" path="M181.72081964604746,82.57855465530226 L0,82.57855465530226 L41.18717359110517,5.102280253209937 C42.864962613618005,1.943757504684334 45.98162448887623,-0.003708190709909946 49.355709503894936,0 L132.34748445644487,0 C135.71892561860741,-0.0019016362614922803 138.83294364100948,1.9448034046281548 140.50729565480933,5.102280253209937 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="87.78" height="77.49" topLeftX="176.01" topLeftY="140.11" path="M87.77600295261054,77.49177273762349 L0,77.49177273762349 L39.822769260474665,2.547431935895058 C41.105831051564294,0.1236063569969982 43.9665679703472,-0.7182480159656341 46.21155155893275,0.667284164157641 C46.93728916794594,1.1149293401129239 47.53867756429155,1.764147959786388 47.953233692135875,2.547431935895058 Z" alpha="0.35" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>需求优先级排序</p>
+        </content>
+      </shape>
+      <shape width="608.81" height="35" topLeftX="298.86" topLeftY="134.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>P0（必须实现）</p>
+        </content>
+      </shape>
+      <shape width="608.81" height="50" topLeftX="298.86" topLeftY="166.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>3-10分钟微课程、AI学习路径规划、学习数据可视化解读</p>
+        </content>
+      </shape>
+      <shape width="559.64" height="35" topLeftX="348.04" topLeftY="219.87" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>P1（重要功能）</p>
+        </content>
+      </shape>
+      <shape width="559.64" height="50" topLeftX="348.04" topLeftY="251.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>好友学习小组、每日学习提醒、学习成就系统</p>
+        </content>
+      </shape>
+      <shape width="508.22" height="35" topLeftX="399.45" topLeftY="310.19" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>P2（次要功能）</p>
+        </content>
+      </shape>
+      <shape width="508.22" height="50" topLeftX="399.45" topLeftY="342.19" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨平台学习进度同步、课程笔记云存储</p>
+        </content>
+      </shape>
+      <shape width="464.63" height="35" topLeftX="443.04" topLeftY="399.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>P3（远期规划）</p>
+        </content>
+      </shape>
+      <shape width="464.63" height="50" topLeftX="443.04" topLeftY="431.81" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AR场景化学习、行业大咖直播</p>
+        </content>
+      </shape>
+      <shape width="42.59" height="56" topLeftX="198.61" topLeftY="159.76" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="87.78" height="57" topLeftX="176.01" topLeftY="237.09" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="87.78" height="57" topLeftX="176.01" topLeftY="323.96" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="87.78" height="57" topLeftX="176.01" topLeftY="412.61" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

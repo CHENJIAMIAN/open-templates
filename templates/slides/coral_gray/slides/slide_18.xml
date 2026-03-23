@@ -1,0 +1,115 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(240, 243, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="203.07" startY="310.88" endX="203.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="198.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <line startX="54.27" startY="132.99" endX="54.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="49.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <line startX="353.79" startY="132.99" endX="353.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="503.88" startY="310.88" endX="503.88" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="498.88" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="349.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <line startX="654.79" startY="133.99" endX="654.79" endY="313.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="650.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>盈利可持续性评估</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="224.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容网络效应</p>
+        </content>
+      </shape>
+      <shape width="240" height="112.16" topLeftX="224.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容创作者数量与用户增长呈现正相关（相关系数0.78）</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="74.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户生命周期价值</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="74.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>LTV每提升10%，盈利平衡点提前2个月</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="374.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>成本边际效益</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="374.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户规模超过500万时，单用户技术成本从10元降至3元</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="525.59" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险预案</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="525.59" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>设置用户获取成本预警线（CAC&gt;120元启动渠道优化），建立内容创作者分级激励机制，开发企业版降低个人用户依赖风险</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="675.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>综合评估</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="675.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>在保持当前增长趋势下，5年内可形成稳定盈利模式，长期毛利率有望维持在60%以上</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

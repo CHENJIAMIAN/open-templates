@@ -1,0 +1,248 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>KR制定的SMART原则实践</p>
+        </content>
+      </shape>
+      <table id="bXc" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="3" width="286.53"/>
+        </colgroup>
+        <tr height="52.33">
+          <td id="bXy">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">SMART原则</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwT">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">错误示例</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwt">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">正确示例</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bJZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">具体</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXx">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提升新客户数量”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXR">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提升华东区制造业新客户签约数量”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bwB">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">可衡量</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“提高线索转化率”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bJh">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“线索转化率从15%提升至20%”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="82.03">
+          <td id="bXk">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">可实现</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bXU">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“新增100家战略客户”（历史最高30家）</span>
+              </p>
+            </content>
+          </td>
+          <td id="bwD">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“新增35家战略客户”（历史最高30家，提升17%）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="82.03">
+          <td id="bJb">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">相关性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bJd">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“优化销售话术”（目标为“提升复购”）</span>
+              </p>
+            </content>
+          </td>
+          <td id="bXm">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(33, 33, 33, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“老客户季度拜访率达到100%”（直接影响复购）</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="52.33">
+          <td id="bXO">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(240, 236, 255, 1)" fontSize="14">时限性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwC">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“完成CRM系统培训”</span>
+              </p>
+            </content>
+          </td>
+          <td id="bJQ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(240, 236, 255, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(240, 236, 255, 1)" fontSize="14">“3月底前完成全员CRM系统操作培训”</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

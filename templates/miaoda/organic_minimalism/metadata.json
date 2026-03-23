@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/organic_minimalism",
+    "family":  "miaoda",
+    "name":  "organic_minimalism",
+    "displayName":  "Organic Minimalism",
+    "description":  "UI style prompt template for a Organic Minimalism aesthetic.",
+    "tags":  [
+                 "organic",
+                 "minimalism",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/organic_minimalism",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/organic_minimalism",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/organic_minimalism/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/organic_minimalism/gallery-1.png"
+                                ]
+                }
+}

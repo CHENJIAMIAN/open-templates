@@ -1,0 +1,218 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="305.96" height="21" topLeftX="59.81" topLeftY="48.16" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontFamily="Noto Sans SC Light">阶段进展，用于概述当前阶段的整体情况。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="62.81" startY="268.69" endX="62.81" endY="542">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="9.98" height="9.98" topLeftX="57.82" topLeftY="262.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="57.82" topLeftY="329.53" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="57.82" topLeftY="398.37" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <line startX="370.76" startY="268.69" endX="370.76" endY="542">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="9.98" height="9.98" topLeftX="365.77" topLeftY="262.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="365.77" topLeftY="329.53" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="365.77" topLeftY="398.37" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <line startX="684.47" startY="268.69" endX="684.47" endY="542">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="9.98" height="9.98" topLeftX="679.49" topLeftY="262.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="679.49" topLeftY="329.53" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="9.98" height="9.98" topLeftX="679.49" topLeftY="398.37" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="97.32" height="33" topLeftX="59.81" topLeftY="120.36" type="text">
+        <content textType="caption" fontSize="22" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="22">当前状态</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="97.32" height="33" topLeftX="364.66" topLeftY="120.36" type="text">
+        <content textType="caption" fontSize="22" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="22">阶段进展</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="97.32" height="33" topLeftX="677.49" topLeftY="120.36" type="text">
+        <content textType="caption" fontSize="22" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="22">后续重点</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="237.93" height="43.59" topLeftX="59.81" topLeftY="164.23" alpha="0.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="Noto Sans SC Light">用于概述当前阶段的整体情况，产品正处于什么阶段？</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="237.93" height="43.59" topLeftX="364.66" topLeftY="164.23" alpha="0.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">用于呈现近期的主要推进情况，还能推进到什么样的成果？</p>
+        </content>
+      </shape>
+      <shape width="237.93" height="43.59" topLeftX="677.49" topLeftY="164.23" alpha="0.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">用于说明接下来的关注方向，什么样的长期结构规划？</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="256.76" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <strong>8月</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="277.76" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="Noto Sans SC Light">基础搭建</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="321.70" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <strong>9月</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="342.70" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>系统稳定运行</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="392.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <strong>10月</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="88.15" topLeftY="413.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>优化与调整</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="254.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>打基础</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="275.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>核心模块完善10%</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="322.31" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>广合作</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="343.31" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>系统稳定性提升39%</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="391.25" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>求发展</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="396.10" topLeftY="412.25" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>内部标准逐步建立</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="254.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>方向一</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="275.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>性能扩展能力</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="322.31" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>方向二</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="343.31" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>反馈整合</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="391.25" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>方向三</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="709.81" topLeftY="412.25" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>长期结构规划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

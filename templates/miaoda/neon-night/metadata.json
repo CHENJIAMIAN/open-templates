@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/neon-night",
+    "family":  "miaoda",
+    "name":  "neon-night",
+    "displayName":  "Neon Night",
+    "description":  "UI style prompt template for a Neon Night aesthetic.",
+    "tags":  [
+                 "neon",
+                 "night",
+                 "cyberpunk",
+                 "futuristic",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/neon-night",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/neon-night",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/neon-night/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/neon-night/gallery-1.png"
+                                ]
+                }
+}

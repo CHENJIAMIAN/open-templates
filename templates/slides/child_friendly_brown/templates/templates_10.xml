@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(252, 249, 245, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="14" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+    </shape>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="14" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+    </shape>
+    <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="29" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能化与个性化</p>
+      </content>
+    </shape>
+    <shape width="452" height="99" topLeftX="76.06" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能早教机器人通过行为分析提供定制化学习内容，如某初创公司智能早教机器人2025年获得5%市场份额。</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>新兴产品趋势</p>
+      </content>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>跨界融合</p>
+      </content>
+    </shape>
+    <shape width="452" height="99" topLeftX="76.06" topLeftY="362.56" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>"AI+IP"模式降低市场教育成本，奥飞娱乐依托"喜羊羊"IP推出AI毛绒玩具，实现内容与硬件深度绑定；"教育+旅游"产品如"小小环球旅行家"计划，融合文化体验与学习。</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>绿色健康</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>环保材料应用成为差异化标签，可降解玩具、有机食品等产品市场口碑良好，家长对安全性、环保性要求提升。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

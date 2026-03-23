@@ -1,0 +1,33 @@
+{
+    "id":  "miaoda/cyberpunk_hud",
+    "family":  "miaoda",
+    "name":  "cyberpunk_hud",
+    "displayName":  "Cyberpunk HUD",
+    "description":  "UI style prompt template for a Cyberpunk HUD aesthetic.",
+    "tags":  [
+                 "cyberpunk",
+                 "hud",
+                 "neon",
+                 "futuristic",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/cyberpunk_hud",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/cyberpunk_hud",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/cyberpunk_hud/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/cyberpunk_hud/gallery-1.png"
+                                ]
+                }
+}

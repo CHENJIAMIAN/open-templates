@@ -1,0 +1,1358 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>部门年度工作汇报</title>
+  <theme>
+    <textStyles>
+      <title fontColor="rgba(239, 246, 255, 1)" fontSize="68"/>
+      <headline fontColor="rgba(239, 246, 255, 1)" fontSize="30"/>
+      <sub-headline fontColor="rgba(239, 246, 255, 1)" fontSize="29"/>
+      <body fontColor="rgba(31, 35, 41, 1)" fontSize="18"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="RlWabTP1soZgx7x0gdbceLQlnie" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="174.14" height="20" topLeftX="60.32" topLeftY="436.08" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(215, 221, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="174.14" height="28" topLeftX="60.32" topLeftY="460.08" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(215, 221, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="20" topLeftX="606.30" topLeftY="436.08" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(233, 236, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="28" topLeftX="606.30" topLeftY="460.08" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(233, 236, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+      <shape width="838.82" height="226.65" topLeftX="60.32" topLeftY="50.74" alpha="0.88" type="text">
+        <content textType="title" fontSize="68" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">部门年度工作汇报</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(238, 242, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="463.00" height="1" topLeftX="450" topLeftY="137" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="62.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="163.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>年度工作概述</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40" topLeftX="449.85" topLeftY="163.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="215.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>重点工作完成情况</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="215.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="267.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>核心指标达成分析</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="267.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="319.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>团队建设与能力提升</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="319.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="372.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>问题反思与经验总结</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="372.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="424.23" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>下年度工作计划与展望</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="424.23" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+      <img src="Kqsvb304noEQHixPSsxcSdEkndg" width="405" height="540" topLeftX="0" topLeftY="-0.00">
+        <crop type="rect" leftOffset="0.00" rightOffset="0.00" topOffset="0" bottomOffset="0.00"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="RrVeb0JXcoRCn7xvOWYc6KohnZb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">年度工作概述</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.13" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 0.922)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度工作目标回顾</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>完成核心业务指标提升20%的年度KPI</p>
+        </content>
+      </shape>
+      <shape width="268" height="36.00" topLeftX="53.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心业务指标</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推进3个重点项目落地并实现预期效益</p>
+        </content>
+      </shape>
+      <shape width="268" height="36.00" topLeftX="346.50" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>重点项目落地</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>构建跨部门协同机制，提升整体运营效率</p>
+        </content>
+      </shape>
+      <shape width="268" height="36.00" topLeftX="640.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门协同</p>
+        </content>
+      </shape>
+      <img src="OBH1bVhZCoiUbyx8U6RcAYM2nad" width="278" height="151.66" topLeftX="48.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Fg9IbY6AFojXzTx8SW5cJr0Pnrk" width="278" height="151.66" topLeftX="341" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="D8eFbr7Hco8oF3x0t5Uc4oeUnmf" width="278" height="151.66" topLeftX="634.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864.00" height="50" topLeftX="48.07" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>本年度，部门围绕公司整体战略部署，明确了三大核心目标。年初通过OKR框架拆解目标，将年度任务细化为季度里程碑，确保目标可追踪、可衡量。</p>
+        </content>
+      </shape>
+      <shape width="864.00" height="29" topLeftX="48.07" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>总体目标</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="151.29" alpha="0.80" type="diamond">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" fontSize="18" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="228.67" alpha="0.50" type="diamond">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" fontSize="18" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="309.58" alpha="0.30" type="diamond">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" fontSize="18" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="141.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>工作特点</p>
+        </content>
+      </shape>
+      <shape width="538.93" height="60.00" topLeftX="382.39" topLeftY="172.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标明确、执行高效、成果显著</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="243.54" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>存在问题</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60.00" topLeftX="382.39" topLeftY="274.54" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>部分领域创新不足、资源调配效率待优化</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="343.82" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体评价</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60.00" topLeftX="382.39" topLeftY="374.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">经过全体成员协同努力，部门年度工作总体达成预期目标。核心业务指标超额完成125%，重点项目均按计划交付并产生实际效益，跨部门协作效率提升30%。全年工作为公司整体战略落地提供了有力支撑。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度工作总体评价</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VZF0bCoiUoAFOtxTIHPcpvoonPb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">重点工作完成情况</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.18" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="868.57" height="46" topLeftX="47.55" topLeftY="47.71" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心项目推进成果</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="117.20" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>流程优化专项</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84.00" topLeftX="573.41" topLeftY="150.60" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>梳理12个核心业务流程，识别并消除冗余环节15处，使平均处理时长从5天压缩至2天，支撑业务响应速度提升40%</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="372.19" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场拓展计划</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="405.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过精准定位目标客户，完成80家中小企业签约，开拓了新的业绩增长点</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="244.76" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>系统升级项目</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="278.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>联合技术部门完成需求调研3轮、功能开发6项，于Q3实现系统上线，覆盖80%业务场景，操作步骤减少40%</p>
+        </content>
+      </shape>
+      <img src="MnfFbcoBZo7SeJxoawxc397wnKe" width="494" height="371.38" topLeftX="47.55" topLeftY="118.20">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="143.64" bottomOffset="143.64" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="573" height="1.00" topLeftX="49.00" topLeftY="231" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="573" height="1.00" topLeftX="49.00" topLeftY="361" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="572.87" height="46" topLeftX="48.00" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">日常工作提质增效</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="120.31" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>12%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92.00" topLeftX="256.40" topLeftY="121.31" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>优化报销审批等5项基础流程，成本较预算节约12%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="158.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成本节约</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="258.50" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>40%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92.00" topLeftX="256.40" topLeftY="259.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>修订《部门操作手册》，新增3个实操案例库，新人上手周期缩短40%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="296.51" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>周期缩短</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="396.33" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>0.5%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92.00" topLeftX="256.40" topLeftY="397.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立“周复盘、月总结”机制，全年常规工作差错率降至0.5%以下</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="434.34" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>差错率</p>
+        </content>
+      </shape>
+      <img src="TPFybpUyooGsG2xJTLUccqAKn3d" width="303" height="540.00" topLeftX="657.14" topLeftY="-0.00">
+        <crop type="rect" leftOffset="0.38" rightOffset="0.38" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="LjXgbkizUoH5JpxSbrXcxBvJndg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">核心指标达成分析</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.13" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 242, 244, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="298.00" height="169.22" topLeftX="48.00" topLeftY="147.61" presetHandlers="13" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="355.45" topLeftY="147.61" presetHandlers="13" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="48.00" topLeftY="326.86" presetHandlers="13" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="355.45" topLeftY="326.86" presetHandlers="13" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="249.66" height="348.89" topLeftX="662.34" topLeftY="147.19" presetHandlers="27" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="40.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">关键KPI完成情况</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="68.06" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">115%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>部门围绕年度设定的5项核心KPI，整体达成率为115%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">整体达成率</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46.06" topLeftX="47.87" topLeftY="91.68" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队效能指标提升15%，人均产出较去年增长显著</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="375.50" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">120%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>超额完成目标</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">业务完成率</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="68.06" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">91分</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>从年初82分提升至91分，超出目标值90分</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">客户满意度</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="375.50" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">108%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>较预算节约成本8%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">成本控制率</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="208.15" height="48.00" topLeftX="682.61" topLeftY="161.32" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">98%</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="240.54" topLeftX="683.07" topLeftY="236.58" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>仅2个项目因外部因素延期</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="28" topLeftX="683.07" topLeftY="210.70" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">项目交付及时率</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="286" height="78.00" topLeftX="48.27" topLeftY="72.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">指标波动原因探讨</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="48.27" topLeftY="158.54" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="Barlow Condensed" color="rgba(142, 169, 211, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="286.00" height="34" topLeftX="48.27" topLeftY="197.54" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">客观原因</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="286.00" height="90" topLeftX="48.27" topLeftY="227.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>受行业原材料涨价影响，成本控制压力增大；外部供应商产能不足导致2个项目交付延期</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="48.27" topLeftY="325.89" type="text">
+        <content textType="sub-headline" paddingLeft="1" fontSize="26" fontFamily="Barlow Condensed" color="rgba(142, 169, 211, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="286.00" height="34" topLeftX="48.27" topLeftY="364.89" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontFamily="寒蝉德黑体">主观原因</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="286.00" height="90" topLeftX="48.27" topLeftY="395.28" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场调研周期不足（规划失误）导致新品迭代滞后；团队数据分析能力不足，仅20%成员掌握专业工具，制约决策效率</p>
+        </content>
+      </shape>
+      <img src="T8Zlb9BQIoj3ysxIyYgccVMEnmc" width="237.11" height="437.36" topLeftX="375.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="4.45" rightOffset="4.45" topOffset="0" bottomOffset="0" presetHandlers="34"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="EFY1b8H7DovlztxaPFJc2bwjnof" width="296.00" height="437.36" topLeftX="619.05" topLeftY="51.32">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="3.32" bottomOffset="3.32" presetHandlers="34"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="NsqkbYFmVoJAeCxnZNfcB1dTnkw" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">团队建设与能力提升</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.13" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.35" type="custom">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" fontSize="18" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80.00" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80.00" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.91" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>团队结构优化</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>人员配置优化</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="31.35" topLeftY="347.41" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>新增数据分析师、项目协调岗各1人，补充关键能力缺口</p>
+        </content>
+      </shape>
+      <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>职责分工细化</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="340.00" topLeftY="294.45" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>明确“核心项目组+支持保障组”双轨架构，避免职责交叉</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>弹性团队建设</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="639.00" topLeftY="223.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>组建3个专项攻坚小组，针对紧急任务快速响应，小组模式使项目平均周期缩短25%</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>人才培养与技能提升</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>专题培训</p>
+        </content>
+      </shape>
+      <shape width="260" height="91.00" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>开展专题培训12场，覆盖数据分析、项目管理等领域，参训率100%，3名成员通过PMP认证</p>
+        </content>
+      </shape>
+      <img src="FiBxbYEQloZA5xxyIDzco4gpncb" width="259.14" height="194.00" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="350.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>导师制</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="350.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>推行导师制，由资深员工带教5名新人，新人独立上岗周期缩短40%</p>
+        </content>
+      </shape>
+      <img src="LGNXbr0JVoOUBYx7c5bcrurCnFv" width="259.14" height="194.00" topLeftX="350.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="651.73" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>知识库共享平台</p>
+        </content>
+      </shape>
+      <shape width="260" height="91.00" topLeftX="651.73" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立知识库共享平台，沉淀业务文档50余份、案例库3个，支持团队成员随时学习，知识传递效率提升50%</p>
+        </content>
+      </shape>
+      <img src="FjuFba3iSoVe2CxTyNXc4qWZnrg" width="259.14" height="194.00" topLeftX="651.73" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VZF0bCoiUoAFOtxTIHPcpvoonPb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">问题反思与经验总结</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.18" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="195.48" height="195.48" topLeftX="382.26" topLeftY="162.51" rotation="359.54" alpha="0.20" type="ellipse">
+        <border color="rgba(193, 193, 193, 1)" width="6" lineJoin="miter" miterLimit="10"/>
+        <content paddingRight="3" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="12" height="12.00" topLeftX="525.85" topLeftY="171.56" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="12" height="12.00" topLeftX="376.95" topLeftY="253.56" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="12" height="12.00" topLeftX="522.85" topLeftY="339.44" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="305.07" height="110.00" topLeftX="607.20" topLeftY="177.05" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门资源申请平均耗时3天，影响项目推进速度</p>
+        </content>
+      </shape>
+      <shape width="305.07" height="34.00" topLeftX="607.20" topLeftY="144.06" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">资源调配效率低</p>
+        </content>
+      </shape>
+      <shape width="304.53" height="120" topLeftX="48.27" topLeftY="245.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>原创性成果较少，多为改进型优化，与公司“创新驱动”战略要求有差距</p>
+        </content>
+      </shape>
+      <shape width="304.53" height="34" topLeftX="48.27" topLeftY="212.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">创新能力不足</p>
+        </content>
+      </shape>
+      <shape width="305.07" height="120.00" topLeftX="607.20" topLeftY="347.73" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>对市场波动、供应商变化等外部风险响应滞后，导致2个项目成本超支</p>
+        </content>
+      </shape>
+      <shape width="305.07" height="34.00" topLeftX="607.20" topLeftY="314.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">风险预判能力弱</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.86" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主要问题梳理</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="420.00" height="44.00" topLeftX="48.07" topLeftY="141.25" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(231, 239, 244, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="420.00" height="44.00" topLeftX="492.07" topLeftY="141.25" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(231, 239, 244, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="420.00" height="44.00" topLeftX="48.07" topLeftY="327.02" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(231, 239, 244, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="420.00" height="44.00" topLeftX="492.07" topLeftY="327.02" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(231, 239, 244, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>经验教训提炼</p>
+        </content>
+      </shape>
+      <shape width="366" height="120.00" topLeftX="71.29" topLeftY="194.43" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>将年度目标细化为可执行的季度KPI，使团队方向清晰，如核心业务指标超额完成得益于目标层层分解</p>
+        </content>
+      </shape>
+      <shape width="366" height="36" topLeftX="71.29" topLeftY="145.25" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标拆解是前提</p>
+        </content>
+      </shape>
+      <shape width="366" height="120.00" topLeftX="515.29" topLeftY="194.43" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门协作中明确接口人、响应时效的做法，有效提升了协作效率</p>
+        </content>
+      </shape>
+      <shape width="366" height="36" topLeftX="515.29" topLeftY="145.25" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>协同机制是关键</p>
+        </content>
+      </shape>
+      <shape width="366" height="120.00" topLeftX="71.29" topLeftY="380.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>用数据量化成果、分析问题，使决策更精准，如客户满意度提升得益于数据分析指导下的流程优化</p>
+        </content>
+      </shape>
+      <shape width="366" height="36" topLeftX="71.29" topLeftY="331.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据驱动是保障</p>
+        </content>
+      </shape>
+      <shape width="366" height="120.00" topLeftX="515.29" topLeftY="380.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>创新需提前规划资源，风险需建立预警机制，避免临时应对</p>
+        </content>
+      </shape>
+      <shape width="366" height="36" topLeftX="515.29" topLeftY="331.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>教训总结</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VZF0bCoiUoAFOtxTIHPcpvoonPb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+        <content textType="headline" fontSize="62" fontFamily="思源黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>下年度工作计划与展望</p>
+        </content>
+      </shape>
+      <shape width="241.22" height="256.00" topLeftX="44.74" topLeftY="284.00" flipX="true" alpha="0.18" type="text">
+        <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(238, 242, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(238, 242, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" alpha="0.90" type="round-rect">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(238, 242, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(238, 242, 245, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>下年度工作指导思想</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>以公司“高质量发展、创新突破”战略为指引</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>战略指引</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>围绕“提升核心竞争力、强化创新驱动力、优化运营效率”三大主线</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>三大主线</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.902)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>以公司“高质量发展、创新突破”战略为指引，围绕“提升核心竞争力、强化创新驱动力、优化运营效率”三大主线，坚持“目标导向、问题导向、结果导向”相结合，推动部门工作再上新台阶，为公司整体目标达成贡献更大价值</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 0.922)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体策略</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>坚持“目标导向、问题导向、结果导向”相结合</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>三个导向</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推动部门工作再上新台阶，为公司整体目标达成贡献更大价值</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>工作目标</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="267" height="267" topLeftX="346.50" topLeftY="159.32" alpha="0.10" type="ellipse">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="412.75" topLeftY="172.05" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="475.70" topLeftY="222.75" rotation="72.32" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.638599999999999 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999996 L116.97289999999997,105.44999999999999 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.638599999999999 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="447.40" topLeftY="297.75" rotation="144" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.65" type="custom">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="366.65" topLeftY="294.05" rotation="216" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.6385999999999985 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999992 L116.97289999999997,105.44999999999997 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.6385999999999985 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="345.30" topLeftY="216.40" rotation="288" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.35" type="custom">
+        <fill>
+          <fillColor color="rgba(138, 179, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <icon width="32.00" height="32" topLeftX="497.43" topLeftY="614.61" iconType="iconpark/Base/waterfalls-h.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="564.61" topLeftY="687.96" iconType="iconpark/Base/config.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="517.43" topLeftY="768.70" iconType="iconpark/Charts/ranking.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="417.21" topLeftY="747.95" iconType="iconpark/Abstract/triangle-round-rectangle.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="407.49" topLeftY="656.25" iconType="iconpark/Edit/minus-the-top.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="46" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>重点工作任务规划</p>
+        </content>
+      </shape>
+      <shape width="276.41" height="32" topLeftX="56.00" topLeftY="127.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">核心业务深化</p>
+        </content>
+      </shape>
+      <shape width="276.19" height="90" topLeftX="56.00" topLeftY="156.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>计划完成5个核心项目升级，目标业务增长率提升至25%</p>
+        </content>
+      </shape>
+      <shape width="266.42" height="32" topLeftX="38.00" topLeftY="257.88" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">季度任务分解</p>
+        </content>
+      </shape>
+      <shape width="266.42" height="90.00" topLeftX="38.00" topLeftY="286.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="12" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">Q1：完成核心项目需求调研，启动创新团队组建；Q2：推进流程数字化改造，开展首次客户体验调研；Q3：完成新产品MVP测试，核心项目进入开发阶段；Q4：实现核心项目上线，评估年度创新成果</p>
+        </content>
+      </shape>
+      <shape width="297.10" height="32" topLeftX="52.22" topLeftY="387.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">客户价值提升</p>
+        </content>
+      </shape>
+      <shape width="297.10" height="84.00" topLeftX="52.22" topLeftY="415.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>实施“客户体验优化计划”，客户满意度目标达93分</p>
+        </content>
+      </shape>
+      <shape width="278" height="32" topLeftX="635" topLeftY="157.64" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">创新能力建设</p>
+        </content>
+      </shape>
+      <shape width="278" height="130" topLeftX="635" topLeftY="186.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>设立“创新专项基金”，投入20%人力开展前瞻性研究，力争新产品营收占比达15%</p>
+        </content>
+      </shape>
+      <shape width="278" height="32" topLeftX="635" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">流程数智化</p>
+        </content>
+      </shape>
+      <shape width="278" height="130" topLeftX="635" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推进3个关键流程数字化改造，目标效率提升30%</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="X8JwbjfBLo1wKjxyj9GcXOphnUd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="174.14" height="20" topLeftX="60.32" topLeftY="436.08" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(212, 219, 236, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="174.14" height="28" topLeftX="60.32" topLeftY="460.08" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(212, 219, 236, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="20" topLeftX="606.30" topLeftY="436.08" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(212, 220, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="28" topLeftX="606.30" topLeftY="460.08" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(212, 220, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+      <shape width="654.92" height="233.39" topLeftX="60.32" topLeftY="55.06" alpha="0.88" type="text">
+        <content textType="title" fontSize="68" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">感谢观看</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(250, 248, 241, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>注意事项与避坑指南：消费陷阱与文化礼仪</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>消费陷阱规避</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="48" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>拉市海骑马砍价：原价380元可砍至150元，明确路线（如“环湖线”而非“山脚线”）；古城“免费编发”：实则50元/人，拒绝时态度坚决；“老乡”推销药材：声称“野生天麻”“雪莲花”，多为假货，建议超市购买。</p>
+      </content>
+    </shape>
+    <img src="Y1f6b7go2okuoUxMNPQcsOcfnve" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>文化礼仪</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="345.47" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>宗教场所：寺庙内不戴帽、不拍照（经允许除外），不踩门槛，转经筒顺时针；少数民族：傣族不摸他人头部，彝族火把节不扔火把到人群，藏族献哈达需双手接过。</p>
+      </content>
+    </shape>
+    <img src="Mb86bmYXloxU7DxZkEZcRx8onrg" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>环保提示</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="642.94" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>洱海、泸沽湖禁止使用一次性塑料制品，垃圾随身带走；玉龙雪山、普达措等景区不随意采摘植物，不惊扰野生动物（如黑颈鹤）。</p>
+      </content>
+    </shape>
+    <img src="ZeyQbNyF0oHVszxCZgecGgq5n3b" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

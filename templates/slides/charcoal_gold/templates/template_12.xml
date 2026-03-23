@@ -1,0 +1,31 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="38.78" height="2" topLeftX="518.26" topLeftY="162.06" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(250, 191, 14, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <img src="Up51bY8nWoHmBpxEn19cG3TSn9b" width="432" height="540" topLeftX="21.31" topLeftY="0">
+      <crop type="rect" leftOffset="7.20" rightOffset="7.20" topOffset="0" bottomOffset="0" presetHandlers="16"/>
+    </img>
+    <shape width="117.89" height="78.58" topLeftX="516.14" topLeftY="65.53" type="text">
+      <content textType="headline" fontSize="56" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">03</p>
+      </content>
+    </shape>
+    <shape width="377.04" height="209.14" topLeftX="516.14" topLeftY="192.02" type="text">
+      <content textType="headline" fontSize="54" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>资源与执行计划</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

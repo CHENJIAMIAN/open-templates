@@ -1,0 +1,102 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.35" type="custom">
+      <border color="rgba(185, 185, 185, 1)" width="1"/>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+        <p textAlign="center">
+          <span color="rgba(60, 76, 100, 1)" fontSize="18" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+      <fill>
+        <fillColor color="rgba(138, 179, 204, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+      <fill>
+        <fillColor color="rgba(138, 179, 204, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+      <fill>
+        <fillColor color="rgba(138, 179, 204, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="6" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="80" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+      <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">01</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="80" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+      <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">02</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+      <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="25" fontFamily="寒蝉德黑体" color="rgba(138, 179, 204, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(138, 179, 204, 1)" fontSize="25" fontFamily="寒蝉德黑体" bold="false" italic="false" strikethrough="false" underline="false">03</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="47.91" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>团队结构优化</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>人员配置优化</p>
+      </content>
+    </shape>
+    <shape width="280" height="160" topLeftX="31.35" topLeftY="347.41" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>新增数据分析师、项目协调岗各1人，补充关键能力缺口</p>
+      </content>
+    </shape>
+    <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>职责分工细化</p>
+      </content>
+    </shape>
+    <shape width="280" height="160" topLeftX="340" topLeftY="294.45" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>明确“核心项目组+支持保障组”双轨架构，避免职责交叉</p>
+      </content>
+    </shape>
+    <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>弹性团队建设</p>
+      </content>
+    </shape>
+    <shape width="280" height="160" topLeftX="639" topLeftY="223.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>组建3个专项攻坚小组，针对紧急任务快速响应，小组模式使项目平均周期缩短25%</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

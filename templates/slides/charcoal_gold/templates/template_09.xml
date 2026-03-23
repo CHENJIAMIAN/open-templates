@@ -1,0 +1,83 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="864" height="46" topLeftX="48.27" topLeftY="47.60" type="text">
+      <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动形式：多元化参与模式设计</p>
+      </content>
+    </shape>
+    <shape width="32" height="32" topLeftX="48.28" topLeftY="318.08" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingRight="3" fontSize="8" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="268" height="108" topLeftX="62.04" topLeftY="358.97" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>开展闲置物品改造活动，制作文具、教具捐赠给山区学校</p>
+      </content>
+    </shape>
+    <shape width="268" height="34" topLeftX="62.04" topLeftY="323.52" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">公益手工改造</p>
+      </content>
+    </shape>
+    <shape width="32" height="32" topLeftX="48.28" topLeftY="146.11" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingRight="3" fontSize="8" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="268" height="108" topLeftX="62.04" topLeftY="187" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>如“低碳通勤打卡”“办公垃圾分类”，降低参与门槛</p>
+      </content>
+    </shape>
+    <shape width="268" height="34" topLeftX="62.04" topLeftY="151.55" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">随手行为公益</p>
+      </content>
+    </shape>
+    <img src="TMlSbG482olNMUx6Ru0cyL8hnU9" width="238.91" height="325.32" topLeftX="366.54" topLeftY="143.40">
+      <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="32" height="32" topLeftX="633.84" topLeftY="318.08" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingRight="3" fontSize="8" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="264" height="108" topLeftX="647.60" topLeftY="358.97" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>发挥员工专业优势，如技术团队为公益组织开发简易管理工具</p>
+      </content>
+    </shape>
+    <shape width="264" height="34" topLeftX="647.60" topLeftY="323.52" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">技能型公益</p>
+      </content>
+    </shape>
+    <shape width="32" height="32" topLeftX="633.84" topLeftY="146.11" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingRight="3" fontSize="8" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="264" height="108" topLeftX="647.60" topLeftY="187" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>组织员工探访社区老人、乡村儿童，提供陪伴与技能支持</p>
+      </content>
+    </shape>
+    <shape width="264" height="34" topLeftX="647.60" topLeftY="151.55" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">公益探访陪伴</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

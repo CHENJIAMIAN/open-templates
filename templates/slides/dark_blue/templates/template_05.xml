@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="5" type="rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="5" type="rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="10" type="rect">
+      <fill>
+        <fillColor color="rgba(50, 58, 87, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>购置端补贴退坡</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>多国逐步退坡购置端补贴，转向充电基建、电网改造等使用端支持，对车企产品力提出更高市场化要求。</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>政策法规对技术路线的影响</p>
+      </content>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>电池法规要求</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>欧盟新电池法规强制要求披露全生命周期碳排放数据，倒逼车企建立原材料溯源系统并优化生产工艺。</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>数据合规要求</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能网联汽车采集的地理信息、生物特征等数据被纳入重要数据目录，本地化存储与脱敏处理成为技术开发的前置条件。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,79 @@
+<slide>
+    <style/>
+    <data>
+      <img src="Mybqb1NMmocLhFxHvCSc4CfYnAg" width="593.91" height="250.91" topLeftX="339.45" topLeftY="27.28">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="11.10" bottomOffset="72.07" presetHandlers="8"/>
+      </img>
+      <img src="UI1MbwshKoMl4cxOLjccdMl5nlh" width="289.75" height="224.30" topLeftX="643.62" topLeftY="290.04">
+        <crop type="rect" leftOffset="54.96" rightOffset="101.36" topOffset="0" bottomOffset="26.61" presetHandlers="8"/>
+      </img>
+      <img src="Qcu3bIYMro1nRCxBSuPcQXkJnic" width="302.40" height="250.91" topLeftX="26.32" topLeftY="27.28">
+        <crop type="rect" leftOffset="43.42" rightOffset="277.68" topOffset="48.94" bottomOffset="50.89" presetHandlers="8"/>
+      </img>
+      <img src="Kf9kbpX6zoZDURxBRWYctxbfn6c" width="604.91" height="224.30" topLeftX="26.32" topLeftY="290.04">
+        <crop type="rect" leftOffset="6.88" rightOffset="3.52" topOffset="0" bottomOffset="121.81" presetHandlers="8"/>
+      </img>
+      <shape width="232.18" height="129.44" topLeftX="61.42" topLeftY="331.59" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(34, 34, 34, 0.749)" bold="true">
+          <p>
+            <strong>
+              <span color="rgba(34, 34, 34, 0.749)" fontSize="14">科技支撑，让每份报告都精准无误。</span>
+            </strong>
+          </p>
+          <p>
+            <strong>
+              <span color="rgba(34, 34, 34, 0.749)" fontSize="14">我们坚持以极高的行业标准管理实验室流程。通过引入全自动检测工作站，我们不仅提升了样本处理的吞吐量，更将人工干预降低至最小，确保您的健康数据具备绝对的参考价值。</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.18" height="104" topLeftX="363.91" topLeftY="318.22" type="text">
+        <content textType="title" fontSize="80" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="86" fontFamily="Libre Baskerville" bold="false">99.8</span>
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="60" fontFamily="Libre Baskerville" bold="false">%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.18" height="46.82" topLeftX="363.91" topLeftY="414.22" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(34, 34, 34, 0.749)">
+          <p>
+            <span fontSize="10">依托于国际标准 ISO 15189 的质量控制体系，通过多重自动化质控校准与资深检验医师的双重复核机制，我们的检测结果与临床诊断表现出极高的一致性。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="1235.45" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="1235.45" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="1281.52" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="768.39" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="57.96" height="540.16" topLeftX="0" topLeftY="1235.45" presetHandlers="0" flipX="true" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

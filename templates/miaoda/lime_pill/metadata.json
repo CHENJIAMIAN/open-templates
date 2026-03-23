@@ -1,0 +1,31 @@
+{
+    "id":  "miaoda/lime_pill",
+    "family":  "miaoda",
+    "name":  "lime_pill",
+    "displayName":  "Lime Pill",
+    "description":  "UI style prompt template for a Lime Pill aesthetic.",
+    "tags":  [
+                 "lime",
+                 "pill",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/lime_pill",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/lime_pill",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/lime_pill/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/lime_pill/gallery-1.png"
+                                ]
+                }
+}

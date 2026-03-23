@@ -1,0 +1,122 @@
+<slide>
+    <style/>
+    <data>
+      <line startX="20.21" startY="42.61" endX="939.80" endY="43.61" alpha="0.15">
+        <border color="rgba(20, 13, 71, 1)" width="1"/>
+      </line>
+      <shape width="113.39" height="49.67" topLeftX="31.76" topLeftY="69.63" type="text">
+        <content textType="headline" fontSize="36" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(23, 16, 71, 1)" fontSize="36" fontFamily="寒蝉锦书宋" bold="false">目录</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="168.83" startY="308.97" endX="939.80" endY="308.97" alpha="0.15">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="273.45" height="80.73" topLeftX="168.83" topLeftY="216.25" type="text">
+        <content textType="headline" fontSize="95" fontFamily="寒蝉锦书宋" color="rgba(245, 238, 250, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(245, 238, 250, 1)" fontSize="95" fontFamily="寒蝉锦书宋" bold="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="273.45" height="80.73" topLeftX="562.83" topLeftY="216.25" type="text">
+        <content textType="headline" fontSize="95" fontFamily="寒蝉锦书宋" color="rgba(245, 238, 250, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(245, 238, 250, 1)" fontSize="95" fontFamily="寒蝉锦书宋" bold="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="273.45" height="80.73" topLeftX="168.83" topLeftY="413.48" type="text">
+        <content textType="headline" fontSize="95" fontFamily="寒蝉锦书宋" color="rgba(245, 238, 250, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(245, 238, 250, 1)" fontSize="95" fontFamily="寒蝉锦书宋" bold="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="273.45" height="80.73" topLeftX="562.83" topLeftY="413.48" type="text">
+        <content textType="headline" fontSize="95" fontFamily="寒蝉锦书宋" color="rgba(245, 238, 250, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p>
+            <span color="rgba(245, 238, 250, 1)" fontSize="95" fontFamily="寒蝉锦书宋" bold="false">04</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="229.99" height="34.92" topLeftX="173.85" topLeftY="169.33" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">通过清晰层级呈现信息，提高阅读体验与整体效率，让视觉语言更高效。</p>
+        </content>
+      </shape>
+      <shape width="229.99" height="34.92" topLeftX="562.83" topLeftY="169.33" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">以柔和结构组织内容，使重点自然浮现并保持连贯，使表达方式更加顺畅。</p>
+        </content>
+      </shape>
+      <shape width="229.99" height="49.67" topLeftX="173.85" topLeftY="369.70" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">在多场景中展示排版的适应性，帮助内容获得更好的呈现，着重强调应用示例。</p>
+        </content>
+      </shape>
+      <shape width="229.99" height="49.67" topLeftX="562.83" topLeftY="369.70" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">提供更多布局与格式的可能，使整体模板更具灵活性与可用性，扩大空间延展。</p>
+        </content>
+      </shape>
+      <shape width="67" height="21" topLeftX="175.48" topLeftY="144.33" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="14" fontFamily="思源黑体">视觉语言</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="21" topLeftX="562.83" topLeftY="144.33" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="14" fontFamily="思源黑体">表达方式</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="21" topLeftX="173.85" topLeftY="344.70" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="14" fontFamily="思源黑体">应用示例</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="21" topLeftX="562.83" topLeftY="344.70" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="14" fontFamily="思源黑体">延展空间</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <line startX="168.83" startY="506.21" endX="939.80" endY="506.21" alpha="0.15">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="67" height="15" topLeftX="31.81" topLeftY="20.61" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(20, 13, 71, 1)" fontFamily="思源黑体" bold="false">公司名称</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="15" topLeftX="256.31" topLeftY="20.61" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span fontFamily="思源黑体" bold="false">日期时间</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

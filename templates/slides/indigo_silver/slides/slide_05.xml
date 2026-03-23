@@ -1,0 +1,89 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 5, 17, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="444.56" height="70.27" topLeftX="75.32" topLeftY="50.30" type="text">
+        <content textType="headline" fontSize="42" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Objectives summary</p>
+        </content>
+      </shape>
+      <shape width="444.56" height="84" topLeftX="75.32" topLeftY="133.46" type="text">
+        <content textType="caption" fontSize="13" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>This quarter’s objectives focused on strengthening core capabilities and execution stability, with emphasis on feature adoption, system reliability, and key initiative delivery.Together, they reflect a shift toward more efficient collaboration and more sustainable delivery rhythms.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="243.23" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Improve feature adoption</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="272.05" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 85% of target through targeted initiatives.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="323.83" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Reduce incident rate</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="352.65" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 70%, with work remaining on legacy services.</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="36" topLeftX="75.32" topLeftY="416.88" type="text">
+        <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>Launch X initiative</p>
+        </content>
+      </shape>
+      <shape width="359.45" height="48.45" topLeftX="75.32" topLeftY="445.70" type="text">
+        <content textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>Achieved 95% with strong cross-functional execution.</p>
+        </content>
+      </shape>
+      <shape width="118.08" height="320.11" topLeftX="558.98" topLeftY="147.23" presetHandlers="59.039338989113155" type="round-rect">
+        <fill>
+          <fillColor color="rgba(84, 87, 94, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+      </shape>
+      <shape width="118.08" height="251.01" topLeftX="685.10" topLeftY="216.32" presetHandlers="59.039338989113155" type="round-rect">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+      </shape>
+      <shape width="118.08" height="381.91" topLeftX="811.23" topLeftY="85.43" presetHandlers="59.039338989113155" type="round-rect">
+        <fill>
+          <fillColor color="rgba(84, 87, 94, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+      </shape>
+      <shape width="49" height="36" topLeftX="595.02" topLeftY="401.10" type="text">
+        <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="24" fontFamily="Inter">85%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="48" height="36" topLeftX="719.64" topLeftY="401.10" type="text">
+        <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="24" fontFamily="Inter">70%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="50" height="36" topLeftX="846.27" topLeftY="401.10" type="text">
+        <content fontSize="24" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="24" fontFamily="Inter">95%</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

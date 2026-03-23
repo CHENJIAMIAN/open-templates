@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      // 运行时动态计算 basename 并安全设置 <base>
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Industrial Design Portfolio</title>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              border: "hsl(var(--border))",
+              input: "hsl(var(--input))",
+              ring: "hsl(var(--ring))",
+              background: "hsl(var(--background))",
+              foreground: "hsl(var(--foreground))",
+              primary: {
+                DEFAULT: "hsl(var(--primary))",
+                foreground: "hsl(var(--primary-foreground))",
+              },
+              secondary: {
+                DEFAULT: "hsl(var(--secondary))",
+                foreground: "hsl(var(--secondary-foreground))",
+              },
+              destructive: {
+                DEFAULT: "hsl(var(--destructive))",
+                foreground: "hsl(var(--destructive-foreground))",
+              },
+              muted: {
+                DEFAULT: "hsl(var(--muted))",
+                foreground: "hsl(var(--muted-foreground))",
+              },
+              accent: {
+                DEFAULT: "hsl(var(--accent))",
+                foreground: "hsl(var(--accent-foreground))",
+              },
+              popover: {
+                DEFAULT: "hsl(var(--popover))",
+                foreground: "hsl(var(--popover-foreground))",
+              },
+              card: {
+                DEFAULT: "hsl(var(--card))",
+                foreground: "hsl(var(--card-foreground))",
+              },
+            },
+            borderRadius: {
+              lg: "var(--radius)",
+              md: "calc(var(--radius) - 2px)",
+              sm: "calc(var(--radius) - 4px)",
+            },
+            animation: {
+              "diamond-rotate": "diamond-rotate 5s linear infinite",
+            },
+            keyframes: {
+              "diamond-rotate": {
+                "0%": { transform: "rotate(0deg)" },
+                "100%": { transform: "rotate(360deg)" },
+              },
+            },
+          },
+        },
+      }
+    </script>
+    <style>
+      :root {
+        --background: 0 0% 100%;
+        --foreground: 0 0% 3.9%;
+        --card: 0 0% 100%;
+        --card-foreground: 0 0% 3.9%;
+        --popover: 0 0% 100%;
+        --popover-foreground: 0 0% 3.9%;
+        --primary: 0 0% 9%;
+        --primary-foreground: 0 0% 98%;
+        --secondary: 0 0% 96.1%;
+        --secondary-foreground: 0 0% 9%;
+        --muted: 0 0% 96.1%;
+        --muted-foreground: 0 0% 45.1%;
+        --accent: 0 0% 96.1%;
+        --accent-foreground: 0 0% 9%;
+        --destructive: 0 84.2% 60.2%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 0 0% 89.8%;
+        --input: 0 0% 89.8%;
+        --ring: 0 0% 3.9%;
+        --radius: 0.5rem;
+      }
+      
+      .dark {
+        --background: 0 0% 3.9%;
+        --foreground: 0 0% 98%;
+        --card: 0 0% 3.9%;
+        --card-foreground: 0 0% 98%;
+        --popover: 0 0% 3.9%;
+        --popover-foreground: 0 0% 98%;
+        --primary: 0 0% 98%;
+        --primary-foreground: 0 0% 9%;
+        --secondary: 0 0% 14.9%;
+        --secondary-foreground: 0 0% 98%;
+        --muted: 0 0% 14.9%;
+        --muted-foreground: 0 0% 63.9%;
+        --accent: 0 0% 14.9%;
+        --accent-foreground: 0 0% 98%;
+        --destructive: 0 62.8% 30.6%;
+        --destructive-foreground: 0 0% 98%;
+        --border: 0 0% 14.9%;
+        --input: 0 0% 14.9%;
+        --ring: 0 0% 83.1%;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      }
+
+      @keyframes diamond-rotate {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+
+</head>
+<body>
+    <div class="min-h-screen bg-background text-foreground font-sans selection:bg-[#f97316] selection:text-black">
+      <!-- Navigation -->
+      <nav class="fixed top-0 left-0 right-0 z-50 px-6 py-6 flex justify-between items-center backdrop-blur-sm bg-background/80 border-b border-border/50">
+        <div class="font-bold tracking-tighter text-lg uppercase">ALEX.STUDIO</div>
+        <div class="hidden md:flex gap-8 text-sm font-medium text-muted-foreground">
+          <a href="#work" onclick="scrollToSection(event, 'work')" class="hover:text-foreground transition-colors cursor-pointer">作品</a>
+          <a href="#about" onclick="scrollToSection(event, 'about')" class="hover:text-foreground transition-colors cursor-pointer">关于</a>
+          <a href="#contact" onclick="scrollToSection(event, 'contact')" class="hover:text-foreground transition-colors cursor-pointer">联系</a>
+        </div>
+        <button onclick="handleNoAction(event)" class="inline-flex items-center gap-2 text-sm font-medium px-4 py-2 bg-foreground text-background rounded-full hover:bg-foreground/90 transition-colors">
+          <i data-lucide="mail" class="w-4 h-4"></i>
+          <span>开始合作</span>
+        </button>
+      </nav>
+
+      <!-- Hero Section -->
+      <main class="pt-32 pb-16 px-6 md:px-12 lg:px-24">
+        <div class="min-h-[75vh] flex flex-col justify-center items-center max-w-5xl mx-auto text-center">
+          
+          <span class="inline-block mb-8 px-3 py-1 rounded-full border border-border bg-secondary/50 text-xs font-mono text-muted-foreground uppercase tracking-widest">
+            INDUSTRIAL DESIGNER / PORTFOLIO
+          </span>
+          
+          <h1 class="sr-only">Portfolio</h1>
+          <div class="mb-10 w-full flex justify-center">
+            <!-- P, o (orange), rtfolio -->
+            <span class="inline-flex items-center font-black tracking-tight text-foreground text-7xl sm:text-8xl md:text-9xl lg:text-[11rem] leading-none tracking-tight">
+              <span>P</span>
+              <span class="text-[#f97316]">o</span>
+              <span>rtfolio</span>
+            </span>
+          </div>
+
+          <div class="max-w-2xl mx-auto">
+            <p class="text-xl md:text-2xl text-muted-foreground leading-relaxed font-light">
+              你好，我是 Alex，现居<span class="text-foreground font-medium">浙江杭州</span>。
+              专注于极简主义工业设计，通过对材料与形态的深度探索，重新定义日常物品的使用体验。
+            </p>
+          </div>
+
+          <div class="mt-12 flex flex-col sm:flex-row gap-4 justify-center">
+             <button 
+                onclick="handleNoAction(event)"
+                class="flex items-center justify-center gap-2 px-8 py-4 bg-foreground text-background rounded-full hover:bg-foreground/90 transition-all hover:scale-105 active:scale-95 text-sm font-medium"
+             >
+               <i data-lucide="download" class="w-4 h-4"></i>
+               下载作品集
+             </button>
+             <a 
+               href="#work" 
+               onclick="scrollToSection(event, 'work')" 
+               class="flex items-center justify-center gap-2 px-8 py-4 border border-border rounded-full hover:bg-secondary transition-all hover:scale-105 active:scale-95 text-sm font-medium"
+             >
+               <i data-lucide="eye" class="w-4 h-4"></i>
+               查看精选项目
+             </a>
+          </div>
+        </div>
+
+        <!-- Selected Works -->
+        <section id="work" class="py-24 max-w-7xl mx-auto scroll-mt-24">
+          <div class="flex flex-col md:flex-row md:items-end justify-between mb-20 gap-6">
+            <div>
+              <h2 class="text-5xl font-bold tracking-tighter mb-2">精选作品</h2>
+              <p class="text-muted-foreground text-lg">Selected Projects (2022 — 2024)</p>
+            </div>
+            <div class="h-[1px] flex-grow bg-border mx-8 hidden md:block mb-4"></div>
+            <span class="text-muted-foreground text-sm font-mono whitespace-nowrap px-4 py-2 bg-secondary rounded-full border border-border">作品集 V.04</span>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-24">
+            <!-- Project 1 -->
+            <div class="">
+                <div class="group cursor-pointer">
+                  <div class="relative overflow-hidden bg-secondary rounded-lg mb-4 aspect-[4/3]">
+                    <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=1200&auto=format&fit=crop" alt="Aero 座椅" class="object-cover w-full h-full transition-transform duration-700 ease-out group-hover:scale-105" />
+                    <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300"></div>
+                  </div>
+                  <div class="flex justify-between items-start border-t border-border pt-4">
+                    <div>
+                      <h3 class="text-xl font-medium tracking-tight text-foreground">Aero 座椅</h3>
+                      <p class="text-muted-foreground text-sm mt-1">家具设计</p>
+                    </div>
+                    <div class="flex flex-col items-end gap-2">
+                      <span class="text-xs font-mono text-muted-foreground">2024</span>
+                      <i data-lucide="arrow-up-right" class="w-5 h-5 text-muted-foreground opacity-0 -translate-x-2 translate-y-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0"></i>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <!-- Project 2 (Margin top) -->
+            <div class="md:mt-32">
+                <div class="group cursor-pointer">
+                  <div class="relative overflow-hidden bg-secondary rounded-lg mb-4 aspect-[4/3]">
+                    <img src="https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=1200&auto=format&fit=crop" alt="Lumina 台灯" class="object-cover w-full h-full transition-transform duration-700 ease-out group-hover:scale-105" />
+                    <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300"></div>
+                  </div>
+                  <div class="flex justify-between items-start border-t border-border pt-4">
+                    <div>
+                      <h3 class="text-xl font-medium tracking-tight text-foreground">Lumina 台灯</h3>
+                      <p class="text-muted-foreground text-sm mt-1">照明设计</p>
+                    </div>
+                    <div class="flex flex-col items-end gap-2">
+                      <span class="text-xs font-mono text-muted-foreground">2023</span>
+                      <i data-lucide="arrow-up-right" class="w-5 h-5 text-muted-foreground opacity-0 -translate-x-2 translate-y-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0"></i>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <!-- Project 3 -->
+            <div class="">
+                <div class="group cursor-pointer">
+                  <div class="relative overflow-hidden bg-secondary rounded-lg mb-4 aspect-[4/3]">
+                    <img src="https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=1200&auto=format&fit=crop" alt="Nexus 音响" class="object-cover w-full h-full transition-transform duration-700 ease-out group-hover:scale-105" />
+                    <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300"></div>
+                  </div>
+                  <div class="flex justify-between items-start border-t border-border pt-4">
+                    <div>
+                      <h3 class="text-xl font-medium tracking-tight text-foreground">Nexus 音响</h3>
+                      <p class="text-muted-foreground text-sm mt-1">消费电子</p>
+                    </div>
+                    <div class="flex flex-col items-end gap-2">
+                      <span class="text-xs font-mono text-muted-foreground">2023</span>
+                      <i data-lucide="arrow-up-right" class="w-5 h-5 text-muted-foreground opacity-0 -translate-x-2 translate-y-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0"></i>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <!-- Project 4 (Margin top) -->
+            <div class="md:mt-32">
+                <div class="group cursor-pointer">
+                  <div class="relative overflow-hidden bg-secondary rounded-lg mb-4 aspect-[4/3]">
+                    <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop" alt="Sonic 耳机" class="object-cover w-full h-full transition-transform duration-700 ease-out group-hover:scale-105" />
+                    <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300"></div>
+                  </div>
+                  <div class="flex justify-between items-start border-t border-border pt-4">
+                    <div>
+                      <h3 class="text-xl font-medium tracking-tight text-foreground">Sonic 耳机</h3>
+                      <p class="text-muted-foreground text-sm mt-1">消费电子</p>
+                    </div>
+                    <div class="flex flex-col items-end gap-2">
+                      <span class="text-xs font-mono text-muted-foreground">2022</span>
+                      <i data-lucide="arrow-up-right" class="w-5 h-5 text-muted-foreground opacity-0 -translate-x-2 translate-y-2 transition-all duration-300 group-hover:opacity-100 group-hover:translate-x-0 group-hover:translate-y-0"></i>
+                    </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Philosophy / About -->
+        <section id="about" class="py-32 bg-secondary/40 text-foreground -mx-6 md:-mx-12 lg:-mx-24 px-6 md:px-12 lg:px-24 rounded-[3rem] overflow-hidden relative scroll-mt-24">
+           <div class="absolute top-0 right-0 w-1/3 h-full bg-gradient-to-l from-[#f97316]/10 to-transparent pointer-events-none"></div>
+           
+           <div class="max-w-4xl mx-auto relative z-10">
+              <h2 class="text-sm font-mono uppercase tracking-widest text-primary mb-16 border-l-2 border-[#f97316] pl-4">PHILOSOPHY / 设计哲学</h2>
+              
+              <div class="space-y-12">
+                <p class="text-4xl md:text-6xl font-light leading-[1.1] tracking-tight">
+                  好的设计应该是<span class="text-primary underline decoration-[#f97316] decoration-4 underline-offset-4">坦诚的</span>。<br/>
+                  它应当直观地传达功能，<br/>
+                  并与使用者建立情感的纽带。
+                </p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-16 pt-20 text-left">
+                  <div class="group">
+                    <h3 class="text-xl font-bold mb-4 flex items-center gap-3">
+                      <span class="w-8 h-[2px] bg-[#f97316] group-hover:w-12 transition-all duration-300"></span>
+                      持久的极简
+                    </h3>
+                    <p class="text-muted-foreground leading-relaxed font-light">
+                      不仅仅是视觉上的简洁，更是逻辑上的极致。我们剔除一切不必要的干扰，让产品在时间的洗练中依然保持其生命力。
+                    </p>
+                  </div>
+                  <div class="group">
+                    <h3 class="text-xl font-bold mb-4 flex items-center gap-3">
+                      <span class="w-8 h-[2px] bg-[#f97316] group-hover:w-12 transition-all duration-300"></span>
+                      感官的连接
+                    </h3>
+                    <p class="text-muted-foreground leading-relaxed font-light">
+                      工业设计是关于物理触碰的艺术。我们精挑细选每一种材料与纹理，确保每一次交互都成为一种愉悦的感官记忆。
+                    </p>
+                  </div>
+                </div>
+              </div>
+           </div>
+        </section>
+
+        <!-- Contact Footer -->
+        <footer id="contact" class="pt-48 pb-12 max-w-7xl mx-auto text-center scroll-mt-24">
+          <div class="flex flex-col items-center gap-12">
+            <div class="space-y-4">
+              <span class="text-sm font-mono text-primary uppercase tracking-widest bg-secondary px-4 py-1 rounded-full border border-border">LET'S CONNECT</span>
+              <h2 class="text-5xl md:text-8xl font-bold tracking-tighter leading-none">
+                开启下一个<br/>伟大设计。
+              </h2>
+            </div>
+            
+            <a href="mailto:hello@alex.design" onclick="handleNoAction(event)" class="group relative text-2xl md:text-4xl font-medium tracking-tight mt-4 cursor-pointer">
+              <span class="relative z-10 transition-colors group-hover:text-muted-foreground">hello@alex.design</span>
+              <div class="absolute bottom-0 left-0 w-full h-[3px] bg-[#f97316] scale-x-100 group-hover:scale-x-110 transition-transform duration-500 origin-left"></div>
+            </a>
+            
+            <div class="flex gap-4 mt-12">
+              <a href="#" onclick="handleNoAction(event)" class="w-14 h-14 flex items-center justify-center border border-border rounded-full hover:bg-foreground hover:text-background transition-all duration-300 transform hover:-translate-y-1">
+                <i data-lucide="instagram" class="w-6 h-6"></i>
+              </a>
+              <a href="#" onclick="handleNoAction(event)" class="w-14 h-14 flex items-center justify-center border border-border rounded-full hover:bg-foreground hover:text-background transition-all duration-300 transform hover:-translate-y-1">
+                <i data-lucide="linkedin" class="w-6 h-6"></i>
+              </a>
+            </div>
+            
+            <div class="w-full h-[1px] bg-border mt-32 mb-12"></div>
+            
+            <div class="w-full flex flex-col md:flex-row justify-between items-center gap-6 text-muted-foreground text-[10px] font-mono uppercase tracking-[0.2em]">
+              <p>© <span id="year">2024</span> ALEX STUDIO — INDUSTRIAL DESIGN LAB</p>
+              <div class="flex gap-10">
+                <a href="#" onclick="handleNoAction(event)" class="hover:text-foreground transition-colors">PRIVACY POLICY</a>
+                <a href="#" onclick="handleNoAction(event)" class="hover:text-foreground transition-colors">COOKIE POLICY</a>
+              </div>
+            </div>
+          </div>
+        </footer>
+      </main>
+    </div>
+
+    <script>
+      // Initialize Lucide Icons
+      lucide.createIcons();
+
+      // Set current year
+      document.getElementById('year').textContent = new Date().getFullYear();
+
+      function scrollToSection(e, id) {
+        e.preventDefault();
+        const element = document.getElementById(id);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+
+      function handleNoAction(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        console.log("Interaction prevented");
+      }
+    </script>
+
+</body>
+</html>

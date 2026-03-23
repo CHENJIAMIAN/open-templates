@@ -1,0 +1,53 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48" startY="231.16" endX="912" endY="232.16" alpha="0.32">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="379.12" endX="912" endY="380.12" alpha="0.32">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="699.41" height="70" topLeftX="48.28" topLeftY="282.19" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">OKR（Objectives and Key Results）即目标与关键成果法，是一种将战略愿景转化为具体行动的目标管理框架。其核心思想是通过明确的目标（Objective）与可量化的关键结果（Key Results），实现团队聚焦、对齐与高效执行。</p>
+      </content>
+    </shape>
+    <shape width="699.62" height="36" topLeftX="48.07" topLeftY="247.43" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>OKR的定义</p>
+      </content>
+    </shape>
+    <shape width="81.55" height="57" topLeftX="830.52" topLeftY="245.19" type="text">
+      <content textType="sub-headline" fontSize="47" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="147.50" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>OKR的定义与核心价值</p>
+      </content>
+    </shape>
+    <shape width="699.41" height="70" topLeftX="48.28" topLeftY="430.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>聚焦重点资源、促进跨团队协作、激发团队挑战潜能，帮助销售团队将“做什么”与“如何衡量成功”清晰衔接，确保所有行动都服务于核心目标。</p>
+      </content>
+    </shape>
+    <shape width="699.62" height="36" topLeftX="48.07" topLeftY="395.39" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>OKR的核心价值</p>
+      </content>
+    </shape>
+    <shape width="81.55" height="57" topLeftX="830.52" topLeftY="393.15" type="text">
+      <content textType="sub-headline" fontSize="47" fontFamily="DouYinMeiHao" color="rgba(236, 98, 221, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

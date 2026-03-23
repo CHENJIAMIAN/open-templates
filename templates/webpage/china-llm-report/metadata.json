@@ -1,0 +1,36 @@
+{
+    "id":  "webpage/china-llm-report",
+    "family":  "webpage",
+    "name":  "china-llm-report",
+    "displayName":  "China LLM Report",
+    "description":  "A report-style webpage template for the China LLM market story.",
+    "tags":  [
+                 "ai",
+                 "report",
+                 "llm",
+                 "analytics"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/china-llm-report",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/china-llm-report",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/china-llm-report/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/china-llm-report/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

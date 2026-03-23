@@ -10,8 +10,8 @@ Use this template for technical presentations, engineering reviews, AI project u
 
 - `showcase/assets/slides/tech_blue_orange/cover.png`
 - `showcase/assets/slides/tech_blue_orange/gallery-1.png`
-- The copied source preview PNG set from `templates/slides/tech_blue_orange`
+- A curated preview subset copied from `templates/slides/tech_blue_orange`
 
 ## Notes
 
-The preview files are copied into `showcase/assets/slides/tech_blue_orange/` so the template can be showcased directly from the repository.
+The showcase keeps only the curated preview assets needed for the public example, which avoids maintaining a second full slide deck image set.

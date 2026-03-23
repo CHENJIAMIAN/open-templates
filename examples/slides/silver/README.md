@@ -10,8 +10,8 @@ Use this template for neutral, clean presentations that need a restrained and br
 
 - `showcase/assets/slides/silver/cover.png`
 - `showcase/assets/slides/silver/gallery-1.png`
-- The copied source preview PNG set from `templates/slides/silver`
+- A curated preview subset copied from `templates/slides/silver`
 
 ## Notes
 
-This template is intended as a balanced alternative to the more dramatic business and technology themes in the first showcase batch.
+This template is intended as a balanced alternative to the more dramatic business and technology themes in the first showcase batch, while keeping only the preview assets needed for public display.

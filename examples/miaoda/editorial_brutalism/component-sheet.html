@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Editorial Brutalism Component Sheet</title>
+  <style>
+    :root {
+      --bg: #f4f0e8;
+      --surface: #fffaf1;
+      --ink: #0f0f0f;
+      --muted: #5d5d5d;
+      --line: #111111;
+      --accent: #d7d1c6;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background:
+        linear-gradient(rgba(0,0,0,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,0,0,0.03) 1px, transparent 1px),
+        var(--bg);
+      background-size: 24px 24px, 24px 24px, auto;
+      color: var(--ink);
+      font-family: "Georgia", "Times New Roman", serif;
+    }
+
+    .wrap {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 32px;
+    }
+
+    .masthead {
+      border: 4px solid var(--line);
+      box-shadow: 10px 10px 0 var(--line);
+      background: var(--surface);
+      padding: 28px;
+      margin-bottom: 24px;
+    }
+
+    .eyebrow {
+      margin: 0 0 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.34em;
+      font: 700 12px/1 "Arial", sans-serif;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(48px, 8vw, 126px);
+      line-height: 0.88;
+      letter-spacing: -0.06em;
+      text-transform: uppercase;
+    }
+
+    .sub {
+      max-width: 720px;
+      margin: 18px 0 0;
+      font: 18px/1.6 "Arial", sans-serif;
+      color: var(--muted);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 18px;
+    }
+
+    .card {
+      border: 3px solid var(--line);
+      background: var(--surface);
+      box-shadow: 8px 8px 0 var(--line);
+      padding: 20px;
+      min-height: 150px;
+    }
+
+    .span-4 { grid-column: span 4; }
+    .span-6 { grid-column: span 6; }
+    .span-8 { grid-column: span 8; }
+    .span-12 { grid-column: span 12; }
+
+    .label {
+      margin: 0 0 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.22em;
+      font: 700 11px/1 "Arial", sans-serif;
+    }
+
+    .component {
+      font-size: clamp(28px, 4vw, 44px);
+      line-height: 0.95;
+      margin: 0;
+      text-transform: uppercase;
+      letter-spacing: -0.05em;
+    }
+
+    .meta {
+      margin-top: 12px;
+      border-top: 2px solid var(--line);
+      padding-top: 10px;
+      font: 14px/1.6 "Arial", sans-serif;
+      color: var(--muted);
+    }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .badge {
+      border: 2px solid var(--line);
+      background: var(--bg);
+      padding: 8px 12px;
+      font: 700 12px/1 "Arial", sans-serif;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+    }
+
+    .rule {
+      height: 14px;
+      background: linear-gradient(90deg, var(--line), var(--line) 48%, transparent 48%, transparent 52%, var(--line) 52%, var(--line));
+      margin: 12px 0 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="masthead">
+      <p class="eyebrow">Editorial Brutalism Reference</p>
+      <h1>Type with authority.</h1>
+      <p class="sub">Black-and-white contrast, oversized headers, square framing, and hard-edge shadows turn a UI into a printed statement.</p>
+    </section>
+
+    <section class="grid">
+      <article class="card span-4">
+        <p class="label">Hero</p>
+        <p class="component">Massive title block</p>
+        <div class="meta">Use a headline that dominates the viewport and leaves deliberate negative space.</div>
+      </article>
+      <article class="card span-4">
+        <p class="label">Stat Block</p>
+        <p class="component">34 / 09 / 128</p>
+        <div class="meta">Pair big numbers with thin explanatory copy and a firm baseline grid.</div>
+      </article>
+      <article class="card span-4">
+        <p class="label">Quote</p>
+        <p class="component">No softness.</p>
+        <div class="meta">Pull quotes should feel like they were cut from a magazine spread and pasted into the page.</div>
+      </article>
+
+      <article class="card span-8">
+        <p class="label">Component Language</p>
+        <div class="badge-row">
+          <span class="badge">Square Button</span>
+          <span class="badge">Heavy Rule</span>
+          <span class="badge">Large Type</span>
+          <span class="badge">Boxed Media</span>
+          <span class="badge">No Blur</span>
+        </div>
+        <div class="rule"></div>
+      </article>
+
+      <article class="card span-4">
+        <p class="label">Palette</p>
+        <div class="badge-row">
+          <span class="badge">Paper</span>
+          <span class="badge">Ink</span>
+          <span class="badge">Neutral Gray</span>
+        </div>
+        <div class="meta">Keep color use almost absent so layout and typography carry the composition.</div>
+      </article>
+
+      <article class="card span-12">
+        <p class="label">Layout Rules</p>
+        <div class="badge-row">
+          <span class="badge">Wide margins</span>
+          <span class="badge">Sharp corners</span>
+          <span class="badge">Offset shadows</span>
+          <span class="badge">Editorial rhythm</span>
+        </div>
+      </article>
+    </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "@open-templates/cli",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lightweight CLI for browsing and initializing open templates",
+  "bin": {
+    "open-templates": "./bin/open-templates.js"
+  }
+}

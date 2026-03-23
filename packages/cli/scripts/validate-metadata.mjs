@@ -8,6 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const repoRoot = path.resolve(__dirname, '..', '..', '..');
 const templatesRoot = path.join(repoRoot, 'templates');
+const strictMode = process.argv.includes('--strict');
 
 const allowedFamilies = new Set(['lark_doc', 'miaoda', 'slides', 'webpage']);
 const allowedInitModes = new Set(['copy-file', 'copy-dir']);
@@ -46,6 +47,14 @@ function hasRepoRelativePrefix(value, prefix) {
   const normalized = toPosixPath(value).replace(/\/+$/, '');
   const expected = prefix.replace(/\/+$/, '');
   return normalized === expected || normalized.startsWith(`${expected}/`);
+}
+
+function repoPathExists(value) {
+  if (!isRepoRelativePath(value)) {
+    return false;
+  }
+
+  return fs.existsSync(path.join(repoRoot, value));
 }
 
 function collectMetadataFiles(rootDir) {
@@ -107,8 +116,36 @@ function validatePreview(preview, errors) {
   }
 }
 
+function collectMissingAssetWarnings(data, warnings) {
+  if (typeof data.examplePath === 'string' && data.examplePath.trim() !== '' && !repoPathExists(data.examplePath)) {
+    warnings.push(`examplePath target does not exist: ${data.examplePath}`);
+  }
+
+  if (data.preview == null || typeof data.preview !== 'object' || Array.isArray(data.preview)) {
+    return;
+  }
+
+  for (const [key, value] of Object.entries(data.preview)) {
+    if (typeof value === 'string') {
+      if (!repoPathExists(value)) {
+        warnings.push(`preview.${key} target does not exist: ${value}`);
+      }
+      continue;
+    }
+
+    if (Array.isArray(value)) {
+      for (const item of value) {
+        if (typeof item === 'string' && !repoPathExists(item)) {
+          warnings.push(`preview.${key} target does not exist: ${item}`);
+        }
+      }
+    }
+  }
+}
+
 function validateMetadata(data, filePath) {
   const errors = [];
+  const warnings = [];
   const requiredFields = ['id', 'family', 'name', 'displayName', 'description', 'tags', 'sourcePath', 'entryFiles', 'initMode', 'visibility'];
 
   for (const field of requiredFields) {
@@ -167,7 +204,9 @@ function validateMetadata(data, filePath) {
 
   validatePreview(data.preview, errors);
 
-  return errors;
+  collectMissingAssetWarnings(data, warnings);
+
+  return { errors, warnings };
 }
 
 function parseMetadata(filePath) {
@@ -181,6 +220,7 @@ function parseMetadata(filePath) {
 
 const metadataFiles = collectMetadataFiles(templatesRoot).sort();
 const failures = [];
+const warnings = [];
 
 for (const filePath of metadataFiles) {
   const relativePath = path.relative(repoRoot, filePath).replace(/\\/g, '/');
@@ -194,26 +234,51 @@ for (const filePath of metadataFiles) {
     continue;
   }
 
-  const issues = validateMetadata(data, filePath);
-  if (issues.length > 0) {
+  const { errors, warnings: metadataWarnings } = validateMetadata(data, filePath);
+  if (errors.length > 0) {
     failures.push({
       filePath: relativePath,
-      issues,
+      issues: errors,
+    });
+  }
+
+  if (metadataWarnings.length > 0) {
+    warnings.push({
+      filePath: relativePath,
+      issues: metadataWarnings,
     });
   }
 }
 
-if (failures.length === 0) {
+const effectiveFailures = strictMode ? failures.concat(warnings) : failures;
+
+if (warnings.length > 0) {
+  const warningCount = warnings.reduce((count, item) => count + item.issues.length, 0);
+  console.warn(`Validated ${metadataFiles.length} metadata files. ${warningCount} warning${warningCount === 1 ? '' : 's'}.`);
+  for (const warning of warnings) {
+    console.warn(`- ${warning.filePath}`);
+    for (const issue of warning.issues) {
+      console.warn(`  - ${issue}`);
+    }
+  }
+}
+
+if (effectiveFailures.length === 0) {
   console.log(`Validated ${metadataFiles.length} metadata files. All passed.`);
   process.exit(0);
 }
 
-console.error(`Validated ${metadataFiles.length} metadata files. ${failures.length} failed.`);
-for (const failure of failures) {
+console.error(`Validated ${metadataFiles.length} metadata files. ${effectiveFailures.length} failed.`);
+for (const failure of effectiveFailures) {
   console.error(`- ${failure.filePath}`);
   for (const issue of failure.issues) {
     console.error(`  - ${issue}`);
   }
+}
+
+if (strictMode && warnings.length > 0) {
+  const warningFailureCount = warnings.reduce((count, item) => count + item.issues.length, 0);
+  console.error(`Strict mode promoted ${warningFailureCount} warning${warningFailureCount === 1 ? '' : 's'} to failures.`);
 }
 
 process.exit(1);

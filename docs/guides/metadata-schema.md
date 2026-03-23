@@ -40,6 +40,22 @@ All paths in metadata must be repo-relative.
 
 Absolute paths are not allowed. `../` escapes are not allowed. The intent is that metadata remains portable across machines and environments.
 
+## Validation Behavior
+
+The repository validator treats schema and path-shape problems as hard errors.
+
+- invalid JSON fails validation
+- missing required fields fail validation
+- non-repo-relative paths fail validation
+- malformed `preview` structures fail validation
+
+The validator also checks whether `examplePath` and `preview` targets exist on disk.
+
+- in default mode, missing example or preview targets are reported as warnings and do not fail the command
+- in `--strict` mode, those warnings are promoted to failures
+
+This keeps the schema usable before all showcase assets exist, while still making incomplete links visible during review.
+
 ## Family Notes
 
 `lark_doc`
@@ -83,4 +99,4 @@ Absolute paths are not allowed. `../` escapes are not allowed. The intent is tha
 
 ## Validation Expectation
 
-The CLI validator checks every discovered `metadata.json` file under `templates/`, reports all validation errors in one run, and exits with a non-zero status if any file fails.
+The CLI validator checks every discovered `metadata.json` file under `templates/`, reports all validation errors in one run, and exits with a non-zero status if any file fails. Missing example or preview targets are warnings by default, and become failures under `--strict`.

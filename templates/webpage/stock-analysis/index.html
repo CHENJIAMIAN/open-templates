@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>[股票代码] 深度分析</title>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/echarts.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: "var(--color-primary)",
+              accent: "var(--color-accent)",
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+        :root {
+            --color-primary: #10b981;
+            --color-accent: #059669;
+            --color-background: #0f172a;
+            --color-surface: #1e293b;
+            --color-border: #334155;
+            --color-text: #f8fafc;
+            --color-text-secondary: #94a3b8;
+            --color-text-muted: #64748b;
+        }
+        body {
+            font-family: 'Inter', 'Noto Sans SC', sans-serif;
+            background-color: var(--color-background);
+            color: var(--color-text);
+        }
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: var(--color-surface); }
+        ::-webkit-scrollbar-thumb { background: var(--color-text-muted); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--color-text-secondary); }
+        .glass-panel {
+            background-color: rgba(30, 41, 59, 0.5);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(51, 65, 85, 0.5);
+        }
+    </style>
+</head>
+<body class="min-h-screen p-4 md:p-8">
+    <div class="max-w-7xl mx-auto space-y-6">
+
+        <!-- Header -->
+        <header class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 border-b border-slate-800/50 pb-6">
+            <div>
+                <div class="flex items-baseline gap-3">
+                    <h1 class="text-4xl font-bold tracking-tight text-white">[股票代码]</h1>
+                    <span class="text-lg text-slate-400 font-medium">[公司名称]</span>
+                </div>
+                <div class="flex items-center gap-3 mt-1">
+                    <span class="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-mono">[交易所]</span>
+                    <span class="text-xs text-slate-500">[数据来源说明]</span>
+                </div>
+            </div>
+            <div class="text-left md:text-right">
+                <div class="text-5xl font-bold text-white tracking-tighter">[当前价格]</div>
+                <div class="flex items-center md:justify-end gap-2 mt-1">
+                    <span class="text-emerald-400 font-medium flex items-center">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="mr-1"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>
+                        [涨跌幅]
+                    </span>
+                    <span class="text-slate-500 text-sm">[时间周期]</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+
+            <!-- Left: Chart -->
+            <div class="lg:col-span-2 glass-panel rounded-2xl p-6 flex flex-col h-[480px] shadow-xl">
+                <div class="flex flex-row justify-between items-center mb-4">
+                    <h2 class="text-xl font-semibold text-slate-100 flex items-center gap-2">
+                        <span class="w-2 h-6 bg-emerald-500 rounded-full"></span>
+                        价格走势
+                    </h2>
+                    <div class="flex bg-slate-900/50 p-1 rounded-lg border border-slate-700/50" id="time-range-controls">
+                        <button data-range="1W" class="range-btn px-3 py-1 text-xs font-medium rounded-md transition-all text-slate-400 hover:text-slate-200">1W</button>
+                        <button data-range="1M" class="range-btn px-3 py-1 text-xs font-medium rounded-md transition-all text-slate-400 hover:text-slate-200">1M</button>
+                        <button data-range="3M" class="range-btn px-3 py-1 text-xs font-medium rounded-md transition-all text-slate-400 hover:text-slate-200">3M</button>
+                        <button data-range="1Y" class="range-btn px-3 py-1 text-xs font-medium rounded-md transition-all bg-slate-700 text-white shadow-md">1Y</button>
+                    </div>
+                </div>
+                <div id="chart-line" class="flex-grow w-full"></div>
+            </div>
+
+            <!-- Right: Metrics + Info -->
+            <div class="space-y-6">
+                <!-- Metrics Grid -->
+                <div class="grid grid-cols-2 gap-4">
+                    <div class="glass-panel p-4 rounded-xl shadow-lg hover:bg-slate-800/70 transition-colors group">
+                        <div class="text-slate-400 text-sm font-medium mb-1 group-hover:text-emerald-400">[指标1名称]</div>
+                        <div class="flex items-end justify-between">
+                            <div class="text-2xl font-bold text-slate-100">[指标1值]</div>
+                            <div class="text-sm font-medium px-2 py-0.5 rounded-full text-emerald-400 bg-emerald-400/10">[变化1]</div>
+                        </div>
+                    </div>
+                    <div class="glass-panel p-4 rounded-xl shadow-lg hover:bg-slate-800/70 transition-colors group">
+                        <div class="text-slate-400 text-sm font-medium mb-1 group-hover:text-emerald-400">[指标2名称]</div>
+                        <div class="flex items-end justify-between">
+                            <div class="text-2xl font-bold text-slate-100">[指标2值]</div>
+                            <div class="text-sm font-medium px-2 py-0.5 rounded-full text-rose-400 bg-rose-400/10">[变化2]</div>
+                        </div>
+                    </div>
+                    <div class="glass-panel p-4 rounded-xl shadow-lg hover:bg-slate-800/70 transition-colors group">
+                        <div class="text-slate-400 text-sm font-medium mb-1 group-hover:text-emerald-400">[指标3名称]</div>
+                        <div class="flex items-end justify-between">
+                            <div class="text-2xl font-bold text-slate-100">[指标3值]</div>
+                            <div class="text-sm font-medium px-2 py-0.5 rounded-full text-emerald-400 bg-emerald-400/10">[变化3]</div>
+                        </div>
+                    </div>
+                    <div class="glass-panel p-4 rounded-xl shadow-lg hover:bg-slate-800/70 transition-colors group">
+                        <div class="text-slate-400 text-sm font-medium mb-1 group-hover:text-emerald-400">[指标4名称]</div>
+                        <div class="flex items-end justify-between">
+                            <div class="text-2xl font-bold text-slate-100">[指标4值]</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Info Card -->
+                <div class="bg-slate-800/30 rounded-2xl p-6 border border-slate-700/50">
+                    <h3 class="text-slate-100 font-semibold mb-4">[公司简介标题]</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">[公司简介内容，2-3句话描述公司主营业务、市场地位和核心竞争力]</p>
+                    <div class="mt-4 flex flex-wrap gap-2">
+                        <span class="px-2 py-1 bg-slate-700 rounded text-xs text-slate-300">[行业标签1]</span>
+                        <span class="px-2 py-1 bg-slate-700 rounded text-xs text-slate-300">[行业标签2]</span>
+                        <span class="px-2 py-1 bg-slate-700 rounded text-xs text-slate-300">[行业标签3]</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Analysis Section -->
+        <div class="mt-8 bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl p-6 border border-emerald-500/20 shadow-xl relative overflow-hidden">
+            <div class="absolute -top-20 -right-20 w-64 h-64 bg-emerald-500/5 rounded-full blur-3xl pointer-events-none"></div>
+
+            <div class="flex justify-between items-center mb-6 relative z-10">
+                <h2 class="text-xl font-semibold text-slate-100 flex items-center gap-2">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-emerald-400"><path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"></path><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"></path><path d="M18 12a2 2 0 0 0 0 4h4v-4Z"></path></svg>
+                    [分析板块标题]
+                </h2>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 relative z-10">
+                <div class="lg:col-span-2 space-y-4">
+                    <div class="prose prose-invert prose-sm max-w-none text-slate-300 leading-relaxed whitespace-pre-line font-light tracking-wide">
+                        <p><strong>[分析维度1标题]：</strong><br>
+                        [分析维度1内容，描述技术面、基本面或其他分析角度]</p>
+
+                        <p><strong>[分析维度2标题]：</strong><br>
+                        1. <strong>[要点1]</strong>：[要点1详细说明]<br>
+                        2. <strong>[要点2]</strong>：[要点2详细说明]</p>
+
+                        <p><strong>[分析维度3标题]：</strong><br>
+                        [分析维度3内容，如风险提示、投资建议等]</p>
+                    </div>
+                </div>
+
+                <div class="bg-slate-900/50 rounded-xl p-4 border border-slate-700/50">
+                    <h3 class="text-xs font-bold text-slate-500 uppercase tracking-wider mb-3">[摘要标题]</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start gap-3 text-sm text-slate-200">
+                            <span class="mt-1 min-w-[6px] min-h-[6px] w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                            [关键摘要1]
+                        </li>
+                        <li class="flex items-start gap-3 text-sm text-slate-200">
+                            <span class="mt-1 min-w-[6px] min-h-[6px] w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                            [关键摘要2]
+                        </li>
+                        <li class="flex items-start gap-3 text-sm text-slate-200">
+                            <span class="mt-1 min-w-[6px] min-h-[6px] w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+                            [关键摘要3]
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="module">
+        (async () => {
+            // 从外部 JSON 文件加载股价数据
+            const DATA = await fetch('./assets/data.json').then(r => r.json());
+            const { dates, prices } = DATA.stockData;
+
+            // 图表颜色从 CSS 变量获取
+            const styles = getComputedStyle(document.documentElement);
+            const chartPrimary = styles.getPropertyValue('--color-primary').trim() || '#10b981';
+            const chartSurface = styles.getPropertyValue('--color-surface').trim() || '#1e293b';
+            const chartBorder = styles.getPropertyValue('--color-border').trim() || '#334155';
+            const chartText = styles.getPropertyValue('--color-text').trim() || '#f8fafc';
+            const chartTextSecondary = styles.getPropertyValue('--color-text-secondary').trim() || '#94a3b8';
+
+            /**
+             * 根据时间范围筛选数据
+             * @param {string} range - 时间范围: '1D', '1W', '1M', '3M', '1Y'
+             * @returns {{ xData: string[], yData: number[] }}
+             */
+            const filterDataByRange = (range) => {
+                // 时间范围映射（天数）
+                const rangeMap = { '1D': 1, '1W': 7, '1M': 30, '3M': 90, '1Y': 365 };
+                const days = rangeMap[range] || 365;
+
+                // 计算截止日期
+                const latestDate = new Date(dates[dates.length - 1]);
+                const cutoffDate = new Date(latestDate);
+                cutoffDate.setDate(cutoffDate.getDate() - days);
+
+                // 筛选在范围内的数据
+                const xData = [];
+                const yData = [];
+                for (let i = 0; i < dates.length; i++) {
+                    const date = new Date(dates[i]);
+                    if (date >= cutoffDate) {
+                        // 格式化日期显示
+                        const dateStr = range === '1D' || range === '1W'
+                            ? date.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })
+                            : date.toLocaleDateString('zh-CN', { year: '2-digit', month: '2-digit', day: '2-digit' });
+                        xData.push(dateStr);
+                        yData.push(prices[i]);
+                    }
+                }
+
+                // 如果筛选结果为空，返回最近的数据点
+                if (xData.length === 0 && dates.length > 0) {
+                    const lastDate = new Date(dates[dates.length - 1]);
+                    xData.push(lastDate.toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' }));
+                    yData.push(prices[prices.length - 1]);
+                }
+
+                return { xData, yData };
+            };
+
+            // 渲染图表
+            const chartDom = document.getElementById('chart-line');
+            const myChart = echarts.init(chartDom);
+
+            const renderChart = (range) => {
+                const { xData, yData } = filterDataByRange(range);
+                myChart.setOption({
+                    backgroundColor: 'transparent',
+                    tooltip: {
+                        trigger: 'axis',
+                        backgroundColor: chartSurface,
+                        borderColor: chartBorder,
+                        textStyle: { color: chartText },
+                        formatter: (params) => `<div class="font-bold mb-1">${params[0].axisValue}</div><div style="color: ${chartPrimary}">价格: $${params[0].value}</div>`
+                    },
+                    grid: { top: 20, right: 20, bottom: 20, left: 10, containLabel: true },
+                    xAxis: {
+                        type: 'category',
+                        boundaryGap: false,
+                        data: xData,
+                        axisLine: { show: false },
+                        axisTick: { show: false },
+                        axisLabel: { color: chartTextSecondary, fontSize: 11, interval: 'auto' }
+                    },
+                    yAxis: {
+                        type: 'value',
+                        position: 'right',
+                        splitLine: { lineStyle: { color: chartBorder, type: 'dashed' } },
+                        axisLabel: { color: chartTextSecondary, fontSize: 11, formatter: '${value}' },
+                        scale: true
+                    },
+                    series: [{
+                        type: 'line',
+                        smooth: true,
+                        symbol: 'none',
+                        lineStyle: { width: 3, color: chartPrimary },
+                        areaStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: chartPrimary + '4D' },
+                                { offset: 1, color: chartPrimary + '00' }
+                            ])
+                        },
+                        data: yData
+                    }]
+                });
+            };
+
+            // 时间范围切换
+            document.querySelectorAll('.range-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    document.querySelectorAll('.range-btn').forEach(b => {
+                        b.className = 'range-btn px-3 py-1 text-xs font-medium rounded-md transition-all text-slate-400 hover:text-slate-200';
+                    });
+                    e.target.className = 'range-btn px-3 py-1 text-xs font-medium rounded-md transition-all bg-slate-700 text-white shadow-md';
+                    renderChart(e.target.getAttribute('data-range'));
+                });
+            });
+
+            window.addEventListener('resize', () => myChart.resize());
+            // 默认显示全年数据
+            renderChart('1Y');
+        })();
+    </script>
+</body>
+</html>

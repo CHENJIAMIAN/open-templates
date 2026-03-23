@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/verdant-furniture",
+    "family":  "webpage",
+    "name":  "verdant-furniture",
+    "displayName":  "Verdant Furniture",
+    "description":  "A polished e-commerce landing page template for furniture brands.",
+    "tags":  [
+                 "commerce",
+                 "furniture",
+                 "landing-page"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/verdant-furniture",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/verdant-furniture",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/verdant-furniture/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/verdant-furniture/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

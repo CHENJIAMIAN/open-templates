@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>[行业名称]数据统计</title>
+    <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'Microsoft YaHei', 'sans-serif'],
+              mono: ['JetBrains Mono', 'monospace'],
+            },
+            colors: {
+              'sys-black': 'var(--color-primary)',
+              'sys-gray': 'var(--color-muted)',
+              'data-blue': 'var(--color-accent)'
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      :root {
+        --color-primary: #050505;
+        --color-accent: #0044FF;
+        --color-background: #FFFFFF;
+        --color-surface: #FFFFFF;
+        --color-muted: #E5E5E5;
+        --color-border: #050505;
+        --color-text: #050505;
+        --color-text-secondary: #666666;
+      }
+      body {
+        background-color: var(--color-background);
+        color: var(--color-text);
+        -webkit-font-smoothing: antialiased;
+        overflow-x: hidden;
+      }
+      ::-webkit-scrollbar { width: 6px; }
+      ::-webkit-scrollbar-track { background: var(--color-muted); }
+      ::-webkit-scrollbar-thumb { background: var(--color-primary); }
+      .chart-container { width: 100%; height: 100%; }
+      .brutalist-border { border: 2px solid var(--color-border); }
+      .stat-value { font-family: 'JetBrains Mono', monospace; }
+    </style>
+</head>
+<body class="p-4 sm:p-8 font-sans selection:bg-data-blue selection:text-white">
+
+    <!-- Header -->
+    <header class="mb-8 border-b-4 border-sys-black pb-4">
+        <h1 class="text-3xl md:text-6xl font-black tracking-tighter text-sys-black leading-none uppercase">
+            [行业名称]<span class="text-data-blue">数据统计</span>
+        </h1>
+    </header>
+
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-4 auto-rows-min">
+
+        <!-- Metric Card 1 -->
+        <div class="brutalist-border bg-white flex flex-col col-span-6 md:col-span-3">
+            <div class="border-b-2 border-sys-black p-2 bg-sys-gray/20">
+                <span class="font-mono text-[10px] font-bold">[[指标1名称]]</span>
+            </div>
+            <div class="p-4">
+                <p class="font-mono text-[9px] text-gray-400 mb-1 uppercase tracking-widest">[指标1副标题]</p>
+                <div class="flex items-baseline gap-1">
+                    <span class="text-5xl font-black tracking-tighter italic stat-value text-sys-black">[指标1值]</span>
+                    <span class="font-bold text-sm">[指标1单位]</span>
+                </div>
+                <div class="mt-4 text-[10px] font-mono text-gray-600">[指标1备注说明]</div>
+            </div>
+        </div>
+
+        <!-- Metric Card 2 -->
+        <div class="brutalist-border bg-white flex flex-col col-span-6 md:col-span-3">
+            <div class="border-b-2 border-sys-black p-2 bg-sys-gray/20">
+                <span class="font-mono text-[10px] font-bold">[[指标2名称]]</span>
+            </div>
+            <div class="p-4">
+                <p class="font-mono text-[9px] text-gray-400 mb-1 uppercase tracking-widest">[指标2副标题]</p>
+                <div class="flex items-baseline gap-1">
+                    <span class="text-5xl font-black tracking-tighter italic stat-value text-sys-black">[指标2值]</span>
+                    <span class="font-bold text-sm">[指标2单位]</span>
+                </div>
+                <div class="mt-4 text-[10px] font-mono text-gray-600">[指标2备注说明]</div>
+            </div>
+        </div>
+
+        <!-- Metric Card 3 -->
+        <div class="brutalist-border bg-white flex flex-col col-span-6 md:col-span-3">
+            <div class="border-b-2 border-sys-black p-2 bg-sys-gray/20">
+                <span class="font-mono text-[10px] font-bold">[[指标3名称]]</span>
+            </div>
+            <div class="p-4">
+                <p class="font-mono text-[9px] text-gray-400 mb-1 uppercase tracking-widest">[指标3副标题]</p>
+                <div class="flex items-baseline gap-1">
+                    <span class="text-5xl font-black tracking-tighter italic stat-value text-sys-black">[指标3值]</span>
+                    <span class="font-bold text-sm">[指标3单位]</span>
+                </div>
+                <div class="mt-4 text-[10px] font-mono text-gray-600">[指标3备注说明]</div>
+            </div>
+        </div>
+
+        <!-- Metric Card 4 -->
+        <div class="brutalist-border bg-white flex flex-col col-span-6 md:col-span-3">
+            <div class="border-b-2 border-sys-black p-2 bg-sys-gray/20">
+                <span class="font-mono text-[10px] font-bold">[[指标4名称]]</span>
+            </div>
+            <div class="p-4">
+                <p class="font-mono text-[9px] text-gray-400 mb-1 uppercase tracking-widest">[指标4副标题]</p>
+                <div class="flex items-baseline gap-1">
+                    <span class="text-5xl font-black tracking-tighter italic stat-value text-sys-black">[指标4值]</span>
+                    <span class="font-bold text-sm">[指标4单位]</span>
+                </div>
+                <div class="mt-4 text-[10px] font-mono text-gray-600">[指标4备注说明]</div>
+            </div>
+        </div>
+
+        <!-- Bar Chart -->
+        <div class="brutalist-border bg-white col-span-12 md:col-span-8 h-[450px] flex flex-col">
+            <div class="border-b-2 border-sys-black p-3 bg-sys-black text-white flex justify-between items-center">
+                <h2 class="font-mono text-xs font-bold tracking-widest uppercase italic">01 // [柱状图标题]</h2>
+                <div class="flex gap-2">
+                    <div class="w-3 h-3 bg-data-blue"></div>
+                    <div class="w-3 h-3 bg-white"></div>
+                </div>
+            </div>
+            <div class="flex-1 p-4">
+                <div id="chart-bar" class="chart-container"></div>
+            </div>
+        </div>
+
+        <!-- Ranking Table -->
+        <div class="brutalist-border bg-white col-span-12 md:col-span-4 h-[450px] flex flex-col">
+            <div class="border-b-2 border-sys-black p-3 bg-sys-gray/10 flex justify-between items-center">
+                <h2 class="font-mono text-xs font-bold tracking-widest uppercase">02 // [排行榜标题] TOP 10</h2>
+            </div>
+            <div class="flex-1 overflow-y-auto p-2">
+                <table class="w-full font-mono text-[10px]">
+                    <thead class="border-b border-sys-black text-gray-400">
+                        <tr>
+                            <th class="py-2 text-left uppercase">[列1标题]</th>
+                            <th class="py-2 text-left uppercase">[列2标题]</th>
+                            <th class="py-2 text-right uppercase">[列3标题]</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-data-blue">01</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名1名称]</div><div class="text-[8px] text-gray-400">[排名1标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名1数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">02</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名2名称]</div><div class="text-[8px] text-gray-400">[排名2标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名2数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">03</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名3名称]</div><div class="text-[8px] text-gray-400">[排名3标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名3数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">04</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名4名称]</div><div class="text-[8px] text-gray-400">[排名4标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名4数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">05</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名5名称]</div><div class="text-[8px] text-gray-400">[排名5标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名5数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">06</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名6名称]</div><div class="text-[8px] text-gray-400">[排名6标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名6数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">07</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名7名称]</div><div class="text-[8px] text-gray-400">[排名7标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名7数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">08</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名8名称]</div><div class="text-[8px] text-gray-400">[排名8标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名8数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">09</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名9名称]</div><div class="text-[8px] text-gray-400">[排名9标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名9数值]</td>
+                        </tr>
+                        <tr class="border-b border-gray-100 hover:bg-data-blue/5 transition-colors">
+                            <td class="py-3 font-bold text-sys-black">10</td>
+                            <td class="py-3"><div class="font-bold text-sys-black text-[11px]">[排名10名称]</div><div class="text-[8px] text-gray-400">[排名10标签]</div></td>
+                            <td class="py-3 text-right font-bold text-sys-black text-[11px]">[排名10数值]</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Pie Chart -->
+        <div class="brutalist-border bg-white col-span-12 md:col-span-4 h-[400px] flex flex-col">
+            <div class="border-b-2 border-sys-black p-3 bg-sys-gray/10">
+                <h2 class="font-mono text-[10px] font-bold uppercase">03 // [饼图标题]</h2>
+            </div>
+            <div class="flex-1 p-2">
+                <div id="chart-pie" class="chart-container"></div>
+            </div>
+        </div>
+
+        <!-- Line Chart -->
+        <div class="brutalist-border bg-white col-span-12 md:col-span-8 h-[400px] flex flex-col">
+            <div class="border-b-2 border-sys-black p-3 bg-sys-gray/10 flex justify-between">
+                <h2 class="font-mono text-[10px] font-bold uppercase">04 // [折线图标题]</h2>
+                <span class="font-mono text-[9px] text-gray-400 italic">[折线图单位说明]</span>
+            </div>
+            <div class="flex-1 p-2">
+                <div id="chart-line" class="chart-container"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="mt-12 pt-4 border-t-2 border-sys-black flex justify-between items-center font-mono text-[9px] text-gray-500 uppercase tracking-widest">
+        <span>&copy; [年份] [页脚版权信息]</span>
+    </footer>
+
+    <script type="module">
+        (async () => {
+            // 从外部 JSON 文件加载图表数据
+            const DATA = await fetch('./assets/data.json').then(r => r.json());
+
+            // 图表颜色从 CSS 变量获取
+            const styles = getComputedStyle(document.documentElement);
+            const chartPrimary = styles.getPropertyValue('--color-primary').trim() || '#050505';
+            const chartAccent = styles.getPropertyValue('--color-accent').trim() || '#0044FF';
+            const chartSurface = styles.getPropertyValue('--color-surface').trim() || '#FFFFFF';
+            const chartTextSecondary = styles.getPropertyValue('--color-text-secondary').trim() || '#666666';
+
+            const commonTooltip = {
+                backgroundColor: chartPrimary,
+                borderColor: chartPrimary,
+                textStyle: { color: chartSurface, fontFamily: 'Microsoft YaHei', fontSize: 10 },
+                borderRadius: 0,
+                padding: 10
+            };
+
+            // 柱状图
+            const barChart = echarts.init(document.getElementById('chart-bar'));
+            barChart.setOption({
+                tooltip: { trigger: 'axis', ...commonTooltip, formatter: '{b}: {c}%' },
+                grid: { top: '10%', bottom: '8%', left: '5%', right: '5%', containLabel: true },
+                xAxis: {
+                    type: 'category',
+                    data: DATA.barChart.labels,
+                    axisLine: { lineStyle: { color: chartPrimary, width: 2 } },
+                    axisLabel: { color: chartTextSecondary, fontFamily: 'Microsoft YaHei', fontSize: 10, interval: 0 }
+                },
+                yAxis: {
+                    type: 'value',
+                    splitLine: { lineStyle: { type: 'dashed' } },
+                    axisLabel: { color: chartTextSecondary, fontFamily: 'JetBrains Mono', fontSize: 9 }
+                },
+                series: [{
+                    type: 'bar',
+                    data: DATA.barChart.values,
+                    itemStyle: { color: (p) => p.dataIndex === 0 ? chartAccent : chartPrimary },
+                    barWidth: '50%',
+                    label: { show: true, position: 'top', fontFamily: 'JetBrains Mono', fontSize: 10, formatter: '{c}%' }
+                }]
+            });
+
+            // 饼图
+            const pieChart = echarts.init(document.getElementById('chart-pie'));
+            pieChart.setOption({
+                tooltip: { trigger: 'item', ...commonTooltip, formatter: '{b}: {c}%' },
+                series: [{
+                    type: 'pie',
+                    radius: ['35%', '60%'],
+                    center: ['50%', '50%'],
+                    itemStyle: { borderColor: '#fff', borderWidth: 2 },
+                    label: { show: true, position: 'outer', fontFamily: 'Microsoft YaHei', fontSize: 10, formatter: '{b}\n{d}%' },
+                    labelLine: { show: true, length: 10, length2: 8 },
+                    data: DATA.pieChart.map((item, i) => ({
+                        name: item.name,
+                        value: item.value,
+                        itemStyle: { color: i === 0 ? chartAccent : chartPrimary }
+                    }))
+                }]
+            });
+
+            // 折线图
+            const lineChart = echarts.init(document.getElementById('chart-line'));
+            lineChart.setOption({
+                tooltip: { trigger: 'axis', ...commonTooltip, formatter: '{b}年: {c}百万台' },
+                grid: { top: '15%', bottom: '15%', left: '5%', right: '5%', containLabel: true },
+                xAxis: {
+                    type: 'category',
+                    data: DATA.lineChart.labels,
+                    boundaryGap: false,
+                    axisLine: { lineStyle: { color: chartPrimary, width: 2 } },
+                    axisLabel: { color: chartTextSecondary, fontFamily: 'JetBrains Mono', fontSize: 9 }
+                },
+                yAxis: {
+                    type: 'value',
+                    splitLine: { lineStyle: { type: 'dashed' } },
+                    axisLabel: { color: chartTextSecondary, fontFamily: 'JetBrains Mono', fontSize: 9 }
+                },
+                series: [{
+                    type: 'line',
+                    data: DATA.lineChart.values,
+                    smooth: true,
+                    symbol: 'circle',
+                    symbolSize: 8,
+                    itemStyle: { color: chartAccent },
+                    lineStyle: { width: 4, color: chartAccent },
+                    areaStyle: {
+                        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                            { offset: 0, color: chartAccent + '33' },
+                            { offset: 1, color: chartAccent + '00' }
+                        ])
+                    }
+                }]
+            });
+
+            window.addEventListener('resize', () => {
+                barChart.resize();
+                pieChart.resize();
+                lineChart.resize();
+            });
+        })();
+    </script>
+
+</body>
+</html>

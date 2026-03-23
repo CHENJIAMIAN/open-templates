@@ -1,0 +1,498 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="scroll-smooth">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      // 运行时动态计算 basename 并安全设置 <base>
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>掌握大模型，成为AI工程师 | AI.MASTERY</title>
+  <script src="https://lf3-static.bytednsdoc.com/obj/eden-cn/LMfspH/ljhwZthlaukjlkulzlp/tailwind.3.4.16.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <!-- 引入 Lucide 图标库 -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    :root {
+      --bg: #FFFDF5;
+      --accent: #FF6B6B;
+      --secondary: #FFD93D;
+      --muted: #C4B5FD;
+      --black: #000000;
+    }
+
+    body {
+      font-family: 'Space Grotesk', sans-serif;
+      background-color: var(--bg);
+      color: var(--black);
+      overflow-x: hidden;
+    }
+
+    /* Neo-brutalism 核心原子样式 */
+    .neo-border { border: 4px solid var(--black); }
+    .neo-border-8 { border: 8px solid var(--black); }
+    
+    .neo-shadow-sm { box-shadow: 4px 4px 0px 0px var(--black); }
+    .neo-shadow-md { box-shadow: 8px 8px 0px 0px var(--black); }
+    .neo-shadow-lg { box-shadow: 12px 12px 0px 0px var(--black); }
+    .neo-shadow-xl { box-shadow: 16px 16px 0px 0px var(--black); }
+    .neo-shadow-white { box-shadow: 4px 4px 0px 0px #fff; }
+
+    .text-outline {
+      -webkit-text-stroke: 2px var(--black);
+      color: transparent;
+    }
+
+    .halftone {
+      background-image: radial-gradient(var(--black) 1.5px, transparent 1.5px);
+      background-size: 20px 20px;
+    }
+
+    /* 按钮交互 */
+    .neo-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      height: 3.5rem;
+      padding: 0 2rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border: 4px solid var(--black);
+      transition: all 0.1s ease;
+      cursor: pointer;
+      position: relative;
+    }
+    .neo-btn:active {
+      transform: translate(4px, 4px);
+      box-shadow: none !important;
+    }
+
+    /* 跑马灯动画 */
+    @keyframes marquee {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+    .animate-marquee {
+      display: flex;
+      width: fit-content;
+      animation: marquee 30s linear infinite;
+    }
+
+    /* 滚动边距（防止被固定导航栏遮挡） */
+    .scroll-mt-header {
+      scroll-margin-top: 6rem;
+    }
+
+    /* 推荐标签动画 */
+    @keyframes bounce-custom {
+      0%, 100% { transform: translate(-50%, 0); }
+      50% { transform: translate(-50%, -10px); }
+    }
+    .badge-recommended {
+      animation: bounce-custom 2s infinite ease-in-out;
+    }
+  </style>
+
+</head>
+<body class="selection:bg-[#FFD93D] selection:text-black">
+
+  <!-- 导航栏 -->
+  <nav class="fixed top-0 left-0 right-0 z-50 bg-[#FFFDF5] border-b-4 border-black h-20">
+    <div class="max-w-7xl mx-auto px-6 h-full flex items-center justify-between">
+      <a href="#" class="flex items-center gap-2 group">
+        <div class="bg-[#FF6B6B] neo-border p-1 neo-shadow-sm group-hover:rotate-12 transition-transform">
+          <i data-lucide="zap" class="w-6 h-6 fill-black"></i>
+        </div>
+        <span class="text-2xl font-black uppercase tracking-tighter">AI.MASTERY</span>
+      </a>
+
+      <!-- 桌面端菜单 -->
+      <div class="hidden md:flex items-center gap-8 font-black uppercase text-sm">
+        <a href="#curriculum" class="hover:underline underline-offset-4 decoration-4 decoration-[#FFD93D] transition-all">课程大纲</a>
+        <a href="#features" class="hover:underline underline-offset-4 decoration-4 decoration-[#C4B5FD] transition-all">实战环境</a>
+        <a href="#pricing" class="hover:underline underline-offset-4 decoration-4 decoration-[#FF6B6B] transition-all">价格方案</a>
+        <button class="neo-btn bg-[#FFD93D] neo-shadow-sm h-10 px-6 text-xs">学员登录</button>
+      </div>
+
+      <!-- 移动端切换按钮 -->
+      <button id="menu-toggle" class="md:hidden neo-border p-2 bg-[#FFD93D] neo-shadow-sm">
+        <i data-lucide="menu" class="w-6 h-6"></i>
+      </button>
+    </div>
+
+    <!-- 移动端下拉菜单 -->
+    <div id="mobile-menu" class="hidden absolute top-20 left-0 right-0 border-b-4 border-black bg-[#FFFDF5] p-6 flex flex-col gap-6 md:hidden">
+      <a href="#curriculum" class="text-2xl font-black uppercase mobile-link">课程大纲</a>
+      <a href="#features" class="text-2xl font-black uppercase mobile-link">实战环境</a>
+      <a href="#pricing" class="text-2xl font-black uppercase mobile-link">价格方案</a>
+      <button class="neo-btn w-full bg-[#FF6B6B] neo-shadow-sm">立即加入</button>
+    </div>
+  </nav>
+
+  <main>
+    <!-- 英雄区 (Hero Section) -->
+    <section class="pt-48 pb-24 px-6 relative overflow-hidden">
+      <div class="halftone absolute inset-0 opacity-10 -z-10"></div>
+      <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div class="lg:col-span-7">
+          <div class="inline-block bg-[#C4B5FD] neo-border px-4 py-1 mb-6 rotate-[-2deg] neo-shadow-sm font-black uppercase tracking-widest text-sm">
+            2024 秋季班火热报名中
+          </div>
+          <!-- 主标题更新 -->
+          <h1 class="text-5xl md:text-7xl xl:text-[5.5rem] font-black uppercase leading-[1.1] tracking-tighter mb-8">
+            掌握大模型 <br /> 成为 <span class="bg-[#FFD93D] px-4 inline-block -rotate-1">AI 工程师</span>
+          </h1>
+          <p class="text-xl md:text-2xl font-bold max-w-2xl mb-10 leading-snug">
+            摒弃陈旧理论。我们只教硬核技能：从 LLM 底层原理到多智能体系统开发，打造你的 AI 核心竞争力。
+          </p>
+          <div class="flex flex-col sm:flex-row gap-6">
+            <button class="neo-btn bg-[#FF6B6B] neo-shadow-sm text-xl px-12 h-16">
+              立即获取课程表 <i data-lucide="arrow-right" class="stroke-[4px] w-6 h-6"></i>
+            </button>
+            <button class="neo-btn bg-white neo-shadow-sm text-xl h-16">
+              免费试听课
+            </button>
+          </div>
+        </div>
+
+        <div class="lg:col-span-5 relative hidden lg:block">
+          <div class="relative z-10 bg-white neo-border-8 p-4 neo-shadow-xl rotate-3">
+            <!-- 替换为纯代码图片，无电脑/显示器 -->
+            <img 
+              src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=800" 
+              alt="Pure Code Syntax" 
+              class="w-full h-[500px] object-cover neo-border grayscale hover:grayscale-0 transition-all duration-500" 
+            />
+            <div class="absolute -bottom-10 -left-10 bg-[#FFD93D] neo-border p-6 neo-shadow-md -rotate-6">
+              <p class="font-black text-4xl">80%</p>
+              <p class="font-bold uppercase text-sm">学员职场晋升率</p>
+            </div>
+            <div class="absolute -top-10 -right-10 bg-[#FF6B6B] neo-border p-4 neo-shadow-md rotate-12 flex items-center gap-2">
+              <i data-lucide="star" class="fill-black stroke-[3px]"></i>
+              <span class="font-black text-2xl uppercase italic">核心技术</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 无限滚动跑马灯 -->
+    <div class="bg-[#FFD93D] border-y-4 border-black py-4 overflow-hidden relative">
+      <div class="animate-marquee whitespace-nowrap">
+        <div class="flex">
+          <!-- 文字项 -->
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> GPT-4O 实战</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> LLM 架构解析</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> 提示词大师</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> RAG 检索系统</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> 模型微调</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> AI 智能体</span>
+          <!-- 重复部分实现无缝滚动 -->
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> GPT-4O 实战</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> LLM 架构解析</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> 提示词大师</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> RAG 检索系统</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> 模型微调</span>
+          <span class="text-2xl font-black uppercase mx-12 flex items-center gap-4"><div class="w-4 h-4 bg-black rotate-45"></div> AI 智能体</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- 统计区块 -->
+    <section class="py-20 bg-black text-white">
+      <div class="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 gap-8">
+        <div class="text-center">
+          <p class="text-5xl md:text-7xl font-black mb-2 text-[#FFD93D]">15+</p>
+          <p class="font-bold uppercase tracking-widest text-sm">精选专题</p>
+        </div>
+        <div class="text-center">
+          <p class="text-5xl md:text-7xl font-black mb-2 text-[#FFD93D]">10K+</p>
+          <p class="font-bold uppercase tracking-widest text-sm">活跃学员</p>
+        </div>
+        <div class="text-center">
+          <p class="text-5xl md:text-7xl font-black mb-2 text-[#FFD93D]">300+</p>
+          <p class="font-bold uppercase tracking-widest text-sm">实战项目</p>
+        </div>
+        <div class="text-center">
+          <p class="text-5xl md:text-7xl font-black mb-2 text-[#FFD93D]">500强</p>
+          <p class="font-bold uppercase tracking-widest text-sm">合作企业</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 课程大纲区块 -->
+    <section id="curriculum" class="py-24 px-6 scroll-mt-header">
+      <div class="max-w-7xl mx-auto">
+        <div class="flex flex-col md:flex-row items-start md:items-end justify-between mb-16 gap-8">
+          <div class="max-w-2xl">
+            <h2 class="text-5xl md:text-7xl font-black uppercase leading-none mb-6">
+              核心 <br /> <span class="bg-[#C4B5FD] px-2 italic">教学大纲</span>
+            </h2>
+            <p class="text-xl font-bold">由浅入深，覆盖从算力资源管理到 AI 应用分发的全链路知识体系。</p>
+          </div>
+          <button class="neo-btn bg-black text-white neo-shadow-white border-white">
+            下载大纲细节 (PDF)
+          </button>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <!-- 模块 1 -->
+          <div class="bg-white neo-border p-8 neo-shadow-md hover:-translate-y-2 hover:neo-shadow-lg transition-all relative">
+            <div class="absolute -top-4 -right-4 neo-border px-4 py-1 font-black uppercase tracking-tighter rotate-3 bg-[#FFD93D]">阶段一</div>
+            <h3 class="text-2xl font-black mb-4 uppercase">大模型底层原理</h3>
+            <p class="font-bold opacity-80 mb-6 leading-snug text-sm">解构 Transformer 架构、注意力机制以及数学推导。</p>
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-1 bg-black"></div>
+              <span class="font-black text-xs uppercase tracking-widest">探索详情</span>
+            </div>
+          </div>
+          <!-- 模块 2 -->
+          <div class="bg-white neo-border p-8 neo-shadow-md hover:-translate-y-2 hover:neo-shadow-lg transition-all relative">
+            <div class="absolute -top-4 -right-4 neo-border px-4 py-1 font-black uppercase tracking-tighter rotate-3 bg-[#C4B5FD]">阶段二</div>
+            <h3 class="text-2xl font-black mb-4 uppercase">模型微调实战</h3>
+            <p class="font-bold opacity-80 mb-6 leading-snug text-sm">掌握 LoRA, QLoRA 等高效微调技术。</p>
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-1 bg-black"></div>
+              <span class="font-black text-xs uppercase tracking-widest">探索详情</span>
+            </div>
+          </div>
+          <!-- 模块 3 -->
+          <div class="bg-white neo-border p-8 neo-shadow-md hover:-translate-y-2 hover:neo-shadow-lg transition-all relative">
+            <div class="absolute -top-4 -right-4 neo-border px-4 py-1 font-black uppercase tracking-tighter rotate-3 bg-[#FF6B6B]">阶段三</div>
+            <h3 class="text-2xl font-black mb-4 uppercase">RAG 落地实践</h3>
+            <p class="font-bold opacity-80 mb-6 leading-snug text-sm">构建基于向量数据库的检索增强生成系统。</p>
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-1 bg-black"></div>
+              <span class="font-black text-xs uppercase tracking-widest">探索详情</span>
+            </div>
+          </div>
+          <!-- 模块 4 -->
+          <div class="bg-white neo-border p-8 neo-shadow-md hover:-translate-y-2 hover:neo-shadow-lg transition-all relative">
+            <div class="absolute -top-4 -right-4 neo-border px-4 py-1 font-black uppercase tracking-tighter rotate-3 bg-black text-white">阶段四</div>
+            <h3 class="text-2xl font-black mb-4 uppercase">Agent 架构</h3>
+            <p class="font-bold opacity-80 mb-6 leading-snug text-sm">设计具备自主决策能力的智能体系统。</p>
+            <div class="flex items-center gap-2">
+              <div class="w-8 h-1 bg-black"></div>
+              <span class="font-black text-xs uppercase tracking-widest">探索详情</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 实战环境区块 -->
+    <section id="features" class="bg-[#C4B5FD] border-y-8 border-black py-24 px-6 overflow-hidden scroll-mt-header">
+      <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
+        <div class="order-2 lg:order-1 relative">
+           <div class="neo-border-8 bg-white neo-shadow-xl -rotate-2 p-4">
+              <img 
+                src="https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=800" 
+                alt="Cloud Computing Concept" 
+                class="w-full neo-border"
+              />
+           </div>
+           <div class="absolute top-1/2 -left-12 -translate-y-1/2 bg-[#FFD93D] neo-border p-4 neo-shadow-md rotate-12 hidden md:block">
+              <i data-lucide="cpu" class="w-12 h-12 stroke-[3px]"></i>
+           </div>
+        </div>
+        <div class="order-1 lg:order-2">
+          <h2 class="text-5xl md:text-7xl font-black uppercase leading-none mb-8">
+            实战派 <br /> <span class="text-outline">教学环境</span>
+          </h2>
+          <ul class="space-y-6">
+            <li class="flex gap-4">
+              <div class="bg-black text-white p-3 h-fit neo-border neo-shadow-sm">
+                <i data-lucide="layers" class="w-6 h-6"></i>
+              </div>
+              <div>
+                <h4 class="text-2xl font-black uppercase">专享 H100 算力集群</h4>
+                <p class="font-bold text-lg opacity-80 leading-snug">免费提供算力点数，支持多卡微调实操。</p>
+              </div>
+            </li>
+            <li class="flex gap-4">
+              <div class="bg-black text-white p-3 h-fit neo-border neo-shadow-sm">
+                <i data-lucide="sparkles" class="w-6 h-6"></i>
+              </div>
+              <div>
+                <h4 class="text-2xl font-black uppercase">私域知识库落地</h4>
+                <p class="font-bold text-lg opacity-80 leading-snug">手把手教你将企业级文档转化为毫秒响应的知识库。</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- 价格方案区块 -->
+    <section id="pricing" class="py-24 px-6 bg-[#FFFDF5] scroll-mt-header">
+      <div class="max-w-7xl mx-auto text-center mb-16">
+        <h2 class="text-5xl md:text-8xl font-black uppercase mb-6">进阶 <span class="bg-[#FF6B6B] text-white px-2">方案</span></h2>
+        <p class="text-xl font-bold">投资自己，就是投资未来。优秀的 AI 工程师年薪已跨越 100W 门槛。</p>
+      </div>
+
+      <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- 方案 1 -->
+        <div class="neo-border bg-white p-10 flex flex-col neo-shadow-lg">
+          <h3 class="text-3xl font-black uppercase mb-2">基础版</h3>
+          <p class="text-5xl font-black mb-8">¥1999</p>
+          <ul class="space-y-4 mb-10 flex-grow font-bold">
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> 12 大核心模块</li>
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> 课程永久回放</li>
+          </ul>
+          <button class="neo-btn bg-white neo-shadow-sm w-full">立即开启</button>
+        </div>
+        <!-- 方案 2 (推荐) -->
+        <div class="neo-border bg-[#FFD93D] p-10 flex flex-col neo-shadow-xl -translate-y-4 relative z-10 scale-105">
+          <div class="absolute -top-6 left-1/2 badge-recommended bg-black text-white px-6 py-2 neo-border font-black uppercase tracking-widest text-xs whitespace-nowrap">
+            最推荐选择
+          </div>
+          <h3 class="text-3xl font-black uppercase mb-2">专业版</h3>
+          <p class="text-5xl font-black mb-8">¥4999</p>
+          <ul class="space-y-4 mb-10 flex-grow font-bold">
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> 全部核心模块</li>
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> GPU 算力补贴</li>
+          </ul>
+          <button class="neo-btn bg-black text-white border-white neo-shadow-white w-full">进阶大师</button>
+        </div>
+        <!-- 方案 3 -->
+        <div class="neo-border bg-white p-10 flex flex-col neo-shadow-lg">
+          <h3 class="text-3xl font-black uppercase mb-2">企业版</h3>
+          <p class="text-5xl font-black mb-8">定制</p>
+          <ul class="space-y-4 mb-10 flex-grow font-bold">
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> 团队上门内训</li>
+            <li class="flex items-center gap-3"><i data-lucide="check" class="stroke-[4px] w-5 h-5"></i> 场景解决方案</li>
+          </ul>
+          <button class="neo-btn bg-[#C4B5FD] neo-shadow-sm w-full">咨询详情</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 页脚 -->
+  <footer class="bg-black text-white py-20 px-6 border-t-8 border-black">
+    <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+      <div class="lg:col-span-1">
+         <div class="flex items-center gap-2 mb-6">
+          <div class="bg-[#FF6B6B] border-4 border-white p-1">
+            <i data-lucide="zap" class="w-6 h-6 fill-white"></i>
+          </div>
+          <span class="text-3xl font-black uppercase tracking-tighter">AI.MASTERY</span>
+        </div>
+        <p class="font-bold text-lg mb-8 opacity-60 leading-snug">赋能下一代工程师，构建有力量的 AI 系统。</p>
+      </div>
+
+      <div>
+        <h5 class="text-xl font-black uppercase mb-6 underline underline-offset-8 decoration-[#FFD93D] decoration-4">课程中心</h5>
+        <ul class="space-y-4 font-bold opacity-70 text-sm">
+          <li><a href="#" class="hover:opacity-100">全部课程</a></li>
+          <li><a href="#" class="hover:opacity-100">实战项目</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-xl font-black uppercase mb-6 underline underline-offset-8 decoration-[#FF6B6B] decoration-4">联系我们</h5>
+        <ul class="space-y-4 font-bold opacity-70 text-sm">
+          <li>微信订阅: AI_MASTERY</li>
+          <li>技术支持: support@aimastery.com</li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 class="text-xl font-black uppercase mb-6 underline underline-offset-8 decoration-[#C4B5FD] decoration-4">订阅动态</h5>
+        <div class="flex flex-col gap-3">
+          <input type="email" placeholder="输入邮箱" class="bg-black border-4 border-white p-4 font-black text-white focus:bg-[#FFD93D] focus:text-black outline-none" />
+          <button class="neo-btn bg-[#FFD93D] text-black w-full h-12">订阅</button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="max-w-7xl mx-auto pt-12 mt-12 border-t-4 border-white/20 flex justify-between items-center">
+      <p class="font-black uppercase tracking-widest text-xs opacity-80">© 2024 AI.MASTERY - ALL RIGHTS RESERVED</p>
+    </div>
+  </footer>
+
+  <script>
+    // 初始化 Lucide 图标
+    lucide.createIcons();
+
+    // 移动端菜单逻辑
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const mobileLinks = document.querySelectorAll('.mobile-link');
+
+    menuToggle.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+
+    mobileLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        mobileMenu.classList.add('hidden');
+      });
+    });
+
+    // 导航平滑滚动 (兼容 <base> 标签)
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const href = this.getAttribute('href');
+        if (href === '#') return;
+
+        // 提取 hash 部分（支持完整 URL 和纯 hash）
+        let targetId;
+        if (href.startsWith('#')) {
+          targetId = href.substring(1);
+        } else if (href.includes('#')) {
+          targetId = href.substring(href.indexOf('#') + 1);
+        }
+
+        if (targetId) {
+          const targetElement = document.getElementById(targetId);
+          if (targetElement) {
+            targetElement.scrollIntoView({
+              behavior: 'smooth'
+            });
+          }
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>

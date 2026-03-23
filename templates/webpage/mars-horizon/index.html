@@ -1,0 +1,614 @@
+
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      // 运行时动态计算 basename 并安全设置 <base>
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer" name="referrer"/>
+<title>火星地平线 | 沉浸式展览</title>
+<!-- Typography -->
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700&amp;family=Noto+Serif+SC:wght@300;400;600;700&amp;display=swap" rel="stylesheet"/>
+<!-- Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<style>
+        :root {
+            --c-bg: #0a0a0a;
+            --c-surface: #141414;
+            --c-mars: #FF3D00;
+            --c-mars-dim: #8a2be2;
+            --c-text-main: #f0f0f0;
+            --c-text-muted: #888888;
+            
+            --f-title: 'Noto Serif SC', serif;
+            --f-serif: 'Noto Serif SC', serif;
+            --f-tech: 'Noto Sans SC', sans-serif;
+            
+            --g-page: 1400px;
+            --s-gutter: 2rem;
+        }
+
+        /* RESET */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        ::selection { background: var(--c-mars); color: var(--c-text-main); }
+        
+        body {
+            background-color: var(--c-bg);
+            color: var(--c-text-main);
+            font-family: var(--f-serif);
+            line-height: 1.8;
+            overflow-x: hidden;
+            font-weight: 300;
+        }
+
+        /* TYPOGRAPHY */
+        h1, h2, h3, h4 { font-family: var(--f-title); font-weight: 700; letter-spacing: 0.02em; }
+        
+        h1 { 
+            font-size: clamp(3rem, 10vw, 8rem); 
+            line-height: 1.1; 
+            letter-spacing: 0.05em;
+            background: linear-gradient(to bottom, #fff, #999);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 900;
+        }
+        
+        h2 { 
+            font-size: clamp(1.8rem, 5vw, 3rem); 
+            border-left: 2px solid var(--c-mars); 
+            padding-left: 1.5rem;
+            margin-bottom: 2.5rem;
+            color: var(--c-text-main);
+            font-weight: 700;
+        }
+        
+        .tech-font { font-family: var(--f-tech); letter-spacing: 0.1em; text-transform: uppercase; }
+        .caption { font-family: var(--f-tech); font-size: 0.75rem; color: var(--c-mars); letter-spacing: 0.15em; display: block; margin-top: 1rem; font-weight: 600; }
+
+        /* LAYOUT */
+        .container {
+            max-width: var(--g-page);
+            margin: 0 auto;
+            padding: 0 var(--s-gutter);
+            position: relative;
+        }
+        
+        .full-width { width: 100vw; margin-left: calc(50% - 50vw); }
+        .section-spacer { padding: 8rem 0; }
+        
+        /* GRID */
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 2rem;
+        }
+        
+        .col-4 { grid-column: span 4; }
+        .col-6 { grid-column: span 6; }
+        .col-8 { grid-column: span 8; }
+        .col-12 { grid-column: span 12; }
+
+        /* COMPONENTS */
+        .nav-bar {
+            position: fixed; top: 0; left: 0; width: 100%; z-index: 100;
+            padding: 1.5rem 3rem; display: flex; justify-content: space-between; align-items: center;
+            mix-blend-mode: difference; color: #fff;
+        }
+        
+        .glass-panel {
+            background: rgba(255,255,255,0.03);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255,255,255,0.08);
+            padding: 2.5rem;
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .glass-panel:hover { border-color: var(--c-mars); background: rgba(255,255,255,0.05); }
+
+        .img-frame {
+            position: relative;
+            overflow: hidden;
+            background-color: #111;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .img-frame img { 
+            position: relative;
+            z-index: 1;
+            width: 100%; height: 100%; object-fit: cover; display: block; 
+            transition: transform 1.2s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.8s ease;
+            opacity: 1;
+        }
+        .img-frame:hover img { transform: scale(1.03); }
+
+        /* LOADING / AI STATE */
+        .ai-badge {
+            position: absolute; top: 1rem; right: 1rem; z-index: 10;
+            background: rgba(0,0,0,0.8); border: 1px solid var(--c-mars);
+            color: var(--c-mars); font-family: var(--f-tech); font-size: 0.65rem;
+            padding: 0.2rem 0.6rem; letter-spacing: 0.1em;
+            opacity: 0; transition: opacity 0.5s; pointer-events: none;
+            backdrop-filter: blur(5px);
+        }
+        .ai-badge.visible { opacity: 1; }
+        
+        .scan-line {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(to bottom, transparent, rgba(255, 61, 0, 0.2), transparent);
+            transform: translateY(-100%);
+            animation: scan 2.5s linear infinite;
+            z-index: 5;
+            pointer-events: none;
+            display: none;
+        }
+        .scan-line.active { display: block; }
+        
+        @keyframes scan { 0% { transform: translateY(-100%); } 100% { transform: translateY(100%); } }
+
+        /* MARKER SYSTEM */
+        .marker {
+            position: absolute;
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+            z-index: 10;
+        }
+        .marker-dot {
+            width: 18px; height: 18px;
+            border: 2px solid var(--c-mars);
+            border-radius: 50%;
+            background: transparent;
+            transition: all 0.3s ease;
+        }
+        .marker.active .marker-dot {
+            background: var(--c-mars);
+            box-shadow: 0 0 15px var(--c-mars);
+            transform: scale(1.2);
+        }
+
+        /* ANIMATIONS */
+        .reveal { 
+            opacity: 1; 
+            transform: none; 
+            transition: all 1.2s cubic-bezier(0.16, 1, 0.3, 1); 
+        }
+
+        body.js-enabled .reveal { 
+            opacity: 0; 
+            transform: translateY(30px); 
+        }
+        
+        body.js-enabled .reveal.active { 
+            opacity: 1; 
+            transform: translateY(0); 
+        }
+
+        @media (max-width: 768px) {
+            .gallery-grid { display: flex; flex-direction: column; }
+            h1 { font-size: 3.5rem; }
+            .col-4, .col-6, .col-8 { width: 100%; }
+            .nav-bar { padding: 1rem 1.5rem; }
+        }
+    </style>
+
+</head>
+<body>
+<!-- NAV -->
+<nav class="nav-bar">
+<div>
+<div class="tech-font" style="font-weight: 700; letter-spacing: 0.2em;">火星地平线</div>
+<div class="tech-font" style="font-size: 0.7rem; opacity: 0.6;">EXPLORATION ARCHIVE 2025</div>
+</div>
+</nav>
+<!-- HERO -->
+<section style="height: 100vh; position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+<div class="img-frame" style="position: absolute; inset: 0; z-index: 0; background-color: #000;">
+<div class="scan-line" id="scan-hero"></div>
+<div class="ai-badge" id="badge-hero">AI ENHANCED</div>
+<!-- SOURCE: Reliable Domestic CDN (360/qhimg) -->
+<img alt="Mars Horizon" data-prompt="Epic panoramic cinematic shot of the Mars horizon, glowing dust, red sunset, sharp Martian rock details, vast desert, high-tech space exploration aesthetic, CNSA style, 8k professional render" id="img-hero" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2007/02/true-colour_image_of_mars_seen_by_osiris/9969705-2-eng-GB/True-colour_image_of_Mars_seen_by_OSIRIS.jpg" style="width: 100%; height: 100%; object-fit: contain; object-position: center;"/>
+<div style="position: absolute; inset: 0; background: radial-gradient(circle, transparent 0%, var(--c-bg) 100%); pointer-events: none; z-index: 2; opacity: 0.7;"></div>
+</div>
+<div class="container" style="position: relative; z-index: 3; text-align: center;">
+<div class="reveal">
+<p class="tech-font" style="color: var(--c-mars); letter-spacing: 0.6em; margin-bottom: 1.5rem; font-size: 0.9rem;">星际档案 / 001</p>
+<h1>火星地平线</h1>
+<div style="width: 1px; height: 80px; background: var(--c-mars); margin: 2.5rem auto;"></div>
+<p style="max-width: 45ch; margin: 0 auto; font-size: 1.1rem; color: var(--c-text-muted); letter-spacing: 0.05em; font-weight: 300;">
+                    一场关于人类对第四行星跨世纪痴迷的视觉巡礼。
+                </p>
+</div>
+</div>
+</section>
+<!-- VISUAL GALLERY -->
+<section class="section-spacer">
+<div class="container">
+<div class="reveal" style="display: flex; align-items: baseline; margin-bottom: 4rem;">
+<span class="tech-font" style="color: var(--c-mars); font-size: 3.5rem; margin-right: 1.5rem; font-weight: 800; opacity: 0.3;">01</span>
+<h2>视觉铁证</h2>
+</div>
+<div class="gallery-grid">
+<div class="col-8 reveal">
+<div class="img-frame" style="height: 650px;">
+<div class="scan-line" id="scan-canyon"></div>
+<div class="ai-badge" id="badge-canyon">AI ENHANCED</div>
+<!-- SOURCE: Reliable Domestic CDN -->
+<img alt="Valles Marineris" data-prompt="Ultra-detailed aerial view of Martian Grand Canyon, red sedimentary layers, dramatic shadows, vast scale, cinematic lighting, 8k resolution" id="img-canyon" src="https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia06/pia06926/PIA06926.jpg"/>
+<div style="position: absolute; bottom: 2.5rem; left: 2.5rem; z-index: 10;">
+<span class="caption">火星地貌特征</span>
+<p class="tech-font" style="font-size: 1.8rem; font-weight: 700; color: var(--c-text-main); margin-top: 0.5rem;">水手号峡谷 (Valles Marineris)</p>
+</div>
+</div>
+</div>
+<div class="col-4 reveal" style="display: flex; flex-direction: column; justify-content: space-between; gap: 2rem;">
+<div class="glass-panel">
+<span class="caption">核心大气成分</span>
+<div class="tech-font" style="font-size: 3.5rem; color: var(--c-mars); line-height: 1; margin: 1rem 0;">95%</div>
+<p style="font-size: 0.9rem; color: var(--c-text-muted); font-family: var(--f-tech);">二氧化碳 (CO₂) 构成的主体</p>
+</div>
+<div style="padding: 1rem 1.5rem; border-left: 2px solid var(--c-mars); background: rgba(255,61,0,0.03);">
+<p style="font-size: 1.15rem; font-style: italic; color: var(--c-text-main); line-height: 1.6;">
+                            “这片荒芜的红土地，是人类星际移民梦开始的地方。”
+                        </p>
+</div>
+<div class="img-frame" style="height: 280px; flex-grow: 1;">
+<div class="scan-line" id="scan-ice"></div>
+<div class="ai-badge" id="badge-ice">AI ENHANCED</div>
+<!-- SOURCE: Reliable Domestic CDN -->
+<img alt="Mars Ice Cap" data-prompt="Macro view of Martian Polar Ice, frozen CO2 swirling with red dust, abstract alien textures, crystalline patterns, 8k scientific aesthetic" id="img-ice" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Martian_north_polar_cap.jpg" style="object-position: center;"/>
+<span class="caption" style="position: absolute; bottom: 15px; left: 15px; background: rgba(0,0,0,0.6); padding: 4px 10px; border-radius: 2px;">极地冰冠系统</span>
+</div>
+</div>
+<div class="col-12 reveal" style="margin-top: 2rem;">
+<div class="img-frame" style="height: 550px;">
+<div class="scan-line" id="scan-rover"></div>
+<div class="ai-badge" id="badge-rover">AI ENHANCED</div>
+<!-- SOURCE: Reliable Domestic CDN -->
+<img alt="Zhurong Rover" data-prompt="Cinematic shot of Zhurong Chinese Mars Rover standing on red dust, golden solar wings, complex sensors, sunset lighting, high tech space gear, realistic Mars environment, 8k" id="img-rover" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Zhurong-with-lander-selfie.png" style="object-position: center 40%;"/>
+<div style="position: absolute; top: 2.5rem; right: 2.5rem; text-align: right; text-shadow: 0 4px 15px #000;">
+<span class="caption" style="color: var(--c-text-main); letter-spacing: 0.3em;">探测任务实时影像</span>
+<p class="tech-font" style="font-size: 1.5rem; font-weight: 700;">“祝融号”巡视位点</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- TIMELINE -->
+<section class="section-spacer" style="background: linear-gradient(to bottom, var(--c-bg), #0f0f0f);">
+<div class="container">
+<div class="reveal" style="display: flex; align-items: baseline; margin-bottom: 4rem;">
+<span class="tech-font" style="color: var(--c-mars); font-size: 3.5rem; margin-right: 1.5rem; font-weight: 800; opacity: 0.3;">02</span>
+<h2>探索编年史</h2>
+</div>
+<div id="timeline-container" style="position: relative; padding-left: 2rem;">
+<div style="position: absolute; left: 0; top: 0; bottom: 0; width: 1px; background: rgba(255,255,255,0.08);"></div>
+</div>
+</div>
+</section>
+<!-- DATA ART -->
+<section class="section-spacer">
+<div class="container">
+<div class="gallery-grid" style="align-items: center;">
+<div class="col-6 reveal">
+<div class="reveal" style="display: flex; align-items: baseline; margin-bottom: 3.5rem;">
+<span class="tech-font" style="color: var(--c-mars); font-size: 3.5rem; margin-right: 1.5rem; font-weight: 800; opacity: 0.3;">03</span>
+<h2>成功指标</h2>
+</div>
+<p style="font-size: 1.25rem; margin-bottom: 3rem; color: var(--c-text-muted); font-weight: 300; line-height: 1.8;">
+                   火星探索的轨迹，是由最初的挫折、不懈的坚持以及最终的精湛技术共同定义的数字化篇章。
+                 </p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+<div style="border-bottom: 1px solid #222; padding-bottom: 1.5rem;">
+<div class="tech-font" style="font-size: 2.5rem; color: var(--c-text-main); font-weight: 700;">50+</div>
+<div class="caption">任务执行总额</div>
+</div>
+<div style="border-bottom: 1px solid #222; padding-bottom: 1.5rem;">
+<div class="tech-font" style="font-size: 2.5rem; color: var(--c-mars); font-weight: 700;">48%</div>
+<div class="caption">历史平均成功率</div>
+</div>
+<div style="border-bottom: 1px solid #222; padding-bottom: 1.5rem;">
+<div class="tech-font" style="font-size: 2.5rem; color: var(--c-text-main); font-weight: 700;">03</div>
+<div class="caption">在轨/现役漫游车</div>
+</div>
+<div style="border-bottom: 1px solid #222; padding-bottom: 1.5rem;">
+<div class="tech-font" style="font-size: 2.5rem; color: var(--c-text-main); font-weight: 700;">203X</div>
+<div class="caption">载人登陆预想期</div>
+</div>
+</div>
+</div>
+<div class="col-6 reveal" style="padding-left: 4rem;">
+<div style="width: 100%; height: 450px; border: 1px solid rgba(255,255,255,0.05); position: relative; overflow: hidden; border-radius: 4px; background: rgba(0,0,0,0.2);">
+<div id="chart-container" style="width: 100%; height: 100%; opacity: 0.8;"></div>
+<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; pointer-events: none;">
+<div class="tech-font" style="font-size: 5rem; color: var(--c-text-main); text-shadow: 0 0 30px rgba(255, 61, 0, 0.5); font-weight: 900;">48%</div>
+<div class="caption" style="color: var(--c-text-main); opacity: 0.6;">SUCCESS RATE INDEX</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- MAP -->
+<section class="section-spacer full-width" style="position: relative; height: 90vh; background: #000;">
+<div class="img-frame" style="width: 100%; height: 100%; position: absolute; inset: 0;">
+<div class="scan-line" id="scan-map"></div>
+<div class="ai-badge" id="badge-map">AI ENHANCED</div>
+<!-- SOURCE: Reliable Domestic CDN -->
+<img alt="Mars Global Map" data-prompt="Detailed scientific global map of Mars terrain, equirectangular projection, showing craters and valleys, low contrast professional technical infographic aesthetic, 4k" id="img-map" src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/04/mars_landscape/21916769-2-eng-GB/Mars_landscape.jpg" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.35; filter: grayscale(0.5) contrast(1.2) brightness(0.7);"/>
+</div>
+<div class="container" style="position: absolute; inset: 0; pointer-events: none;">
+<div style="position: relative; width: 100%; height: 100%;">
+<div class="reveal active" style="position: absolute; top: 3rem; left: 0;">
+<div style="display: flex; align-items: baseline; margin-bottom: 3rem;">
+<span class="tech-font" style="color: var(--c-mars); font-size: 3.5rem; margin-right: 1.5rem; font-weight: 800; opacity: 0.3;">04</span>
+<h2>核心着陆场</h2>
+</div>
+</div>
+<div id="markers-layer"></div>
+<div class="glass-panel reveal active" id="map-info" style="position: absolute; bottom: 5rem; right: 0; width: 340px; pointer-events: auto; border-left: 3px solid var(--c-mars);">
+<span class="caption">选定区域坐标系统</span>
+<h3 id="info-name" style="font-size: 2.2rem; margin: 0.75rem 0; font-weight: 700;">Loading...</h3>
+<p class="tech-font" id="info-mission" style="color: var(--c-mars); margin-bottom: 1.2rem; font-weight: 600; font-size: 0.85rem;">MISSION</p>
+<p id="info-desc" style="font-size: 0.95rem; color: var(--c-text-muted); line-height: 1.7;">Description</p>
+</div>
+</div>
+</div>
+</section>
+<!-- FOOTER -->
+<footer style="padding: 6rem 0; border-top: 1px solid #1a1a1a; text-align: center;">
+<div class="tech-font" style="font-size: 1.8rem; letter-spacing: 0.4em; margin-bottom: 1rem; font-weight: 800; color: var(--c-text-muted);">火星地平线</div>
+<div class="caption" style="opacity: 0.4;">视觉展览策划：AI 创意设计师 | 全球影像支持：NASA / ESA / UN SPLASH</div>
+</footer>
+<!-- SCRIPT -->
+<script type="module">
+        // IMPORTANT: Only enable JS-dependent animations if this script successfully runs.
+        document.body.classList.add('js-enabled');
+
+        // ─────────────────────────────────────────────────────────────
+        // 1. ASSET MANAGER
+        // ─────────────────────────────────────────────────────────────
+        
+        const DB_NAME = 'MarsAtlasV2';
+        const DB_VERSION = 1;
+        const STORE_NAME = 'cache';
+
+        class AssetManager {
+            constructor() {
+                this.init();
+            }
+
+            async init() {
+                document.querySelectorAll('.img-frame img').forEach(img => {
+                    img.style.opacity = '1';
+                });
+            }
+
+            async setupDB() {
+                return new Promise((resolve) => {
+                    const request = indexedDB.open(DB_NAME, DB_VERSION);
+                    request.onupgradeneeded = (e) => {
+                        const db = e.target.result;
+                        if (!db.objectStoreNames.contains(STORE_NAME)) db.createObjectStore(STORE_NAME);
+                    };
+                    request.onsuccess = (e) => {
+                        this.db = e.target.result;
+                        resolve();
+                    };
+                    request.onerror = () => resolve();
+                });
+            }
+
+            async getCached(id) {
+                if (!this.db) return null;
+                return new Promise((r) => {
+                    const t = this.db.transaction([STORE_NAME], 'readonly');
+                    const req = t.objectStore(STORE_NAME).get(id);
+                    req.onsuccess = () => r(req.result);
+                    req.onerror = () => r(null);
+                });
+            }
+
+            async saveCache(id, data) {
+                if (!this.db) return;
+                const t = this.db.transaction([STORE_NAME], 'readwrite');
+                t.objectStore(STORE_NAME).put(data, id);
+            }
+
+            async loadAIAssets() {
+                const targets = [
+                    { id: 'img-hero', scan: 'scan-hero', badge: 'badge-hero' },
+                    { id: 'img-canyon', scan: 'scan-canyon', badge: 'badge-canyon' },
+                    { id: 'img-ice', scan: 'scan-ice', badge: 'badge-ice' },
+                    { id: 'img-rover', scan: 'scan-rover', badge: 'badge-rover' },
+                    { id: 'img-map', scan: 'scan-map', badge: 'badge-map' }
+                ];
+
+                for (const target of targets) {
+                    this.upgradeImage(target);
+                }
+            }
+
+            async upgradeImage(config) {
+                const el = document.getElementById(config.id);
+                const scan = document.getElementById(config.scan);
+                const badge = document.getElementById(config.badge);
+                if (!el) return;
+
+                const cached = await this.getCached(config.id);
+                if (cached) {
+                    el.src = cached;
+                    if (badge) badge.classList.add('visible');
+                    return;
+                }
+
+                if (!this.ai) return;
+
+                if (scan) scan.classList.add('active');
+                
+                try {
+                    const response = await this.ai.models.generateContent({
+                        model: 'gemini-2.5-flash-image',
+                        contents: { parts: [{ text: el.dataset.prompt }] },
+                    });
+                    
+                    const part = response.candidates[0].content.parts.find(p => p.inlineData);
+                    if (part) {
+                        const base64 = `data:image/png;base64,${part.inlineData.data}`;
+                        await this.saveCache(config.id, base64);
+                        
+                        el.style.opacity = '0.5';
+                        setTimeout(() => {
+                            el.src = base64;
+                            el.style.opacity = '1';
+                            if (badge) badge.classList.add('visible');
+                            if (scan) scan.classList.remove('active');
+                        }, 500);
+                    } else {
+                        if (scan) scan.classList.remove('active');
+                    }
+                } catch (e) {
+                    if (scan) scan.classList.remove('active');
+                }
+            }
+        }
+
+        new AssetManager();
+
+        // ─────────────────────────────────────────────────────────────
+        // 2. DATA & INTERACTION
+        // ─────────────────────────────────────────────────────────────
+        const missions = [
+            { year: 1964, name: "水手4号 (Mariner 4)", agency: "NASA", status: "成功", desc: "首次成功飞掠火星，传回了21张颗粒状图像，打破了火星存在所谓“运河”的幻想。" },
+            { year: 1976, name: "海盗1号 (Viking 1)", agency: "NASA", status: "成功", desc: "首个长期表面任务。它在克律塞平原平稳降落，开展了寻找生命迹象的实验。" },
+            { year: 2003, name: "勇气号 & 机遇号", agency: "NASA", status: "成功", desc: "著名的“双子探测器”，在火星南北两端工作了远超预期的时长，证实了液态水的历史。" },
+            { year: 2011, name: "好奇号 (Curiosity)", agency: "NASA", status: "成功", desc: "核动力移动实验室。正在探索盖尔陨石坑，旨在评估火星过去是否具备宜居条件。" },
+            { year: 2020, name: "天问一号 (Tianwen-1)", agency: "CNSA", status: "成功", desc: "中国航天史上的里程碑。成功部署“祝融号”火星车，一次性完成绕、落、巡。" },
+            { year: 2020, name: "毅力号 (Perseverance)", agency: "NASA", status: "成功", desc: "目前最先进的火星车。正在耶泽罗陨石坑采集样本，准备未来的“火星取样返回”。" }
+        ];
+
+        const landingSites = [
+            { name: "耶泽罗陨石坑", x: 75, y: 40, desc: "富含粘土和碳酸盐的古老河流三角洲，毅力号当前采样点。", mission: "Perseverance" },
+            { name: "盖尔陨石坑", x: 80, y: 60, desc: "中心有一座5.5公里高的层状山脉，是好奇号的探索领地。", mission: "Curiosity" },
+            { name: "子午线平原", x: 15, y: 55, desc: "覆盖着微小的赤铁矿球体（蓝莓石），机遇号曾在此度过十五载。", mission: "Opportunity" },
+            { name: "乌托邦平原", x: 72, y: 28, desc: "北半球广阔平原，祝融号火星车成功着陆并开展巡视工作。", mission: "Zhurong" }
+        ];
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) entry.target.classList.add('active');
+            });
+        }, { threshold: 0.1 });
+        document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+        const timeline = document.getElementById('timeline-container');
+        missions.forEach((m, i) => {
+            const el = document.createElement('div');
+            el.className = 'reveal';
+            el.style.marginBottom = '5rem';
+            el.style.position = 'relative';
+            el.style.marginLeft = i % 2 === 0 ? '0' : '8%';
+            el.style.maxWidth = '85%';
+            
+            el.innerHTML = `
+                <div style="position: absolute; left: -2.3rem; top: 0.5rem; background: var(--c-bg); padding: 0.2rem;">
+                    <div style="width: 10px; height: 10px; background: ${m.status==='成功'?'var(--c-mars)':'#333'}; border-radius: 50%;"></div>
+                </div>
+                <div class="glass-panel" style="border-left: 2px solid ${m.status==='成功'?'var(--c-mars)':'#333'};">
+                    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem;">
+                       <span class="tech-font" style="font-size: 1.6rem; font-weight: 800;">${m.year}</span>
+                       <span class="caption" style="margin:0;">${m.agency}</span>
+                    </div>
+                    <h3 style="font-size: 1.8rem; margin: 0 0 1rem 0;">${m.name}</h3>
+                    <p style="color: var(--c-text-muted); font-size: 1.05rem; font-weight: 300;">${m.desc}</p>
+                </div>
+            `;
+            timeline.appendChild(el);
+            observer.observe(el);
+        });
+
+        const chartDom = document.getElementById('chart-container');
+        if (chartDom) {
+            const myChart = echarts.init(chartDom);
+            myChart.setOption({
+                backgroundColor: 'transparent',
+                grid: { left: '0', right: '0', bottom: '0', top: '10%' },
+                xAxis: { show: false, type: 'category' },
+                yAxis: { show: false, type: 'value' },
+                series: [{
+                    data: [8, 42, 18, 45, 68, 88, 96],
+                    type: 'line',
+                    smooth: true,
+                    lineStyle: { width: 0 },
+                    areaStyle: {
+                        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                            { offset: 0, color: 'rgba(255, 61, 0, 0.6)' },
+                            { offset: 1, color: 'rgba(255, 61, 0, 0)' }
+                        ])
+                    }
+                }]
+            });
+            window.addEventListener('resize', () => myChart.resize());
+        }
+
+        const infoName = document.getElementById('info-name');
+        const infoMission = document.getElementById('info-mission');
+        const infoDesc = document.getElementById('info-desc');
+
+        function updateMapInfo(index) {
+            const site = landingSites[index];
+            infoName.innerText = site.name;
+            infoMission.innerText = `RELEVANT MISSION: ${site.mission.toUpperCase()}`;
+            infoDesc.innerText = site.desc;
+            document.querySelectorAll('.marker').forEach((el, idx) => {
+                if (idx === index) el.classList.add('active');
+                else el.classList.remove('active');
+            });
+        }
+
+        const markersLayer = document.getElementById('markers-layer');
+
+        updateMapInfo(0);
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+    "id":  "webpage/ereader-analysis",
+    "family":  "webpage",
+    "name":  "ereader-analysis",
+    "displayName":  "E-reader Analysis",
+    "description":  "A product analysis webpage template for e-reader reviews.",
+    "tags":  [
+                 "review",
+                 "product",
+                 "consumer-electronics"
+             ],
+    "category":  "webpage",
+    "version":  "1.0.0",
+    "sourcePath":  "templates/webpage/ereader-analysis",
+    "entryFiles":  [
+                       "index.html",
+                       "package.json",
+                       "vite.config.js",
+                       "eslint.config.js"
+                   ],
+    "examplePath":  "examples/webpage/ereader-analysis",
+    "preview":  {
+                    "cover":  "showcase/assets/webpage/ereader-analysis/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/webpage/ereader-analysis/gallery-1.png"
+                                ]
+                },
+    "artifactHints":  [
+                          "Use `npm install` and `npm run dev` to preview locally.",
+                          "Run `npm run build` to produce the distributable site."
+                      ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "runtime":  "static"
+}

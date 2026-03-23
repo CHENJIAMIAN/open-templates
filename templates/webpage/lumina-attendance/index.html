@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <script>
+      // DO NOT REMOVE THIS SCRIPT
+      (function() {
+        var pathname = window.location.pathname;
+        var originalPathname = pathname;
+        pathname = pathname.replace(/\/index\.html?$/, '');
+        var basename = pathname || '/';
+        if (!basename.startsWith('/')) basename = '/' + basename;
+        if (basename !== '/' && basename.endsWith('/')) {
+          basename = basename.slice(0, -1);
+        }
+        window.__APP_BASENAME__ = basename;
+        var head = document.head || document.getElementsByTagName('head')[0];
+        var baseEl = head.querySelector('base');
+        var href = basename === '/' ? '/' : basename + '/';
+        if (baseEl) {
+          baseEl.setAttribute('href', href);
+        } else {
+          baseEl = document.createElement('base');
+          baseEl.setAttribute('href', href);
+          if (head.firstChild) {
+            head.insertBefore(baseEl, head.firstChild);
+          } else {
+            head.appendChild(baseEl);
+          }
+        }
+        if (originalPathname !== pathname && originalPathname.endsWith('index.html')) {
+          var newPath = pathname + (window.location.search || '') + (window.location.hash || '');
+          if (window.history.replaceState) {
+            window.history.replaceState(null, '', newPath);
+          }
+        }
+      })();
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>荧光 Lumina | [看板主题]</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        :root {
+            --color-background: #fdfbf7;
+            --color-surface: #ffffff;
+            --color-border: #e8e4db;
+            --color-text: #374151;
+            --color-text-secondary: #9ca3af;
+            --color-primary: #10b981;
+            --color-warning: #f59e0b;
+            --color-info: #0ea5e9;
+            /* tooltip */
+            --color-tooltip-bg: rgba(255, 255, 255, 0.95);
+            --color-tooltip-shadow: rgba(0, 0, 0, 0.1);
+        }
+        html, body {
+            font-family: 'PingFang SC', 'Hiragino Sans GB', 'Heiti SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+            background-color: var(--color-background);
+            color: var(--color-text);
+            -webkit-font-smoothing: antialiased;
+        }
+        .font-serif, .font-serif-accent, h1, h2, h3, h4, h5, h6 {
+            font-family: 'PingFang SC', sans-serif !important;
+        }
+        .hover-card {
+            transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        }
+        .hover-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.03);
+        }
+        .loading-screen {
+            position: fixed;
+            inset: 0;
+            background: var(--color-background);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            transition: opacity 0.5s ease;
+        }
+    </style>
+</head>
+<body style="background-color: var(--color-background);">
+
+    <div id="loading" class="loading-screen">
+        <div class="text-gray-400 italic animate-pulse text-sm tracking-widest">正在为您准备...</div>
+    </div>
+
+    <div class="max-w-[1200px] mx-auto px-5 min-[501px]:px-10 py-12 opacity-0 transition-opacity duration-700" id="main-content">
+
+        <!-- Hero Section -->
+        <header class="mb-12 flex flex-col lg:flex-row lg:items-center justify-between gap-8">
+            <div class="max-w-2xl">
+                <p class="text-sm text-sky-600 font-medium mb-3 uppercase tracking-wider">[统计周期，如 2025 10.23-11.07]</p>
+                <h2 class="text-4xl md:text-5xl font-semibold text-gray-800 leading-tight tracking-tight">[看板主题] <span class="text-emerald-600">[总体状态描述]</span></h2>
+            </div>
+            <div class="bg-white border border-[var(--color-border)]/60 rounded-3xl px-10 py-8 flex items-center gap-16 shadow-[0_4px_20px_-4px_rgba(0,0,0,0.02)]">
+                <div class="flex flex-col">
+                    <span class="text-3xl font-medium text-gray-800 tracking-tight">[指标1值]</span>
+                    <span class="text-xs text-gray-400 mt-2 font-medium tracking-wide">[指标1名称]</span>
+                </div>
+                <div class="w-px h-12 bg-gray-100"></div>
+                <div class="flex flex-col">
+                    <span class="text-3xl font-medium text-gray-800 tracking-tight">[指标2值]</span>
+                    <span class="text-xs text-gray-400 mt-2 font-medium tracking-wide">[指标2名称]</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Chart Section -->
+        <section class="mb-20">
+            <div class="bg-white border border-[var(--color-border)]/40 rounded-[2rem] md:rounded-[2.5rem] p-5 md:p-10 shadow-[0_8px_30px_-10px_rgba(0,0,0,0.03)]">
+                <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 gap-4">
+                    <h4 class="text-sm font-semibold text-gray-400 uppercase tracking-widest">[图表标题，如 员工出勤详情 (近12日)]</h4>
+                    <div class="flex items-center gap-4 md:gap-6">
+                        <div class="flex items-center gap-2">
+                            <div class="w-3 h-3 bg-emerald-500 rounded-sm"></div>
+                            <span class="text-[10px] md:text-xs text-gray-400">[图例1，如 正常 (≥80%)]</span>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <div class="w-3 h-3 bg-orange-500 rounded-sm"></div>
+                            <span class="text-[10px] md:text-xs text-gray-400">[图例2，如 需关注 (&lt;80%)]</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="main-chart" class="h-64 md:h-72 w-full"></div>
+            </div>
+        </section>
+
+        <!-- Cards Grid -->
+        <section class="mb-24">
+            <div class="flex justify-between items-end mb-10">
+                <h3 class="text-2xl font-medium text-gray-800 tracking-tight">[卡片区标题，如 团队健康度]</h3>
+                <button class="text-sm text-gray-400 hover:text-gray-600 transition-colors">[按钮文字]</button>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+                <!-- Card 1 -->
+                <div class="bg-white border border-[var(--color-border)]/40 rounded-3xl p-6 transition-all duration-300 hover-card group flex flex-col h-full">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-lg font-medium text-gray-800 tracking-tight">[分组1名称]</h3>
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-semibold tracking-wide bg-emerald-50 text-emerald-700">[状态标签]</span>
+                    </div>
+                    <div class="flex-grow py-4">
+                        <div class="sparkline-chart" data-color="primary" data-values="85,88,86,90,84" data-labels="11.01,11.02,11.03,11.06,11.07" style="width: 100%; height: 96px;"></div>
+                    </div>
+                    <div class="mt-2 pt-4 border-t border-gray-50">
+                        <p class="text-sm text-gray-500 leading-relaxed font-normal opacity-90 group-hover:opacity-100 transition-opacity">[分组1描述，1-2句话描述当前状态和趋势]</p>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="bg-white border border-[var(--color-border)]/40 rounded-3xl p-6 transition-all duration-300 hover-card group flex flex-col h-full">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-lg font-medium text-gray-800 tracking-tight">[分组2名称]</h3>
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-semibold tracking-wide bg-sky-50 text-sky-700">[状态标签]</span>
+                    </div>
+                    <div class="flex-grow py-4">
+                        <div class="sparkline-chart" data-color="info" data-values="70,75,82,85,88" data-labels="11.01,11.02,11.03,11.06,11.07" style="width: 100%; height: 96px;"></div>
+                    </div>
+                    <div class="mt-2 pt-4 border-t border-gray-50">
+                        <p class="text-sm text-gray-500 leading-relaxed font-normal opacity-90 group-hover:opacity-100 transition-opacity">[分组2描述，1-2句话描述当前状态和趋势]</p>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="bg-white border border-[var(--color-border)]/40 rounded-3xl p-6 transition-all duration-300 hover-card group flex flex-col h-full">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-lg font-medium text-gray-800 tracking-tight">[分组3名称]</h3>
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-semibold tracking-wide bg-orange-50 text-orange-700">[状态标签]</span>
+                    </div>
+                    <div class="flex-grow py-4">
+                        <div class="sparkline-chart" data-color="warning" data-values="92,60,88,55,95" data-labels="11.01,11.02,11.03,11.06,11.07" style="width: 100%; height: 96px;"></div>
+                    </div>
+                    <div class="mt-2 pt-4 border-t border-gray-50">
+                        <p class="text-sm text-gray-500 leading-relaxed font-normal opacity-90 group-hover:opacity-100 transition-opacity">[分组3描述，1-2句话描述当前状态和趋势]</p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="bg-white border border-[var(--color-border)]/40 rounded-3xl p-6 transition-all duration-300 hover-card group flex flex-col h-full">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-lg font-medium text-gray-800 tracking-tight">[分组4名称]</h3>
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-semibold tracking-wide bg-emerald-50 text-emerald-700">[状态标签]</span>
+                    </div>
+                    <div class="flex-grow py-4">
+                        <div class="sparkline-chart" data-color="primary" data-values="82,84,85,83,84" data-labels="11.01,11.02,11.03,11.06,11.07" style="width: 100%; height: 96px;"></div>
+                    </div>
+                    <div class="mt-2 pt-4 border-t border-gray-50">
+                        <p class="text-sm text-gray-500 leading-relaxed font-normal opacity-90 group-hover:opacity-100 transition-opacity">[分组4描述，1-2句话描述当前状态和趋势]</p>
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="bg-white border border-[var(--color-border)]/40 rounded-3xl p-6 transition-all duration-300 hover-card group flex flex-col h-full">
+                    <div class="flex justify-between items-center mb-2">
+                        <h3 class="text-lg font-medium text-gray-800 tracking-tight">[分组5名称]</h3>
+                        <span class="inline-flex items-center px-3 py-1 rounded-full text-[11px] font-semibold tracking-wide bg-emerald-50 text-emerald-700">[状态标签]</span>
+                    </div>
+                    <div class="flex-grow py-4">
+                        <div class="sparkline-chart" data-color="primary" data-values="90,91,89,92,90" data-labels="11.01,11.02,11.03,11.06,11.07" style="width: 100%; height: 96px;"></div>
+                    </div>
+                    <div class="mt-2 pt-4 border-t border-gray-50">
+                        <p class="text-sm text-gray-500 leading-relaxed font-normal opacity-90 group-hover:opacity-100 transition-opacity">[分组5描述，1-2句话描述当前状态和趋势]</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Insights Section -->
+        <section class="mb-20 pb-12">
+            <div class="flex justify-between items-end mb-10">
+                <h3 class="text-2xl font-medium text-gray-800 tracking-tight">[洞察区标题，如 智能分析]</h3>
+                <button class="text-sm text-gray-400 hover:text-gray-600 transition-colors">[按钮文字]</button>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+                <!-- Insight 1 -->
+                <div class="p-8 rounded-[2rem] border transition-all duration-300 hover-card bg-emerald-50/40 border-emerald-100/50 text-emerald-800">
+                    <div class="flex justify-between items-start mb-6">
+                        <span class="text-[10px] font-bold tracking-[0.15em] opacity-60 uppercase font-sans">PROACTIVE</span>
+                        <div class="w-2 h-2 rounded-full bg-emerald-400"></div>
+                    </div>
+                    <h5 class="text-xl font-medium mb-3 tracking-tight">[洞察1标题]</h5>
+                    <p class="text-sm font-semibold mb-4 opacity-90">[洞察1摘要，一句话概括]</p>
+                    <p class="text-sm font-light leading-relaxed opacity-70">[洞察1详细描述，2-3句话展开分析]</p>
+                </div>
+
+                <!-- Insight 2 -->
+                <div class="p-8 rounded-[2rem] border transition-all duration-300 hover-card bg-orange-50/40 border-orange-100/50 text-orange-800">
+                    <div class="flex justify-between items-start mb-6">
+                        <span class="text-[10px] font-bold tracking-[0.15em] opacity-60 uppercase font-sans">ALERT</span>
+                        <div class="w-2 h-2 rounded-full bg-orange-400"></div>
+                    </div>
+                    <h5 class="text-xl font-medium mb-3 tracking-tight">[洞察2标题]</h5>
+                    <p class="text-sm font-semibold mb-4 opacity-90">[洞察2摘要，一句话概括]</p>
+                    <p class="text-sm font-light leading-relaxed opacity-70">[洞察2详细描述，2-3句话展开分析]</p>
+                </div>
+
+                <!-- Insight 3 -->
+                <div class="p-8 rounded-[2rem] border transition-all duration-300 hover-card bg-sky-50/40 border-sky-100/50 text-sky-800">
+                    <div class="flex justify-between items-start mb-6">
+                        <span class="text-[10px] font-bold tracking-[0.15em] opacity-60 uppercase font-sans">ANALYTICS</span>
+                        <div class="w-2 h-2 rounded-full bg-sky-400"></div>
+                    </div>
+                    <h5 class="text-xl font-medium mb-3 tracking-tight">[洞察3标题]</h5>
+                    <p class="text-sm font-semibold mb-4 opacity-90">[洞察3摘要，一句话概括]</p>
+                    <p class="text-sm font-light leading-relaxed opacity-70">[洞察3详细描述，2-3句话展开分析]</p>
+                </div>
+
+            </div>
+        </section>
+    </div>
+
+    <script type="module">
+        (async () => {
+            // 从外部 JSON 文件加载图表数据
+            const DATA = await fetch('./assets/data.json').then(r => r.json());
+
+            // 图表颜色从 CSS 变量获取
+            const styles = getComputedStyle(document.documentElement);
+            const chartColors = {
+                primary: styles.getPropertyValue('--color-primary').trim(),
+                warning: styles.getPropertyValue('--color-warning').trim(),
+                info: styles.getPropertyValue('--color-info').trim()
+            };
+            const chartText = styles.getPropertyValue('--color-text').trim();
+            const chartTextSecondary = styles.getPropertyValue('--color-text-secondary').trim();
+            const tooltipBg = styles.getPropertyValue('--color-tooltip-bg').trim();
+            const tooltipShadow = styles.getPropertyValue('--color-tooltip-shadow').trim();
+
+            // 主图表
+            function renderMainChart() {
+                const chartDom = document.getElementById('main-chart');
+                const myChart = echarts.init(chartDom);
+                const option = {
+                    grid: { left: '0', right: '0', top: '10', bottom: '25', containLabel: true },
+                    xAxis: {
+                        type: 'category',
+                        data: DATA.barChart.labels,
+                        axisLine: { show: false },
+                        axisTick: { show: false },
+                        axisLabel: { color: chartTextSecondary, fontSize: 10, margin: 15, fontFamily: 'PingFang SC' }
+                    },
+                    yAxis: { show: false, max: 100 },
+                    tooltip: {
+                        trigger: 'axis',
+                        backgroundColor: tooltipBg,
+                        borderColor: chartTextSecondary,
+                        borderRadius: 12,
+                        borderWidth: 1,
+                        padding: 12,
+                        textStyle: { fontSize: 12, fontFamily: 'PingFang SC', color: chartText },
+                        shadowBlur: 15,
+                        shadowColor: tooltipShadow
+                    },
+                    series: [{
+                        type: 'bar',
+                        barWidth: '20px',
+                        itemStyle: {
+                            borderRadius: [4, 4, 0, 0],
+                            color: function(params) {
+                                return params.value < 80 ? chartColors.warning : chartColors.primary;
+                            }
+                        },
+                        data: DATA.barChart.values
+                    }]
+                };
+                myChart.setOption(option);
+                window.addEventListener('resize', () => myChart.resize());
+            }
+
+            // 小图表（从 data-* 属性读取数据）
+            function renderSparklines() {
+                document.querySelectorAll('.sparkline-chart').forEach(el => {
+                    const colorKey = el.dataset.color;
+                    const color = chartColors[colorKey] || chartColors.primary;
+                    const values = el.dataset.values.split(',').map(Number);
+                    const labels = el.dataset.labels.split(',');
+
+                    const chart = echarts.init(el);
+                    chart.setOption({
+                        grid: { left: 5, right: 5, top: 10, bottom: 5 },
+                        xAxis: { type: 'category', show: false, data: labels },
+                        yAxis: { type: 'value', show: false, min: Math.min(...values) - 5, max: Math.max(...values) + 5 },
+                        tooltip: {
+                            trigger: 'axis',
+                            backgroundColor: tooltipBg,
+                            borderColor: chartTextSecondary,
+                            borderRadius: 12,
+                            borderWidth: 1,
+                            padding: [8, 12],
+                            textStyle: { fontSize: 11, fontFamily: 'PingFang SC', color: chartText },
+                            shadowBlur: 10,
+                            shadowColor: tooltipShadow
+                        },
+                        series: [{
+                            data: values,
+                            type: 'line',
+                            smooth: true,
+                            symbol: 'circle',
+                            symbolSize: 6,
+                            showSymbol: false,
+                            lineStyle: { width: 3, color: color },
+                            itemStyle: { color: color },
+                            areaStyle: {
+                                color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                    { offset: 0, color: color + '33' },
+                                    { offset: 1, color: color + '00' }
+                                ])
+                            }
+                        }]
+                    });
+                    window.addEventListener('resize', () => chart.resize());
+                });
+            }
+
+            // 初始化
+            renderMainChart();
+            renderSparklines();
+
+            // Loading 动画
+            setTimeout(() => {
+                document.getElementById('loading').style.opacity = '0';
+                setTimeout(() => {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('main-content').classList.remove('opacity-0');
+                    requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+                }, 500);
+            }, 600);
+        })();
+    </script>
+
+</body>
+</html>

@@ -15,3 +15,5 @@ Use this template for premium business decks, executive summaries, investor upda
 ## Notes
 
 The showcase keeps only the curated preview assets needed for the public example, which keeps the repository lighter while still matching the metadata paths.
+
+The public exporter scaffold for this template lives in `tools/slides/` and will eventually generate `deck.pptx` and `deck.pdf` from `templates/slides/charcoal_gold`.

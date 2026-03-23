@@ -17,6 +17,7 @@ If you want the fastest path in, read these pages first:
 - [Template families](docs/guides/template-families.md)
 - [CLI reference](docs/guides/cli.md)
 - [Examples and showcase assets](docs/guides/examples.md)
+- [Slides export guide](docs/guides/slides-export.md)
 
 ## Quick Commands
 
@@ -44,6 +45,7 @@ node packages/cli/bin/open-templates.js init webpage/stock-analysis D:\tmp\stock
 - [Template families](docs/guides/template-families.md)
 - [CLI reference](docs/guides/cli.md)
 - [Examples and showcase assets](docs/guides/examples.md)
+- [Slides export guide](docs/guides/slides-export.md)
 - [Release checklist](docs/guides/release-checklist.md)
 - [Public release notes](docs/guides/public-release-notes.md)
 

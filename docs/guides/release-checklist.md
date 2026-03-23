@@ -57,6 +57,13 @@ foreach ($p in $required) {
   if (-not (Test-Path $p)) { throw "Missing $p" }
 }
 Select-String -Path 'README.md' -Pattern 'Quick Commands|lark_doc|miaoda|slides|webpage|open-templates.js list'
+python tools/slides/export_charcoal_gold.py --source templates/slides/charcoal_gold --output examples/slides/charcoal_gold
+if (-not (Test-Path 'examples/slides/charcoal_gold/deck.pptx')) { throw 'Missing examples/slides/charcoal_gold/deck.pptx' }
+if (Get-Command soffice -ErrorAction SilentlyContinue) {
+  if (-not (Test-Path 'examples/slides/charcoal_gold/deck.pdf')) { throw 'Missing examples/slides/charcoal_gold/deck.pdf' }
+} else {
+  Write-Host 'Skipping deck.pdf existence check because soffice is unavailable on this machine.'
+}
 ```
 
 ## Verification Status
@@ -67,6 +74,10 @@ Verification run date: `2026-03-23`
 - `npm test` in `packages/cli`: PASS
 - example directory presence check: PASS
 - README documentation check: PASS
+- `python tools/slides/export_charcoal_gold.py --source templates/slides/charcoal_gold --output examples/slides/charcoal_gold`: PASS for `deck.pptx`, PDF blocked by missing `soffice`
+- `python -m pytest tests/slides/test_export_charcoal_gold.py -v`: PASS with 1 PDF test skipped
+- `examples/slides/charcoal_gold/deck.pptx`: PRESENT
+- `examples/slides/charcoal_gold/deck.pdf`: MISSING on this machine because LibreOffice CLI is unavailable
 
 ## Known Release Limits
 
@@ -75,3 +86,4 @@ Verification run date: `2026-03-23`
 - A stricter release gate is available through `node packages/cli/scripts/validate-metadata.mjs --strict`.
 - Do not claim full preview coverage across all 108 templates until strict mode passes.
 - The current public launch should be described as a curated first release with complete repository coverage and selective showcase coverage.
+- Charcoal Gold PDF export is blocked on this machine because `soffice` is not on PATH; refresh `examples/slides/charcoal_gold/deck.pdf` after LibreOffice is available.

@@ -14,3 +14,4 @@ These pages explain how to use the public template set and where to find the rea
 - [Template inventory](template-inventory.md)
 - [Metadata schema](metadata-schema.md)
 - [Release checklist](release-checklist.md)
+- [Public release notes](public-release-notes.md)

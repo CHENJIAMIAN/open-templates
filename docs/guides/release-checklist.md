@@ -36,3 +36,42 @@ Use this checklist before publishing the public template repository.
 - Verify the repository has at least one real example per family before announcing it publicly.
 - Prepare a short changelog entry describing the four families and their intended uses.
 - Record any known limitations so contributors do not treat the repository as production-ready by default.
+
+## Release Verification Commands
+
+Run these commands from the repository root unless noted otherwise:
+
+```powershell
+node packages/cli/scripts/validate-metadata.mjs
+cd packages/cli
+npm test
+cd ..
+$required = @(
+  'examples/lark_doc',
+  'examples/miaoda',
+  'examples/slides',
+  'examples/webpage',
+  'showcase/assets'
+)
+foreach ($p in $required) {
+  if (-not (Test-Path $p)) { throw "Missing $p" }
+}
+Select-String -Path 'README.md' -Pattern 'Quick Commands|lark_doc|miaoda|slides|webpage|open-templates.js list'
+```
+
+## Verification Status
+
+Verification run date: `2026-03-23`
+
+- `node packages/cli/scripts/validate-metadata.mjs`: PASS
+- `npm test` in `packages/cli`: PASS
+- example directory presence check: PASS
+- README documentation check: PASS
+
+## Known Release Limits
+
+- The default metadata validator is release-safe for a curated public launch. It passes required schema and path-shape checks.
+- The validator currently emits `283 warnings` for templates that do not yet have curated public examples or preview assets.
+- A stricter release gate is available through `node packages/cli/scripts/validate-metadata.mjs --strict`.
+- Do not claim full preview coverage across all 108 templates until strict mode passes.
+- The current public launch should be described as a curated first release with complete repository coverage and selective showcase coverage.

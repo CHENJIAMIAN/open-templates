@@ -45,6 +45,7 @@ node packages/cli/bin/open-templates.js init webpage/stock-analysis D:\tmp\stock
 - [CLI reference](docs/guides/cli.md)
 - [Examples and showcase assets](docs/guides/examples.md)
 - [Release checklist](docs/guides/release-checklist.md)
+- [Public release notes](docs/guides/public-release-notes.md)
 
 ## Current Status
 

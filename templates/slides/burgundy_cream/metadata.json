@@ -1,34 +1,32 @@
 {
-    "id":  "slides/burgundy_cream",
-    "family":  "slides",
-    "name":  "burgundy_cream",
-    "displayName":  "Burgundy Cream",
-    "description":  "Presentation slide template for Burgundy Cream.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "burgundy",
-                 "cream"
-             ],
-    "sourcePath":  "templates/slides/burgundy_cream",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/burgundy_cream",
-    "preview":  {
-                    "cover":  "burgundy_cream/slide_pPA_XcF2b9cwAoeKSrxvBWocDm9Xngd.png",
-                    "gallery":  [
-                                    "burgundy_cream/slide_pPA_XcF2b9cwAoeKSrxvBWocDm9Xngd.png",
-                                    "burgundy_cream/slide_pPC_FcmdbqitfoD5L5xIuY7ckZhVn6d.png",
-                                    "burgundy_cream/slide_pPC_I3WAbcQIXo2qf0xltnOc4MJJnmd.png"
-                                ]
-                }
+  "id": "slides/burgundy_cream",
+  "family": "slides",
+  "name": "burgundy_cream",
+  "displayName": "Burgundy Cream",
+  "description": "Presentation slide template for Burgundy Cream.",
+  "tags": [
+    "slides",
+    "presentation",
+    "burgundy",
+    "cream"
+  ],
+  "sourcePath": "templates/slides/burgundy_cream",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/burgundy_cream",
+  "preview": {
+    "cover": "showcase/assets/slides/burgundy_cream/cover.png",
+    "gallery": [
+      "showcase/assets/slides/burgundy_cream/cover.png"
+    ]
+  }
 }

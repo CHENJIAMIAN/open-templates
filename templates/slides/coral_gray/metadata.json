@@ -1,34 +1,32 @@
 {
-    "id":  "slides/coral_gray",
-    "family":  "slides",
-    "name":  "coral_gray",
-    "displayName":  "Coral Gray",
-    "description":  "Presentation slide template for Coral Gray.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "coral",
-                 "gray"
-             ],
-    "sourcePath":  "templates/slides/coral_gray",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/coral_gray",
-    "preview":  {
-                    "cover":  "coral_gray/slide_pvl_IZFFbMISQooouUx6iqUcl9VlnIe.png",
-                    "gallery":  [
-                                    "coral_gray/slide_pvl_IZFFbMISQooouUx6iqUcl9VlnIe.png",
-                                    "coral_gray/slide_pvL_RSebbNuTwoPo9UxwYLHcosoOnld.png",
-                                    "coral_gray/slide_pvM_WPRdbI3pWou5SKxtygtcE770nXb.png"
-                                ]
-                }
+  "id": "slides/coral_gray",
+  "family": "slides",
+  "name": "coral_gray",
+  "displayName": "Coral Gray",
+  "description": "Presentation slide template for Coral Gray.",
+  "tags": [
+    "slides",
+    "presentation",
+    "coral",
+    "gray"
+  ],
+  "sourcePath": "templates/slides/coral_gray",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/coral_gray",
+  "preview": {
+    "cover": "showcase/assets/slides/coral_gray/cover.png",
+    "gallery": [
+      "showcase/assets/slides/coral_gray/cover.png"
+    ]
+  }
 }

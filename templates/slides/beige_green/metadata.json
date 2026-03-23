@@ -1,34 +1,32 @@
 {
-    "id":  "slides/beige_green",
-    "family":  "slides",
-    "name":  "beige_green",
-    "displayName":  "Beige Green",
-    "description":  "Presentation slide template for Beige Green.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "beige",
-                 "green"
-             ],
-    "sourcePath":  "templates/slides/beige_green",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/beige_green",
-    "preview":  {
-                    "cover":  "beige_green/slide_pGa_MGnhbC97AoE6aMxdjgVcjMbvnEc.png",
-                    "gallery":  [
-                                    "beige_green/slide_pGa_MGnhbC97AoE6aMxdjgVcjMbvnEc.png",
-                                    "beige_green/slide_pGC_SvNZbcteEoVqGjxCeMwcOPRZnnP.png",
-                                    "beige_green/slide_pGG_ZwUpbieyjoMJC4xxW0XcTdWFnXb.png"
-                                ]
-                }
+  "id": "slides/beige_green",
+  "family": "slides",
+  "name": "beige_green",
+  "displayName": "Beige Green",
+  "description": "Presentation slide template for Beige Green.",
+  "tags": [
+    "slides",
+    "presentation",
+    "beige",
+    "green"
+  ],
+  "sourcePath": "templates/slides/beige_green",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/beige_green",
+  "preview": {
+    "cover": "showcase/assets/slides/beige_green/cover.png",
+    "gallery": [
+      "showcase/assets/slides/beige_green/cover.png"
+    ]
+  }
 }

@@ -1,34 +1,32 @@
 {
-    "id":  "slides/navy_sand",
-    "family":  "slides",
-    "name":  "navy_sand",
-    "displayName":  "Navy Sand",
-    "description":  "Presentation slide template for Navy Sand.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "navy",
-                 "sand"
-             ],
-    "sourcePath":  "templates/slides/navy_sand",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/navy_sand",
-    "preview":  {
-                    "cover":  "navy_sand/slide_pZc_DmW8bHWzFotO0hxmk2kcC15CnRb.png",
-                    "gallery":  [
-                                    "navy_sand/slide_pZc_DmW8bHWzFotO0hxmk2kcC15CnRb.png",
-                                    "navy_sand/slide_pZc_En7Bb8DXWoUCNMxpUNNcsVpDnLc.png",
-                                    "navy_sand/slide_pZI_YIf6bXTq0oedu7xCfH1cOYc4nZd.png"
-                                ]
-                }
+  "id": "slides/navy_sand",
+  "family": "slides",
+  "name": "navy_sand",
+  "displayName": "Navy Sand",
+  "description": "Presentation slide template for Navy Sand.",
+  "tags": [
+    "slides",
+    "presentation",
+    "navy",
+    "sand"
+  ],
+  "sourcePath": "templates/slides/navy_sand",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/navy_sand",
+  "preview": {
+    "cover": "showcase/assets/slides/navy_sand/cover.png",
+    "gallery": [
+      "showcase/assets/slides/navy_sand/cover.png"
+    ]
+  }
 }

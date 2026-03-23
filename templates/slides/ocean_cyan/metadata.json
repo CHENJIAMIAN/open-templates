@@ -1,34 +1,32 @@
 {
-    "id":  "slides/ocean_cyan",
-    "family":  "slides",
-    "name":  "ocean_cyan",
-    "displayName":  "Ocean Cyan",
-    "description":  "Presentation slide template for Ocean Cyan.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "ocean",
-                 "cyan"
-             ],
-    "sourcePath":  "templates/slides/ocean_cyan",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/ocean_cyan",
-    "preview":  {
-                    "cover":  "ocean_cyan/slide_pYB_MJIlbs59EoAtSYx7P0ScSd5vntb.png",
-                    "gallery":  [
-                                    "ocean_cyan/slide_pYB_MJIlbs59EoAtSYx7P0ScSd5vntb.png",
-                                    "ocean_cyan/slide_pYb_VnmTbkYF2ofpzfxz5BecGTqFn7e.png",
-                                    "ocean_cyan/slide_pYC_MPgJbfumloSApKxpvdrcWJZ1njh.png"
-                                ]
-                }
+  "id": "slides/ocean_cyan",
+  "family": "slides",
+  "name": "ocean_cyan",
+  "displayName": "Ocean Cyan",
+  "description": "Presentation slide template for Ocean Cyan.",
+  "tags": [
+    "slides",
+    "presentation",
+    "ocean",
+    "cyan"
+  ],
+  "sourcePath": "templates/slides/ocean_cyan",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/ocean_cyan",
+  "preview": {
+    "cover": "showcase/assets/slides/ocean_cyan/cover.png",
+    "gallery": [
+      "showcase/assets/slides/ocean_cyan/cover.png"
+    ]
+  }
 }

@@ -1,34 +1,32 @@
 {
-    "id":  "slides/slate_orange",
-    "family":  "slides",
-    "name":  "slate_orange",
-    "displayName":  "Slate Orange",
-    "description":  "Presentation slide template for Slate Orange.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "slate",
-                 "orange"
-             ],
-    "sourcePath":  "templates/slides/slate_orange",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/slate_orange",
-    "preview":  {
-                    "cover":  "slate_orange/slide_pfa_D2OSbZIV2o7yr9xK3zEcCu8nn4f.png",
-                    "gallery":  [
-                                    "slate_orange/slide_pfa_D2OSbZIV2o7yr9xK3zEcCu8nn4f.png",
-                                    "slate_orange/slide_pfB_FIe4bcb5uoxwlyxZ5ZycfwBUnDf.png",
-                                    "slate_orange/slide_pfB_G2xFbFx4hoQ2fnxFOh5cYjTlnjh.png"
-                                ]
-                }
+  "id": "slides/slate_orange",
+  "family": "slides",
+  "name": "slate_orange",
+  "displayName": "Slate Orange",
+  "description": "Presentation slide template for Slate Orange.",
+  "tags": [
+    "slides",
+    "presentation",
+    "slate",
+    "orange"
+  ],
+  "sourcePath": "templates/slides/slate_orange",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/slate_orange",
+  "preview": {
+    "cover": "showcase/assets/slides/slate_orange/cover.png",
+    "gallery": [
+      "showcase/assets/slides/slate_orange/cover.png"
+    ]
+  }
 }

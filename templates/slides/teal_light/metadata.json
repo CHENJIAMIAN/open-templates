@@ -1,34 +1,32 @@
 {
-    "id":  "slides/teal_light",
-    "family":  "slides",
-    "name":  "teal_light",
-    "displayName":  "Teal Light",
-    "description":  "Presentation slide template for Teal Light.",
-    "tags":  [
-                 "slides",
-                 "presentation",
-                 "teal",
-                 "light"
-             ],
-    "sourcePath":  "templates/slides/teal_light",
-    "entryFiles":  [
-                       "metadata.md",
-                       "template.xml"
-                   ],
-    "initMode":  "copy-dir",
-    "visibility":  "public",
-    "outputType":  "presentation-theme",
-    "artifactHints":  [
-                          "Export the deck as PDF or images.",
-                          "Use metadata.md and layout assets as the source of truth."
-                      ],
-    "examplePath":  "examples/slides/teal_light",
-    "preview":  {
-                    "cover":  "teal_light/slide_pla_LRMwb9ByWoKwz7xd4FwcSe2Jnue.png",
-                    "gallery":  [
-                                    "teal_light/slide_pla_LRMwb9ByWoKwz7xd4FwcSe2Jnue.png",
-                                    "teal_light/slide_plG_ZJrabeQdEoZ0RhxDdRmcHnP9nbe.png",
-                                    "teal_light/slide_pll_KfkMblpXAo3Lpax6S71czGeNndf.png"
-                                ]
-                }
+  "id": "slides/teal_light",
+  "family": "slides",
+  "name": "teal_light",
+  "displayName": "Teal Light",
+  "description": "Presentation slide template for Teal Light.",
+  "tags": [
+    "slides",
+    "presentation",
+    "teal",
+    "light"
+  ],
+  "sourcePath": "templates/slides/teal_light",
+  "entryFiles": [
+    "metadata.md",
+    "template.xml"
+  ],
+  "initMode": "copy-dir",
+  "visibility": "public",
+  "outputType": "presentation-theme",
+  "artifactHints": [
+    "Export the deck as PDF or images.",
+    "Use metadata.md and layout assets as the source of truth."
+  ],
+  "examplePath": "examples/slides/teal_light",
+  "preview": {
+    "cover": "showcase/assets/slides/teal_light/cover.png",
+    "gallery": [
+      "showcase/assets/slides/teal_light/cover.png"
+    ]
+  }
 }

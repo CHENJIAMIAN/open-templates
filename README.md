@@ -9,4 +9,11 @@ Public template library for four families:
 
 This repository will provide source templates, real examples, and a lightweight CLI for discovery and initialization.
 
-Current status: repository scaffold only.
+## Guides
+
+- [Template inventory](docs/guides/template-inventory.md)
+- [Release checklist](docs/guides/release-checklist.md)
+
+## Current Status
+
+The repository is still in scaffold and inventory mode.

@@ -69,7 +69,7 @@ Reasoning:
 
 ## Supported Element Subset
 
-The first pass only needs the subset visible in `charcoal_gold` and required for a credible deck export:
+The first pass only supports the element subset required by `templates/slides/charcoal_gold/template.xml`:
 
 - slide size
 - slide background fill color
@@ -112,7 +112,7 @@ If implementation is smaller than expected, the parser/writer modules can start 
    - map objects in order
 4. Resolve image `src` ids against local `slide_p*.png` files
 5. Save `deck.pptx`
-6. Invoke PDF export if the office converter is present
+6. Invoke LibreOffice CLI to convert the generated `.pptx` into `deck.pdf`
 
 ## Asset Resolution
 

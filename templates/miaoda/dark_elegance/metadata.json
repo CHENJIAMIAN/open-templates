@@ -1,0 +1,31 @@
+﻿{
+    "id":  "miaoda/dark_elegance",
+    "family":  "miaoda",
+    "name":  "dark_elegance",
+    "displayName":  "Dark Elegance",
+    "description":  "UI style prompt template for a Dark Elegance aesthetic.",
+    "tags":  [
+                 "dark",
+                 "elegance",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/dark_elegance",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/dark_elegance",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/dark_elegance/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/dark_elegance/gallery-1.png"
+                                ]
+                }
+}

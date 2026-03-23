@@ -1,0 +1,33 @@
+﻿{
+    "id":  "miaoda/crimson_press",
+    "family":  "miaoda",
+    "name":  "crimson_press",
+    "displayName":  "Crimson Press",
+    "description":  "UI style prompt template for a Crimson Press aesthetic.",
+    "tags":  [
+                 "crimson",
+                 "press",
+                 "warm",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/crimson_press",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/crimson_press",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/crimson_press/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/crimson_press/gallery-1.png"
+                                ]
+                }
+}

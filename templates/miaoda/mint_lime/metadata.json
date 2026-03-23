@@ -1,0 +1,33 @@
+﻿{
+    "id":  "miaoda/mint_lime",
+    "family":  "miaoda",
+    "name":  "mint_lime",
+    "displayName":  "Mint Lime",
+    "description":  "UI style prompt template for a Mint Lime aesthetic.",
+    "tags":  [
+                 "mint",
+                 "lime",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/mint_lime",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/mint_lime",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/mint_lime/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/mint_lime/gallery-1.png"
+                                ]
+                }
+}

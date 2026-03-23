@@ -1,0 +1,35 @@
+﻿{
+    "id":  "miaoda/redline_journal",
+    "family":  "miaoda",
+    "name":  "redline_journal",
+    "displayName":  "Redline Journal",
+    "description":  "UI style prompt template for a Redline Journal aesthetic.",
+    "tags":  [
+                 "redline",
+                 "journal",
+                 "editorial",
+                 "typography",
+                 "warm",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/redline_journal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/redline_journal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/redline_journal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/redline_journal/gallery-1.png"
+                                ]
+                }
+}

@@ -1,0 +1,31 @@
+﻿{
+    "id":  "miaoda/bold_capsule",
+    "family":  "miaoda",
+    "name":  "bold_capsule",
+    "displayName":  "Bold Capsule",
+    "description":  "UI style prompt template for a Bold Capsule aesthetic.",
+    "tags":  [
+                 "bold",
+                 "capsule",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/bold_capsule",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/bold_capsule",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/bold_capsule/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/bold_capsule/gallery-1.png"
+                                ]
+                }
+}

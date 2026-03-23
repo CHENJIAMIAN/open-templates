@@ -1,0 +1,33 @@
+﻿{
+    "id":  "miaoda/handwritten_sketch",
+    "family":  "miaoda",
+    "name":  "handwritten_sketch",
+    "displayName":  "Handwritten Sketch",
+    "description":  "UI style prompt template for a Handwritten Sketch aesthetic.",
+    "tags":  [
+                 "handwritten",
+                 "sketch",
+                 "organic",
+                 "paper",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/handwritten_sketch",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/handwritten_sketch",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/handwritten_sketch/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/handwritten_sketch/gallery-1.png"
+                                ]
+                }
+}

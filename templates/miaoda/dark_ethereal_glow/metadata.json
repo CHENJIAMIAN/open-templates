@@ -1,0 +1,32 @@
+﻿{
+    "id":  "miaoda/dark_ethereal_glow",
+    "family":  "miaoda",
+    "name":  "dark_ethereal_glow",
+    "displayName":  "Dark Ethereal Glow",
+    "description":  "UI style prompt template for a Dark Ethereal Glow aesthetic.",
+    "tags":  [
+                 "dark",
+                 "ethereal",
+                 "glow",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/dark_ethereal_glow",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/dark_ethereal_glow",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/dark_ethereal_glow/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/dark_ethereal_glow/gallery-1.png"
+                                ]
+                }
+}

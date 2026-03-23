@@ -1,0 +1,31 @@
+﻿{
+    "id":  "miaoda/soft_geometric",
+    "family":  "miaoda",
+    "name":  "soft_geometric",
+    "displayName":  "Soft Geometric",
+    "description":  "UI style prompt template for a Soft Geometric aesthetic.",
+    "tags":  [
+                 "soft",
+                 "geometric",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/soft_geometric",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/soft_geometric",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/soft_geometric/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/soft_geometric/gallery-1.png"
+                                ]
+                }
+}

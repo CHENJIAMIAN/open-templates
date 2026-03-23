@@ -1,0 +1,33 @@
+﻿{
+    "id":  "miaoda/toss_impact_minimal",
+    "family":  "miaoda",
+    "name":  "toss_impact_minimal",
+    "displayName":  "Toss Impact Minimal",
+    "description":  "UI style prompt template for a Toss Impact Minimal aesthetic.",
+    "tags":  [
+                 "toss",
+                 "impact",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/toss_impact_minimal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/toss_impact_minimal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/toss_impact_minimal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/toss_impact_minimal/gallery-1.png"
+                                ]
+                }
+}

@@ -1,0 +1,32 @@
+﻿{
+    "id":  "miaoda/slate_minimal",
+    "family":  "miaoda",
+    "name":  "slate_minimal",
+    "displayName":  "Slate Minimal",
+    "description":  "UI style prompt template for a Slate Minimal aesthetic.",
+    "tags":  [
+                 "slate",
+                 "minimal",
+                 "clean",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/slate_minimal",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/slate_minimal",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/slate_minimal/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/slate_minimal/gallery-1.png"
+                                ]
+                }
+}

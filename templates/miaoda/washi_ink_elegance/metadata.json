@@ -1,0 +1,34 @@
+﻿{
+    "id":  "miaoda/washi_ink_elegance",
+    "family":  "miaoda",
+    "name":  "washi_ink_elegance",
+    "displayName":  "Washi Ink Elegance",
+    "description":  "UI style prompt template for a Washi Ink Elegance aesthetic.",
+    "tags":  [
+                 "washi",
+                 "ink",
+                 "elegance",
+                 "organic",
+                 "paper",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/washi_ink_elegance",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/washi_ink_elegance",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/washi_ink_elegance/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/washi_ink_elegance/gallery-1.png"
+                                ]
+                }
+}

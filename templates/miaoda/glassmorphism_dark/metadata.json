@@ -1,0 +1,31 @@
+﻿{
+    "id":  "miaoda/glassmorphism_dark",
+    "family":  "miaoda",
+    "name":  "glassmorphism_dark",
+    "displayName":  "Glassmorphism Dark",
+    "description":  "UI style prompt template for a Glassmorphism Dark aesthetic.",
+    "tags":  [
+                 "glassmorphism",
+                 "dark",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/glassmorphism_dark",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/glassmorphism_dark",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/glassmorphism_dark/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/glassmorphism_dark/gallery-1.png"
+                                ]
+                }
+}

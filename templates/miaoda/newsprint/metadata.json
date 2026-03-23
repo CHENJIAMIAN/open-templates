@@ -1,0 +1,32 @@
+﻿{
+    "id":  "miaoda/newsprint",
+    "family":  "miaoda",
+    "name":  "newsprint",
+    "displayName":  "Newsprint",
+    "description":  "UI style prompt template for a Newsprint aesthetic.",
+    "tags":  [
+                 "newsprint",
+                 "editorial",
+                 "typography",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/newsprint",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/newsprint",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/newsprint/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/newsprint/gallery-1.png"
+                                ]
+                }
+}

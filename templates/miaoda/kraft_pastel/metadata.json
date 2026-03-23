@@ -1,0 +1,31 @@
+﻿{
+    "id":  "miaoda/kraft_pastel",
+    "family":  "miaoda",
+    "name":  "kraft_pastel",
+    "displayName":  "Kraft Pastel",
+    "description":  "UI style prompt template for a Kraft Pastel aesthetic.",
+    "tags":  [
+                 "kraft",
+                 "pastel",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/kraft_pastel",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/kraft_pastel",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/kraft_pastel/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/kraft_pastel/gallery-1.png"
+                                ]
+                }
+}

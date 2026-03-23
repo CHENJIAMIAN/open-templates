@@ -1,0 +1,32 @@
+﻿{
+    "id":  "miaoda/trendbook_editorial",
+    "family":  "miaoda",
+    "name":  "trendbook_editorial",
+    "displayName":  "Trendbook Editorial",
+    "description":  "UI style prompt template for a Trendbook Editorial aesthetic.",
+    "tags":  [
+                 "trendbook",
+                 "editorial",
+                 "typography",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/trendbook_editorial",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/trendbook_editorial",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/trendbook_editorial/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/trendbook_editorial/gallery-1.png"
+                                ]
+                }
+}

@@ -1,0 +1,33 @@
+﻿{
+    "id":  "miaoda/nebula_crimson",
+    "family":  "miaoda",
+    "name":  "nebula_crimson",
+    "displayName":  "Nebula Crimson",
+    "description":  "UI style prompt template for a Nebula Crimson aesthetic.",
+    "tags":  [
+                 "nebula",
+                 "crimson",
+                 "warm",
+                 "bold",
+                 "ui",
+                 "style"
+             ],
+    "sourcePath":  "templates/miaoda/nebula_crimson",
+    "entryFiles":  [
+                       "ui-template.md"
+                   ],
+    "initMode":  "copy-file",
+    "visibility":  "public",
+    "outputType":  "prompt-markdown",
+    "artifactHints":  [
+                          "Use the template as the prompt source for a UI generation pass.",
+                          "Capture a screenshot or rendered mockup that matches the style direction."
+                      ],
+    "examplePath":  "examples/miaoda/nebula_crimson",
+    "preview":  {
+                    "cover":  "showcase/assets/miaoda/nebula_crimson/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/miaoda/nebula_crimson/gallery-1.png"
+                                ]
+                }
+}

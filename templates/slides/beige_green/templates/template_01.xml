@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="Znyxbm6ESocu6BxbRMTcWVRZn7b" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="527.38" height="257.78" topLeftX="55.55" topLeftY="47.93" type="text">
+      <content textType="title" fontSize="66" fontFamily="寒蝉团圆体 黑体" color="rgba(234, 238, 197, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI大模型发展汇报</p>
+      </content>
+    </shape>
+    <shape width="101.41" height="20" topLeftX="818.64" topLeftY="58.70" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(234, 238, 197, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="101.41" height="28" topLeftX="818.64" topLeftY="78.70" type="text">
+      <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(234, 238, 197, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="169.30" height="20" topLeftX="750.75" topLeftY="139.88" type="text">
+      <content textType="sub-headline" fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(234, 238, 197, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="169.30" height="28" topLeftX="750.75" topLeftY="159.88" type="text">
+      <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(234, 238, 197, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>2025-12-28</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

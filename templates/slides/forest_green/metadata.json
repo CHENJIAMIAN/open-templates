@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/forest_green",
+    "family":  "slides",
+    "name":  "forest_green",
+    "displayName":  "Forest Green",
+    "description":  "Presentation slide template for Forest Green.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "forest",
+                 "green"
+             ],
+    "sourcePath":  "templates/slides/forest_green",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/forest_green",
+    "preview":  {
+                    "cover":  "forest_green/slide_pmA_W1N7bwZwSoRuqNxL5uQclrO8nMh.png",
+                    "gallery":  [
+                                    "forest_green/slide_pmA_W1N7bwZwSoRuqNxL5uQclrO8nMh.png",
+                                    "forest_green/slide_pmI_GFiZbF7XKod73vxnh49c9YtenQh.png",
+                                    "forest_green/slide_pmI_GH5vbOHfboLvlsxfjhxcKAGHnFd.png"
+                                ]
+                }
+}

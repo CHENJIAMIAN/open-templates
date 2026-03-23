@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="265.51" height="2" topLeftX="48.39" topLeftY="253.29" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(224, 190, 124, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="347.30" topLeftY="213.29" presetHandlers="0" alpha="0.60" type="rect">
+        <fill>
+          <fillColor color="rgba(224, 190, 124, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="646.76" topLeftY="173.29" presetHandlers="0" alpha="0.30" type="rect">
+        <fill>
+          <fillColor color="rgba(224, 190, 124, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="266" height="180" topLeftX="48.39" topLeftY="306" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>精通锂离子电池pack设计、热管理方案及BMS算法开发，掌握CTP/CTC等集成技术，能够独立完成从电芯选型到系统验证的全流程开发。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="48.39" topLeftY="273" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>电池系统</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.86" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>三电系统核心技术掌握</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="347.30" topLeftY="266" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>掌握永磁同步电机磁场定向控制技术，熟悉碳化硅器件应用，通过仿真与台架测试将电机效率提升至97%。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="347.30" topLeftY="233" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>电驱系统</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="646.76" topLeftY="226" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>具备整车VCU开发经验，实现多能源模式无缝切换功能，故障诊断覆盖率达98%以上。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="646.64" topLeftY="193" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>电控系统</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,35 @@
+﻿{
+    "id":  "slides/child_friendly_brown",
+    "family":  "slides",
+    "name":  "child_friendly_brown",
+    "displayName":  "Child Friendly Brown",
+    "description":  "Presentation slide template for Child Friendly Brown.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "child",
+                 "friendly",
+                 "brown"
+             ],
+    "sourcePath":  "templates/slides/child_friendly_brown",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/child_friendly_brown",
+    "preview":  {
+                    "cover":  "child_friendly_brown/slide_pAA_ACUsbzKsbo5rSKxbJEDcizb2nXd.png",
+                    "gallery":  [
+                                    "child_friendly_brown/slide_pAA_ACUsbzKsbo5rSKxbJEDcizb2nXd.png",
+                                    "child_friendly_brown/slide_pAB_H6XrbYk2goEvAExrQHdcdMGfnWc.png",
+                                    "child_friendly_brown/slide_pAB_O6w7bkwNHoRw2yx2goFcHHXKnsh.png"
+                                ]
+                }
+}

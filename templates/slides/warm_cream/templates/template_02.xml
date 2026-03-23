@@ -1,0 +1,90 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 1, 7, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48" startY="119.96" endX="912" endY="119.96" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="200" height="66" topLeftX="47.87" topLeftY="270.51" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动概述</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="47.87" topLeftY="223.51" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="268.34" topLeftY="270.51" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>场地选择与布局</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="268.34" topLeftY="223.51" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="488.81" topLeftY="270.51" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动流程设计</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="488.81" topLeftY="223.51" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="709.28" topLeftY="270.51" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>预算规划</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="709.28" topLeftY="223.51" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="47.87" topLeftY="417.27" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>执行团队与分工</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="47.87" topLeftY="370.27" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="268.34" topLeftY="417.27" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>风险评估与应急预案</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="268.34" topLeftY="370.27" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>06</p>
+      </content>
+    </shape>
+    <shape width="200" height="66" topLeftX="488.81" topLeftY="417.27" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>宣传与氛围营造</p>
+      </content>
+    </shape>
+    <shape width="65" height="45" topLeftX="488.81" topLeftY="370.27" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>07</p>
+      </content>
+    </shape>
+    <shape width="864" height="54" topLeftX="48.48" topLeftY="37.72" type="text">
+      <content textType="title" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目录</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

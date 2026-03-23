@@ -1,0 +1,43 @@
+<slide>
+    <style/>
+    <data>
+      <img src="DbWMbI10jocRNdx15L1cgfXLn1g" width="455.62" height="540" topLeftX="0" topLeftY="0" saturation="-12" temperature="14">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="309" height="42" topLeftX="549.79" topLeftY="105.99" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="28" fontFamily="思源宋体" bold="false">「起 · 承 · 转 · 合」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="409" height="108" topLeftX="499.79" topLeftY="244.75" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">草木与光影的流动、</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">灵感取自山林。</span>
+            <br/>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">不追求繁复装饰，而重在真实与克制的表达</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">从自然中来，回到生活之中。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="704.29" startY="175.37" endX="704.29" endY="213.02">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="208" height="54" topLeftX="600.29" topLeftY="397.55" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="12">本页用于展示整体背景、设计灵感或主题概念，以轻柔的图像与文字开场，营造东方雅意。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

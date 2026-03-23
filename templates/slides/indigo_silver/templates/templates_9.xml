@@ -1,0 +1,82 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="832.99" height="46.85" topLeftX="63.51" topLeftY="26.06" type="text">
+      <content textType="sub-headline" fontSize="32" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1.4">Blockers</p>
+      </content>
+    </shape>
+    <shape width="820.87" height="18.62" topLeftX="75.63" topLeftY="72.91" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="center" autoFit="normal-auto-fit">
+        <p>A review of key blockers that impacted goal progression</p>
+      </content>
+    </shape>
+    <shape width="272.60" height="316.64" topLeftX="63.51" topLeftY="168.69" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="272.60" height="33.12" topLeftX="63.51" topLeftY="127.03" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>Late Alignment</p>
+      </content>
+    </shape>
+    <shape width="272.60" height="316.64" topLeftX="343.70" topLeftY="168.69" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="272.60" height="33.12" topLeftX="343.70" topLeftY="127.03" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>Information Lag</p>
+      </content>
+    </shape>
+    <shape width="272.60" height="316.64" topLeftX="623.89" topLeftY="168.69" presetHandlers="16" alpha="0.45" type="round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)"/>
+    </shape>
+    <shape width="272.60" height="33.12" topLeftX="623.89" topLeftY="127.03" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>Fragmented Focus</p>
+      </content>
+    </shape>
+    <shape width="226.46" height="148.06" topLeftX="81.51" topLeftY="312.74" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Several key goals lacked sufficient early alignment, resulting in repeated adjustments during execution and impacting overall momentum.</p>
+      </content>
+    </shape>
+    <shape width="226.46" height="148.06" topLeftX="366.77" topLeftY="312.74" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>Delays in cross-team information sharing caused certain decisions to lag behind execution needs.</p>
+      </content>
+    </shape>
+    <shape width="226.46" height="148.06" topLeftX="646.96" topLeftY="312.74" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>With multiple initiatives running in parallel, frequent context switching reduced sustained focus on critical paths.</p>
+      </content>
+    </shape>
+    <icon width="72" height="72" topLeftX="163.81" topLeftY="215.51" iconType="iconpark/Edit/list.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="72" height="72" topLeftX="444" topLeftY="215.51" iconType="iconpark/Office/log.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="72" height="72" topLeftX="724.19" topLeftY="215.51" iconType="iconpark/Base/equalizer.svg">
+      <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

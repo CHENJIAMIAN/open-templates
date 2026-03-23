@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="823.21" height="94.51" topLeftX="75.32" topLeftY="26.06" type="text">
+      <content textType="headline" fontSize="60" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>
+          <span fontSize="60">Lessons learned</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="394.99" height="84" topLeftX="75.32" topLeftY="133.46" type="text">
+      <content textType="caption" fontSize="11" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>
+          We learned that the effectiveness of goals is highly dependent on the clarity of underlying assumptions. When assumptions are insufficiently validated, execution tends to amplify downstream adjustment costs.
+          <br/>
+          Aligning understanding earlier often delivers greater overall efficiency than simply moving faster.
+        </p>
+      </content>
+    </shape>
+    <img src="AAhab5lZ6oz3lxx5qUecmrRQncg" width="837.05" height="270" topLeftX="61.48" topLeftY="270">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="394.99" height="84" topLeftX="502.43" topLeftY="133.46" type="text">
+      <content textType="caption" fontSize="11" fontFamily="Inter" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+        <p>We observed that collaboration bottlenecks stem less from communication frequency and more from misaligned cadence. When decision-making, execution, and feedback fall out of sync, teams tend to operate reactively.</p>
+        <p>Establishing a stable rhythm proves more valuable long term than optimizing individual processes.</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

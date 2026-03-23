@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="280" height="46" topLeftX="48.07" topLeftY="266.16" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="340" topLeftY="200.38" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="46" topLeftX="633.07" topLeftY="135.38" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标设定的战略对齐原则</p>
+      </content>
+    </shape>
+    <shape width="236" height="170" topLeftX="64.55" topLeftY="321.72" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>从管理层确认核心战略目标（如“年度营收增长30%”“新产品销售额占比20%”）</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="64.55" topLeftY="271.16" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>解读公司战略</p>
+      </content>
+    </shape>
+    <shape width="236" height="170" topLeftX="356.48" topLeftY="255.94" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>将战略目标转化为销售团队可执行的核心任务，例如公司战略为“提升高端市场份额”，销售目标可设定为“高端客户销售额占比≥40%”</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="356.48" topLeftY="205.38" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>提炼销售任务</p>
+      </content>
+    </shape>
+    <shape width="236" height="170" topLeftX="649.55" topLeftY="190.94" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>确保每个销售目标都能直接回答“如何帮助公司实现战略”，避免目标断层或重复</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="649.55" topLeftY="140.38" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>校验对齐性</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

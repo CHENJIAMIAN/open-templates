@@ -1,0 +1,80 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(50, 58, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="820" height="46" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>新能源汽车市场发展态势</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="111.34" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>呈现三足鼎立格局，中国、欧洲、北美成为核心增长极，中国凭借完整产业链优势占据全球50%以上市场份额</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="111.34" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场格局</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="374.97" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>呈现多元化竞争态势，纯电动(BEV)、插电混动(PHEV)、增程式(EREV)等方案并行发展，头部车企纷纷布局800V高压快充平台以获取差异化优势</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="374.97" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术路线</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="638.60" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>垂直整合趋势显著，动力电池领域呈现"一超多强"格局，车企通过自建电池工厂、入股锂矿等方式强化供应链控制</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="638.60" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>供应链整合</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="111.34" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="374.97" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="638.60" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉德黑体" color="rgba(224, 190, 124, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

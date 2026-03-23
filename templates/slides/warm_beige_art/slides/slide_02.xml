@@ -1,0 +1,63 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(247, 244, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="354.11" endX="912" endY="354.11" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="ENUpb06Sdor4rwxeG4CcYQY1nZb" width="960" height="239.44" topLeftX="0" topLeftY="-0.01">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="120.28" bottomOffset="120.28" presetHandlers="0"/>
+      </img>
+      <shape width="864" height="54" topLeftX="48.48" topLeftY="276.87" type="text">
+        <content textType="title" fontSize="36" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="47.87" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>传统经典艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="268.34" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>东方艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="268.34" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="488.81" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴数字与跨界风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="488.81" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="709.28" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特色艺术风格</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="709.28" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(20, 121, 175, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

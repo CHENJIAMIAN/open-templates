@@ -1,0 +1,33 @@
+﻿{
+    "id":  "slides/teal",
+    "family":  "slides",
+    "name":  "teal",
+    "displayName":  "Teal",
+    "description":  "Presentation slide template for Teal.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "teal"
+             ],
+    "sourcePath":  "templates/slides/teal",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/teal",
+    "preview":  {
+                    "cover":  "teal/slide_pZb_FZSDbGpNqodc8QxoaMDcW2Ounig.png",
+                    "gallery":  [
+                                    "teal/slide_pZb_FZSDbGpNqodc8QxoaMDcW2Ounig.png",
+                                    "teal/slide_pZG_NV3ebfh7fo6vgIxkrtAcbnxdnLb.png",
+                                    "teal/slide_pZG_OWUtbRHi1ot0ELxYNKEclYHFnHe.png"
+                                ]
+                }
+}

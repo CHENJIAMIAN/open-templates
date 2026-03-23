@@ -1,0 +1,1524 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>05</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="560" height="20" topLeftX="0" topLeftY="520" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="400" height="540" topLeftX="560" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="880.03" topLeftY="0" presetHandlers="0" alpha="0.40" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="389" height="107" topLeftX="42.54" topLeftY="48" type="text">
+        <content fontSize="38" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="38" fontFamily="寒蝉德黑体">算力新纪元</span>
+            <br/>
+            <span color="rgba(255, 255, 255, 1)" fontSize="38" fontFamily="寒蝉德黑体">构建大模型驱动的智能未来</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="170" height="30" topLeftX="59.40" topLeftY="178" alpha="0.70" type="text">
+        <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="20" fontFamily="寒蝉德黑体">挑战、机遇与路径探索</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="2" height="26.85" topLeftX="45.54" topLeftY="180.44" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 230, 87, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="800.07" topLeftY="48.25" presetHandlers="0" alpha="0.20" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="720.10" topLeftY="96.50" presetHandlers="0" alpha="0.20" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="48.25" presetHandlers="0" alpha="0.15" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="560" topLeftY="0" presetHandlers="0" alpha="0.14" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="720.10" topLeftY="0" presetHandlers="0" alpha="0.49" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="0" presetHandlers="0" alpha="0.10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="720.02" topLeftY="48.25" presetHandlers="0" alpha="0.20" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="560" topLeftY="96.50" presetHandlers="0" alpha="0.12" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="800.07" topLeftY="0" presetHandlers="0" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="880.03" topLeftY="96.50" presetHandlers="0" alpha="0.06" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="639.97" topLeftY="96.50" presetHandlers="0" alpha="0.04" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="144.75" presetHandlers="0" alpha="0.18" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="222.89" height="192" topLeftX="599.98" topLeftY="55" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" autoFit="shape-auto-fit">
+          <p>展望大模型算力的未来发展方向，探讨如何应对算力瓶颈，构建开放、协作、共赢的算力生态。</p>
+          <p>
+            <br/>
+          </p>
+          <p/>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="59" height="24" topLeftX="867.19" topLeftY="453.18" alpha="0.54" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false">演讲人</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="74" height="24" topLeftX="852.19" topLeftY="480" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false">李天天</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="500" presetHandlers="0" alpha="0.80" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="480" presetHandlers="0" alpha="0.70" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="460" presetHandlers="0" alpha="0.60" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="440" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="420" presetHandlers="0" alpha="0.40" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="400" presetHandlers="0" alpha="0.30" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="380" presetHandlers="0" alpha="0.20" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="560" height="20" topLeftX="0" topLeftY="360" presetHandlers="0" alpha="0.10" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="351" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="30" fontFamily="寒蝉德黑体">2024 大模型算力资源占比分布</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="306" height="54" topLeftX="47.62" topLeftY="166.65" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体">2024 年，我们的大模型业务总算力投入达 120 EFLOPS，较 2023 年实现 30% 的规模增长；其中核心算力（训练、推理）占比超 60%，配套支撑类算力占比约 40%。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="306" height="54" topLeftX="47.62" topLeftY="428.44" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12">基于当前算力规划，我们预计在业务持续扩容的同时，2026 年实现整体算力能效（每 EFLOPS 能耗）再降 20%。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="306" height="54" topLeftX="47.62" topLeftY="284.20" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体">业务扩张带动算力需求同比提升 20%，但通过集群优化、动态调度等技术手段，单位算力支撑的模型训练效率较去年提升 15%。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="306" height="21" topLeftX="47.62" topLeftY="137.95" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">2024 总算力规模与结构</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="306" height="21" topLeftX="47.62" topLeftY="254.50" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">算力效率优化成果</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="248.42" height="248.42" topLeftX="467.38" topLeftY="78.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="100" height="72" topLeftX="541.59" topLeftY="156.31" type="text">
+        <content fontSize="48" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="48" fontFamily="Prompt" bold="false">42%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="101" height="18" topLeftX="541.09" topLeftY="225.31" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)">训练集群算力</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="177.95" height="177.95" topLeftX="570.87" topLeftY="322.57" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="61" height="51" topLeftX="629.80" topLeftY="376.27" type="text">
+        <content fontSize="34" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="34" fontFamily="Prompt">17%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="98.26" height="18" topLeftX="610.71" topLeftY="420.69" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>算力调度平台</p>
+        </content>
+      </shape>
+      <shape width="189.26" height="189.26" topLeftX="705.26" topLeftY="188.65" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="78" height="57" topLeftX="760.90" topLeftY="246.50" type="text">
+        <content fontSize="38" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="38" fontFamily="Prompt">22%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="93" height="18" topLeftX="753.40" topLeftY="295.84" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>推理服务算力</p>
+        </content>
+      </shape>
+      <shape width="127.36" height="127.36" topLeftX="703.26" topLeftY="60.58" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="42" height="42" topLeftX="747.94" topLeftY="93.57" type="text">
+        <content fontSize="28" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="28" fontFamily="Prompt">9%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="78.66" height="18" topLeftX="727.61" topLeftY="127.95" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>算力调度平台</p>
+        </content>
+      </shape>
+      <shape width="111.48" height="111.48" topLeftX="461.31" topLeftY="315.18" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="38" height="39" topLeftX="500.41" topLeftY="342.81" type="text">
+        <content fontSize="26" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="26" fontFamily="Prompt">7%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="70" height="15" topLeftX="482.05" topLeftY="378.53" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="10">模型微调算力</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="89.16" height="89.16" topLeftX="750.32" topLeftY="400.86" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="33" height="33" topLeftX="778.40" topLeftY="420.97" type="text">
+        <content fontSize="22" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="22" fontFamily="Prompt">4%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="60.72" height="15" topLeftX="766.90" topLeftY="448.53" alpha="0.60" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="10">模型微调算力</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="62.16" height="62.16" topLeftX="828.75" topLeftY="367.79" alpha="0.68" type="ellipse">
+        <border color="rgba(43, 47, 54, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="27" height="27" topLeftX="847.33" topLeftY="380.92" type="text">
+        <content fontSize="18" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="18" fontFamily="Prompt">2%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="43" height="11" topLeftX="839.98" topLeftY="403.11" alpha="0.60" type="text">
+        <content fontSize="7" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(255, 255, 255, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>其他算力损耗</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 238, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540.61" height="540" topLeftX="419.39" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <chart width="451.71" height="396.18" topLeftX="463.19" topLeftY="105.52" id="bau">
+        <chartPlotArea>
+          <chartPlot type="column">
+            <chartExtra/>
+            <chartLabels color="rgb(255, 255, 255)" position="outside" series="true" bold="true"/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(64, 64, 64)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(207, 242, 103)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="x">
+              <chartAxisLine/>
+              <chartLabel fontSize="10" color="rgb(161, 161, 161)"/>
+            </chartAxis>
+            <chartAxis type="y" position="left"/>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="单位算力支撑的模型训练 Token 量">2024,2025,,</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="Q1">1.2,5.5,,</chartField>
+            <chartField name="Q2">1.8,7.8,,</chartField>
+            <chartField name="">,,,</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle color="rgb(255, 255, 255)">2023 第二季度大学学费</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(0, 0, 0)"/>
+          <chartFont color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(0, 0, 0)"/>
+        </chartStyle>
+      </chart>
+      <shape width="403" height="48" topLeftX="488.19" topLeftY="58.52" alpha="0.80" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16">单位算力支撑的模型训练</span>
+            <br/>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16">Token 量（万亿 Token/EFLOPS）</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="230" height="45" topLeftX="47.62" topLeftY="100.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">大模型算力核心增长</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="70" height="60" topLeftX="47.62" topLeftY="177.10" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="40">12.8</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="58" height="24" topLeftX="124.62" topLeftY="201.60" type="text">
+        <content fontSize="16" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="16">EFLOPS</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="310" height="54" topLeftX="47.62" topLeftY="234.10" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">Q2 新增算力集群规模，算力资源分散、调度杂乱，会大幅拖慢模型迭代速度 —— 把算力集群统一管理起来，效率才能翻倍。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="74" height="60" topLeftX="47.62" topLeftY="322.94" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="40">41%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="310" height="36" topLeftX="47.62" topLeftY="377.94" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)">Q3 算力支撑效率同比提升。统一调度 + 资源复用的模式，让相同算力能支撑更多模型训练 / 推理任务。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="93" height="60" topLeftX="603.63" topLeftY="46.27" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" fontSize="40">1.25x</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="288.58" height="36" topLeftX="603.63" topLeftY="104.27" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>通过模型并行技术，将训练速度提升 25%，显著提升迭代速度。</p>
+        </content>
+      </shape>
+      <shape width="83" height="60" topLeftX="603.63" topLeftY="163.25" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" fontSize="40">85%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="82" height="60" topLeftX="603.63" topLeftY="278.50" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" fontSize="40">3.0x</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="289.54" height="36" topLeftX="603.63" topLeftY="221.11" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>智能调度系统将 GPU 集群平均利用率从 60% 提升至 85%，大幅降低单位算力成本。</p>
+        </content>
+      </shape>
+      <shape width="73" height="60" topLeftX="603.63" topLeftY="399.28" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" fontSize="40">15%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="289.54" height="36" topLeftX="603.63" topLeftY="336.89" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>引入动态批处理和算子融合优化，推理吞吐量提升 3 倍，支撑更高并发请求。</p>
+        </content>
+      </shape>
+      <shape width="289.54" height="36" topLeftX="603.63" topLeftY="453.73" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>综合运用多种优化策略，单位 Token 的训练成本成功降低 15%。</p>
+        </content>
+      </shape>
+      <chart width="538.98" height="406.86" topLeftX="22.54" topLeftY="110.27" id="bpg">
+        <chartPlotArea>
+          <chartPlot type="area">
+            <chartExtra>
+              <chartSmooth/>
+              <chartStack/>
+            </chartExtra>
+            <chartAreas/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartLine color="rgb(207, 242, 103)"/>
+                <chartArea color="rgb(207, 242, 103)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="y" position="left" max="5" min="0">
+              <chartGridLine color="rgb(60, 60, 60)"/>
+            </chartAxis>
+            <chartAxis type="y" position="right" min="40"/>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="月份">1 月,2 月,3 月,4 月,5 月,6 月</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="身高（cm)">1.6,1.7,2.4,2.9,3.4,4.2</chartField>
+            <chartField name="">,,,,,</chartField>
+          </dim2>
+        </chartData>
+        <chartStyle>
+          <chartBackground color="rgb(0, 0, 0)"/>
+          <chartFont color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(0, 0, 0)"/>
+        </chartStyle>
+      </chart>
+      <shape width="306" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">大模型算力成本与效率分析</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="502.13" height="180" topLeftX="457.82" topLeftY="360" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="linear-gradient(90deg,rgba(255, 255, 255, 0.11) 0%,rgba(255, 255, 255, 0) 100%)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="502.13" height="180" topLeftX="457.82" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="linear-gradient(90deg,rgba(255, 255, 255, 0.11) 0%,rgba(255, 255, 255, 0) 100%)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="182.22" height="90" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>算力生态系统与应用影响</p>
+        </content>
+      </shape>
+      <shape width="301.96" height="20" topLeftX="47.62" topLeftY="332.30" alpha="0.85" type="text">
+        <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>赋能开发者与企业创新</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="337.47" height="39" topLeftX="47.62" topLeftY="358.17" alpha="0.60" type="text">
+        <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>开放的算力生态激发了开发者的创造力，催生了丰富的 AI 应用和工具链。</p>
+        </content>
+      </shape>
+      <shape width="301.96" height="20" topLeftX="47.62" topLeftY="426.69" alpha="0.85" type="text">
+        <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>驱动行业智能化转型</p>
+        </content>
+      </shape>
+      <shape width="311.96" height="39" topLeftX="47.62" topLeftY="452.56" alpha="0.60" type="text">
+        <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>算力生态的成熟正在为千行百业提供强大的 AI 动力，推动决策优化、效率提升和服务升级。</p>
+        </content>
+      </shape>
+      <line startX="701.02" startY="0" endX="702.02" endY="540">
+        <border color="rgba(66, 66, 66, 1)" width="1"/>
+      </line>
+      <line startX="457.29" startY="179.93" endX="960.47" endY="179.93">
+        <border color="rgba(66, 66, 66, 1)" width="1"/>
+      </line>
+      <line startX="457.29" startY="359.27" endX="960.47" endY="359.27">
+        <border color="rgba(66, 66, 66, 1)" width="1"/>
+      </line>
+      <line startX="457.86" startY="0" endX="457.86" endY="540">
+        <border color="rgba(66, 66, 66, 1)" width="1"/>
+      </line>
+      <shape width="116" height="60" topLeftX="507.94" topLeftY="227.50" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">99.9%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="169" height="18" topLeftX="507.94" topLeftY="282.50" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>全球接入的开发者与企业</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="128" height="60" topLeftX="761.97" topLeftY="227.50" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>200PB</p>
+        </content>
+      </shape>
+      <shape width="183" height="18" topLeftX="761.97" topLeftY="282.50" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>行业解决方案落地</p>
+        </content>
+      </shape>
+      <shape width="67" height="60" topLeftX="761.97" topLeftY="43.36" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">50+</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="183" height="18" topLeftX="761.97" topLeftY="98.36" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>行业解决方案落地</p>
+        </content>
+      </shape>
+      <shape width="112" height="60" topLeftX="507.94" topLeftY="43.36" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)">1000+</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="169" height="18" topLeftX="507.94" topLeftY="98.36" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>全球接入的开发者与企业</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="87" height="60" topLeftX="761.97" topLeftY="405.41" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>40%</p>
+        </content>
+      </shape>
+      <shape width="183" height="18" topLeftX="761.97" topLeftY="460.41" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>行业解决方案落地</p>
+        </content>
+      </shape>
+      <shape width="73" height="60" topLeftX="507.94" topLeftY="405.41" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>15%</p>
+        </content>
+      </shape>
+      <shape width="169" height="18" topLeftX="507.94" topLeftY="460.41" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>全球接入的开发者与企业</strong>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="166" height="151.58" topLeftX="47.17" topLeftY="182.54" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="357" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">大模型实时推理性能与用户体验</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="630" height="36" topLeftX="47.62" topLeftY="104.15" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">它直接关系到从用户输入指令到模型生成回复的响应速度、对话过程的流畅度以及系统在高并发访问下的稳定性。卓越的实时推理性能，意味着用户能获得近乎即时的交互反馈，享受如与人对话般自然、流畅的体验。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="68" height="60" topLeftX="65.81" topLeftY="270" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(207, 242, 103, 1)" fontSize="40">5.1S</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142" height="18" topLeftX="65.81" topLeftY="201.33" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>平均单次推理响应时间</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="510.34" height="151.58" topLeftX="47.17" topLeftY="339.07" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(207, 242, 103, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="166" height="151.58" topLeftX="218.86" topLeftY="182.54" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(237, 238, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="166" height="151.58" topLeftX="391.51" topLeftY="182.54" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(237, 238, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="344.44" height="308.11" topLeftX="563.20" topLeftY="182.54" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(237, 238, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="80" height="60" topLeftX="234.34" topLeftY="270" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">25M</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142" height="18" topLeftX="234.34" topLeftY="201.33" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(28, 29, 26, 1)">日处理推理请求峰值</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="60" topLeftX="410.03" topLeftY="270" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">3K+</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142" height="18" topLeftX="412" topLeftY="201.33" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(28, 29, 26, 1)">并发用户支撑数</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="116" height="60" topLeftX="65.81" topLeftY="424.26" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>99.9%</p>
+        </content>
+      </shape>
+      <shape width="142" height="18" topLeftX="65.81" topLeftY="353.39" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(31, 35, 41, 1)">SLA 服务可用性</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="432" height="36" topLeftX="65.81" topLeftY="376.51" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">通过多区域部署和容灾备份机制，实现了 99.9% 的服务等级协议（SLA），确保业务连续性。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="60" topLeftX="586.10" topLeftY="424.26" type="text">
+        <content fontSize="40" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">86.7%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="100" height="18" topLeftX="586.10" topLeftY="201.33" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">用户满意度</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="302" height="90" topLeftX="586.10" topLeftY="226.20" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">根据用户调研反馈，86% 的用户对当前大模型应用的响应速度和交互流畅度表示满意。</span>
+          </p>
+          <p/>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="357" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">大模型算力需求的学科驱动分析</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="630" height="54" topLeftX="47.62" topLeftY="104.15" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">本图展示了驱动大模型算力需求增长的主要学科领域分布。人工智能与机器学习作为核心引擎，贡献了超过五分之一的算力需求。同时，高性能计算和数据科学等支撑学科的需求也占据了重要地位，反映了大模型发展对底层算力基础设施和海量数据处理能力的强劲依赖。</span>
+          </p>
+        </content>
+      </shape>
+      <chart width="894.59" height="357.27" topLeftX="30.47" topLeftY="162.53" id="bKy">
+        <chartPlotArea>
+          <chartPlot type="bar">
+            <chartExtra>
+              <chartStack/>
+            </chartExtra>
+            <chartBars borderColor="rgb(255, 255, 255)" borderWidth="2"/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(237, 245, 211)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(222, 245, 152)"/>
+              </chartSeries>
+              <chartSeries index="3">
+                <chartBars color="rgb(207, 242, 103)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="2023第二季度">人工智能与机器学习,高性能计算,数据科学与大数据,计算机体系结构,软件工程,网络与分布式系统</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="阶段一">5425,3550,4800,2400,3123,4023</chartField>
+            <chartField name="阶段二">6251,4580,5250,4700,3456,3803</chartField>
+            <chartField name="阶段三">3650,4400,3850,3200,2043,4678</chartField>
+          </dim2>
+        </chartData>
+        <chartStyle>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="527.03" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(237, 238, 241, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="300" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">2025 年算力市场规模预测</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="185.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="224.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36" topLeftX="49.62" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36" topLeftX="88.13" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36" topLeftX="126.64" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36" topLeftX="165.15" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36" topLeftX="203.66" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36" topLeftX="242.17" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36" topLeftX="280.81" topLeftY="263.88" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(194, 197, 202, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="303.69" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="343" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(193, 230, 83, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="381.35" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="49.62" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="88.13" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="126.64" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="165.15" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="35.87" height="36.13" topLeftX="203.66" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="242.17" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="36" height="36.13" topLeftX="280.81" topLeftY="420.66" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(28, 29, 26, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="222.67" height="54.90" topLeftX="582.74" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="30">商业变现核心路径</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="39.77" height="45" topLeftX="876.07" topLeftY="178.38" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(233, 234, 236, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(233, 234, 236, 1)">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="160.35" height="18" topLeftX="582.74" topLeftY="186.26" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="14">构建弹性算力池</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="267.19" height="43" topLeftX="582.74" topLeftY="211.12" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">通过整合和调度异构算力资源，形成可按需分配的弹性算力池，满足不同客户的多样化需求。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="39.77" height="45" topLeftX="876.07" topLeftY="276.88" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(233, 234, 236, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(233, 234, 236, 1)">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="160.35" height="18" topLeftX="582.74" topLeftY="284.75" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="14">提供行业解决方案</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="267.19" height="39.52" topLeftX="582.74" topLeftY="309.62" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">深入理解各行业的业务痛点，结合大模型能力，提供一站式的行业 AI 解决方案，创造更高价值。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="39.77" height="45" topLeftX="876.07" topLeftY="380.42" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(233, 234, 236, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(233, 234, 236, 1)">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="139.35" height="18" topLeftX="582.74" topLeftY="388.29" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="14">打造 AI 应用市场</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="267.19" height="45" topLeftX="582.74" topLeftY="413.15" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">构建开放的 AI 应用平台，赋能开发者在其上创建和分发应用，形成生态闭环，实现价值共创。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="60.68" height="45" topLeftX="362.62" topLeftY="386.83" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">280</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="186.30" height="36" topLeftX="362.62" topLeftY="429.83" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">AI 即服务 (AIaaS)</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="16.29" height="22" topLeftX="425.30" topLeftY="402.66" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false">
+          <p>
+            <span color="rgba(28, 29, 26, 1)" fontSize="14" bold="false">亿</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="60.68" height="45" topLeftX="362.62" topLeftY="300.35" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(164, 215, 18, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(164, 215, 18, 1)">320</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="187" height="21" topLeftX="362.62" topLeftY="343.35" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(164, 215, 18, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(164, 215, 18, 1)">企业级解决方案</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="16.29" height="22" topLeftX="425.30" topLeftY="316.82" alpha="0.60" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(164, 215, 18, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false">
+          <p>
+            <span color="rgba(164, 215, 18, 1)" fontSize="14" bold="false">亿</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="60.68" height="45" topLeftX="362.62" topLeftY="207.88" type="text">
+        <content fontSize="32" fontFamily="Prompt" color="rgba(163, 171, 178, 1)" bold="false" wrap="false">
+          <p>
+            <span color="rgba(163, 171, 178, 1)">390</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="187" height="21" topLeftX="362.62" topLeftY="250.88" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(163, 171, 178, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(163, 171, 178, 1)" fontSize="14">算力租赁服务</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="16.29" height="22" topLeftX="424.30" topLeftY="225.38" alpha="0.60" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(66, 66, 66, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false">
+          <p>
+            <span fontSize="14" bold="false">亿</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="419.29" height="43" topLeftX="49.62" topLeftY="105.64" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">全球大模型算力市场正迎来爆发式增长，预计到 2025 年，整体市场规模将突破千亿美元大关，年复合增长率超过 50%。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="332.10" height="43" topLeftX="582.74" topLeftY="105.64" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(28, 29, 26, 1)">全球大模型算力市场正迎来爆发式增长，预计到 2025 年，整体市场规模将突破千亿美元大关，年复合增长率超过 50%。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="582.74" startY="266.14" endX="914.84" endY="266.14">
+        <border color="rgba(237, 238, 241, 1)" width="1"/>
+      </line>
+      <line startX="582.74" startY="366.76" endX="914.84" endY="366.76">
+        <border color="rgba(237, 238, 241, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="230" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+        <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" autoFit="shape-auto-fit" wrap="false">
+          <p>算力调度与资源优化</p>
+        </content>
+      </shape>
+      <shape width="404.95" height="60.69" topLeftX="49.62" topLeftY="106.89" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>该系统通过动态资源分配、任务优先级管理和集群负载均衡等策略，旨在最大化提升算力资源利用率，缩短任务完成时间，并确保整个计算集群的稳定高效运行。</p>
+        </content>
+      </shape>
+      <shape width="44" height="36" topLeftX="50.62" topLeftY="407.49" type="text">
+        <content fontSize="24" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="24" fontFamily="Prompt" bold="false">15%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="190" height="51" topLeftX="50.62" topLeftY="450.27" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>通过智能调度算法，将 GPU 集群的整体利用率从 75% 提升至 90%。</p>
+        </content>
+      </shape>
+      <shape width="183.59" height="51" topLeftX="270.98" topLeftY="450.27" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>优化任务队列管理，使模型训练任务的平均等待时间缩短 25%。</p>
+        </content>
+      </shape>
+      <icon width="32.01" height="32.01" topLeftX="49.62" topLeftY="367.09" iconType="iconpark/Travel/international.svg">
+        <border color="rgba(172, 172, 172, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32" height="32" topLeftX="270.98" topLeftY="367.09" iconType="iconpark/Base/hourglass-null.svg">
+        <border color="rgba(172, 172, 172, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="49" height="36" topLeftX="270.98" topLeftY="407.49" type="text">
+        <content fontSize="24" fontFamily="Prompt" color="rgba(28, 29, 26, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+          <p>25%</p>
+        </content>
+      </shape>
+      <shape width="414.27" height="444" topLeftX="499.34" topLeftY="48.40" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <chart width="404.29" height="276.21" topLeftX="509.32" topLeftY="99.89" id="bKq">
+        <chartPlotArea>
+          <chartPlot type="pie" yAxisPosition="right">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartSectors borderColor="rgb(28, 29, 26)" innerRadius="0.732">
+                  <chartSector index="1" borderColor="rgb(28, 29, 26)" color="rgb(207, 242, 103)"/>
+                  <chartSector index="2" borderColor="rgb(28, 29, 26)" color="rgb(51, 54, 44)"/>
+                  <chartSector index="3" borderColor="rgb(28, 29, 26)" color="rgb(113, 114, 107)"/>
+                  <chartSector index="4" borderColor="rgb(28, 29, 26)" color="rgb(255, 235, 166)"/>
+                </chartSectors>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="满意度">GPU 硬件成本,电力与制冷成本,人力与研发成本,数据与存储成本</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="反馈次数">455,655,160,160</chartField>
+          </dim2>
+        </chartData>
+        <chartStyle>
+          <chartBackground color="rgb(0, 0, 0)"/>
+          <chartFont color="rgb(145, 145, 145)"/>
+          <chartBorder color="rgb(0, 0, 0)"/>
+        </chartStyle>
+      </chart>
+      <shape width="382.29" height="24" topLeftX="524.14" topLeftY="70.90" alpha="0.80" type="text">
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>大模型训练成本构成分析</p>
+        </content>
+      </shape>
+      <line startX="523.64" startY="397.01" endX="881.10" endY="398.01" alpha="0.18">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="356.45" height="60.69" topLeftX="526.15" topLeftY="415.92" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">从成本构成来看，GPU 硬件成本无疑是大模型训练中最主要的开销，占据了总成本的 45%，这凸显了高性能计算硬件在 AI 研发中的核心地位。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,95 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="191.20" height="107" topLeftX="530.19" topLeftY="279.16" presetHandlers="7" type="round-rect">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="191.20" height="107" topLeftX="732.66" topLeftY="279.16" presetHandlers="7" type="round-rect">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="191.20" height="107" topLeftX="732.66" topLeftY="398.04" presetHandlers="7" type="round-rect">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="191.20" height="107" topLeftX="530.19" topLeftY="398.04" presetHandlers="7" type="round-rect">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="60.01" height="60.01" topLeftX="32.05" topLeftY="416.22" type="donut">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="60.01" height="60.01" topLeftX="118.06" topLeftY="416.22" type="donut">
+      <fill>
+        <fillColor color="rgba(219, 239, 246, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="60.01" height="60.01" topLeftX="204.07" topLeftY="416.22" type="donut">
+      <fill>
+        <fillColor color="rgba(20, 13, 71, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="60.01" height="60.01" topLeftX="290.08" topLeftY="416.22" alpha="0.65" type="donut">
+      <fill>
+        <fillColor color="rgba(250, 225, 201, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="241.48" height="107" topLeftX="32.05" topLeftY="34.60" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="36" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <span fontSize="36" fontFamily="寒蝉锦书宋" bold="false">图形元素</span>
+        </p>
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="36" fontFamily="寒蝉锦书宋" bold="false">的作用</span>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="109" height="18" topLeftX="32.05" topLeftY="279.16" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+        <p>
+          <strong>
+            <span fontFamily="思源黑体">使用权限说明</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="393.67" height="60.01" topLeftX="32.05" topLeftY="300.16" alpha="0.45" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4">
+        <p>
+          <span fontSize="12">图形用于增强版面的识别度、结构性与节奏感，并在不同页面中维持统一的视觉调性。不喧宾夺主，不影响信息阅读，在保证留白的前提下适度使用，仅在关键场景辅助表达方向。</span>
+        </p>
+      </content>
+    </shape>
+    <img src="VFXVbGoM7ohjqSxZV6AczpHNn1g" width="191.20" height="107" topLeftX="530.19" topLeftY="279.16" exposure="14" contrast="12" saturation="9" temperature="54">
+      <crop type="rect" leftOffset="0" rightOffset="151.43" topOffset="0" bottomOffset="121.39" presetHandlers="7"/>
+    </img>
+    <img src="HBKCbzy5eoAE0Bxi2h4cgrMgnvb" width="191.20" height="107" topLeftX="732.66" topLeftY="279.16" exposure="32" temperature="-24">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="10.32" bottomOffset="10.32" presetHandlers="7"/>
+    </img>
+    <img src="DXsDbDeWoozBZLxTX80cPZTKnOc" width="191.20" height="107" topLeftX="530.19" topLeftY="398.04">
+      <crop type="rect" leftOffset="0" rightOffset="28.43" topOffset="84.13" bottomOffset="138.32" presetHandlers="7"/>
+    </img>
+    <img src="Qtu1biHtfoSr7XxICJec9BwdnCe" width="191.20" height="107" topLeftX="732.66" topLeftY="398.04" exposure="18">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="61.02" bottomOffset="118.73" presetHandlers="7"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

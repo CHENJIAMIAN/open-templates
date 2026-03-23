@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>新兴品牌差异化路径</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术创新</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.3">某初创公司开发智能早教机器人，通过个性化服务2025年获得5%市场份额；Luki AI以“随身表达教练”切入细分场景，无屏化设计提升专注力。</p>
+      </content>
+    </shape>
+    <img src="VyBUbmwbzoNjANxuTaIc1C2tnHe" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>模式创新</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">采用订阅制商业模式，如某品牌通过会员服务提供定制化课程，年续费率61%；探索租赁、共享模式降低使用门槛，覆盖下沉市场。</p>
+      </content>
+    </shape>
+    <img src="RtFUbaRb1oaIpRx7gmCcocblnJh" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>细分人群</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>针对孤独症儿童干预、双语启蒙等垂直领域，开发专用陪伴设备，满足特定需求。</p>
+      </content>
+    </shape>
+    <img src="PSyxb4ahgoc36QxRTrTcM7gnn2e" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

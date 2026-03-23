@@ -1,0 +1,76 @@
+<slide>
+    <style/>
+    <data>
+      <img src="W1N7bwZwSoRuqNxL5uQclrO8nMh" width="960" height="446.69" topLeftX="0" topLeftY="0" exposure="3" saturation="12" temperature="-24">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="112.11" bottomOffset="112.11" presetHandlers="0"/>
+      </img>
+      <shape width="406.31" height="188.30" topLeftX="66.69" topLeftY="50.55" type="text">
+        <content fontSize="80" fontFamily="Noto Serif SC ExtraLight" color="rgba(55, 71, 19, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left">
+          <p textAlign="left">
+            <span color="rgba(55, 71, 19, 1)" fontSize="80" fontFamily="Noto Serif SC ExtraLight" bold="false">感谢</span>
+          </p>
+          <p textAlign="left" lineSpacing="multiple:1.1">
+            <span color="rgba(55, 71, 19, 1)" fontSize="80" fontFamily="Noto Serif SC ExtraLight" bold="false">     观看</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="255.27" startY="-327.34" endX="255.27" endY="-289.69">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="283.44" height="39.10" topLeftX="645.37" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" lineSpacing="multiple:1.4" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(108, 120, 89, 1)">一场关于自然的轻度介入。不是强调结果，而是记录过程中的变化，让感受成为连接的起点。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="36.83" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">项目年份</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="36.83" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">2026</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="48.42" height="18.33" topLeftX="157.69" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">应用类别</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="73.75" height="16.72" topLeftX="157.69" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">生活日化</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="278.56" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">设计</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="278.56" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">工作室名</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

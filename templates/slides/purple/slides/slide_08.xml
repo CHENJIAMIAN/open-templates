@@ -1,0 +1,81 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.45" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>优秀销售OKR的判断标准</p>
+        </content>
+      </shape>
+      <shape width="200" height="32" topLeftX="52.79" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标（O）</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="52.79" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>简洁明确、鼓舞人心，聚焦“为什么做”，如“成为行业领先的销售团队”</p>
+        </content>
+      </shape>
+      <img src="EIrTbKuamot9texKmMBcWu4Onds" width="209.04" height="157" topLeftX="48.27" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="270.34" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键结果（KR）</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="270.34" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>具体可衡量、有时间限制、直接支撑目标，如“Q3新客户签约数达到50家”</p>
+        </content>
+      </shape>
+      <img src="IAWCbPDNooUzZSxidAmcM31hnrh" width="209.04" height="157" topLeftX="265.82" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="488.76" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>对齐性</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="488.76" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人KR支撑团队O，团队O支撑公司战略，形成完整目标链条</p>
+        </content>
+      </shape>
+      <img src="PpUybzRQ0oJIBrxG59YcMlgSn0f" width="209.04" height="157" topLeftX="484.24" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="200" height="32" topLeftX="707.19" topLeftY="301.57" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>可行性</p>
+        </content>
+      </shape>
+      <shape width="200" height="170" topLeftX="707.19" topLeftY="333.18" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>基于团队能力与资源，避免过度激进（如历史月均新客户10家，设定KR为50家则不现实）</p>
+        </content>
+      </shape>
+      <img src="GFDRbVl3iol5wjxH5aIczEkUnH0" width="209.04" height="157" topLeftX="702.66" topLeftY="135.13">
+        <crop type="rect" leftOffset="0.14" rightOffset="0.14" topOffset="0" bottomOffset="0" presetHandlers="12"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

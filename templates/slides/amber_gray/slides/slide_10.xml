@@ -1,0 +1,50 @@
+<slide>
+    <style/>
+    <data>
+      <img src="XmcObazlyomEhHxtC3Tc32NNnGb" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="173.45" topOffset="0" bottomOffset="97.56" presetHandlers="0"/>
+      </img>
+      <shape width="284" height="216" topLeftX="57.96" topLeftY="38.95" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="18">依托先进的自动化分装系统与数字化追踪技术，我们为患者提供个性化的用药时间表与剂量提醒服务。</span>
+            </strong>
+          </p>
+          <p/>
+          <p>
+            <strong>
+              <span fontSize="18">从药品的恒温存储到最终交付至您手中，每一个环节都严格遵循国际制药标准，消除用药风险，让康复之路更加稳健、安心。</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="600.94" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="600.94" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="647.01" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="133.88" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

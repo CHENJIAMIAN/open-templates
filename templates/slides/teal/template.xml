@@ -1,0 +1,1379 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>旅游攻略</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="SEukbEOfWoOcExxMp57cn3QAn4c" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="835.02" height="114.56" topLeftX="48" topLeftY="49.52" type="text">
+        <content textType="headline" fontSize="70" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>旅游攻略</p>
+        </content>
+      </shape>
+      <shape width="73.25" height="24" topLeftX="52" topLeftY="193.46" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="121.54" height="31.89" topLeftX="52" topLeftY="219.12" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="52" topLeftY="285.95" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="52" topLeftY="311.49" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="118.80" endX="914.24" endY="118.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="Tz1hbSvpgoEXB5x7Nirc1cibnvc" width="405.00" height="540" topLeftX="0" topLeftY="0.00">
+        <crop type="rect" leftOffset="67.50" rightOffset="67.50" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="155.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>云南全景概览</p>
+        </content>
+      </shape>
+      <shape width="464.39" height="45" topLeftX="449.85" topLeftY="54.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="157.42" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="212.04" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>经典行程与深度玩法</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="214.04" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="268.66" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>实用信息与深度体验</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="270.66" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="325.28" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>行前准备与避坑指南</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="327.28" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉团圆体 黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="FZSDbGpNqodc8QxoaMDcW2Ounig" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="90.23" height="35.76" topLeftX="47.97" topLeftY="471.58" type="text">
+        <content textType="sub-headline" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="寒蝉团圆体 黑体" bold="false" italic="false" strikethrough="false" underline="false">Chapter</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="47.39" startY="458.67" endX="427.39" endY="458.67">
+        <border color="rgba(183, 206, 188, 1)" width="1"/>
+      </line>
+      <shape width="380" height="239.17" topLeftX="47.97" topLeftY="54.84" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>云南全景概览</p>
+        </content>
+      </shape>
+      <shape width="65.66" height="35" topLeftX="362.31" topLeftY="471.58" type="text">
+        <content textType="title" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="535.04" height="177.11" topLeftX="48.00" topLeftY="121.61" presetHandlers="14" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="535.04" height="177.11" topLeftX="48.00" topLeftY="309.00" presetHandlers="14" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="29" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北高原季风气候</p>
+        </content>
+      </shape>
+      <shape width="452.00" height="99" topLeftX="76.06" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>丽江、香格里拉地区，夏季凉爽（18-22℃），冬季寒冷（-5-10℃），雪山冰川与高原草甸并存</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>地理与气候：一山分四季的立体景观</p>
+        </content>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇中亚热带季风气候</p>
+        </content>
+      </shape>
+      <shape width="452.00" height="99" topLeftX="76.06" topLeftY="362.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>昆明、大理地区，四季如春，年平均气温15℃左右</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇南热带季风气候</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>西双版纳地区，全年温暖湿润（20-30℃），雨季集中在6-8月，雨林景观丰富</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="203.07" startY="310.88" endX="203.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="198.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="54.27" startY="132.99" endX="54.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="49.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="353.79" startY="132.99" endX="353.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="503.88" startY="310.88" endX="503.88" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="498.88" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="349.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="654.79" startY="133.99" endX="654.79" endY="313.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="650.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>云南少数民族文化交融</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="224.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>白族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112.16" topLeftX="224.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>扎染技艺以板蓝根为染料，大理周城村可体验从织布到染色全过程</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="74.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>纳西族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="74.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>保留古老象形文字和宗教仪式，丽江古城四方街延续茶马古道商业传统</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="374.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>傣族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="374.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>泼水节（4月13-15日）以“水的祝福”为核心，西双版纳与瑞丽展现传统与现代碰撞</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="525.59" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>彝族</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="525.59" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>火把节（农历六月二十四）在楚雄、石林等地举办，祭火大典与万人左脚舞展现原始崇拜与集体欢腾</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="675.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体概况</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="675.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">云南聚居着25个世居少数民族，占全省总人口的34%，多元文化在这里交织共生。独龙族的纹面习俗、藏族的锅庄舞、哈尼族的梯田农耕文化等，共同构成了云南“十里不同俗”的文化画卷。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>最佳旅行时间与季节特色：分月推荐与避峰指南</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="104.50" topLeftY="130.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">春季（3-5月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84.00" topLeftX="104.50" topLeftY="162.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北高山杜鹃盛开（普达措、老君山），大理三月街民族节（4月12-18日）、西双版纳泼水节（4月13-15日）相继举办，气温15-25℃，游客较少，性价比高。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48.00" topLeftY="129.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">秋季（9-11月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84.00" topLeftX="104.50" topLeftY="292.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>天高云淡，适合摄影，腾冲银杏村（11月中旬-12月上旬）、元阳梯田金色稻浪（10月）是亮点，11月上旬出行可避峰。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48.00" topLeftY="259.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="391.27" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">避峰时段</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84.00" topLeftX="104.50" topLeftY="422.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>3月中旬-4月上旬、6月上旬-7月上旬、11月上旬-12月上旬，气候舒适且游客较少。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48.00" topLeftY="389.77" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="552.60" topLeftY="130.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">夏季（6-8月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84.00" topLeftX="552.60" topLeftY="162.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北避暑（玉龙雪山、普达措），滇东南普者黑荷花盛放（7-8月），怒江大峡谷瀑布水量充沛，但需避开7月中旬-8月下旬暑期高峰。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="496.10" topLeftY="129.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="552.60" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">冬季（12-2月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84.00" topLeftX="552.60" topLeftY="292.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇南避寒（西双版纳20-30℃），滇西北赏雪（玉龙雪山滑雪、梅里日照金山），春节前为淡季，住宿价格亲民。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="496.10" topLeftY="259.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VFaObrYQeoVCgNxQiFsc2faWnwb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="90.23" height="35.76" topLeftX="47.97" topLeftY="471.58" type="text">
+        <content textType="sub-headline" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="寒蝉团圆体 黑体" bold="false" italic="false" strikethrough="false" underline="false">Chapter</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="47.39" startY="458.67" endX="427.39" endY="458.67">
+        <border color="rgba(183, 206, 188, 1)" width="1"/>
+      </line>
+      <shape width="380" height="239.17" topLeftX="47.97" topLeftY="54.84" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>经典行程与深度玩法</p>
+        </content>
+      </shape>
+      <shape width="65.66" height="35" topLeftX="362.31" topLeftY="471.58" type="text">
+        <content textType="title" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="203.07" startY="310.88" endX="203.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="198.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="54.27" startY="132.99" endX="54.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="49.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="353.79" startY="132.99" endX="353.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="503.88" startY="310.88" endX="503.88" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="498.88" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="349.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="654.79" startY="133.99" endX="654.79" endY="313.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="650.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北8日环线：大理+丽江+香格里拉+泸沽湖</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="224.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day3-4：丽江</p>
+        </content>
+      </shape>
+      <shape width="240" height="112.16" topLeftX="224.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>早起乘大索道登玉龙雪山（提前3天预约索道票，含进山费130元+索道140元），蓝月谷拍照后返回古城；下午逛束河古镇（比大研古城安静），夜间在“大冰的小屋”听民谣，点一杯“风花雪月”啤酒。</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="74.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day1-2：大理</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="74.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>上午漫步大理古城，登五华楼俯瞰全景；下午环洱海骑行（才村→磻溪S弯→喜洲稻田，租电动车50元/天）；傍晚在双廊古镇看日落，推荐入住挖色镇“大理海东方”民宿（性价比高于双廊）。</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="374.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day5：香格里拉</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="374.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">普达措国家公园徒步属都湖环湖栈道（4.2公里，约2小时），碧塔海观鸟；下午参观松赞林寺（“小布达拉宫”，门票115元），独克宗古城转世界最大转经筒。</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="525.59" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day6-7：泸沽湖</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="525.59" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">顺时针环湖自驾，重点停留里格半岛、尼赛村情人树、草海走婚桥；参加摩梭家访（298元/人），体验成人礼与走婚文化；夜宿星空房，拍摄银河与湖景同框。</p>
+        </content>
+      </shape>
+      <shape width="240" height="36" topLeftX="675.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day8：返程</p>
+        </content>
+      </shape>
+      <shape width="240" height="112" topLeftX="675.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>丽江乘高铁返回昆明（3小时，二等座155元），途中欣赏金沙江峡谷风光。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="233.07" startY="310.88" endX="233.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="56.27" startY="132.99" endX="56.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <line startX="414.79" startY="132.99" endX="414.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="596.91" startY="310.88" endX="596.91" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西6日精华：腾冲+瑞丽边境风情</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day3-4：瑞丽</p>
+        </content>
+      </shape>
+      <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">"一寨两国"景区体验秋千荡出国境线，中缅街购买翡翠饰品；姐勒金塔（南传佛教建筑，门票15元）感受宗教文化；傍晚在瑞丽江广场参加"万人傣迪"泼水狂欢（4月泼水节期间）。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day1-2：腾冲</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>热海景区看大滚锅喷气（门票50元含地热博物馆），煮鸡蛋体验；下午泡柏联温泉（680元/人，私汤入户）；和顺古镇逛元龙阁、千手观音古树群，住百年老宅改造的客栈。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day5：芒市</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>勐巴娜西珍奇园看热带植物（门票35元），树包塔拍自然奇观；新玩厂夜市尝撒撇（苦肠蘸水）、泡鲁达（椰奶甜品）。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day6：返程</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>上午参观畹町桥（滇缅公路历史遗迹），下午乘大巴返回保山（2小时），转高铁至昆明。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>丙察察自驾8日挑战：滇藏新通道极限穿越</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国最险自驾路线，原始峡谷与雪山秘境。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>行程亮点</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理→六库→丙中洛→察瓦龙→察隅→然乌湖→林芝</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>路线</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>丙察察公路（丙中洛-察瓦龙-察隅，270公里），穿越怒江大峡谷、老虎嘴天险、大流沙地质灾害区，需四驱越野车（包车日均1200-1500元）。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心路段</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="11" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">季节：4-6月、9-10月（避开7-8月雨季塌方，冬季结冰）；证件：边防证（户籍地办理，目的地写“西藏林芝市察隅县”）；住宿：丙中洛秋那桶民宿（150-300元/晚）、察瓦龙四川饭店（100-200元/晚）；必带装备：拖车绳、防滑链、离线地图，每日出发前检查轮胎与刹车。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键提示</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>然乌湖看冰川融水变色，沿G318至林芝，结束行程。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day7-8</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.66" startY="-5.50" endX="47.66" endY="548.25" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="135.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 248, 241, 1)"/>
+        </fill>
+        <border color="rgba(16, 123, 204, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="260.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 248, 241, 1)"/>
+        </fill>
+        <border color="rgba(16, 123, 204, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="383.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(250, 248, 241, 1)"/>
+        </fill>
+        <border color="rgba(16, 123, 204, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="837.59" height="45" topLeftX="74.48" topLeftY="51.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇南风情5日游：西双版纳+普洱慢生活</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="122.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day1-2：西双版纳</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="70" topLeftX="74.48" topLeftY="153.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>中科院植物园白天看王莲、绞杀榕（电瓶车50元/人必坐），夜间参加萤火虫观测（80元/人）；曼听公园体验傣王行宫历史，星光夜市吃舂鸡脚、老挝冰咖啡，住告庄西双景民宿（步行5分钟到夜市）。</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="247.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day3-4：普洱</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="70" topLeftX="74.48" topLeftY="277.65" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>太阳河森林公园与小熊猫亲密接触，茶马古道景区骑马（180元/人）体验马帮文化；参观星巴克咖啡庄园，亲手采摘咖啡豆并烘焙。</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="371.70" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day5：建水</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="70" topLeftX="74.48" topLeftY="402.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>朱家花园看清代民居建筑，双龙桥拍古桥倒影，体验紫陶制作（200元/人），返程前买几支紫陶汽锅（炖鸡专用）作伴手礼。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="CAnFb9o1bo5pXXxPbDjcHce5ndd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="90.23" height="35.76" topLeftX="47.97" topLeftY="471.58" type="text">
+        <content textType="sub-headline" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="寒蝉团圆体 黑体" bold="false" italic="false" strikethrough="false" underline="false">Chapter</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="47.39" startY="458.67" endX="427.39" endY="458.67">
+        <border color="rgba(183, 206, 188, 1)" width="1"/>
+      </line>
+      <shape width="380" height="239.17" topLeftX="47.97" topLeftY="54.84" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>实用信息与深度体验</p>
+        </content>
+      </shape>
+      <shape width="65.66" height="35" topLeftX="362.31" topLeftY="471.58" type="text">
+        <content textType="title" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="480.00" startY="115.57" endX="481.00" endY="496.63" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="390.00" height="36" topLeftX="55.33" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>外部交通</p>
+        </content>
+      </shape>
+      <shape width="390" height="90.00" topLeftX="55.18" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="10" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>飞机：昆明长水机场为枢纽（国内航线全覆盖），大理、丽江、西双版纳、腾冲机场有直飞主要城市航班；建议国际游客飞昆明，再转高铁至目的地。高铁：昆明→大理（2小时，二等座145元）、昆明→丽江（3小时，155元）、大理→腾冲（需中转保山，全程约4小时）；2025年新增“坐着火车游云南”环线列车，夕发朝至卧铺，串联昆明、大理、丽江、西双版纳，提供宠物托运、自行车运输服务。</p>
+        </content>
+      </shape>
+      <img src="JMJ2bT4o9onZJ6xGdVOcbcPknhf" width="404.24" height="198.05" topLeftX="48.14" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="170.47" bottomOffset="170.47" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>交通指南：外部交通与区域内移动</p>
+        </content>
+      </shape>
+      <shape width="390" height="36" topLeftX="514.95" topLeftY="366.45" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>内部交通</p>
+        </content>
+      </shape>
+      <shape width="390" height="90.00" topLeftX="514.81" topLeftY="407.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="12" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">包车：滇西北环线日均500-800元（9-15座商务车），丙察察自驾包车（含司机）日均1200-1500元；公共交通：大理、丽江古城内租电动车（50元/天），西双版纳市区打车（起步价8元），偏远景区（如普者黑）可拼车（人均30-50元）；特色交通：泸沽湖环湖小火车（2025年5月开通，串联草海、走婚桥），洱海游船（142元/人，含南诏风情岛门票）。</p>
+        </content>
+      </shape>
+      <img src="Jm9hbVb16oTBvexMfjucoOS5nFe" width="404.24" height="198.05" topLeftX="507.76" topLeftY="115.30">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="14.67" bottomOffset="14.67" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>美食地图：从街头小吃到非遗盛宴</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>昆明</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建新园过桥米线（人均30元，猪筒骨汤底4小时慢炖）、福照楼汽锅鸡（60元/份，建水紫陶汽锅蒸制）、篆新农贸市场豆花米线（8元/碗）</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>喜洲破酥粑粑（甜/咸两种，2元/个，现烤酥脆）、石井私房菜土八碗（白族传统宴席，人均60元）、烤乳扇（5元/串，奶香浓郁）</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>丽江</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100.00" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>阿婆腊排骨（人均50元，排骨炖土豆酸菜）、88号小吃店鸡豆凉粉（8元/份，酸辣开胃）、忠义市场鸡汁米线（10元/碗，本地人常去）</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42.00" height="42" topLeftX="48.00" topLeftY="181.60" iconType="iconpark/Foods/tea-drink.svg">
+        <border color="rgba(16, 123, 204, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42.00" height="42" topLeftX="347.51" topLeftY="181.60" iconType="iconpark/Base/all-application.svg">
+        <border color="rgba(16, 123, 204, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42.00" height="42" topLeftX="647.02" topLeftY="181.60" iconType="iconpark/Others/weixin-favorites.svg">
+        <border color="rgba(16, 123, 204, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>美食地图：从街头小吃到非遗盛宴</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="48.96" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>西双版纳</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="48.96" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>傣楼烧烤香茅草烤鱼（35元/条）、啰啰冰屋泡鲁达（15元/杯，椰奶+面包干）、星光夜市舂鸡脚（20元/份，酸辣爽脆）</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="348.47" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>腾冲</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="348.47" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>热海大滚锅饵丝（15元/碗，地热煮熟）、和顺古镇妈妈的味道稀豆粉（8元/碗，配油条）</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="647.98" topLeftY="247.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>非遗美食</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="194.44" topLeftX="647.98" topLeftY="282.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>建水紫陶宴（陶然居餐厅，菜品与紫陶餐具结合）、哈尼族红米饭（元阳梯田景区，搭配炸蚂蚱）</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特色体验：非遗、自然与节庆深度参与</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>非遗手作</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120.00" topLeftX="48.27" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理扎染体验（周城村，150元/人，亲手染制围巾）；建水紫陶制作（碗窑村，200元/人，拉坯+绘画+烧制）；彝绣刺绣（楚雄彝人古镇，100元/人，绣制小钱包）。</p>
+        </content>
+      </shape>
+      <img src="TYM7bKm0xob8rzxidbBctF2MnFl" width="259.14" height="194" topLeftX="48.27" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自然探索</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120.00" topLeftX="340.43" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">中科院植物园夜游（80元/人，19:30-21:00，观测萤火虫与夜间开花植物）；普者黑溶洞探险（120元/人，专业向导带领，看钟乳石与地下河）；独龙江徒步（贡山出发，3天2晚，看原始森林与纹面女文化）。</p>
+        </content>
+      </shape>
+      <img src="PkSwbKUXOoZ7lzx9lIRc92SsnKd" width="259.14" height="194" topLeftX="340.43" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>节庆参与</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120.00" topLeftX="632.59" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">泼水节（4月13-15日，西双版纳曼听公园浴佛、德宏瑞丽花车巡游）；火把节（7月16-20日，楚雄太阳历文化园祭火大典、云南民族村篝火狂欢）；三月街（4月12-18日，大理苍山脚下赛马、对歌、药材交易）。</p>
+        </content>
+      </shape>
+      <img src="Kbjvbv9NooNSsVxo3bIcUb67nSf" width="259.14" height="194" topLeftX="632.59" topLeftY="129.60">
+        <crop type="rect" leftOffset="42.88" rightOffset="42.88" topOffset="0" bottomOffset="0" presetHandlers="15"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 247, 236, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="270" height="34" topLeftX="190.79" topLeftY="148.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">食品类</p>
+        </content>
+      </shape>
+      <shape width="270" height="110.00" topLeftX="190.79" topLeftY="178.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">嘉华鲜花饼（现烤玫瑰味，2元/个，保质期15天）、普洱茶（勐海七子饼茶，200-500元/饼，熟茶养胃）、野生菌干货（牛肝菌、鸡油菌，100-200元/斤，超市购买避免景区高价）</p>
+        </content>
+      </shape>
+      <shape width="270" height="34" topLeftX="190.79" topLeftY="317.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">美妆特产</p>
+        </content>
+      </shape>
+      <shape width="270" height="110.00" topLeftX="190.79" topLeftY="347.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>精油（香格里拉玫瑰精油，10ml/200元，保湿护肤）、三七粉（文山产，100-300元/斤，活血化瘀）</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.00" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>购物与伴手礼推荐：地道风物与非遗好物</p>
+        </content>
+      </shape>
+      <img src="VHKub2uZuoqEwJxVko2cX2EOnoc" width="120.00" height="120.00" topLeftX="48.00" topLeftY="147.86">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="0.00" bottomOffset="0.00" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="TrqEbFnQqo0z9sxc8A0cTXHInac" width="120.00" height="120.00" topLeftX="48.00" topLeftY="317.45">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.00" bottomOffset="0.00" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="270" height="34" topLeftX="641.95" topLeftY="148.53" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">工艺品</p>
+        </content>
+      </shape>
+      <shape width="270" height="110.00" topLeftX="641.95" topLeftY="178.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">建水紫陶（汽锅、茶具，300-1000元/件，认准“仁烨堂”等老字号）、大理银器（雪花银手镯，按克计价，约15元/克，古城内“寸四银庄”可信赖）、彝绣挂件（50-200元/件，楚雄彝人古镇款式多样）</p>
+        </content>
+      </shape>
+      <shape width="270" height="34" topLeftX="641.95" topLeftY="317.45" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">购物贴士</p>
+        </content>
+      </shape>
+      <shape width="270" height="110.00" topLeftX="641.95" topLeftY="347.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>景区银器、药材谨慎购买（易有假货），推荐昆明南屏街、大理洋人街正规商店，保留小票以便退换</p>
+        </content>
+      </shape>
+      <img src="NV3ebfh7fo6vgIxkrtAcbnxdnLb" width="120.00" height="120.00" topLeftX="499.16" topLeftY="147.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.00" bottomOffset="0.00" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="OWUtbRHi1ot0ELxYNKEclYHFnHe" width="120.00" height="120.00" topLeftX="499.16" topLeftY="317.45">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.00" bottomOffset="0.00" presetHandlers="3"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="U3lrbuti3ouewWxBGuocQVZFnu3" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="90.23" height="35.76" topLeftX="47.97" topLeftY="471.58" type="text">
+        <content textType="sub-headline" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="寒蝉团圆体 黑体" bold="false" italic="false" strikethrough="false" underline="false">Chapter</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="47.39" startY="458.67" endX="427.39" endY="458.67">
+        <border color="rgba(183, 206, 188, 1)" width="1"/>
+      </line>
+      <shape width="380" height="239.17" topLeftX="47.97" topLeftY="54.84" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行前准备与避坑指南</p>
+        </content>
+      </shape>
+      <shape width="65.66" height="35" topLeftX="362.31" topLeftY="471.58" type="text">
+        <content textType="title" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(16, 123, 204, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="26" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>高原反应应对：预防、症状与紧急处理</p>
+        </content>
+      </shape>
+      <img src="WG2JbVBqvoLYTHxEZxNcUspLntd" width="404.90" height="540.00" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="0.05" rightOffset="0.05" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>预防措施</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72.00" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="12" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">提前适应：抵达丽江、香格里拉后，首日避免剧烈运动（如跑步、爬楼梯）；饮食调整：多喝水（每天2-3升），多吃水果，避免暴饮暴食和过量饮酒；药物辅助：红景天（提前1周服用）、高原安（抵达后服用），不建议依赖氧气瓶（产生心理依赖）。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>症状识别</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72.00" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>轻度：头痛、头晕、失眠、恶心（无需特殊处理，1-2天适应）；中度：呕吐、呼吸困难、胸闷（停止行程，休息吸氧，服用布洛芬止痛）；重度：意识模糊、口唇发紫、尿少（立即送医，香格里拉市医院有高压氧舱）。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>紧急处理</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72.00" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>立即停止活动，转移至低海拔地区（下降1000米症状明显缓解）；吸氧（流量2-4升/分钟），口服50%葡萄糖液（补充能量）；禁忌：感冒期间不宜前往高海拔地区（易引发肺水肿）。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>注意事项与避坑指南：消费陷阱与文化礼仪</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>消费陷阱规避</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>拉市海骑马砍价：原价380元可砍至150元，明确路线（如“环湖线”而非“山脚线”）；古城“免费编发”：实则50元/人，拒绝时态度坚决；“老乡”推销药材：声称“野生天麻”“雪莲花”，多为假货，建议超市购买。</p>
+        </content>
+      </shape>
+      <img src="Y1f6b7go2okuoUxMNPQcsOcfnve" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>文化礼仪</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>宗教场所：寺庙内不戴帽、不拍照（经允许除外），不踩门槛，转经筒顺时针；少数民族：傣族不摸他人头部，彝族火把节不扔火把到人群，藏族献哈达需双手接过。</p>
+        </content>
+      </shape>
+      <img src="Mb86bmYXloxU7DxZkEZcRx8onrg" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>环保提示</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>洱海、泸沽湖禁止使用一次性塑料制品，垃圾随身带走；玉龙雪山、普达措等景区不随意采摘植物，不惊扰野生动物（如黑颈鹤）。</p>
+        </content>
+      </shape>
+      <img src="ZeyQbNyF0oHVszxCZgecGgq5n3b" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="-0.00" topOffset="0.00" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MvspbCh6doa9Jcx0XvJcq4c9nwc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="835.02" height="114.56" topLeftX="48" topLeftY="49.52" type="text">
+        <content textType="headline" fontSize="70" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 243, 208, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="73.25" height="24" topLeftX="52.00" topLeftY="414.64" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="121.54" height="31.89" topLeftX="52.00" topLeftY="440.30" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="52.00" topLeftY="327.28" type="text">
+        <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="52.00" topLeftY="352.82" type="text">
+        <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

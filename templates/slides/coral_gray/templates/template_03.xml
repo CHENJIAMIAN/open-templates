@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="JE9YbLmipofut6xjAjYc0luEn1x" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="691.77" height="109.81" topLeftX="133.58" topLeftY="409.77" type="text">
+      <content textType="headline" fontSize="58" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场洞察与趋势分析</p>
+      </content>
+    </shape>
+    <shape width="73.65" height="90.91" topLeftX="56.86" topLeftY="410.22" alpha="0.42" type="text">
+      <content textType="title" fontSize="66" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

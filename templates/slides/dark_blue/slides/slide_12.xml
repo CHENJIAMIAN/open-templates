@@ -1,0 +1,28 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="36.24" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>项目成果量化与业务价值</p>
+        </content>
+      </shape>
+      <shape width="864" height="95" topLeftX="48" topLeftY="86.90" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>主导的BMS算法优化项目，将电池循环寿命提升30%，衰减速率降低至800次循环后容量保持率≥85%，有效缓解用户续航焦虑，相关车型二手车保值率提升12个百分点。</p>
+        </content>
+      </shape>
+      <img src="YKrgbu5mXoVa3IxrRKecUOTanob" width="960" height="337.54" topLeftX="0" topLeftY="202.46">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="36.95" bottomOffset="36.95"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

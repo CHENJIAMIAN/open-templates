@@ -1,0 +1,36 @@
+﻿{
+    "id":  "slides/professional_blue_white",
+    "family":  "slides",
+    "name":  "professional_blue_white",
+    "displayName":  "Professional Blue White",
+    "description":  "Presentation slide template for Professional Blue White.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "professional",
+                 "business",
+                 "blue",
+                 "white"
+             ],
+    "sourcePath":  "templates/slides/professional_blue_white",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/professional_blue_white",
+    "preview":  {
+                    "cover":  "professional_blue_white/slide_paa_Ms3KbFBGLo9G3wxiGIycODM8ncc.png",
+                    "gallery":  [
+                                    "professional_blue_white/slide_paa_Ms3KbFBGLo9G3wxiGIycODM8ncc.png",
+                                    "professional_blue_white/slide_pab_H5c2bBWZsoabJlxjTvxcwYMenvd.png",
+                                    "professional_blue_white/slide_paD_JJ9ZbcgUtoiYsCxY7yQc96aQncg.png"
+                                ]
+                }
+}

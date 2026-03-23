@@ -1,0 +1,35 @@
+﻿{
+    "id":  "slides/tech_blue_orange",
+    "family":  "slides",
+    "name":  "tech_blue_orange",
+    "displayName":  "Tech Blue Orange",
+    "description":  "Presentation slide template for Tech Blue Orange.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "tech",
+                 "blue",
+                 "orange"
+             ],
+    "sourcePath":  "templates/slides/tech_blue_orange",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/tech_blue_orange",
+    "preview":  {
+                    "cover":  "tech_blue_orange/slide_pSC_AVkVbIJFxoT6ctxRwV3cNN1Kn7b.png",
+                    "gallery":  [
+                                    "tech_blue_orange/slide_pSC_AVkVbIJFxoT6ctxRwV3cNN1Kn7b.png",
+                                    "tech_blue_orange/slide_pSC_SHEmb3o6yocrU2xFYOxcVytKn5b.png",
+                                    "tech_blue_orange/slide_pSC_UaYnbwBlPotY5ax8PmvcFItWnIf.png"
+                                ]
+                }
+}

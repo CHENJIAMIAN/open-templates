@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/dark_cyan",
+    "family":  "slides",
+    "name":  "dark_cyan",
+    "displayName":  "Dark Cyan",
+    "description":  "Presentation slide template for Dark Cyan.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "dark",
+                 "cyan"
+             ],
+    "sourcePath":  "templates/slides/dark_cyan",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/dark_cyan",
+    "preview":  {
+                    "cover":  "dark_cyan/slide_paA_VdehbKFDwofjQIxx8prctVeXnad.png",
+                    "gallery":  [
+                                    "dark_cyan/slide_paA_VdehbKFDwofjQIxx8prctVeXnad.png",
+                                    "dark_cyan/slide_paC_GjxebP24RoWi2bxzDItcWT05njd.png",
+                                    "dark_cyan/slide_pac_N61wbY98ioGLv9xg2vEc9o20nrf.png"
+                                ]
+                }
+}

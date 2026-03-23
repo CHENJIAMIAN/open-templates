@@ -1,0 +1,12 @@
+<theme>
+  <background>
+    <fillColor color="rgba(249, 241, 229, 1)"/>
+  </background>
+  <textStyles>
+    <headline fontColor="rgba(39, 39, 39, 1)"/>
+    <sub-headline fontColor="rgba(172, 55, 21, 1)"/>
+    <body fontColor="rgba(31, 35, 41, 1)"/>
+    <caption fontColor="rgba(156, 163, 158, 1)" fontSize="14"/>
+    <title fontColor="rgba(39, 39, 39, 1)"/>
+  </textStyles>
+</theme>

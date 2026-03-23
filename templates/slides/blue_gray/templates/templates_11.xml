@@ -1,0 +1,85 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(236, 240, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="523" height="169.22" topLeftX="48" topLeftY="148.61" presetHandlers="5" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="523" height="169.22" topLeftX="48" topLeftY="327.86" presetHandlers="5" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="329.89" height="348.47" topLeftX="582.11" topLeftY="148.61" presetHandlers="10" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="36.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>电竞产业规模持续扩大</p>
+      </content>
+    </shape>
+    <shape width="864.13" height="46.06" topLeftX="47.87" topLeftY="87.68" type="text">
+      <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>电竞产业增长主要源于长线运营及电竞新品的双双发力。《英雄联盟》LPL、《王者荣耀》KPL等赛事商业化成熟，同时新兴游戏如《三角洲行动》凭借独特的"搜打撤"与"大战场"模式，正在重新定义战术射击电竞的维度；《漫威争锋》依托IP影响力构建全球化电竞赛事生态。</p>
+      </content>
+    </shape>
+    <shape width="478" height="48" topLeftX="71.06" topLeftY="164.74" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">1700.51亿元</p>
+      </content>
+    </shape>
+    <shape width="478" height="68" topLeftX="72.06" topLeftY="237.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025年国内电子竞技游戏市场实销收入，同比增长18.96%</p>
+      </content>
+    </shape>
+    <shape width="478" height="28" topLeftX="72.06" topLeftY="212.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">国内电竞市场收入</p>
+      </content>
+    </shape>
+    <shape width="478" height="48" topLeftX="71.06" topLeftY="343.99" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">80%</p>
+      </content>
+    </shape>
+    <shape width="478" height="68" topLeftX="72.06" topLeftY="417.25" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全球电竞观众中亚太地区观众占比约80%</p>
+      </content>
+    </shape>
+    <shape width="478" height="28" topLeftX="72.06" topLeftY="391.38" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">亚太电竞观众占比</p>
+      </content>
+    </shape>
+    <shape width="286.35" height="48" topLeftX="606.05" topLeftY="164.74" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">16.5亿小时</p>
+      </content>
+    </shape>
+    <shape width="286.35" height="233.99" topLeftX="606.67" topLeftY="237.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025年亚洲地区赛事总观看时长保持在16.5亿小时，与2024年基本持平</p>
+      </content>
+    </shape>
+    <shape width="286.35" height="28" topLeftX="606.67" topLeftY="212.12" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">亚洲赛事观看时长</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

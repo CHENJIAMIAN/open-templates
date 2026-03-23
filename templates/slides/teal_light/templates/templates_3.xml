@@ -1,0 +1,101 @@
+<slide>
+  <style/>
+  <data>
+    <img src="HEttbI5cNoROmSxqN2LcvsW9nlf" width="324.83" height="400.79" topLeftX="603.07" topLeftY="106.98">
+      <crop type="rect" leftOffset="138.18" rightOffset="138.18" topOffset="0" bottomOffset="0" presetHandlers="7"/>
+    </img>
+    <line startX="30.09" startY="69.85" endX="927.90" endY="69.85" alpha="0.16">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <shape width="298.47" height="80.73" topLeftX="30.09" topLeftY="107.09" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          从算力到应用 
+          <br/>
+          全链路科技
+          <span color="rgba(128, 128, 128, 1)">解决方案</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="283" height="51" topLeftX="30.09" topLeftY="442.25" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1.4">万物互联的时代，没有孤立的个体，只有协同的生态。我们整合云计算、物联网、大数据技术，打通信息壁垒，实现数据互通。</p>
+      </content>
+    </shape>
+    <shape width="109" height="45" topLeftX="29.59" topLeftY="20.20" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" lineSpacing="multiple:1.3">
+        <p>
+          <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">物联网 + 云计算 </span>
+          <br/>
+          <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">开启万物智联新时代</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="18" topLeftX="248.59" topLeftY="20.20" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">数字转型</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="67" height="18" topLeftX="860.90" topLeftY="20.20" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(41, 41, 41, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(41, 41, 41, 1)" fontFamily="思源黑体">智胜未来</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="282.50" height="31.93" topLeftX="30.09" topLeftY="389.39" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>万物互联</p>
+      </content>
+    </shape>
+    <line startX="29.60" startY="426.60" endX="571.08" endY="426.60" alpha="0.16">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <shape width="156.40" height="21" topLeftX="403.03" topLeftY="481.77" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+        <p textAlign="right">
+          <span color="rgba(0, 0, 0, 1)">自然流畅，精炼结构</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="109" height="45" topLeftX="450.43" topLeftY="436.77" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="title" fontSize="30" fontFamily="寒蝉端黑体" color="rgba(0, 0, 0, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span fontFamily="寒蝉端黑体">62K</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="283" height="51" topLeftX="30.09" topLeftY="287.63" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1.4">
+          <span color="rgba(0, 0, 0, 1)">适配多种输出格式，确保色彩与质感一致。在滚动与切换中保持信息稳定，使重点始终清晰，在滚动与切换中保持信息稳定。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="282.50" height="31.93" topLeftX="30.09" topLeftY="234.77" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>算力革命</p>
+      </content>
+    </shape>
+    <line startX="29.60" startY="271.97" endX="571.58" endY="271.97" alpha="0.16">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <shape width="157" height="17" topLeftX="403.03" topLeftY="327.14" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">强调操作反馈与节奏</p>
+      </content>
+    </shape>
+    <shape width="109" height="45" topLeftX="451.03" topLeftY="282.14" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="title" fontSize="30" fontFamily="寒蝉端黑体" color="rgba(0, 0, 0, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span fontFamily="寒蝉端黑体">232K</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

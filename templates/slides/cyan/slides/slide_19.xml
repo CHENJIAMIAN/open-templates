@@ -1,0 +1,96 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(242, 248, 250, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" type="ellipse">
+        <fill>
+          <fillColor color="rgba(242, 248, 250, 1)"/>
+        </fill>
+        <border color="rgba(49, 163, 217, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <fill>
+          <fillColor color="rgba(242, 248, 250, 1)"/>
+        </fill>
+        <border color="rgba(49, 163, 217, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" type="ellipse">
+        <fill>
+          <fillColor color="rgba(242, 248, 250, 1)"/>
+        </fill>
+        <border color="rgba(49, 163, 217, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(49, 163, 217, 1)" width="1"/>
+        <content fontSize="14" fontFamily="宋体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(49, 163, 217, 1)" width="1"/>
+        <content fontSize="15" fontFamily="宋体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>人力资源配置与团队分工</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">团队配置模式</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>采用"核心+外包"的轻资产模式，总编制15人：市场部4人(经理1人，内容2人，设计1人)，运营部5人(经理1人，电商运营2人，私域运营2人)，销售部3人(经理1人，渠道2人)，客服部3人</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">关键岗位要求</p>
+        </content>
+      </shape>
+      <shape width="260" height="90" topLeftX="33" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>市场经理需5年以上家居行业经验，运营经理需有成功电商项目操盘经验</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">成本控制目标</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84" topLeftX="48" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>人力资源成本控制在销售额的15%以内，随着规模扩大逐步降至10%</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">岗位职责划分</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场部负责品牌建设和内容产出；运营部负责线上渠道和用户运营；销售部负责线下渠道和大客户开发；客服部负责全渠道客户服务</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">外部资源合作</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>专业摄影团队(月度合作)，社交媒体代运营公司(重点渠道合作)，线下活动执行团队(按活动合作)</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

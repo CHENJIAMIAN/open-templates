@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品调研的定义与价值</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品调研的定义</p>
+      </content>
+    </shape>
+    <shape width="260" height="91" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>通过系统化方法收集、分析用户需求和市场信息，为产品决策提供数据支持的过程。</p>
+      </content>
+    </shape>
+    <img src="UCDzbbhVEoGAlgxyC22cVpYSnAh" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="350.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品调研的价值</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="350.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>帮助团队精准定位用户痛点，降低产品开发风险，并提升市场竞争力。</p>
+      </content>
+    </shape>
+    <img src="MQMub7qQdo7pcWxvsSHcUDoRnad" width="259.14" height="194" topLeftX="350.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="651.73" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>产品调研的应用阶段</p>
+      </content>
+    </shape>
+    <shape width="260" height="91" topLeftX="651.73" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>贯穿产品全生命周期，包括需求探索、产品设计、迭代优化等关键阶段，是实现用户导向设计的核心基础。</p>
+      </content>
+    </shape>
+    <img src="Jxhnbb3JYotpj6xGLVOc6Fe5nYT" width="259.14" height="194" topLeftX="651.73" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

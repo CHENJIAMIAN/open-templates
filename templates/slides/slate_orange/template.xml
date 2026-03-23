@@ -1,0 +1,1506 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title> 产品市场调研</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="ILSsbGohioX5LFxMUoic9wMHnoh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="849.07" height="61.69" topLeftX="55.46" topLeftY="440.60" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(202, 202, 202, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">
+            <span fontSize="48">全球智能眼镜市场调研</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="119.00" height="24" topLeftX="44.62" topLeftY="46.13" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="119.00" height="31.89" topLeftX="44.62" topLeftY="72.22" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="188.57" topLeftY="46.13" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="159.03" height="31.89" topLeftX="188.57" topLeftY="72.22" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(233, 236, 238, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="144.80" endX="914.24" endY="144.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="AYj2bz9NioadPExngHocvY0RnCc" width="405.00" height="540" topLeftX="0" topLeftY="0.00">
+        <crop type="rect" leftOffset="0" rightOffset="0.00" topOffset="33.75" bottomOffset="33.75"/>
+      </img>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="70.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="171.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场规模与增长态势</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40" topLeftX="449.85" topLeftY="171.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="223.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>核心技术突破与创新方向</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="223.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="275.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>应用场景双轮驱动格局</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="275.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="327.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场格局分析</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="327.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="380.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>未来发展趋势展望</p>
+        </content>
+      </shape>
+      <shape width="36.00" height="40.00" topLeftX="449.85" topLeftY="380.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="UYZqbKvMYoFlzHxJfxucnZZenmh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="496.59" height="182.00" topLeftX="58.20" topLeftY="55.28" alpha="0.80" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场规模与增长态势</p>
+        </content>
+      </shape>
+      <shape width="153.16" height="86.62" topLeftX="750.70" topLeftY="48.16" type="text">
+        <content textType="title" fontSize="70" fontFamily="Barlow Condensed" color="rgba(214, 219, 219, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="298.00" height="169.22" topLeftX="48.00" topLeftY="147.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="355.45" topLeftY="147.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="48.00" topLeftY="326.86" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="298.00" height="169.22" topLeftX="355.45" topLeftY="326.86" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="249.66" height="348.89" topLeftX="662.34" topLeftY="147.19" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="40.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球市场规模及增长预测</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="68.06" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(236, 118, 68, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">215</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年全球智能眼镜市场将迎来爆发式增长，预计市场规模达215亿美元</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2025年市场规模(亿美元)</p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46.06" topLeftX="47.87" topLeftY="91.68" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>出货量方面，2025年全球AI眼镜出货量预计为585万台，中国市场出货量预计达108万台</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="375.50" topLeftY="161.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(236, 118, 68, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">28%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2020至2025年期间复合年增长率超过28%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="211.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2020-2025年CAGR</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="68.06" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(236, 118, 68, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">68.81</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="68.61" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2024年全球智能眼镜技术市场规模约为9.61亿美元，预计到2034年将增长至68.81亿美元</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="68.61" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2034年技术市场规模(亿美元)</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="48.00" topLeftX="375.50" topLeftY="340.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(236, 118, 68, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">21.9%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="71" topLeftX="376.06" topLeftY="416.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2024至2034年技术市场复合年增长率高达21.9%</p>
+        </content>
+      </shape>
+      <shape width="257.67" height="28" topLeftX="376.06" topLeftY="390.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2024-2034年CAGR</p>
+        </content>
+      </shape>
+      <shape width="208.15" height="48.00" topLeftX="682.61" topLeftY="161.32" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(236, 118, 68, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">8000</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="240.54" topLeftX="683.07" topLeftY="236.58" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Wellsenn预测2025年全球AI智能眼镜销量将达400万副，2030年有望增长至8000万副</p>
+        </content>
+      </shape>
+      <shape width="207.69" height="28" topLeftX="683.07" topLeftY="210.70" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2030年销量预测(万副)</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="859.60" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国市场增长特点</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="32" topLeftX="48.07" topLeftY="110.61" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据洞察</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="52.42" topLeftX="48.07" topLeftY="141.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国智能眼镜市场呈现高速增长态势，年均复合增长率达39.37%。出货量从2023年的68万台增长至2024年的133万台，同比大幅增长约95.6%。艾瑞咨询预计，中国AI眼镜市场将从2024年的36万台增长至2028年的972万台，期间CAGR高达128%，增速显著高于全球平均水平。</p>
+        </content>
+      </shape>
+      <table id="bUs" topLeftX="48.07" topLeftY="201.80">
+        <colgroup>
+          <col span="4" width="214.90"/>
+        </colgroup>
+        <tr height="48.81">
+          <td id="bdR">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">时间段</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bZQ">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模/出货量</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bUN">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">数值</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bUx">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">增长率</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="48.81">
+          <td id="bwM">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2019年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模</span>
+              </p>
+            </content>
+          </td>
+          <td id="bdO">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">22亿元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bdv">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="48.81">
+          <td id="bZp">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2023年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bUh">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模</span>
+              </p>
+            </content>
+          </td>
+          <td id="bwV">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">83亿元</span>
+              </p>
+            </content>
+          </td>
+          <td id="bwC">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">39.37%</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="48.81">
+          <td id="bdz">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2023年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bdc">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">出货量</span>
+              </p>
+            </content>
+          </td>
+          <td id="bZj">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">68万台</span>
+              </p>
+            </content>
+          </td>
+          <td id="bUQ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="48.81">
+          <td id="bwk">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2024年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bwP">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">出货量</span>
+              </p>
+            </content>
+          </td>
+          <td id="bde">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">133万台</span>
+              </p>
+            </content>
+          </td>
+          <td id="bZw">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">95.6%</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="48.81">
+          <td id="bZD">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2024-2028年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bUp">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">AI眼镜市场规模</span>
+              </p>
+            </content>
+          </td>
+          <td id="bZf">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">36万台→972万台</span>
+              </p>
+            </content>
+          </td>
+          <td id="bZE">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">128%</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="HqzrbfdWdoxfpRxylxtczfwsnlf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="153.16" height="86.62" topLeftX="750.70" topLeftY="48.16" type="text">
+        <content textType="title" fontSize="70" fontFamily="Barlow Condensed" color="rgba(214, 219, 219, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="496.59" height="182.00" topLeftX="58.20" topLeftY="55.28" alpha="0.80" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心技术突破与创新方向</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="383.79" height="36" topLeftX="74.07" topLeftY="227.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Micro OLED与光波导技术</p>
+        </content>
+      </shape>
+      <shape width="383.01" height="210" topLeftX="74.07" topLeftY="261.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成为轻量化与高清化的核心支撑，使设备形态更接近传统眼镜。例如雷鸟X3Pro镜身重量仅76g，采用先进光学方案实现高清显示。</p>
+        </content>
+      </shape>
+      <shape width="383.79" height="36" topLeftX="498.13" topLeftY="227.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AR显示技术发展方向</p>
+        </content>
+      </shape>
+      <shape width="383.01" height="210" topLeftX="498.13" topLeftY="261.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>当前主流为Micro OLED，未来Micro LED+光波导被视为重点发展方向，可进一步提升显示效果与设备便携性。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.00" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>显示与光学技术革新</p>
+        </content>
+      </shape>
+      <shape width="100.00" height="42" topLeftX="74.07" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100.00" height="42" topLeftX="498.13" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="9" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="820" height="46" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>交互与AI技术升级</p>
+        </content>
+      </shape>
+      <shape width="210" height="186.00" topLeftX="111.34" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>眼动追踪、多模态传感器（生物识别、环境感知）及AI大模型集成，使设备交互延迟缩短至15ms内，续航提升至8小时以上。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="111.34" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>交互技术升级</p>
+        </content>
+      </shape>
+      <shape width="210" height="186.00" topLeftX="374.97" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>实现"端侧基础交互+云端复杂分析"，支持多任务并行处理与低功耗长效运行。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="374.97" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>端云协同架构</p>
+        </content>
+      </shape>
+      <shape width="210" height="186.00" topLeftX="638.60" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>从基础语音交互向多模态进化，如雷鸟V3搭载通义定制大模型，支持实时翻译、空间导航、图像识别等场景化功能。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="638.60" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI功能进化</p>
+        </content>
+      </shape>
+      <shape width="100.00" height="44.00" topLeftX="111.34" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100.00" height="44.00" topLeftX="374.97" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100.00" height="44.00" topLeftX="638.60" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Stkjbx6THoj4JtxIv05cQklTnOd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="496.59" height="182.00" topLeftX="58.20" topLeftY="55.28" alpha="0.80" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>应用场景双轮驱动格局</p>
+        </content>
+      </shape>
+      <shape width="153.16" height="86.62" topLeftX="750.70" topLeftY="48.16" type="text">
+        <content textType="title" fontSize="70" fontFamily="Barlow Condensed" color="rgba(214, 219, 219, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="1600.22" height="1600.00" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(237, 240, 242, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>消费级应用场景</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">核心定位</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦"轻量化日常穿戴"，满足用户日常使用需求</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">三大主流需求</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AR导航（实时路况叠加）、沉浸式娱乐（3D观影、虚拟社交）及健康监测（心率、眼疲劳预警）</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">场景分布</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>休闲娱乐场景占近四成，其次是工作（27.4%）和生活场景（22.1%）</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">典型产品</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Meta Ray-Ban Stories 2.0凭借时尚设计与生态整合，占据消费市场重要份额</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="580.92" topLeftY="75.76" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="446.02" topLeftY="181.75" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="330.29" topLeftY="301.57" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="255.31" topLeftY="432.97" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="82.00" height="1.03" topLeftX="10.51" topLeftY="146.49" rotation="90.00" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="82.00" height="1.03" topLeftX="10.51" topLeftY="250.49" rotation="90.00" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="82.00" height="1.03" topLeftX="10.51" topLeftY="354.49" rotation="90.00" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="82.00" height="1.03" topLeftX="10.51" topLeftY="460.49" rotation="90.00" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="461.12" height="48" topLeftX="48.47" topLeftY="42.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业级应用场景分析</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="135.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>工业场景包括远程设备检修、AR作业指导</p>
+        </content>
+      </shape>
+      <shape width="446" height="36" topLeftX="63.82" topLeftY="100.72" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>工业制造</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="239.86" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>医疗场景涵盖手术实时影像叠加、远程会诊</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="205.41" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>医疗</p>
+        </content>
+      </shape>
+      <img src="D2OSbZIV2o7yr9xK3zEcCu8nn4f" width="404" height="540.00" topLeftX="556" topLeftY="0">
+        <crop type="rect" leftOffset="0.50" rightOffset="0.50" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="345.00" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育场景则实现沉浸式实训</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="310.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>教育培训</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="56" topLeftX="63.43" topLeftY="450.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球工业应用智能眼镜市场预计2025年达6.584亿美元，2025-2032年CAGR约24.5%，2032年将扩大至30.526亿美元</p>
+        </content>
+      </shape>
+      <shape width="446.16" height="36" topLeftX="63.43" topLeftY="415.68" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场预测</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴垂直场景拓展</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="55.72" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>智慧城市</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="130" topLeftX="55.72" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括设施故障诊断、盲道导航系统、旅游AR导览</p>
+        </content>
+      </shape>
+      <img src="MEiobaRs2o3dpVxAXvNc3GXInnf" width="274.04" height="205.16" topLeftX="48.27" topLeftY="122.81">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.19" bottomOffset="0.19" presetHandlers="6"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="350.43" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>特殊作业</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="130" topLeftX="350.43" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>支持高空作业辅助、辐射环境监测</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="645.68" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>健康关怀</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="130" topLeftX="645.68" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>面向50岁以上银发族、视障人群，提供导航辅助、健康监测大字体信息显示功能</p>
+        </content>
+      </shape>
+      <img src="UvTjbDni8oJr43xDbFhcjXU3n2f" width="274.04" height="205.16" topLeftX="342.98" topLeftY="122.81">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.19" bottomOffset="0.19" presetHandlers="6"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="BbIybIvmYoqL5YxRdNmcHi4MnZf" width="274.04" height="205.16" topLeftX="638.23" topLeftY="122.81">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.19" bottomOffset="0.19" presetHandlers="6"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="CBTvbGQ7notnaXxUaVFc4gaMnG8" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="496.59" height="79.50" topLeftX="58.20" topLeftY="55.28" alpha="0.80" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场格局分析</p>
+        </content>
+      </shape>
+      <shape width="153.16" height="86.62" topLeftX="750.70" topLeftY="48.16" type="text">
+        <content textType="title" fontSize="70" fontFamily="Barlow Condensed" color="rgba(214, 219, 219, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>全球市场竞争态势</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>头部科技巨头</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>苹果、微软、Meta等科技巨头依托生态优势（iOS/Windows系统适配、开发者生态）占据70%市场份额</p>
+        </content>
+      </shape>
+      <img src="G2xFbFx4hoQ2fnxFOh5cYjTlnjh" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>中国品牌崛起</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>华为、小米通过本土化场景（文旅AR导览、方言实时翻译）快速崛起，2025年预计占全球市场18%</p>
+        </content>
+      </shape>
+      <img src="XTypb90X7or0DoxGaSvcIuONnAd" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0.00" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>标杆产品表现</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150.00" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>Meta Ray-Ban Meta累计出货量突破200万台，成为消费级市场标杆产品</p>
+        </content>
+      </shape>
+      <img src="FIe4bcb5uoxwlyxZ5ZycfwBUnDf" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="-0.00" topOffset="0.00" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="540" height="1" topLeftX="-222.61" topLeftY="269.50" rotation="90.00" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="139.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="235.31" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="331.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="427.73" type="ellipse">
+        <fill>
+          <fillColor color="rgba(237, 240, 242, 1)"/>
+        </fill>
+        <border color="rgba(236, 118, 68, 1)" width="3"/>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="837.59" height="46" topLeftX="74.48" topLeftY="47.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业竞争焦点演变</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="125.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争方向转变</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="156.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争从硬件参数比拼转向生态构建与场景落地</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="222.31" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容生态挑战</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="252.81" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>当前行业面临内容生态碎片化问题，应用数量不足500款，生态完善程度成为差异化关键</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="319.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户关注重点</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="349.52" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>外观设计与日常穿戴兼容性、隐私数据安全（面部识别信息泄露风险）也是用户关注重点</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="415.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>厂商发展策略</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="446.23" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>推动厂商在技术创新同时注重用户体验与安全保障</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="CBTvbGQ7notnaXxUaVFc4gaMnG8" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="496.59" height="182.00" topLeftX="58.20" topLeftY="55.28" alpha="0.80" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>未来发展趋势展望</p>
+        </content>
+      </shape>
+      <shape width="153.16" height="86.62" topLeftX="750.70" topLeftY="48.16" type="text">
+        <content textType="title" fontSize="70" fontFamily="Barlow Condensed" color="rgba(214, 219, 219, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="859.60" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场规模预测与增长动力</p>
+        </content>
+      </shape>
+      <shape width="341.97" height="32" topLeftX="48.07" topLeftY="205.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键增长动力</p>
+        </content>
+      </shape>
+      <shape width="341.97" height="180.00" topLeftX="48.07" topLeftY="243.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI智能热潮是核心增长动力，预计2028年全球AI智能眼镜出货量将突破2000万台。消费级市场随价格下探（预计2025年均价降至1000美元以下）进一步放量，企业级市场在工业4.0推动下保持高速增长。</p>
+        </content>
+      </shape>
+      <table id="bwi" topLeftX="425.32" topLeftY="140.48">
+        <colgroup>
+          <col span="2" width="241.18"/>
+        </colgroup>
+        <tr height="56.93">
+          <td id="blw">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">时间节点</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="blF">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模(亿美元)</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="56.93">
+          <td id="bZK">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2024年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bZc">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">57.8</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="56.93">
+          <td id="bld">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2033年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bZu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">208.3</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="56.93">
+          <td id="bZv">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">年均复合增长率</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="blZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">15.7%</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="56.93">
+          <td id="bZn">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2028年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bZR">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(237, 240, 242, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="56.93">
+          <td id="blU">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(62, 66, 72, 1)" fontSize="14">2025年</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bll">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="535.04" height="177.11" topLeftX="48.00" topLeftY="121.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="535.04" height="177.11" topLeftX="48.00" topLeftY="309.00" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>发展模式转变</p>
+        </content>
+      </shape>
+      <shape width="452.00" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业需从"硬件主导"转向"生态共建"，推动应用数量增长与场景丰富化。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>生态与产业协同</p>
+        </content>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>产业链协同优势</p>
+        </content>
+      </shape>
+      <shape width="452.00" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产业链协同加强，中国沿海地区已形成从研发到制造、场景落地的立体化竞争优势。</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心零部件国产化</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策与资本支持推动核心零部件国产化率提升，艾瑞咨询预计核心零部件国产化率将突破60%，降低成本并提升供应链安全性。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VcEUbVAiGoqeYkxhNpWclm4Jnyn" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="846.83" height="101.81" topLeftX="48.00" topLeftY="51.43" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(90, 90, 88, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="332.74" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="98.67" height="31.89" topLeftX="48" topLeftY="358.83" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48.00" topLeftY="423.14" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="48.00" topLeftY="449.23" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,59 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="437" height="101" topLeftX="50.03" topLeftY="56.80" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(43, 40, 33, 1)" fontSize="36">把散落的日常，串成一串串闪亮的诗行。</span>
+          </p>
+        </content>
+      </shape>
+      <img src="XlFNbUYO9oOwrqxS8xHcMmLmnRd" width="239.31" height="358.97" topLeftX="670.21" topLeftY="49.80" exposure="12">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img src="Gz0XbT6lDo21OjxLVW3cxDGTnkh" width="268.48" height="178.99" topLeftX="361.79" topLeftY="307.42" exposure="26">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="257" height="17" topLeftX="361.79" topLeftY="232.77" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>时光集序</p>
+        </content>
+      </shape>
+      <shape width="234.64" height="17" topLeftX="674.88" topLeftY="423.75" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">笔墨山河</p>
+        </content>
+      </shape>
+      <shape width="214" height="79" topLeftX="50.03" topLeftY="434.25" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span fontSize="12" fontFamily="Noto Serif SC Light">从春樱的粉白到冬雪的素净，从晨钟的悠扬到晚风的轻软，时光的脚步从未停歇，却也留下了无数值得回味的瞬间。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="23" topLeftX="50.03" topLeftY="403.42" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(43, 40, 33, 1)" fontSize="16" fontFamily="Noto Serif SC Medium">素笺・浅墨・流年</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="214" height="38.64" topLeftX="361.79" topLeftY="255.40" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left">
+          <p>光影在空间里游走，但它们不属于任何人，却慷慨地为每一次相遇增添情绪</p>
+        </content>
+      </shape>
+      <shape width="214" height="38.64" topLeftX="695.52" topLeftY="446.77" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="right">
+          <p>这些文字并不试图去解释太多，而是提供一种看世界的方式</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

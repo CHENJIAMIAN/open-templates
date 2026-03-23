@@ -1,0 +1,83 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(237, 244, 246, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="449.35" startY="136.80" endX="914.24" endY="136.80" alpha="0.14">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <img src="XigUbLRPoody0BxEJ3FcBoSVnOg" width="405" height="540" topLeftX="0" topLeftY="0" saturation="-7">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+    </img>
+    <shape width="464.39" height="45" topLeftX="447.85" topLeftY="62.93" type="text">
+      <content textType="title" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目录</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="163.62" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>执行摘要</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="163.62" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="215.74" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>市场分析</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="215.74" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="267.86" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>产品与技术</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="267.86" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="319.99" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>商业模式</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="319.99" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="372.11" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>运营与团队</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="372.11" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="488.05" topLeftY="424.23" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>财务与融资</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="424.23" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>06</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

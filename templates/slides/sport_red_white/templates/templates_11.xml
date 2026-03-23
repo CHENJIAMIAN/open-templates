@@ -1,0 +1,86 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="151.29" alpha="0.80" type="diamond">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+        <p textAlign="center">
+          <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="228.67" alpha="0.50" type="diamond">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+        <p textAlign="center">
+          <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="309.58" alpha="0.30" type="diamond">
+      <fill>
+        <fillColor color="rgba(217, 118, 113, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false">
+        <p textAlign="center">
+          <span color="rgba(85, 91, 103, 1)" fontSize="18" fontFamily="DouYinMeiHao" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+        </p>
+      </content>
+    </shape>
+    <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+      <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+    </line>
+    <shape width="539.08" height="35" topLeftX="382.39" topLeftY="141.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>运动突破奖</p>
+      </content>
+    </shape>
+    <shape width="538.93" height="60" topLeftX="382.39" topLeftY="172.27" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>奖励在马拉松中打破个人最佳成绩的员工</p>
+      </content>
+    </shape>
+    <shape width="539.08" height="35" topLeftX="382.39" topLeftY="243.54" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>运动精神金牌</p>
+      </content>
+    </shape>
+    <shape width="538.65" height="60" topLeftX="382.39" topLeftY="274.54" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>授予工作满5年、10年、20年的长期贡献者</p>
+      </content>
+    </shape>
+    <shape width="539.08" height="35" topLeftX="382.39" topLeftY="343.82" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>季度价值观践行者评选</p>
+      </content>
+    </shape>
+    <shape width="538.65" height="60" topLeftX="382.39" topLeftY="374.82" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>表彰在创新、协作、可持续等维度表现突出的员工，获奖案例纳入内部培训教材，形成“榜样引领”的良性循环</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>员工激励与认可机制</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

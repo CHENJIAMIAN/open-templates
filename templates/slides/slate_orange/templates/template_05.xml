@@ -1,0 +1,320 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="859.60" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国市场增长特点</p>
+      </content>
+    </shape>
+    <shape width="859.60" height="32" topLeftX="48.07" topLeftY="110.61" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>数据洞察</p>
+      </content>
+    </shape>
+    <shape width="859.60" height="52.42" topLeftX="48.07" topLeftY="141.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国智能眼镜市场呈现高速增长态势，年均复合增长率达39.37%。出货量从2023年的68万台增长至2024年的133万台，同比大幅增长约95.6%。艾瑞咨询预计，中国AI眼镜市场将从2024年的36万台增长至2028年的972万台，期间CAGR高达128%，增速显著高于全球平均水平。</p>
+      </content>
+    </shape>
+    <table id="bUs" topLeftX="48.07" topLeftY="201.80">
+      <colgroup>
+        <col span="4" width="214.90"/>
+      </colgroup>
+      <tr height="48.81">
+        <td id="bdR">
+          <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">时间段</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bZQ">
+          <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模/出货量</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bUN">
+          <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">数值</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bUx">
+          <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">增长率</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+      </tr>
+      <tr height="48.81">
+        <td id="bwM">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">2019年</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bwG">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模</span>
+            </p>
+          </content>
+        </td>
+        <td id="bdO">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">22亿元</span>
+            </p>
+          </content>
+        </td>
+        <td id="bdv">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+            </p>
+          </content>
+        </td>
+      </tr>
+      <tr height="48.81">
+        <td id="bZp">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">2023年</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bUh">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">市场规模</span>
+            </p>
+          </content>
+        </td>
+        <td id="bwV">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">83亿元</span>
+            </p>
+          </content>
+        </td>
+        <td id="bwC">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">39.37%</span>
+            </p>
+          </content>
+        </td>
+      </tr>
+      <tr height="48.81">
+        <td id="bdz">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">2023年</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bdc">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">出货量</span>
+            </p>
+          </content>
+        </td>
+        <td id="bZj">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">68万台</span>
+            </p>
+          </content>
+        </td>
+        <td id="bUQ">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">-</span>
+            </p>
+          </content>
+        </td>
+      </tr>
+      <tr height="48.81">
+        <td id="bwk">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">2024年</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bwP">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">出货量</span>
+            </p>
+          </content>
+        </td>
+        <td id="bde">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">133万台</span>
+            </p>
+          </content>
+        </td>
+        <td id="bZw">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <fill>
+            <fillColor color="rgba(237, 240, 242, 1)"/>
+          </fill>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">95.6%</span>
+            </p>
+          </content>
+        </td>
+      </tr>
+      <tr height="48.81">
+        <td id="bZD">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="shape-auto-fit">
+            <p>
+              <strong>
+                <span color="rgba(62, 66, 72, 1)" fontSize="14">2024-2028年</span>
+              </strong>
+            </p>
+          </content>
+        </td>
+        <td id="bUp">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">AI眼镜市场规模</span>
+            </p>
+          </content>
+        </td>
+        <td id="bZf">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">36万台→972万台</span>
+            </p>
+          </content>
+        </td>
+        <td id="bZE">
+          <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+          <content fontSize="14" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" autoFit="shape-auto-fit">
+            <p>
+              <span color="rgba(62, 66, 72, 1)" fontSize="14">128%</span>
+            </p>
+          </content>
+        </td>
+      </tr>
+    </table>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

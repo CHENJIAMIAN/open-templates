@@ -1,0 +1,198 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="560" height="20" topLeftX="0" topLeftY="520" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="400" height="540" topLeftX="560" topLeftY="0" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="880.03" topLeftY="0" presetHandlers="0" alpha="0.40" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="389" height="107" topLeftX="42.54" topLeftY="48" type="text">
+      <content fontSize="38" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1.4">
+          <span color="rgba(255, 255, 255, 1)" fontSize="38" fontFamily="寒蝉德黑体">算力新纪元</span>
+          <br/>
+          <span color="rgba(255, 255, 255, 1)" fontSize="38" fontFamily="寒蝉德黑体">构建大模型驱动的智能未来</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="170" height="30" topLeftX="59.40" topLeftY="178" alpha="0.70" type="text">
+      <content fontSize="20" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="20" fontFamily="寒蝉德黑体">挑战、机遇与路径探索</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="2" height="26.85" topLeftX="45.54" topLeftY="180.44" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(194, 230, 87, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="800.07" topLeftY="48.25" presetHandlers="0" alpha="0.20" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="720.10" topLeftY="96.50" presetHandlers="0" alpha="0.20" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="48.25" presetHandlers="0" alpha="0.15" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="560" topLeftY="0" presetHandlers="0" alpha="0.14" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="720.10" topLeftY="0" presetHandlers="0" alpha="0.49" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="0" presetHandlers="0" alpha="0.10" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="720.02" topLeftY="48.25" presetHandlers="0" alpha="0.20" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="560" topLeftY="96.50" presetHandlers="0" alpha="0.12" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="800.07" topLeftY="0" presetHandlers="0" alpha="0.31" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="880.03" topLeftY="96.50" presetHandlers="0" alpha="0.06" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="639.97" topLeftY="96.50" presetHandlers="0" alpha="0.04" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="79.97" height="48.25" topLeftX="640.13" topLeftY="144.75" presetHandlers="0" alpha="0.18" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="222.89" height="192" topLeftX="599.98" topLeftY="55" type="text">
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" autoFit="shape-auto-fit">
+        <p>展望大模型算力的未来发展方向，探讨如何应对算力瓶颈，构建开放、协作、共赢的算力生态。</p>
+        <p>
+          <br/>
+        </p>
+        <p/>
+        <p>
+          <br/>
+        </p>
+      </content>
+    </shape>
+    <shape width="59" height="24" topLeftX="867.19" topLeftY="453.18" alpha="0.54" type="text">
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false">演讲人</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="74" height="24" topLeftX="852.19" topLeftY="480" type="text">
+      <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+        <p textAlign="right">
+          <span color="rgba(28, 29, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="寒蝉德黑体" bold="false">李天天</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="500" presetHandlers="0" alpha="0.80" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="480" presetHandlers="0" alpha="0.70" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="460" presetHandlers="0" alpha="0.60" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="440" presetHandlers="0" alpha="0.50" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="420" presetHandlers="0" alpha="0.40" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="400" presetHandlers="0" alpha="0.30" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="380" presetHandlers="0" alpha="0.20" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="560" height="20" topLeftX="0" topLeftY="360" presetHandlers="0" alpha="0.10" type="rect">
+      <fill>
+        <fillColor color="rgba(207, 242, 103, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

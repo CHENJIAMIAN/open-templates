@@ -1,0 +1,32 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="U3lrbuti3ouewWxBGuocQVZFnu3" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="90.23" height="35.76" topLeftX="47.97" topLeftY="471.58" type="text">
+        <content textType="sub-headline" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="寒蝉团圆体 黑体" bold="false" italic="false" strikethrough="false" underline="false">Chapter</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="47.39" startY="458.67" endX="427.39" endY="458.67">
+        <border color="rgba(183, 206, 188, 1)" width="1"/>
+      </line>
+      <shape width="380" height="239.17" topLeftX="47.97" topLeftY="54.84" type="text">
+        <content textType="headline" fontSize="56" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行前准备与避坑指南</p>
+        </content>
+      </shape>
+      <shape width="65.66" height="35" topLeftX="362.31" topLeftY="471.58" type="text">
+        <content textType="title" fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(49, 108, 63, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,102 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>绩效评估与动态调整</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>关键绩效指标</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>包括财务指标（海外收入占比、毛利率）和市场指标（市场份额、客户满意度），华勤海外收入占比50%，毛利率达25%；TCL北美电视市场份额达22%。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>市场反馈</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>快速响应，通过市场调研和客户反馈及时调整策略，小米根据不同市场特点调整产品策略，在东南亚强化性价比，在欧洲注重高端化。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>定期复盘</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>机制确保战略执行，每季度召开区域战略会议调整产品组合，如OPPO在墨西哥增加400-500美元价位机型。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>敏捷调整</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>应对市场变化，根据关税政策变化快速调整产能布局，如墨西哥零关税政策促使企业增加当地产能。</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="364.90" topLeftY="204.88" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="495.10" topLeftY="204.88" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="364.90" topLeftY="336.60" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="495.10" topLeftY="336.60" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

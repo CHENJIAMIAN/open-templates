@@ -1,0 +1,101 @@
+<slide>
+    <style/>
+    <data>
+      <img src="XcF2b9cwAoeKSrxvBWocDm9Xngd" width="324.83" height="400.79" topLeftX="603.07" topLeftY="106.98">
+        <crop type="rect" leftOffset="3.81" rightOffset="6.64" topOffset="47.45" bottomOffset="54.59" presetHandlers="7"/>
+      </img>
+      <line startX="32.59" startY="92.85" endX="927.90" endY="92.85" alpha="0.15">
+        <border color="rgba(23, 16, 71, 1)" width="1"/>
+      </line>
+      <shape width="193.59" height="80.73" topLeftX="182.48" topLeftY="109.82" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(23, 16, 71, 1)" fontSize="30" fontFamily="寒蝉锦书宋" bold="false">不同场景下的</span>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(23, 16, 71, 1)" fontSize="30" fontFamily="寒蝉锦书宋" bold="false">使用方式</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="182.48" topLeftY="230.03" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>动态内容</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="182.48" topLeftY="312.85" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>说明材料</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="182.48" topLeftY="370.80" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>互动展示</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="18" topLeftX="182.48" topLeftY="436.75" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>视觉输出</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="156.40" height="49.67" topLeftX="279.28" topLeftY="230.03" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">在滚动与切换中保持信息稳定，使重点始终清晰，在滚动与切换中保持信息稳定。</p>
+        </content>
+      </shape>
+      <shape width="156.40" height="21" topLeftX="279.28" topLeftY="312.85" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p>自然流畅，精炼结构。</p>
+        </content>
+      </shape>
+      <shape width="156.40" height="32.07" topLeftX="279.28" topLeftY="370.80" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4">
+          <p>强调操作反馈与节奏，使细节呈现更直观。</p>
+        </content>
+      </shape>
+      <shape width="156.40" height="32.07" topLeftX="279.28" topLeftY="436.75" alpha="0.45" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.2" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">适配多种输出格式，</p>
+          <p lineSpacing="multiple:1.2">确保色彩与质感一致。</p>
+        </content>
+      </shape>
+      <shape width="109" height="45" topLeftX="32.59" topLeftY="109.82" type="text">
+        <content verticalAlign="top" textType="title" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(23, 16, 71, 1)" fontSize="30" fontFamily="寒蝉锦书宋" bold="false">2026</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="66.10" height="45" topLeftX="32.59" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">
+            <span color="rgba(20, 13, 71, 1)" fontSize="10" fontFamily="思源黑体" bold="false">突出清晰度与阅读效率，突出清晰度</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="15" topLeftX="248.59" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(20, 13, 71, 1)" fontSize="10" fontFamily="思源黑体" bold="false">数字媒体</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="67" height="15" topLeftX="860.90" topLeftY="20.20" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(20, 13, 71, 1)" bold="false" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right">
+            <span color="rgba(20, 13, 71, 1)" fontFamily="思源黑体" bold="false">公司名称</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

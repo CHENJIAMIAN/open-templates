@@ -1,0 +1,68 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="Uua0b1ziCoiilIxZizJcDjznn9d" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464" height="366" topLeftX="47.92" topLeftY="87" presetHandlers="19" type="rect">
+        <fill>
+          <fillColor color="rgba(42, 40, 62, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <line startX="83.89" startY="189.54" endX="475.45" endY="189.54" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="391.06" height="45" topLeftX="84.39" topLeftY="119.67" type="text">
+        <content textType="title" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="211.68" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队OKR基础认知</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="211.68" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="263.80" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队目标（O）设定指南</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="263.80" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="315.93" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队关键结果（KR）制定方法</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="315.93" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="368.05" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>销售团队OKR实施与管理全流程</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="368.05" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="DouYinMeiHao" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

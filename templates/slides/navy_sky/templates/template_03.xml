@@ -1,0 +1,24 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="RrVeb0JXcoRCn7xvOWYc6KohnZb" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="855.27" height="99.84" topLeftX="44.74" topLeftY="36.41" type="text">
+      <content textType="headline" fontSize="62" fontFamily="寒蝉德黑体" color="rgba(239, 246, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉德黑体">年度工作概述</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="241.22" height="256" topLeftX="44.74" topLeftY="284" flipX="true" alpha="0.13" type="text">
+      <content textType="title" fontSize="200" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

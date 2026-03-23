@@ -1,0 +1,22 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="GeYqbTYlDoi3oDxMaFScnwcNneg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">04</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>预算规划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

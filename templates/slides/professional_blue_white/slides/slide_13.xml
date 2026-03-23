@@ -1,0 +1,77 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据分析</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过挖掘现有产品数据和行业报告，发现用户行为模式和市场趋势。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据来源</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括用户活跃度（DAU/MAU）、功能使用率、留存率、转化漏斗等。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>常用指标</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>需结合业务背景，如CJ256设计师比稿案例中，通过分析同类设计作品的市场表现数据，为河南文化海报设计提供支持。</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>分析方法</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>呈现方式</p>
+        </content>
+      </shape>
+      <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建议采用可视化工具呈现分析结果，如折线图展示趋势变化，热力图呈现用户关注区域。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

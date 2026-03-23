@@ -1,0 +1,87 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(240, 243, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="296.25" endX="912" endY="297.25" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="478.65" startY="131.59" endX="478.05" endY="471.59" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49.09" topLeftY="143.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="49" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="508.91" topLeftY="342.90" type="ellipse">
+        <fill>
+          <fillColor color="rgba(240, 153, 157, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="388.40" height="32" topLeftX="523.60" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">学习启动环节</p>
+        </content>
+      </shape>
+      <shape width="388.40" height="104" topLeftX="523.60" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>设计"一键继续"功能，保存上次学习断点，减少选择摩擦</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户体验优化策略</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="32" topLeftX="63.79" topLeftY="129.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">首次使用流程</p>
+        </content>
+      </shape>
+      <shape width="373.56" height="104" topLeftX="63.79" topLeftY="161.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将注册步骤从行业平均8步精简至3步（手机号登录→目标选择→兴趣标签），完成时间控制在60秒内</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="63.70" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">反馈激励系统</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="63.70" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用"进度可视化+小成就解锁"机制，如连续学习3天解锁"启程者"徽章，正确率达90%触发"学霸时刻"动画</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="32" topLeftX="523.60" topLeftY="328.93" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">学习中断场景</p>
+        </content>
+      </shape>
+      <shape width="373.65" height="104" topLeftX="523.60" topLeftY="360.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>开发"断点续学"功能，支持退出后15分钟内推送提醒，调研显示该功能可将学习完成率提升28%</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,63 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="774.36" height="184.66" topLeftX="92.82" topLeftY="109.77" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="774.36" height="245.33" topLeftX="92.82" topLeftY="52.84" presetHandlers="8" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <img src="DmW8bHWzFotO0hxmk2kcC15CnRb" width="774.36" height="192.72" topLeftX="92.82" topLeftY="294.43" exposure="20">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="120.18" bottomOffset="170.94" presetHandlers="8"/>
+    </img>
+    <shape width="300" height="75" topLeftX="135.68" topLeftY="189.54" type="text">
+      <content textType="title" fontSize="50" fontFamily="Noto Sans SC Light" color="rgba(0, 0, 0, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(0, 0, 0, 1)" fontSize="50" fontFamily="Noto Sans SC Light" bold="false">会议要点概览</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="186" height="75" topLeftX="135.68" topLeftY="134.14" alpha="0.20" type="text">
+      <content textType="title" fontSize="50" fontFamily="Noto Sans SC Light" color="rgba(0, 0, 0, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span fontFamily="Noto Sans SC Light">01.20.26</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="48" height="18" topLeftX="779.17" topLeftY="79.70" alpha="0.80" type="text">
+      <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(0, 0, 0, 1)" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Noto Sans SC Light">企业名称</span>
+        </p>
+      </content>
+    </shape>
+    <img src="En7Bb8DXWoUCNMxpUNNcsVpDnLc" width="774.36" height="48.45" topLeftX="92.82" topLeftY="294.43" exposure="20">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="120.18" bottomOffset="315.21" presetHandlers="0"/>
+    </img>
+    <line startX="57.55" startY="612" endX="57.55" endY="1152">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="831.73" startY="612" endX="831.73" endY="1152">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="-36.09" startY="664.84" endX="925.19" endY="664.84">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+    <line startX="-27" startY="1099.16" endX="934.28" endY="1099.16">
+      <border color="rgba(208, 211, 214, 1)" width="1"/>
+    </line>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

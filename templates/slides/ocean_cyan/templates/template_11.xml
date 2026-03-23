@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="5" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(89, 172, 193, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="5" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(89, 172, 193, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="10" type="round-rect">
+      <fill>
+        <fillColor color="rgba(89, 172, 193, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="5" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(89, 172, 193, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="5" alpha="0.08" type="round-rect">
+      <fill>
+        <fillColor color="rgba(89, 172, 193, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>技术架构与核心优势</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>支持多源数据接入（传感器、日志、交易数据等），通过自动化清洗流程提升数据质量至90%以上</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>数据层</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>自研轻量化深度学习框架，融合CNN（图像识别）、RNN（时序预测），模型训练效率提升30%，推理延迟低于0.5秒</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>算法层</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="174.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.6)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心技术优势包括：小样本学习算法（训练数据量减少80%）、边缘计算优化（本地化处理延迟&lt;0.5秒）、跨场景迁移能力（模型在不同行业适配周期缩短至2周）</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 255, 255, 0.922)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心优势</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="358.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>模块化设计，支持客户自定义功能组合，提供可视化配置界面，无需代码即可部署模型</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>应用层</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="358.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>通过ISO 27001认证，采用数据加密、权限管理、联邦学习技术，确保客户数据“可用不可见”</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>安全层</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

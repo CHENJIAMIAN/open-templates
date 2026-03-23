@@ -1,0 +1,1145 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>06</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style/>
+    <data>
+      <img src="KTdzbd9ZbopGpOxbCNmcIjDrnRh" width="960" height="540" topLeftX="0" topLeftY="0" rotation="180" temperature="12">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="57.45" bottomOffset="57.45" presetHandlers="0"/>
+      </img>
+      <shape width="208" height="156" topLeftX="376" topLeftY="145.50" type="text">
+        <content textType="title" fontSize="104" fontFamily="Noto Serif SC ExtraLight" color="rgba(51, 62, 51, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(51, 62, 51, 1)" fontSize="104" fontFamily="Noto Serif SC ExtraLight" bold="false">春觅</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.02" height="33.72" topLeftX="32.51" topLeftY="26.11" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(43, 46, 37, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(43, 46, 37, 1)" fontSize="14" fontFamily="思源宋体" bold="false">在疏朗的留白</span>
+          </p>
+          <p textAlign="left" lineSpacing="multiple:1.2">
+            <span color="rgba(43, 46, 37, 1)" fontSize="14" fontFamily="思源宋体" bold="false">气象自成</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="142.02" height="33.72" topLeftX="782.53" topLeftY="26.11" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right">
+          <p list="none" textAlign="right" lineSpacing="multiple:1.2">
+            <span color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">山色入怀</span>
+          </p>
+          <p list="none" textAlign="right" lineSpacing="multiple:1.2">
+            <span color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">风物自生</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="402.89" height="80.50" topLeftX="278.55" topLeftY="430.53" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="20" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" textAlign="center">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">山色入怀 </span>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)">· </span>
+            </strong>
+            <span color="rgba(255, 255, 255, 1)">风物自生</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(255, 255, 255, 1)">在自然的节律中重新理解当下</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(255, 255, 255, 1)" fontSize="20">案例分析</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="JRZcbNyJXoqR0WxzNW5cIuoFnoc" width="285.09" height="540" topLeftX="674.91" topLeftY="0" temperature="-39">
+        <crop type="rect" leftOffset="446.65" rightOffset="231.43" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="80" height="60" topLeftX="40.81" topLeftY="33.79" type="text">
+        <content textType="title" fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" fontSize="40" fontFamily="思源宋体" bold="false">目录</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="209" height="24" topLeftX="45.76" topLeftY="140.25" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18">清韵入墨 · 意在无形</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="637" height="16" topLeftX="45.76" topLeftY="173.36" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="12">本页用于展示整体背景、设计灵感或主题概念，以轻柔的图像与文字开场，营造东方雅意。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="46.26" topLeftY="341.10" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">01 自然之源</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="46.26" topLeftY="389.97" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">02 东方审美</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="46.26" topLeftY="438.83" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">03 材质与气息</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="240.83" topLeftY="340.79" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">04 使用场景</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="240.83" topLeftY="390.68" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">05 延展应用</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="240.83" topLeftY="438.83" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">06 东方审美</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="435.40" topLeftY="341.10" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">09 材质与气息</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="133" height="21" topLeftX="435.40" topLeftY="389.97" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="16">10 色彩体系</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <line startX="550.20" startY="90.26" endX="787.53" endY="91.26">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="550.20" startY="208.20" endX="787.53" endY="209.20">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="550.20" startY="136.74" endX="787.53" endY="137.74">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="550.20" startY="161.72" endX="787.53" endY="162.72">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="668.80" startY="89.76" endX="668.80" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="256.39" startY="89.76" endX="256.39" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="198.78" startY="89.76" endX="198.78" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="316.54" startY="89.76" endX="316.54" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="610.35" startY="89.76" endX="610.35" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="728.10" startY="89.76" endX="728.10" endY="207.89">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <shape width="120" height="180" topLeftX="608.87" topLeftY="52.19" alpha="0.84" type="text">
+        <content textType="title" fontSize="120" fontFamily="Noto Serif SC ExtraLight" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontFamily="Noto Serif SC ExtraLight" bold="false">觅</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="30" topLeftX="199.76" topLeftY="271.79" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" bold="false">01 宋体</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="150" height="54" topLeftX="198.78" topLeftY="346.89" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">我们关注自然的细微变化，将时间、气息与东方审美等融入日常生活体验之中。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="21" topLeftX="198.78" topLeftY="320.78" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">特点</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="150" height="36" topLeftX="198.78" topLeftY="449.52" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">我们关注自然的细微变化，将时间、气息与东方审美。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="21" topLeftX="198.78" topLeftY="422.41" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">溯源</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="30" topLeftX="610.35" topLeftY="272.79" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" bold="false">02 楷体</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="150" height="54" topLeftX="610.35" topLeftY="346.89" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">我们关注自然的细微变化，将时间、气息与东方审美等融入日常生活体验之中。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="21" topLeftX="610.35" topLeftY="320.78" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">特点</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="150" height="36" topLeftX="610.35" topLeftY="449.52" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">关注自然的细微变化，将时间、融入日常生活体验。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="114" height="21" topLeftX="610.35" topLeftY="422.41" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="16" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">溯源</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="46.57" height="46.57" topLeftX="592.98" topLeftY="174.19" type="ellipse">
+        <border color="rgba(211, 213, 175, 1)"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <line startX="139.35" startY="90.26" endX="376.68" endY="91.26">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="139.35" startY="208.20" endX="376.68" endY="209.20">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="139.35" startY="136.74" endX="376.68" endY="137.74">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <line startX="139.35" startY="161.72" endX="376.68" endY="162.72">
+        <border color="rgba(211, 213, 175, 1)" width="1"/>
+      </line>
+      <shape width="120" height="180" topLeftX="196.39" topLeftY="52.19" alpha="0.84" type="text">
+        <content textType="title" fontSize="120" fontFamily="Noto Serif SC ExtraLight" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontFamily="Noto Serif SC ExtraLight" bold="false">春</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="46.57" height="46.57" topLeftX="188.78" topLeftY="80.87" type="ellipse">
+        <border color="rgba(211, 213, 175, 1)"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="GlpDbK6bUozaOpx2zMmc4CIwnYb" width="960" height="270" topLeftX="0" topLeftY="270" alpha="0.88" exposure="-20" saturation="-14" temperature="-14">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="135" bottomOffset="135" presetHandlers="0"/>
+      </img>
+      <shape width="160" height="60" topLeftX="400" topLeftY="49.74" type="text">
+        <content textType="title" fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="40">顺时而生</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="343" height="30" topLeftX="308.50" topLeftY="158.44" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" bold="false">我们关注自然的细微变化，体验生活</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="325" height="37" topLeftX="317.50" topLeftY="196.09" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="14">我们关注自然的细微变化，将时间、气息与东方审美等融入日常生活体验之中</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="209" height="19" topLeftX="374.40" topLeftY="114.42" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="14">东方语境下的表达</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="72" height="54" topLeftX="497.45" topLeftY="446.55" type="text">
+        <content textType="title" fontSize="36" fontFamily="Noto Serif SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center">
+            <span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="Noto Serif SC ExtraLight">春觅</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="480" startY="458.61" endX="480" endY="496.27" alpha="0.50">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="32" height="42" topLeftX="430.67" topLeftY="455.11" type="text">
+        <content textType="title" fontSize="16" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.3">
+            <span fontSize="16">企业</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span fontSize="16">名称</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="GH5vbOHfboLvlsxfjhxcKAGHnFd" width="158.78" height="237.69" topLeftX="93.78" topLeftY="158.43" saturation="-20" temperature="-8">
+        <crop type="rect" leftOffset="51.10" rightOffset="16.42" topOffset="0" bottomOffset="101.76" presetHandlers="0"/>
+      </img>
+      <img src="GFiZbF7XKod73vxnh49c9YtenQh" width="158.78" height="237.69" topLeftX="299" topLeftY="158.43">
+        <crop type="rect" leftOffset="165.72" rightOffset="212.73" topOffset="120.46" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <img src="KHqzbYmMhoV7suxHDvjc3JHEnsd" width="158.78" height="238.19" topLeftX="504.22" topLeftY="158.43">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <img src="J3zXbYhWToGiRxxvKHVcLd7fnjf" width="158.78" height="237.69" topLeftX="709.43" topLeftY="158.43">
+        <crop type="rect" leftOffset="0" rightOffset="274.49" topOffset="0" bottomOffset="62.32" presetHandlers="0"/>
+      </img>
+      <shape width="159" height="108" topLeftX="93.67" topLeftY="417.56" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">以静谧的林间气息</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">为线索，捕捉光影在枝叶</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">之间的瞬间，自然生长的秩序与呼吸感。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="72" topLeftX="298.89" topLeftY="417.56" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在行走与停留之间，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">感知环境带来的细微变化，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">让体验成为一段缓慢</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">展开的过程。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="54" topLeftX="504.10" topLeftY="417.56" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">回归材质与色彩的本质，</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">弱化修饰与装饰，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">保留最接近自然的状态表达。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="108" topLeftX="709.32" topLeftY="417.56" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">以旁观者的视角，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">重新审视人与自然的</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">关系，在克制中建立更长久的深度连接。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="42" topLeftX="93.67" topLeftY="64.72" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「林」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="42" topLeftX="298.89" topLeftY="64.72" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「行」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="42" topLeftX="504.10" topLeftY="64.72" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「素」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="42" topLeftX="709.32" topLeftY="64.72" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「观」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="26" topLeftX="93.67" topLeftY="108.37" alpha="0.60" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">山林之境</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="26" topLeftX="298.89" topLeftY="109.38" alpha="0.60" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">行走之途</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="26" topLeftX="504.10" topLeftY="109.38" alpha="0.60" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">素简之本</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="159" height="26" topLeftX="709.32" topLeftY="109.38" alpha="0.60" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">静观其间</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="158.78" height="237.69" topLeftX="93.78" topLeftY="158.43" presetHandlers="0" alpha="0.17" type="rect">
+        <fill>
+          <fillColor color="rgba(71, 104, 2, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="Yd9NbRzihoUuiixFZcKcdMdPn5f" width="960" height="540" topLeftX="0" topLeftY="0" exposure="-7">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="50" bottomOffset="50" presetHandlers="0"/>
+      </img>
+      <shape width="90.84" height="220" topLeftX="767.83" topLeftY="16.09" type="text">
+        <content fontSize="50" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="50">万物未言</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="207.96" height="44.28" topLeftX="421.51" topLeftY="595.53" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p>一场关于自然的轻度介入</p>
+        </content>
+      </shape>
+      <line startX="255.27" startY="-327.34" endX="255.27" endY="-289.69">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="181.68" height="44" topLeftX="114.12" topLeftY="465.26" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2">一场关于自然的轻度介入。不是强调结果，而是记录过程中的变化，让感受成为连接的起点。</p>
+        </content>
+      </shape>
+      <shape width="98.96" height="50.21" topLeftX="69.73" topLeftY="614.70" type="text">
+        <content textType="title" fontSize="37" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="center" autoFit="normal-auto-fit" wrap="false">
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <span color="rgba(255, 255, 255, 1)" fontSize="37">春觅</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="89.23" startY="465.99" endX="89.23" endY="503.64">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="32" height="42" topLeftX="43.88" topLeftY="466.49" type="text">
+        <content textType="title" fontSize="16" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.3">
+            <strong>
+              <span fontSize="16" fontFamily="思源宋体">企业</span>
+            </strong>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.3">
+            <strong>
+              <span fontSize="16" fontFamily="思源宋体">名称</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="384.51" topLeftY="465.26" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontFamily="思源宋体">分类</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="384.51" topLeftY="489.32" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span fontFamily="思源宋体" bold="false">视觉识别</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="505.38" topLeftY="466.09" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>作品类型</p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="505.38" topLeftY="490.15" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>品牌设计</p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="626.25" topLeftY="465.26" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>项目年份</p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="626.25" topLeftY="489.32" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>2026</p>
+        </content>
+      </shape>
+      <shape width="48.42" height="15" topLeftX="747.11" topLeftY="465.26" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>应用类别</p>
+        </content>
+      </shape>
+      <shape width="73.75" height="44" topLeftX="747.11" topLeftY="489.32" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>生活日化</p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="867.98" topLeftY="465.26" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>设计</p>
+        </content>
+      </shape>
+      <shape width="63.72" height="15" topLeftX="867.98" topLeftY="489.32" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p>工作室名</p>
+        </content>
+      </shape>
+      <shape width="90.84" height="220" topLeftX="840.85" topLeftY="153.89" type="text">
+        <content fontSize="50" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span fontSize="50">自有回响</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="DbWMbI10jocRNdx15L1cgfXLn1g" width="455.62" height="540" topLeftX="0" topLeftY="0" saturation="-12" temperature="14">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="309" height="42" topLeftX="549.79" topLeftY="105.99" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="28" fontFamily="思源宋体" bold="false">「起 · 承 · 转 · 合」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="409" height="108" topLeftX="499.79" topLeftY="244.75" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)">草木与光影的流动、</span>
+          </p>
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">灵感取自山林。</span>
+            <br/>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">不追求繁复装饰，而重在真实与克制的表达</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">从自然中来，回到生活之中。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="704.29" startY="175.37" endX="704.29" endY="213.02">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="208" height="54" topLeftX="600.29" topLeftY="397.55" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(42, 45, 26, 1)" fontSize="12">本页用于展示整体背景、设计灵感或主题概念，以轻柔的图像与文字开场，营造东方雅意。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <chart width="499.84" height="423" topLeftX="422.52" topLeftY="73.48" id="bPE">
+        <chartPlotArea>
+          <chartPlot type="pie">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartSectors borderColor="rgb(255, 255, 255)" innerRadius="0.732">
+                  <chartSector index="1" color="rgb(170, 174, 153)"/>
+                  <chartSector index="2" color="rgb(225, 221, 183)"/>
+                  <chartSector index="3" color="rgb(108, 120, 89)"/>
+                </chartSectors>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="满意度">满意,一般,差评</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="反馈次数">455,655,160</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle>满意度情况</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+      <shape width="264" height="99" topLeftX="26.98" topLeftY="94.77" type="text">
+        <content textType="title" fontSize="66" fontFamily="Noto Serif SC ExtraLight" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" fontSize="66" fontFamily="Noto Serif SC ExtraLight">「觅寻」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="356" height="54" topLeftX="63.64" topLeftY="276.25" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在万物初醒的时节，气息变得轻盈而柔软，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">引导感官重新认识自然的节律。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="384" height="36" topLeftX="63.64" topLeftY="353.67" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在贴近身体与空间的距离中，让自然成分与温和触感共同作用，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">形成轻柔而持续的陪伴。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="356" height="28" topLeftX="63.64" topLeftY="235.98" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" fontFamily="思源宋体" bold="false">循春而行，感知初生。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="451.70" startY="386.64" endX="609.45" endY="386.64" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="86.15" height="18" topLeftX="451.70" topLeftY="366.91" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">光感氛围 30%</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="775.41" startY="318.94" endX="909.28" endY="318.94" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="89" height="18" topLeftX="834.05" topLeftY="298.83" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体">嗅觉体验 </span>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">35%</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="491.85" startY="160.96" endX="650.60" endY="160.96" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="92" height="18" topLeftX="491.85" topLeftY="142.24" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">自然元素 25%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="63.64" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(108, 120, 89, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="99.87" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(225, 221, 183, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="136.10" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(171, 175, 152, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="UGncbqrIooPctUxsOlecmLn9nYc" width="371.64" height="251.01" topLeftX="-2.44" topLeftY="68.71">
+        <crop type="rect" leftOffset="20.52" rightOffset="57.19" topOffset="48.56" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <img src="AuZrbjuCgoDvYBx4OHLcRcYynSb" width="582.02" height="251.01" topLeftX="377.98" topLeftY="68.71" exposure="-4" contrast="4" saturation="57" temperature="100">
+        <crop type="rect" leftOffset="0" rightOffset="106.35" topOffset="420.48" bottomOffset="361.06" presetHandlers="0"/>
+      </img>
+      <shape width="582.02" height="251.01" topLeftX="377.98" topLeftY="68.71" presetHandlers="0" alpha="0.11" type="rect">
+        <fill>
+          <fillColor color="rgba(71, 104, 2, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <icon width="25" height="25" topLeftX="58.81" topLeftY="432.94" iconType="iconpark/Energy/leaves-one.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="109.09" topLeftY="432.94" iconType="iconpark/Travel/pyramid-one.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="159.37" topLeftY="432.94" iconType="iconpark/Others/sleaves.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="384" height="36" topLeftX="377.98" topLeftY="469.73" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在贴近身体与空间的距离中，让自然成分与温和触感共同作用，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">形成轻柔而持续的陪伴。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="498" height="54" topLeftX="377.98" topLeftY="404.34" alpha="0.89" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">草木与光影的流动、</span>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">灵感取自山林。不追求繁复装饰，而重在真实与克制的表达从自然中来，回到生活之中。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="39.45" topLeftY="21.01" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" bold="false">作品类型</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="856.86" topLeftY="21.01" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)" bold="false">项目年份</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="309" height="42" topLeftX="-25.54" topLeftY="358.04" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「一隅清养」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="498" height="28" topLeftX="377.98" topLeftY="361.93" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" fontFamily="思源宋体" bold="false">气息，塑造日常的节奏。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="377.48" startY="394.66" endX="588.49" endY="395.66">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="UBN6bjwM1o9mFRxL06ecPDNbnnf" width="408.64" height="540" topLeftX="551.36" topLeftY="0" exposure="20" contrast="1" saturation="-30" temperature="-39">
+        <crop type="rect" leftOffset="18.89" rightOffset="3.09" topOffset="0" bottomOffset="105.92" presetHandlers="0"/>
+      </img>
+      <shape width="404" height="60" topLeftX="44.92" topLeftY="78.19" type="text">
+        <content fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="40" bold="false">「清醒 · 自然 · 克制」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="167" height="108" topLeftX="68.58" topLeftY="236.69" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">通过弱化装饰与情绪表达，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">让视觉聚焦于光影、节奏与真实触感，保持理性而不冰冷的观看状态。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <line startX="67.21" startY="342.45" endX="455.41" endY="342.45" alpha="0.49">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <line startX="260.37" startY="202.15" endX="260.37" endY="342.45" alpha="0.49">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <icon width="25" height="25" topLeftX="68.58" topLeftY="201.65" iconType="iconpark/Health/detection.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="285.68" topLeftY="200.65" iconType="iconpark/Travel/pyramid-one.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="68.58" topLeftY="375.49" iconType="iconpark/Others/sleaves.svg">
+        <border color="rgba(71, 104, 2, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="170" height="90" topLeftX="285.68" topLeftY="236.69" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">以植物形态与自然结构为灵感来源，呈现未经修饰的生长轨迹，让设计顺应环境，而非主导环境的作用。</span>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="384" height="36" topLeftX="71.32" topLeftY="409.89" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">避免过度表达与视觉负担，通过简化元素与层级关系，构建通透、耐看的整体秩序。呈现未经修饰的生长轨迹，让设计顺应环境。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="126" height="26" topLeftX="103.40" topLeftY="201.65" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" bold="false">回归感知本身</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="157" height="26" topLeftX="321.12" topLeftY="201.65" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">尊重生长变化</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="126" height="26" topLeftX="106.40" topLeftY="375.49" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">留白胜于堆叠</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="47.67" height="42" topLeftX="60.24" topLeftY="200.55" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(71, 104, 2, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">息</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="235.35" height="32" topLeftX="60.24" topLeftY="291.67" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>以感受为先，而非形式为先，通过光影节奏引导观看，让视觉回到自然的呼吸之中。</p>
+        </content>
+      </shape>
+      <shape width="90" height="26" topLeftX="60.24" topLeftY="253.70" alpha="0.82" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">感知起点</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="47.67" height="42" topLeftX="363.73" topLeftY="200.55" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(71, 104, 2, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">序</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="235.35" height="32" topLeftX="363.73" topLeftY="291.67" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>遵循自然变化的内在逻辑，建立不急不躁的表达节奏，避免过度强调与刻意设计。</p>
+        </content>
+      </shape>
+      <shape width="90" height="26" topLeftX="363.73" topLeftY="253.70" alpha="0.82" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18">顺势而行</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="47.67" height="42" topLeftX="667.21" topLeftY="200.55" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(71, 104, 2, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">简</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.55" height="47" topLeftX="667.21" topLeftY="291.67" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            删减多余装饰与情绪符号，突出结构、比例与材质本身，形成清晰而稳定的视觉基础。
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="90" height="26" topLeftX="667.21" topLeftY="253.70" alpha="0.82" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">去繁存真</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="280" height="60" topLeftX="60.24" topLeftY="47.90" type="text">
+        <content textType="title" fontSize="40" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">循序而成的规律</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="47.67" height="42" topLeftX="363.73" topLeftY="359.71" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(71, 104, 2, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">合</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.55" height="63" topLeftX="363.73" topLeftY="450.83" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>从植物、生长与环境中取意，使设计成为场景的一部分，而非孤立存在的视觉主体。</p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="90" height="26" topLeftX="363.73" topLeftY="412.86" alpha="0.82" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">自然相融</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="47.67" height="42" topLeftX="60.24" topLeftY="359.71" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(71, 104, 2, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">留</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.55" height="78" topLeftX="60.24" topLeftY="450.83" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>通过留白与间距的控制，为画面保留流动与呼吸感，让信息自然显现，而非堆叠呈现。</p>
+          <p>
+            <br/>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="90" height="26" topLeftX="62.93" topLeftY="412.86" alpha="0.82" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(42, 45, 26, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="18" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">空间有余</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="209" height="24" topLeftX="62.45" topLeftY="119.87" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">构建稳定的视觉系统</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="W1N7bwZwSoRuqNxL5uQclrO8nMh" width="960" height="446.69" topLeftX="0" topLeftY="0" exposure="3" saturation="12" temperature="-24">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="112.11" bottomOffset="112.11" presetHandlers="0"/>
+      </img>
+      <shape width="406.31" height="188.30" topLeftX="66.69" topLeftY="50.55" type="text">
+        <content fontSize="80" fontFamily="Noto Serif SC ExtraLight" color="rgba(55, 71, 19, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left">
+          <p textAlign="left">
+            <span color="rgba(55, 71, 19, 1)" fontSize="80" fontFamily="Noto Serif SC ExtraLight" bold="false">感谢</span>
+          </p>
+          <p textAlign="left" lineSpacing="multiple:1.1">
+            <span color="rgba(55, 71, 19, 1)" fontSize="80" fontFamily="Noto Serif SC ExtraLight" bold="false">     观看</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="255.27" startY="-327.34" endX="255.27" endY="-289.69">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="283.44" height="39.10" topLeftX="645.37" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" lineSpacing="multiple:1.4" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.4">
+            <span color="rgba(108, 120, 89, 1)">一场关于自然的轻度介入。不是强调结果，而是记录过程中的变化，让感受成为连接的起点。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="36.83" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">项目年份</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="36.83" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">2026</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="48.42" height="18.33" topLeftX="157.69" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">应用类别</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="73.75" height="16.72" topLeftX="157.69" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">生活日化</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="278.56" topLeftY="476.07" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">设计</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="278.56" topLeftY="496.13" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(108, 120, 89, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(108, 120, 89, 1)">工作室名</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

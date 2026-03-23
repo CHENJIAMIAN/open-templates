@@ -1,0 +1,136 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="20.71" startY="262.70" endX="939.30" endY="262.70" alpha="0.15">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <line startX="341.86" startY="48.67" endX="341.86" endY="248.35" alpha="0.15">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <shape width="193.59" height="40.36" topLeftX="39.57" topLeftY="67.78" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <span fontFamily="寒蝉锦书宋" bold="false">版式结构</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="551.38" height="34" topLeftX="39.57" topLeftY="326.37" alpha="0.45" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>页面以清晰结构组织信息，使内容在不同体量下都能保持秩序与节奏。通过统一的间距与对齐方式，让阅读路径自然展开，避免信息堆叠。</p>
+      </content>
+    </shape>
+    <shape width="247" height="68" topLeftX="663.60" topLeftY="324.38" alpha="0.45" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>该结构适用于信息层级明确的内容呈现。当页面承载过多复杂信息时，需适当拆分模块，以保持整体清晰度和。避免在单一页面中同时使用过多表现形式。</p>
+      </content>
+    </shape>
+    <shape width="193.59" height="40.36" topLeftX="39.57" topLeftY="108.15" type="text">
+      <content verticalAlign="top" textType="headline" fontSize="30" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <span color="rgba(23, 16, 71, 1)" fontFamily="寒蝉锦书宋" bold="false">2026</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="193.59" height="40.36" topLeftX="39.57" topLeftY="285.67" type="text">
+      <content textType="headline" fontSize="18" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <strong>
+            <span fontSize="18" fontFamily="思源黑体">排版原则</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="193.59" height="40.36" topLeftX="663.60" topLeftY="285.67" type="text">
+      <content textType="headline" fontSize="18" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" bold="true" lineSpacing="multiple:1.4" wrap="false">
+        <p>
+          <strong>
+            <span fontSize="18" fontFamily="思源黑体">使用限制</span>
+          </strong>
+        </p>
+      </content>
+    </shape>
+    <img src="CN0Bbo3tkoTonbxOrkicsePYnzh" width="123.01" height="123.83" topLeftX="786.61" topLeftY="62.73">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <line startX="635.25" startY="285.17" endX="635.25" endY="484.86" alpha="0.15">
+      <border color="rgba(23, 16, 71, 1)" width="1"/>
+    </line>
+    <shape width="19.64" height="19.64" topLeftX="379.03" topLeftY="213.29" type="ellipse">
+      <fill>
+        <fillColor color="rgba(20, 13, 71, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="19.64" height="19.64" topLeftX="398.68" topLeftY="213.29" type="ellipse">
+      <fill>
+        <fillColor color="rgba(205, 234, 255, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="19.64" height="19.64" topLeftX="418.32" topLeftY="213.29" type="ellipse">
+      <fill>
+        <fillColor color="rgba(232, 214, 245, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="19.64" height="19.64" topLeftX="437.97" topLeftY="213.29" type="ellipse">
+      <fill>
+        <fillColor color="rgba(250, 225, 201, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <line startX="20.21" startY="33.32" endX="939.30" endY="33.32" alpha="0.15">
+      <border color="rgba(20, 13, 71, 1)" width="1"/>
+    </line>
+    <line startX="20.21" startY="506.33" endX="939.80" endY="507.33" alpha="0.15">
+      <border color="rgba(20, 13, 71, 1)" width="1"/>
+    </line>
+    <shape width="64" height="18" topLeftX="39.57" topLeftY="458.56" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#统一间距</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="663.60" topLeftY="458.56" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#克制呈现</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="121.30" topLeftY="458.56" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#信息减负</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="39.57" topLeftY="432.14" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#结构清晰</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="121.30" topLeftY="432.14" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#阅读节奏</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="663.60" topLeftY="432.14" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#信息密度</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="745.34" topLeftY="432.14" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#模块拆分</p>
+      </content>
+    </shape>
+    <shape width="64" height="18" topLeftX="201.16" topLeftY="432.14" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" autoFit="shape-auto-fit">
+        <p>#层级分明</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

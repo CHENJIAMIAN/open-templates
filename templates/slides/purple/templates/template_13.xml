@@ -1,0 +1,87 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(58, 58, 58, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+        <p list="none" textAlign="center"/>
+      </content>
+    </shape>
+    <shape width="280" height="52.55" topLeftX="340" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(58, 58, 58, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+        <p list="none" textAlign="center"/>
+      </content>
+    </shape>
+    <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(58, 58, 58, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+        <p list="none" textAlign="center"/>
+      </content>
+    </shape>
+    <shape width="864" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(236, 98, 221, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售总监目标（O）示例</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>深耕北区市场，确保Q1销售额达到1000万美金（承接公司“区域深耕”战略）</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>O1</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>赋能销售团队，提升人均效能30%（支撑“团队能力提升”战略）</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>O2</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>优化销售漏斗，将新客户转化率从15%提升至20%（服务“业绩增长”核心目标）</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>O3</p>
+      </content>
+    </shape>
+    <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标原则</p>
+      </content>
+    </shape>
+    <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>销售总监作为团队核心，目标需聚焦战略落地与团队效能，目标需简洁有力，每个周期聚焦2-3个核心方向，避免贪多求全</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

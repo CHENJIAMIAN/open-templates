@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="XOj6bO5PNodLncx5xlscNbw6nLh" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="114.01" height="121.63" topLeftX="797.36" topLeftY="36.15" alpha="0.12" type="text">
+      <content textType="title" fontSize="96" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="861.37" height="93.07" topLeftX="48" topLeftY="413.08" type="text">
+      <content textType="headline" fontSize="60" fontFamily="DouYinMeiHao" color="rgba(55, 65, 82, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>员工文化</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

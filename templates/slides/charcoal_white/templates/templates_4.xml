@@ -1,0 +1,104 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="93" height="60" topLeftX="603.63" topLeftY="46.27" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)" fontSize="40">1.25x</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="288.58" height="36" topLeftX="603.63" topLeftY="104.27" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>通过模型并行技术，将训练速度提升 25%，显著提升迭代速度。</p>
+      </content>
+    </shape>
+    <shape width="83" height="60" topLeftX="603.63" topLeftY="163.25" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)" fontSize="40">85%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="82" height="60" topLeftX="603.63" topLeftY="278.50" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)" fontSize="40">3.0x</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="289.54" height="36" topLeftX="603.63" topLeftY="221.11" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>智能调度系统将 GPU 集群平均利用率从 60% 提升至 85%，大幅降低单位算力成本。</p>
+      </content>
+    </shape>
+    <shape width="73" height="60" topLeftX="603.63" topLeftY="399.28" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)" fontSize="40">15%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="289.54" height="36" topLeftX="603.63" topLeftY="336.89" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>引入动态批处理和算子融合优化，推理吞吐量提升 3 倍，支撑更高并发请求。</p>
+      </content>
+    </shape>
+    <shape width="289.54" height="36" topLeftX="603.63" topLeftY="453.73" alpha="0.60" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>综合运用多种优化策略，单位 Token 的训练成本成功降低 15%。</p>
+      </content>
+    </shape>
+    <chart width="538.98" height="406.86" topLeftX="22.54" topLeftY="110.27" id="bpg">
+      <chartPlotArea>
+        <chartPlot type="area">
+          <chartExtra>
+            <chartSmooth/>
+            <chartStack/>
+          </chartExtra>
+          <chartAreas/>
+          <chartSeriesList>
+            <chartSeries index="1">
+              <chartLine color="rgb(207, 242, 103)"/>
+              <chartArea color="rgb(207, 242, 103)"/>
+            </chartSeries>
+          </chartSeriesList>
+        </chartPlot>
+        <chartAxes>
+          <chartAxis type="y" position="left" max="5" min="0">
+            <chartGridLine color="rgb(60, 60, 60)"/>
+          </chartAxis>
+          <chartAxis type="y" position="right" min="40"/>
+        </chartAxes>
+      </chartPlotArea>
+      <chartData>
+        <dim1>
+          <chartField name="月份">1 月,2 月,3 月,4 月,5 月,6 月</chartField>
+        </dim1>
+        <dim2>
+          <chartField name="身高（cm)">1.6,1.7,2.4,2.9,3.4,4.2</chartField>
+          <chartField name="">,,,,,</chartField>
+        </dim2>
+      </chartData>
+      <chartStyle>
+        <chartBackground color="rgb(0, 0, 0)"/>
+        <chartFont color="rgb(255, 255, 255)"/>
+        <chartBorder color="rgb(0, 0, 0)"/>
+      </chartStyle>
+    </chart>
+    <shape width="306" height="45" topLeftX="47.62" topLeftY="48.40" type="text">
+      <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">大模型算力成本与效率分析</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

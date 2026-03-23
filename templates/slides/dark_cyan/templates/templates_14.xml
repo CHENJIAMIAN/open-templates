@@ -1,0 +1,60 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(24, 26, 29, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="388.40" height="59.16" topLeftX="48.27" topLeftY="47.57" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>海外市场风险识别与评估</p>
+      </content>
+    </shape>
+    <img src="KSSVbiUEVod23bxShK7cYtZfnDf" width="388.40" height="374.89" topLeftX="48.27" topLeftY="116.85">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="6.76" bottomOffset="6.76" presetHandlers="0"/>
+    </img>
+    <shape width="441.17" height="74" topLeftX="477" topLeftY="79.14" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>包括政策变动和地缘冲突，如墨西哥拟限制平行进口，仅允许授权经销商进口，影响中小品牌市场份额；俄乌战争导致欧洲能源成本上涨，影响电子产品定价。</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="30" topLeftX="477" topLeftY="52.18" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>政治风险</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="70" topLeftX="477" topLeftY="192" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>主要有汇率波动和通胀压力，美元走强导致新兴市场货币贬值增加汇兑损失，印度2025年通胀率达7%削弱消费者购买力。</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="30" topLeftX="477" topLeftY="165.04" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>经济风险</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="74" topLeftX="477" topLeftY="300.86" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>包括专利诉讼和技术迭代，OPPO在欧洲因专利纠纷收缩部分业务，支付高额授权费；消费电子技术迭代周期缩短，企业需持续投入研发以保持竞争力。</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="30" topLeftX="477" topLeftY="273.90" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术风险</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="74" topLeftX="477" topLeftY="413.72" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>如关键零部件短缺、物流中断等问题也需重点关注。</p>
+      </content>
+    </shape>
+    <shape width="441.17" height="30" topLeftX="477" topLeftY="386.76" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>供应链风险</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

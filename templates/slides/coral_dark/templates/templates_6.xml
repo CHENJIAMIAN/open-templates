@@ -1,0 +1,167 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <chart width="498.08" height="480.33" topLeftX="21.60" topLeftY="36.63" id="bPJ">
+      <chartPlotArea>
+        <chartPlot type="area">
+          <chartExtra>
+            <chartStack/>
+          </chartExtra>
+          <chartAreas/>
+          <chartSeriesList>
+            <chartSeries index="1">
+              <chartLine width="2"/>
+              <chartArea color="rgb(222, 120, 2)"/>
+            </chartSeries>
+          </chartSeriesList>
+        </chartPlot>
+        <chartAxes>
+          <chartAxis type="x">
+            <chartAxisLine/>
+            <chartLabel fontSize="10" color="rgb(248, 240, 230)"/>
+          </chartAxis>
+          <chartAxis type="y" position="left" max="0.12" min="0">
+            <chartGridLine color="rgb(55, 60, 67)"/>
+          </chartAxis>
+          <chartAxis type="y" position="right" max="10" min="0">
+            <chartAxisLine/>
+            <chartLabel fontSize="12" color="rgb(248, 240, 230)" angle="0"/>
+          </chartAxis>
+        </chartAxes>
+      </chartPlotArea>
+      <chartData>
+        <dim1>
+          <chartField name="月份">Q3/23,Q4/23,Q1/24,Q2/24,Q3/24,Q4/24,Q1/25,Q2/25,Q3/25</chartField>
+        </dim1>
+        <dim2>
+          <chartField name="百分比">0.034,0.04,0.051,0.055,0.067,0.069,0.078,0.085,0.102</chartField>
+        </dim2>
+      </chartData>
+      <chartTitle fontSize="14" color="rgb(248, 240, 230)">新产品占总 ARR 的比例</chartTitle>
+      <chartStyle>
+        <chartBackground color="rgb(0, 0, 0)"/>
+        <chartFont color="rgb(248, 240, 230)"/>
+        <chartBorder color="rgb(0, 0, 0)"/>
+        <chartColorTheme>
+          <color value="singleColorSeries-O-@v2"/>
+        </chartColorTheme>
+      </chartStyle>
+    </chart>
+    <shape width="369" height="66" topLeftX="538.80" topLeftY="59.28" type="text">
+      <content textType="sub-headline" fontSize="20" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+          <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">新产品占总 ARR 的比例已超过 10%，</span>
+        </p>
+        <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+          <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="20" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">提前完成 2025 年目标。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="369" height="72" topLeftX="538.80" topLeftY="123.28" type="text">
+      <content textType="caption" fontSize="12" color="rgba(155, 158, 162, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">推出产品组合包,加速交叉销售从第四季度开始,我们推出将工作管理与mondayCRM、service 和 dev 相结合的产品组合包。这些组合包为企业级客户提供更统一的多产品体验和成本效益,有望加速我们在所有规模客户中的交叉销售势头。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="369" height="79.96" topLeftX="538.80" topLeftY="218.65" presetHandlers="11.579319587600082" type="round-rect">
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="316" height="21" topLeftX="563.54" topLeftY="259.70" type="text">
+      <content fontSize="13" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="13" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">统一从规划到销售和交付的整个客户生命周期。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="84" height="21" topLeftX="563.54" topLeftY="235.44" type="text">
+      <content textType="sub-headline" fontSize="12" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a" bold="false" italic="false" strikethrough="false" underline="false">连接客户旅程</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="369" height="79.96" topLeftX="538.80" topLeftY="309.16" presetHandlers="11.579319587600082" type="round-rect">
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="316" height="21" topLeftX="563.54" topLeftY="347.20" type="text">
+      <content fontSize="13" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="13" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">通过统一平台加速服务交付和业务执行。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="56" height="21" topLeftX="563.54" topLeftY="324.94" type="text">
+      <content textType="sub-headline" fontSize="12" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span fontSize="12" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a">连接运营</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="369" height="79.96" topLeftX="538.80" topLeftY="399.67" presetHandlers="11.579319587600082" type="round-rect">
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="333" height="21" topLeftX="563.54" topLeftY="439.60" type="text">
+      <content fontSize="13" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="13" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">将工程速度与业务战略相结合，转化为业务影响力。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="56" height="21" topLeftX="563.54" topLeftY="415.34" type="text">
+      <content textType="sub-headline" fontSize="12" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a" bold="false" italic="false" strikethrough="false" underline="false">连接工程</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="103.33" height="57" topLeftX="392.85" topLeftY="106.27" type="text">
+      <content textType="headline" fontSize="38" color="rgba(224, 123, 5, 1)" bold="false" autoFit="shape-auto-fit">
+        <p>
+          <span fontFamily="slide-font-88c414c2c16544f6d5897edcec4bee14">10.2</span>
+          <span fontSize="25" fontFamily="slide-font-88c414c2c16544f6d5897edcec4bee14">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="0" topLeftY="852.77" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="911.87" topLeftY="852.77" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="455.93" topLeftY="397.10" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="455.93" topLeftY="888.97" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

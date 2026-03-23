@@ -1,0 +1,73 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(241, 246, 251, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="449.35" startY="144.80" endX="914.24" endY="144.80" alpha="0.14">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <img src="XSKwbUsAUoRfyHxO6hhcrgyvnAg" width="405" height="540" topLeftX="0" topLeftY="0" saturation="12">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="464.39" height="45" topLeftX="447.85" topLeftY="70.93" type="text">
+      <content textType="title" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目录</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="490.05" topLeftY="171.62" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>个人基础信息</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="171.62" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="490.05" topLeftY="223.74" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>核心技能矩阵</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="223.74" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="490.05" topLeftY="275.86" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>工作与项目经验</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="275.86" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="490.05" topLeftY="327.99" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>职业发展与认证</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="327.99" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="426.18" height="40" topLeftX="490.05" topLeftY="380.11" type="text">
+      <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>自我评价与差异化优势</p>
+      </content>
+    </shape>
+    <shape width="36" height="40" topLeftX="449.85" topLeftY="380.11" alpha="0.60" type="text">
+      <content textType="caption" fontSize="25" fontFamily="霞鹜 975 圆体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

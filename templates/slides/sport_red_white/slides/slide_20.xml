@@ -1,0 +1,61 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="424" height="52.55" topLeftX="48.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="138.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false"/>
+      </shape>
+      <shape width="424" height="52.55" topLeftX="488.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(217, 118, 113, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户情感共鸣策略</p>
+        </content>
+      </shape>
+      <shape width="380" height="177.36" topLeftX="70.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>发起“我的运动时刻”故事征集，分享普通人通过运动实现自我超越的经历（如产后妈妈通过跑步重拾健康、职场人用骑行缓解压力）</p>
+        </content>
+      </shape>
+      <shape width="380" height="36" topLeftX="70.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦个体成长与突破</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="147.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用“我们”叙事视角</p>
+        </content>
+      </shape>
+      <shape width="380" height="177.36" topLeftX="510.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>短视频记录不同运动场景下的用户状态（如晨跑者的城市剪影、健身房的汗水瞬间），传递“运动即生活方式”理念</p>
+        </content>
+      </shape>
+      <shape width="380" height="36" topLeftX="510.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>打造场景化内容矩阵</p>
+        </content>
+      </shape>
+      <shape width="820" height="71" topLeftX="70.12" topLeftY="196.54" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在品牌传播中使用“我们都在运动中寻找更好的自己”，拉近与用户距离</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

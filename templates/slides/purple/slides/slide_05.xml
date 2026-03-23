@@ -1,0 +1,87 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OKR的核心特点</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全员目标公开可见，促进信息共享与跨团队协作，打破部门壁垒</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">透明化</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>每个周期设定少量关键目标（通常不超过5个），避免资源分散，确保团队精力集中于核心任务</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">聚焦性</p>
+        </content>
+      </shape>
+      <img src="ASSDbnoL8oEblcxAMQpc5AwHndc" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="26"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>以季度为周期，支持根据市场变化动态调整，适应销售业务的快速变化需求</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">灵活性</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标应具备一定难度，理想完成度为60%-70%，既激发潜能又避免挫败感</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">挑战性</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

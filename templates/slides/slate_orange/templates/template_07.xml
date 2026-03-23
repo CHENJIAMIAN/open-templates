@@ -1,0 +1,47 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(237, 240, 242, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="383.79" height="36" topLeftX="74.07" topLeftY="227.21" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>Micro OLED与光波导技术</p>
+      </content>
+    </shape>
+    <shape width="383.01" height="210" topLeftX="74.07" topLeftY="261.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>成为轻量化与高清化的核心支撑，使设备形态更接近传统眼镜。例如雷鸟X3Pro镜身重量仅76g，采用先进光学方案实现高清显示。</p>
+      </content>
+    </shape>
+    <shape width="383.79" height="36" topLeftX="498.13" topLeftY="227.21" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AR显示技术发展方向</p>
+      </content>
+    </shape>
+    <shape width="383.01" height="210" topLeftX="498.13" topLeftY="261.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>当前主流为Micro OLED，未来Micro LED+光波导被视为重点发展方向，可进一步提升显示效果与设备便携性。</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="47.59" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>显示与光学技术革新</p>
+      </content>
+    </shape>
+    <shape width="100" height="42" topLeftX="74.07" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="100" height="42" topLeftX="498.13" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

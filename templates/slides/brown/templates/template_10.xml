@@ -1,0 +1,93 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(32, 32, 32, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270" presetHandlers="16" alpha="0.90" type="round1rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0" presetHandlers="16" alpha="0.70" type="round1rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90" presetHandlers="16" alpha="0.50" type="round1rect">
+      <fill>
+        <fillColor color="rgba(255, 196, 127, 1)"/>
+      </fill>
+      <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+    </shape>
+    <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+      <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>工作时间与休息休假</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="48" topLeftY="172.69" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+        <p>工作时间制度</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="48" topLeftY="204.19" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>公司实行标准工时制度，每日工作8小时，每周工作5天。具体上下班时间以上级通知为准，员工需严格遵守考勤规定。</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="48" topLeftY="316.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+        <p>年假天数规定</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="48" topLeftY="347.77" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+        <p>年假天数根据员工工龄确定，工作满1年不满10年的，年休假5天；满10年不满20年的，年休假10天；满20年的，年休假15天。</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>休息休假权利</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>公司依法保障员工的休息休假权利，包括法定节假日、年假、婚假、产假、病假等。</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>休假申请要求</p>
+      </content>
+    </shape>
+    <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>休假需提前申请并获得批准，确保工作安排不受影响。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

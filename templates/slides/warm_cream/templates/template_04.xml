@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 1, 7, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 37, 46, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 37, 46, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 37, 46, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 37, 46, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 37, 46, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>活动核心信息</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>「星耀未来·聚力同行」</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动主题</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>总结年度成果，增强员工归属感，促进跨部门协作，展望公司战略方向。</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动目的</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2026年1月31日（周五）18:00-22:00</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动时间</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>1000人（全体员工及特邀合作伙伴）</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>参与规模</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>上海船厂1862时尚艺术中心（主会场）</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>活动地点</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,169 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="237.93" height="61.92" topLeftX="59.70" topLeftY="224.39" presetHandlers="8" alpha="0.12" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="237.93" height="61.92" topLeftX="59.70" topLeftY="296.43" presetHandlers="8" alpha="0.12" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="237.93" height="61.92" topLeftX="59.70" topLeftY="368.47" presetHandlers="8" alpha="0.12" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="237.93" height="89.48" topLeftX="59.70" topLeftY="36.74" type="text">
+        <content textType="caption" fontSize="30" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="30" fontFamily="Noto Sans SC Light">不同目标下的</span>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="30" fontFamily="Noto Sans SC Light">表现对比</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="237.93" height="43.59" topLeftX="59.70" topLeftY="133.22" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" autoFit="normal-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">观察各模块在不同场景中的相对表现，为后续判断提供参考依据。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="77.15" topLeftY="235.32" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">关注度</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="181.70" height="21" topLeftX="77.15" topLeftY="255.32" rotation="0" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+          <p lineSpacing="multiple:1.4">
+            <span fontSize="12">用于观察内容是否能吸引注意。</span>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="102.58" height="31" topLeftX="61.70" topLeftY="468.99" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.75)" width="1"/>
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>模块一</p>
+        </content>
+      </shape>
+      <shape width="102.58" height="31" topLeftX="177.68" topLeftY="468.99" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.75)" width="1"/>
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p textAlign="center">模块二</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="77.15" topLeftY="306.89" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>行动意愿</p>
+        </content>
+      </shape>
+      <shape width="181.70" height="21" topLeftX="77.15" topLeftY="326.89" rotation="0" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+          <p>判断用户是否愿意参与或操作。</p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+            <br/>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="21" topLeftX="77.15" topLeftY="378.45" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>完成结果</p>
+        </content>
+      </shape>
+      <shape width="181.70" height="21" topLeftX="77.15" topLeftY="398.45" rotation="0" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+          <p>用于评估目标是否被有效达成。</p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p>
+            <br/>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+          </p>
+          <p lineSpacing="multiple:1.4">
+            <br/>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <chart width="558.12" height="398.90" topLeftX="369.47" topLeftY="107.44" alpha="0.90" id="bkZ">
+        <chartPlotArea>
+          <chartPlot type="column">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(255, 255, 255)"/>
+              </chartSeries>
+              <chartSeries index="2">
+                <chartBars color="rgb(174, 174, 174)"/>
+              </chartSeries>
+              <chartSeries index="3">
+                <chartBars color="rgb(110, 110, 110)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="x"/>
+            <chartAxis type="y" position="left">
+              <chartLabel color="rgb(255, 255, 255)"/>
+            </chartAxis>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="2023 第二季度学费">产品1,产品2,产品3,大四</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="A 大学">5425,5900,3650,4575</chartField>
+            <chartField name="B 大学">3550,4580,4400,6100</chartField>
+            <chartField name="C 大学">4800,5250,3850,3600</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle>2023 第二季度大学学费</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(0, 0, 0)"/>
+          <chartBorder color="rgb(0, 0, 0)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

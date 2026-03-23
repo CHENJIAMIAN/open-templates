@@ -1,0 +1,69 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 244, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42" height="42" topLeftX="50.04" topLeftY="168.85" iconType="iconpark/Charts/chart-proportion.svg">
+        <border color="rgba(89, 172, 193, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="272.04" topLeftY="168.85" iconType="iconpark/Connect/connection-point-two.svg">
+        <border color="rgba(89, 172, 193, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="494.04" topLeftY="168.85" iconType="iconpark/Health/pure-natural.svg">
+        <border color="rgba(89, 172, 193, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42" height="42" topLeftX="716.04" topLeftY="168.85" iconType="iconpark/Edit/minus-the-bottom.svg">
+        <border color="rgba(89, 172, 193, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>团队架构与核心成员</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="48" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>CTO张伟博士</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="48" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>前西门子工业软件研发总监，15年工业AI经验，主导过德国工业4.0标杆项目，拥有8项发明专利</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="270" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品经理李明</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="270" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>前阿里巴巴B2B产品负责人，8年企业服务经验，成功推出过SaaS产品（用户超10万家）</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="492" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业专家王刚</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="492" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>前某汽车集团生产总监，30年制造业经验，熟悉生产流程优化痛点</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="714" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(45, 60, 64, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>组织架构</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="714" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(144, 154, 155, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>扁平化设计：技术部（60%人员）、产品部、销售部、运营部，核心岗位招聘优先级：算法工程师（5人）、行业顾问（3人）、渠道经理（2人）</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

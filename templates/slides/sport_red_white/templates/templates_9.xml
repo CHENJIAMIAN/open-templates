@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>人才培养体系设计</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>校招层面</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>启动“未来之星计划”，联合体育院校开设定向培养课程，融入运动科学与品牌理念</p>
+      </content>
+    </shape>
+    <img src="XFHybbB16o4K6exbtVzcumDAnqc" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>内部培养</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>搭建“运动学园”学习平台，提供在线课程与线下工作坊，内容涵盖产品技术、运动训练、团队管理等</p>
+      </content>
+    </shape>
+    <img src="Ji3hbdBSvoAlh7x4qTwciv6wnrR" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+    <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>导师与轮岗</p>
+      </content>
+    </shape>
+    <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>实施导师制与轮岗计划，资深员工带领新人参与跨部门项目（如产品测试、赛事筹备），加速文化传承与能力提升</p>
+      </content>
+    </shape>
+    <img src="JXTIbwImDoxHQXxi52OcC2ulnob" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

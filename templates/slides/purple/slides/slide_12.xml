@@ -1,0 +1,80 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="342.95" height="95.51" topLeftX="42.07" topLeftY="347.70" path="M342.9508200963337,95.50723605181165 L0,95.50723605181165 L50.18784463001808,7.772650490936212 C52.944284227574826,2.9604493975254136 58.057447322027855,-0.004288753259666845 63.59116791646229,0 L279.35965217987143,0 C284.88997233546934,-0.002199360645982997 289.99885745848275,2.962538790139097 292.75189661720293,7.772650490936212 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="4" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="226.18" height="95.51" topLeftX="100.48" topLeftY="245.59" path="M226.18402841983422,95.50723605181165 L0,95.50723605181165 L51.26479651703356,5.9011045492369805 C53.353104728991276,2.2480764842915204 57.23234729206956,-0.004288753259666845 61.431998946813394,0 L164.73009115794616,0 C168.92645206542878,-0.002199360645982997 172.80240388124588,2.2492861326468114 174.886434121764,5.9011045492369805 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="6" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="109.25" height="89.62" topLeftX="158.89" topLeftY="149.37" path="M109.25291876342546,89.62405629183944 L0,89.62405629183944 L49.56655154710346,2.946263521358823 C51.163551192963965,0.14295844198889482 54.72424942115807,-0.830698515987778 57.518532612218614,0.7717556506754337 C58.4218427354181,1.2894851467398314 59.1703780457658,2.0403468712784267 59.686367216322004,2.946263521358823 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(236, 98, 221, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售团队目标的层级拆解</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="35" topLeftX="307.92" topLeftY="146.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司级OKR</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="60" topLeftX="307.92" topLeftY="177.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度销售额突破2亿元</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="35" topLeftX="360.90" topLeftY="245.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>部门级OKR</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="60" topLeftX="360.90" topLeftY="276.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售部Q3销售额达到5000万元</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="35" topLeftX="416.92" topLeftY="352.08" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>个人级OKR</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="60" topLeftX="416.92" topLeftY="383.08" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售代表根据区域/客户类型拆解，如负责的华东制造业客户Q3销售额达到800万元</p>
+        </content>
+      </shape>
+      <shape width="44.74" height="55" topLeftX="191.18" topLeftY="177.11" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="265.85" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="364.08" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

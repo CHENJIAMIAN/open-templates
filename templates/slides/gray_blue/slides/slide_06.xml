@@ -1,0 +1,85 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="270" height="48" topLeftX="52.07" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>92.5%</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="52.07" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>新增语音+图文混合输入能力，较行业平均水平高出8个百分点</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="52.07" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>语音识别准确率</p>
+        </content>
+      </shape>
+      <shape width="270" height="48" topLeftX="345" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>35%</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="345" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>通过微表情和语义分析识别用户情绪</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="345" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>负面情绪干预成功率提升</p>
+        </content>
+      </shape>
+      <shape width="270" height="48" topLeftX="638.07" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>91%</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="638.07" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>建立动态知识图谱，实现业务知识实时更新，从78%提升至此</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="638.07" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>知识覆盖率</p>
+        </content>
+      </shape>
+      <img src="UXxfb6t5Uobh3Tx9fZOcJp3ynkh" width="278" height="151.66" topLeftX="48.07" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="171.28" bottomOffset="171.28" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="BjdxbgYJqoJDbtxpj5hcJOh4nPh" width="278" height="151.66" topLeftX="341" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Cxk6bAskloIGFzxJNqecXIZUn3e" width="278" height="151.66" topLeftX="634.07" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>智能客服系统V3.0迭代</p>
+        </content>
+      </shape>
+      <shape width="864.20" height="50" topLeftX="47.87" topLeftY="100.49" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>项目按计划完成95%的里程碑，仅因第三方语音接口延迟导致语音功能灰度发布推迟3天，已协调供应商提供专属资源保障。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

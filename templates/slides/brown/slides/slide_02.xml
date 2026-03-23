@@ -1,0 +1,70 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48" startY="119.96" endX="912" endY="119.96" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="864" height="54" topLeftX="48.48" topLeftY="37.72" type="text">
+        <content textType="title" fontSize="36" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="270" height="66" topLeftX="47.87" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第一章：公司概览与文化理念</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="270" height="66" topLeftX="345" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第二章：员工基本权利与义务</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="345" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="270" height="66" topLeftX="641.50" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第三章：工作规范与行为准则</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="641.50" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="270" height="66" topLeftX="47.87" topLeftY="418.07" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第四章：薪酬福利与职业发展</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="371.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="270" height="66" topLeftX="345" topLeftY="418.07" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第五章：培训总结与考核评估</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="345" topLeftY="371.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

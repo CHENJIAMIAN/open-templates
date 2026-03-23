@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>丙察察自驾8日挑战：滇藏新通道极限穿越</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国最险自驾路线，原始峡谷与雪山秘境。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>行程亮点</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理→六库→丙中洛→察瓦龙→察隅→然乌湖→林芝</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>路线</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>丙察察公路（丙中洛-察瓦龙-察隅，270公里），穿越怒江大峡谷、老虎嘴天险、大流沙地质灾害区，需四驱越野车（包车日均1200-1500元）。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心路段</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="11" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">季节：4-6月、9-10月（避开7-8月雨季塌方，冬季结冰）；证件：边防证（户籍地办理，目的地写“西藏林芝市察隅县”）；住宿：丙中洛秋那桶民宿（150-300元/晚）、察瓦龙四川饭店（100-200元/晚）；必带装备：拖车绳、防滑链、离线地图，每日出发前检查轮胎与刹车。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键提示</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>然乌湖看冰川融水变色，沿G318至林芝，结束行程。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>Day7-8</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

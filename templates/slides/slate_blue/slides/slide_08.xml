@@ -1,0 +1,108 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="230" height="400.46" topLeftX="677.95" topLeftY="84.25" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(245, 244, 239, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="182.59" height="45" topLeftX="701.79" topLeftY="111.71" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>让色彩和空气一起成为叙事者</p>
+        </content>
+      </shape>
+      <shape width="172" height="68.36" topLeftX="701.79" topLeftY="165.39" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>空间之所以能打动人心，并非因为它足够复杂，而是因为它懂得克制。少量的色彩、低饱和的基调、自然的光线，让人安静下来，也让情绪有机会沉淀。</p>
+        </content>
+      </shape>
+      <shape width="109" height="60" topLeftX="781.16" topLeftY="403.37" type="text">
+        <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="right" autoFit="shape-auto-fit">
+          <p textAlign="right" lineSpacing="multiple:1">
+            <span color="rgba(195, 169, 136, 1)" fontSize="60" fontFamily="Noto Serif SC SemiBold">62</span>
+            <span color="rgba(195, 169, 136, 1)" fontSize="30" fontFamily="Noto Serif SC SemiBold">%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="410" height="101" topLeftX="50.28" topLeftY="63.98" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>
+            让心情像薄荷一样
+            <br/>
+            <span color="rgba(195, 169, 136, 1)">清新地展开。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="410" height="24" topLeftX="66.78" topLeftY="380.03" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" bold="false" list="none" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none">
+            <span color="rgba(43, 40, 33, 1)" fontSize="16">捕捉生活中最轻盈的美好瞬间</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="410" height="24" topLeftX="66.78" topLeftY="419.37" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" bold="false" list="none" textAlign="left" autoFit="shape-auto-fit">
+          <p>将复杂思绪写成简单却动人的句子</p>
+        </content>
+      </shape>
+      <shape width="410" height="24" topLeftX="66.78" topLeftY="458.71" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" bold="false" list="none" textAlign="left" autoFit="shape-auto-fit">
+          <p>带着呼吸感的设计，更贴近生活</p>
+        </content>
+      </shape>
+      <shape width="6" height="6" topLeftX="50.28" topLeftY="389.03" type="ellipse">
+        <fill>
+          <fillColor color="rgba(214, 200, 182, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50.28" topLeftY="428.37" type="ellipse">
+        <fill>
+          <fillColor color="rgba(214, 200, 182, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50.28" topLeftY="467.71" type="ellipse">
+        <fill>
+          <fillColor color="rgba(214, 200, 182, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="230" height="238.74" topLeftX="463.90" topLeftY="245.98" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(220, 192, 155, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="153" height="23" topLeftX="487.58" topLeftY="272" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="16">让空间呼吸的设计</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="186.32" height="42.24" topLeftX="487.58" topLeftY="301.77" type="text">
+        <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">这份方案既注重功能，也保留感性，关注每一次互动。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="183" height="60" topLeftX="487.58" topLeftY="404.19" type="text">
+        <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(255, 246, 223, 1)" bold="false" lineSpacing="multiple:1" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1">
+            <span color="rgba(255, 246, 223, 1)" fontSize="60" fontFamily="Noto Serif SC SemiBold">37</span>
+            <span color="rgba(255, 246, 223, 1)" fontSize="30" fontFamily="Noto Serif SC SemiBold">%</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

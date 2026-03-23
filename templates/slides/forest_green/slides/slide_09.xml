@@ -1,0 +1,78 @@
+<slide>
+    <style/>
+    <data>
+      <img src="UGncbqrIooPctUxsOlecmLn9nYc" width="371.64" height="251.01" topLeftX="-2.44" topLeftY="68.71">
+        <crop type="rect" leftOffset="20.52" rightOffset="57.19" topOffset="48.56" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <img src="AuZrbjuCgoDvYBx4OHLcRcYynSb" width="582.02" height="251.01" topLeftX="377.98" topLeftY="68.71" exposure="-4" contrast="4" saturation="57" temperature="100">
+        <crop type="rect" leftOffset="0" rightOffset="106.35" topOffset="420.48" bottomOffset="361.06" presetHandlers="0"/>
+      </img>
+      <shape width="582.02" height="251.01" topLeftX="377.98" topLeftY="68.71" presetHandlers="0" alpha="0.11" type="rect">
+        <fill>
+          <fillColor color="rgba(71, 104, 2, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <icon width="25" height="25" topLeftX="58.81" topLeftY="432.94" iconType="iconpark/Energy/leaves-one.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="109.09" topLeftY="432.94" iconType="iconpark/Travel/pyramid-one.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="25" height="25" topLeftX="159.37" topLeftY="432.94" iconType="iconpark/Others/sleaves.svg">
+        <border color="rgba(108, 120, 89, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="384" height="36" topLeftX="377.98" topLeftY="469.73" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在贴近身体与空间的距离中，让自然成分与温和触感共同作用，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">形成轻柔而持续的陪伴。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="498" height="54" topLeftX="377.98" topLeftY="404.34" alpha="0.89" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)">草木与光影的流动、</span>
+            <span color="rgba(42, 45, 26, 1)" fontSize="18" fontFamily="思源宋体">灵感取自山林。不追求繁复装饰，而重在真实与克制的表达从自然中来，回到生活之中。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="39.45" topLeftY="21.01" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p>
+            <span color="rgba(0, 0, 0, 1)" bold="false">作品类型</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="63.72" height="18.33" topLeftX="856.86" topLeftY="21.01" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right">
+          <p textAlign="right">
+            <span color="rgba(0, 0, 0, 1)" bold="false">项目年份</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="309" height="42" topLeftX="-25.54" topLeftY="358.04" type="text">
+        <content fontSize="28" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" bold="false">「一隅清养」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="498" height="28" topLeftX="377.98" topLeftY="361.93" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" fontFamily="思源宋体" bold="false">气息，塑造日常的节奏。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="377.48" startY="394.66" endX="588.49" endY="395.66">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,62 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.26" height="197.85" topLeftX="47.87" topLeftY="75.15" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>美食地图：从街头小吃到非遗盛宴</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="75.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>昆明</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="110.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建新园过桥米线（人均30元，猪筒骨汤底4小时慢炖）、福照楼汽锅鸡（60元/份，建水紫陶汽锅蒸制）、篆新农贸市场豆花米线（8元/碗）</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="228.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>大理</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="263.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>喜洲破酥粑粑（甜/咸两种，2元/个，现烤酥脆）、石井私房菜土八碗（白族传统宴席，人均60元）、烤乳扇（5元/串，奶香浓郁）</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="35" topLeftX="438.70" topLeftY="382.44" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>丽江</p>
+        </content>
+      </shape>
+      <shape width="478.16" height="100" topLeftX="438.70" topLeftY="417.44" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>阿婆腊排骨（人均50元，排骨炖土豆酸菜）、88号小吃店鸡豆凉粉（8元/份，酸辣开胃）、忠义市场鸡汁米线（10元/碗，本地人常去）</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="69.15" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="223.05" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="60.57" height="59" topLeftX="377.35" topLeftY="375.94" type="text">
+        <content textType="sub-headline" fontSize="42" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

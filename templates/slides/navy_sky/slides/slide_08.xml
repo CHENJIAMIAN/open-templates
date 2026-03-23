@@ -1,0 +1,78 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="573" height="1" topLeftX="49" topLeftY="231" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="573" height="1" topLeftX="49" topLeftY="361" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="572.87" height="46" topLeftX="48" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(31, 35, 41, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉德黑体">日常工作提质增效</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="120.31" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>12%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92" topLeftX="256.40" topLeftY="121.31" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>优化报销审批等5项基础流程，成本较预算节约12%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="158.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成本节约</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="258.50" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>40%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92" topLeftX="256.40" topLeftY="259.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>修订《部门操作手册》，新增3个实操案例库，新人上手周期缩短40%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="296.51" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>周期缩短</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="396.33" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(142, 169, 211, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>0.5%</p>
+        </content>
+      </shape>
+      <shape width="364.48" height="92" topLeftX="256.40" topLeftY="397.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立“周复盘、月总结”机制，全年常规工作差错率降至0.5%以下</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="434.34" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>差错率</p>
+        </content>
+      </shape>
+      <img src="TPFybpUyooGsG2xJTLUccqAKn3d" width="303" height="540" topLeftX="657.14" topLeftY="0">
+        <crop type="rect" leftOffset="0.38" rightOffset="0.38" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

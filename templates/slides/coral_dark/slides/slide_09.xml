@@ -1,0 +1,64 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="RkiTbXPnmoiHM5x0awHcFNCKnab" width="393.10" height="439.96" topLeftX="519.56" topLeftY="50.02">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="238.05" height="439.96" topLeftX="241.95" topLeftY="50.02" type="text">
+        <content textType="caption" fontSize="14" color="rgba(208, 211, 214, 1)">
+          <p>
+            <span color="rgba(208, 211, 214, 1)" fontSize="14">在第三季度，我们再次交出了表现强劲且执行有力的成绩单，这让我们更有信心实现投资者日（Investor Day）所设定的 2027 财年 18 亿美元营收目标。</span>
+            <span color="rgba(224, 123, 5, 1)" fontSize="14" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">我们看到，年度经常性收入（ARR）超过 10 万美元和 50 万美元的客户净增量增长稳健</span>
+            <span color="rgba(208, 211, 214, 1)" fontSize="14">；同时，剩余履约义务（RPO）呈现加速增长态势，这反映出我们市场开拓（GTM）引擎的高效以及市场对我们平台不断扩大的需求。</span>
+          </p>
+          <p/>
+          <p>
+            <span color="rgba(208, 211, 214, 1)" fontSize="14">此外，</span>
+            <span color="rgba(224, 123, 5, 1)" fontSize="14" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">我们本季度的非公认会计准则（non-GAAP）营业利润创下历史新高</span>
+            <span color="rgba(208, 211, 214, 1)" fontSize="14">，进一步证明了我们在持续投入创新的同时，具备高效扩张的能力。客户规模的加速扩大、创纪录的盈利能力，以及用户对我们新推出的 AI 产品表现出的极高参与度，共同为 我们迈向下一阶段的增长奠定了坚实基础。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="48.13" height="541.83" topLeftX="28.76" topLeftY="911.40" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.23)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="48.13" height="541.83" topLeftX="940.63" topLeftY="911.40" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.23)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="48.13" height="961.30" topLeftX="484.69" topLeftY="455.73" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.23)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="48.13" height="961.30" topLeftX="484.69" topLeftY="947.60" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.23)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="177.64" height="115" topLeftX="50.08" topLeftY="50.02" type="text">
+        <content fontSize="26" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="26" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">From</span>
+          </p>
+          <p list="none" textAlign="left">
+            <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="26" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">the CEO</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

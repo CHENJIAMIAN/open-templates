@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>我的第一位导师：职业启蒙的"三个锦囊"</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>永远带三个本子进车间</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>故障本记问题、参数本记标准、灵感本记想法，养成严谨工作习惯，及时记录并分类梳理车间遇到的故障细节、零件标准参数和优化思路，避免信息遗漏或思路中断。</p>
+        </content>
+      </shape>
+      <img src="EEnbbwBJpoqebyx9NO4c6k8mnTe" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="107.74" rightOffset="107.74" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>解决问题前先问三个为什么</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>为什么发生？为什么现在发生？为什么是这个部位发生？建立根因分析逻辑框架，深入挖掘问题本质关联，如遇到转向异响时，找到"橡胶衬套收缩"的根本原因。</p>
+        </content>
+      </shape>
+      <img src="SV66b8xtGoQiifxCrdncErgMngm" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>汽车工程师的底线是"零缺陷"</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="150" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>因为我们造的不是机器，是承载生命的交通工具，每一个螺栓的扭矩、每一个间隙的公差，都直接关系到用户的生命安全，容不得半点"差不多"。</p>
+        </content>
+      </shape>
+      <img src="BImub1MsooSJrHxBuybcUKa6njd" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

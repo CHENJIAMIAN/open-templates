@@ -1,0 +1,226 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="859.60" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞品分析与对标</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="32" topLeftX="48.07" topLeftY="110.61" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞品跟踪机制</p>
+        </content>
+      </shape>
+      <shape width="859.60" height="52.42" topLeftX="48.07" topLeftY="141.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞品对标会已纳入双周例会机制，确保动态跟踪竞争态势，及时调整产品策略。</p>
+        </content>
+      </shape>
+      <table id="bKS" topLeftX="48.07" topLeftY="201.80">
+        <colgroup>
+          <col span="4" width="214.90"/>
+        </colgroup>
+        <tr height="64.11">
+          <td id="bKf">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">竞品</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMy">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">核心优势</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMl">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">劣势</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMD">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">我们的应对策略</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="64.11">
+          <td id="bKz">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">竞品A</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMt">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">多模态交互体验领先</span>
+              </p>
+            </content>
+          </td>
+          <td id="bMe">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">行业适配不足</span>
+              </p>
+            </content>
+          </td>
+          <td id="bKx">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">加速行业模板开发，差异化竞争</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="100.50">
+          <td id="bMC">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">竞品B</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMY">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">数据闭环自动化程度高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bMc">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">响应速度慢（&gt;1s）</span>
+              </p>
+            </content>
+          </td>
+          <td id="bMq">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(232, 239, 248, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">保持响应速度优势，优化数据流程</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="64.11">
+          <td id="bKd">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(50, 63, 83, 1)" fontSize="14">竞品C</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bMn">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">安全合规体系完善</span>
+              </p>
+            </content>
+          </td>
+          <td id="bMo">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">功能灵活性低</span>
+              </p>
+            </content>
+          </td>
+          <td id="bMa">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(50, 63, 83, 1)" fontSize="14">借鉴合规框架，保持功能开放性</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

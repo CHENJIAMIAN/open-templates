@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <icon width="42" height="42" topLeftX="48" topLeftY="181.60" iconType="iconpark/Foods/tea-drink.svg">
+      <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="42" height="42" topLeftX="347.51" topLeftY="181.60" iconType="iconpark/Base/all-application.svg">
+      <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <icon width="42" height="42" topLeftX="647.02" topLeftY="181.60" iconType="iconpark/Others/weixin-favorites.svg">
+      <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>市场竞争态势</p>
+      </content>
+    </shape>
+    <shape width="264.02" height="36" topLeftX="48.96" topLeftY="247.21" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>整体格局</p>
+      </content>
+    </shape>
+    <shape width="263.54" height="194.44" topLeftX="48.96" topLeftY="282.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2023年中国市场CR3（优必选、商汤科技、萤石网络）合计占据45.3%份额，小米、科大讯飞通过生态链布局位列第二梯队。</p>
+      </content>
+    </shape>
+    <shape width="264.02" height="36" topLeftX="348.47" topLeftY="247.21" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>细分领域</p>
+      </content>
+    </shape>
+    <shape width="263.54" height="194.44" topLeftX="348.47" topLeftY="282.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>教育硬件市场科大讯飞阿尔法蛋累计销量突破500万台；儿童手表市场小米以28.6%出货量份额居首；AI玩具市场奥飞娱乐、孩之宝通过IP融合快速崛起。</p>
+      </content>
+    </shape>
+    <shape width="264.02" height="36" topLeftX="647.98" topLeftY="247.21" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>竞争焦点</p>
+      </content>
+    </shape>
+    <shape width="263.54" height="194.44" topLeftX="647.98" topLeftY="282.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>从单一硬件比拼转向“硬件+内容+服务”生态竞争，如科大讯飞整合学习机、AI助手、教育内容，2023年智慧教育业务营收78.6亿元。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

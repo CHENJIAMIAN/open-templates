@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/blue_gray",
+    "family":  "slides",
+    "name":  "blue_gray",
+    "displayName":  "Blue Gray",
+    "description":  "Presentation slide template for Blue Gray.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "blue",
+                 "gray"
+             ],
+    "sourcePath":  "templates/slides/blue_gray",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/blue_gray",
+    "preview":  {
+                    "cover":  "blue_gray/slide_pzA_Vnx8bd8XAoL8BAxZRjccEHOunUd.png",
+                    "gallery":  [
+                                    "blue_gray/slide_pzA_Vnx8bd8XAoL8BAxZRjccEHOunUd.png",
+                                    "blue_gray/slide_pzd_PlzzbZOdpoYC2Fx1jxSc6ZhYnGf.png",
+                                    "blue_gray/slide_pzi_DuYabAG29oZTvZx16YocAmzKn8e.png"
+                                ]
+                }
+}

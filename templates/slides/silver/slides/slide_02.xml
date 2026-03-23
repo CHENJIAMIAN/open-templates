@@ -1,0 +1,68 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="Xkalb8jYDoS5VyxGMTqchBZGnSb" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464" height="366" topLeftX="47.92" topLeftY="87" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(47, 47, 47, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <line startX="83.89" startY="189.54" endX="475.45" endY="189.54" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="391.06" height="45" topLeftX="84.39" topLeftY="119.67" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="211.68" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第一章 初入职场</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="211.68" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="263.80" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第二章 技术深耕</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="263.80" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="315.93" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第三章 格局升级</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="315.93" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="122.60" topLeftY="368.05" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第四章 行业洞察与未来展望</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="84.39" topLeftY="368.05" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

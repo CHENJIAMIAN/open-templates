@@ -1,0 +1,63 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(31, 41, 76, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="118.80" endX="914.24" endY="118.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="ARtUbDHecokJCvxdyrKcTqzdntd" width="405" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+      </img>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="155.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第一章 行业洞察与技术定位</p>
+        </content>
+      </shape>
+      <shape width="464.39" height="45" topLeftX="449.85" topLeftY="54.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="157.42" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉德黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="212.04" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第二章 核心技术能力与项目成果</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="214.04" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉德黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="268.66" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第三章 研发创新与团队贡献</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="270.66" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉德黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="38" topLeftX="488.05" topLeftY="325.28" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>第四章 未来规划与价值承诺</p>
+        </content>
+      </shape>
+      <shape width="32.99" height="36" topLeftX="449.85" topLeftY="327.28" alpha="0.60" type="text">
+        <content textType="caption" fontSize="24" fontFamily="寒蝉德黑体" color="rgba(175, 178, 185, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

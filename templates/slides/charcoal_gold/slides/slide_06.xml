@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 247, 236, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工层面</p>
+        </content>
+      </shape>
+      <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>提升团队凝聚力与社会责任感，计划覆盖80%以上在职员工</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动核心目标：三维价值的协同创造</p>
+        </content>
+      </shape>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业层面</p>
+        </content>
+      </shape>
+      <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>塑造“负责任的科技企业”形象，增强品牌美誉度</p>
+        </content>
+      </shape>
+      <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会层面</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聚焦“公益环保”与“社区关怀”两大领域，预计直接服务500人次以上受助群体，产生可量化的社会价值</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,75 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 0.922)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度工作目标回顾</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>完成核心业务指标提升20%的年度KPI</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="53.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心业务指标</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推进3个重点项目落地并实现预期效益</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="346.50" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>重点项目落地</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>构建跨部门协同机制，提升整体运营效率</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="640.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨部门协同</p>
+        </content>
+      </shape>
+      <img src="OBH1bVhZCoiUbyx8U6RcAYM2nad" width="278" height="151.66" topLeftX="48.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Fg9IbY6AFojXzTx8SW5cJr0Pnrk" width="278" height="151.66" topLeftX="341" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="D8eFbr7Hco8oF3x0t5Uc4oeUnmf" width="278" height="151.66" topLeftX="634.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="50" topLeftX="48.07" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 152, 158, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>本年度，部门围绕公司整体战略部署，明确了三大核心目标。年初通过OKR框架拆解目标，将年度任务细化为季度里程碑，确保目标可追踪、可衡量。</p>
+        </content>
+      </shape>
+      <shape width="864" height="29" topLeftX="48.07" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(60, 76, 100, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>总体目标</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

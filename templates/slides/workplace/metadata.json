@@ -1,0 +1,36 @@
+﻿{
+    "id":  "slides/workplace",
+    "family":  "slides",
+    "name":  "workplace",
+    "displayName":  "Workplace",
+    "description":  "Presentation slide template for Workplace.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "business",
+                 "report",
+                 "workplace"
+             ],
+    "sourcePath":  "templates/slides/workplace",
+    "entryFiles":  [
+                       "metadata.md",
+                       "layout_metadata.md",
+                       "mapping.json",
+                       "theme.xml",
+                       "slides_of_cover_agenda_section_ending.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/workplace",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/workplace/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/workplace/cover.png"
+                                ]
+                }
+}

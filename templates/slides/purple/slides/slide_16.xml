@@ -1,0 +1,97 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(33, 33, 33, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="598.68" topLeftY="75.23" iconType="iconpark/Travel/mountain.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="461.61" topLeftY="183.51" iconType="iconpark/Travel/flag.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="347.74" topLeftY="301.04" iconType="iconpark/Travel/tent.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(33, 33, 33, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="272.76" topLeftY="432.97" iconType="iconpark/Travel/map-draw.svg">
+        <border color="rgba(236, 98, 221, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键结果（KR）的核心特征</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">结果导向</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">KR是“结果”而非“任务”，如“完成20家新客户签约”而非“拜访20家潜在客户”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">量化具体</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用数字明确衡量标准，如“客户满意度提升至90分”而非“提高客户满意度”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">直接支撑</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>每个KR必须直接服务于目标（O），避免无关指标，例如目标为“提升老客户复购”，KR不应包含“新客户开发数”</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">可控性</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>KR需是团队/个人可直接影响的，如“通过CRM系统记录100%客户交互”而非“公司产品迭代完成3个功能”</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,120 @@
+<slide>
+    <style/>
+    <data>
+      <chart width="499.84" height="423" topLeftX="422.52" topLeftY="73.48" id="bPE">
+        <chartPlotArea>
+          <chartPlot type="pie">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartSectors borderColor="rgb(255, 255, 255)" innerRadius="0.732">
+                  <chartSector index="1" color="rgb(170, 174, 153)"/>
+                  <chartSector index="2" color="rgb(225, 221, 183)"/>
+                  <chartSector index="3" color="rgb(108, 120, 89)"/>
+                </chartSectors>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="满意度">满意,一般,差评</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="反馈次数">455,655,160</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle>满意度情况</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(255, 255, 255)"/>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+      <shape width="264" height="99" topLeftX="26.98" topLeftY="94.77" type="text">
+        <content textType="title" fontSize="66" fontFamily="Noto Serif SC ExtraLight" color="rgba(42, 45, 26, 1)" bold="false" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="left">
+            <span color="rgba(42, 45, 26, 1)" fontSize="66" fontFamily="Noto Serif SC ExtraLight">「觅寻」</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="356" height="54" topLeftX="63.64" topLeftY="276.25" type="text">
+        <content fontSize="18" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在万物初醒的时节，气息变得轻盈而柔软，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">引导感官重新认识自然的节律。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="384" height="36" topLeftX="63.64" topLeftY="353.67" alpha="0.60" type="text">
+        <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)">在贴近身体与空间的距离中，让自然成分与温和触感共同作用，</span>
+          </p>
+          <p>
+            <span color="rgba(42, 45, 26, 1)">形成轻柔而持续的陪伴。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="356" height="28" topLeftX="63.64" topLeftY="235.98" type="text">
+        <content fontSize="20" fontFamily="思源宋体" color="rgba(42, 45, 26, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(42, 45, 26, 1)" fontSize="20" fontFamily="思源宋体" bold="false">循春而行，感知初生。</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="451.70" startY="386.64" endX="609.45" endY="386.64" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="86.15" height="18" topLeftX="451.70" topLeftY="366.91" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">光感氛围 30%</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="775.41" startY="318.94" endX="909.28" endY="318.94" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="89" height="18" topLeftX="834.05" topLeftY="298.83" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体">嗅觉体验 </span>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">35%</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="491.85" startY="160.96" endX="650.60" endY="160.96" alpha="0.90">
+        <border color="rgba(108, 120, 89, 1)" width="1"/>
+      </line>
+      <shape width="92" height="18" topLeftX="491.85" topLeftY="142.24" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(31, 35, 41, 1)" fontSize="12" fontFamily="思源宋体" bold="false">自然元素 25%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="63.64" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(108, 120, 89, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="99.87" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(225, 221, 183, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="19.54" height="19.54" topLeftX="136.10" topLeftY="413.88" type="ellipse">
+        <fill>
+          <fillColor color="rgba(171, 175, 152, 1)"/>
+        </fill>
+        <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

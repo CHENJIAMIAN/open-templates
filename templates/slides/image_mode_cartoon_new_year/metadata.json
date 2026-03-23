@@ -1,0 +1,35 @@
+﻿{
+    "id":  "slides/image_mode_cartoon_new_year",
+    "family":  "slides",
+    "name":  "image_mode_cartoon_new_year",
+    "displayName":  "Image Mode Cartoon New Year",
+    "description":  "Presentation slide template for Image Mode Cartoon New Year.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "cartoon",
+                 "new",
+                 "year"
+             ],
+    "sourcePath":  "templates/slides/image_mode_cartoon_new_year",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_cartoon_new_year",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_cartoon_new_year/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_cartoon_new_year/cover.png"
+                                ]
+                }
+}

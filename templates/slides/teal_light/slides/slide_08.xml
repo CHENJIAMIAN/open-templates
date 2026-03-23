@@ -1,0 +1,125 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="IEgbbBGYro9QMSxpBIvcAc5Rnwc" width="699.36" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="92.12" rightOffset="72.53" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="424.06" height="52.33" topLeftX="30.33" topLeftY="456.46" type="text">
+        <content fontSize="30" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>面向未来的数字化基础设施</p>
+        </content>
+      </shape>
+      <shape width="578.80" height="50.79" topLeftX="30.33" topLeftY="409.14" alpha="0.70" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">本节用于展示与本主题相关的技术趋势，例如人工智能、大数据、自动化、生物科技等。</span>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">可在此处添加技术原理简介、应用场景说明，以及对社会带来的潜在影响。</span>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="279.77" height="77.01" topLeftX="627.13" topLeftY="105.57" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>随着算法能力的提升，产品不再只是工具，而是能够主动学习和进化的系统。通过智能推荐、自动化流程和数据分析，我们正在构建一个能够自我优化的生态，让体验更加精准、顺畅、高效。</p>
+        </content>
+      </shape>
+      <shape width="279.77" height="48.27" topLeftX="627.13" topLeftY="458.52" alpha="0.60" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)">这些趋势共同构成当前技术变革的核心动力，为后续治理与政策制定奠定方向基础。</span>
+          </p>
+          <p>
+            <br/>
+          </p>
+        </content>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="627.13" topLeftY="202.72" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="769.89" topLeftY="202.72" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="769.89" topLeftY="302.44" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="108" height="72" topLeftX="641.51" topLeftY="214.05" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">人工智能（AI）</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">推动自动化进程，预测分析与智能决策的发展。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="108" height="72" topLeftX="784.69" topLeftY="214.05" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12">大数据</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">支持海量信息整合，增强大模型的基础分析能力。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="137" height="93.83" topLeftX="627.13" topLeftY="302.44" presetHandlers="5" alpha="0.31" type="rect">
+        <fill>
+          <fillColor color="rgba(138, 141, 152, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="108" height="72" topLeftX="641.72" topLeftY="312.94" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12" fontFamily="思源黑体">自动化系统</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">提升流程效率，降低人工操作带来的不稳定性。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="108" height="72" topLeftX="784.69" topLeftY="312.94" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="12">生物科技</span>
+            </strong>
+          </p>
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">在医疗与材料科学领域突破性应用，加快研究进展。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="279.77" height="29.40" topLeftX="627.13" topLeftY="66.22" type="text">
+        <content fontSize="18" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span fontSize="18" fontFamily="Noto Sans SC Medium">用技术语言重写商业逻辑</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

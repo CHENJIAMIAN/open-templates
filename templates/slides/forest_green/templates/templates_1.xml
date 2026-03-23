@@ -1,0 +1,55 @@
+<slide>
+  <style/>
+  <data>
+    <img src="KTdzbd9ZbopGpOxbCNmcIjDrnRh" width="960" height="540" topLeftX="0" topLeftY="0" rotation="180" temperature="12">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="57.45" bottomOffset="57.45" presetHandlers="0"/>
+    </img>
+    <shape width="208" height="156" topLeftX="376" topLeftY="145.50" type="text">
+      <content textType="title" fontSize="104" fontFamily="Noto Serif SC ExtraLight" color="rgba(51, 62, 51, 1)" bold="false" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+        <p textAlign="center">
+          <span color="rgba(51, 62, 51, 1)" fontSize="104" fontFamily="Noto Serif SC ExtraLight" bold="false">春觅</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="142.02" height="33.72" topLeftX="32.51" topLeftY="26.11" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(43, 46, 37, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left">
+        <p textAlign="left" lineSpacing="multiple:1.2">
+          <span color="rgba(43, 46, 37, 1)" fontSize="14" fontFamily="思源宋体" bold="false">在疏朗的留白</span>
+        </p>
+        <p textAlign="left" lineSpacing="multiple:1.2">
+          <span color="rgba(43, 46, 37, 1)" fontSize="14" fontFamily="思源宋体" bold="false">气象自成</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="142.02" height="33.72" topLeftX="782.53" topLeftY="26.11" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="14" fontFamily="思源宋体" color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right">
+        <p list="none" textAlign="right" lineSpacing="multiple:1.2">
+          <span color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">山色入怀</span>
+        </p>
+        <p list="none" textAlign="right" lineSpacing="multiple:1.2">
+          <span color="rgba(43, 46, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="14" fontFamily="思源宋体" bold="false" italic="false" strikethrough="false" underline="false">风物自生</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="402.89" height="80.50" topLeftX="278.55" topLeftY="430.53" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="20" fontFamily="思源宋体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.3" textAlign="center">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">山色入怀 </span>
+          <strong>
+            <span color="rgba(255, 255, 255, 1)">· </span>
+          </strong>
+          <span color="rgba(255, 255, 255, 1)">风物自生</span>
+        </p>
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(255, 255, 255, 1)">在自然的节律中重新理解当下</span>
+        </p>
+        <p textAlign="center" lineSpacing="multiple:1.3">
+          <span color="rgba(255, 255, 255, 1)" fontSize="20">案例分析</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

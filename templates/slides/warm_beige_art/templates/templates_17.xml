@@ -1,0 +1,49 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="448.54" topLeftX="48" topLeftY="47.59" presetHandlers="35" type="rect">
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <line startX="83.20" startY="162" endX="876.74" endY="162" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="385.79" height="36" topLeftX="83.33" topLeftY="201.22" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心特征</p>
+      </content>
+    </shape>
+    <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="239.89" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>去冗余，追求“少即是多”的纯粹性。</p>
+      </content>
+    </shape>
+    <shape width="385.79" height="36" topLeftX="83.33" topLeftY="343.24" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>推荐图片</p>
+      </content>
+    </shape>
+    <shape width="385.79" height="79.01" topLeftX="83.20" topLeftY="381.91" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>唐纳德·贾德金属立方体雕塑（单色几何结构与空间关系），搜索关键词：Donald Judd minimalist sculpture</p>
+      </content>
+    </shape>
+    <shape width="793.54" height="45" topLeftX="83.20" topLeftY="94.65" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>极简主义</p>
+      </content>
+    </shape>
+    <img src="Ads6baJyfoVrIYxBAv4cVpNGn8g" width="371.90" height="244.23" topLeftX="504.83" topLeftY="206.22">
+      <crop type="rect" leftOffset="31.15" rightOffset="31.15" topOffset="0" bottomOffset="0" presetHandlers="19"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

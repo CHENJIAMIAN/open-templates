@@ -1,0 +1,62 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="317.42" height="100.46" topLeftX="50.25" topLeftY="393.26" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4">
+          <p>在日常中寻找值得停留的理由。</p>
+        </content>
+      </shape>
+      <img src="GnQObAFm1oRC2UxUgg3c2ZI9nif" width="173.77" height="173.86" topLeftX="50.25" topLeftY="50.05" exposure="22">
+        <crop type="rect" leftOffset="43.51" rightOffset="43.51" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <line startX="465.36" startY="50" endX="466.36" endY="490">
+        <border color="rgba(231, 232, 229, 1)" width="1"/>
+      </line>
+      <line startX="722.21" startY="50" endX="723.21" endY="490">
+        <border color="rgba(231, 232, 229, 1)" width="1"/>
+      </line>
+      <shape width="173.77" height="40.89" topLeftX="486.09" topLeftY="50.05" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4">
+          <p>带着呼吸感的设计，更贴近生活</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="91.58" topLeftX="486.09" topLeftY="95.31" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left">
+          <p>我们常常在忙碌中忽视身边的细节，而那些轻微的变化正构成生活的底色。</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="17" topLeftX="742.94" topLeftY="186.89" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>用安静而坚定的方式，记录时间</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="91.58" topLeftX="742.94" topLeftY="234.72" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left">
+          <p>一段文字能否打动人，往往不是因为它多么华丽，而是因为它具有诚恳的节奏。</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="17" topLeftX="742.94" topLeftY="420.15" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+          <p>借由光影，将情绪轻轻托起</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="77.58" topLeftX="742.94" topLeftY="445.78" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left">
+          <p>我们想透过这份内容，带你看到生活中那些不值得炫耀，却值得被珍惜的时刻。</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="40.89" topLeftX="486.09" topLeftY="306.66" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="Noto Serif SC Light" color="rgba(0, 0, 0, 1)" bold="false" lineSpacing="multiple:1.4">
+          <p>将复杂思绪写成简单却动人的句子</p>
+        </content>
+      </shape>
+      <shape width="173.77" height="91.58" topLeftX="486.09" topLeftY="351.92" type="text">
+        <content textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" bold="false" textAlign="left">
+          <p>空间之所以能打动人心，并非因为它足够复杂，而是因为它懂得克制。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

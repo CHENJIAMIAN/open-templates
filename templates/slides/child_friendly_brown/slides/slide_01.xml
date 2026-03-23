@@ -1,0 +1,37 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="MVOgbFCUmo20pwx64BBc1v4AnJb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="860.83" height="108.73" topLeftX="48" topLeftY="40.55" type="text">
+        <content textType="headline" fontSize="70" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>儿童陪伴产品调研</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="181.65" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="31.89" topLeftX="48" topLeftY="203.74" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="262" type="text">
+        <content fontSize="14" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="48" topLeftY="284.09" type="text">
+        <content fontSize="20" fontFamily="资源圆体" color="rgba(177, 171, 154, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

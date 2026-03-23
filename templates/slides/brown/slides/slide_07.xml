@@ -1,0 +1,83 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="138.86" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(229, 164, 66, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>入职流程与引导计划</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括资料提交、合同签订、工牌办理、系统权限开通等环节，人力资源部门将提供全程指引</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>入职流程</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>为期一个月，分为三个阶段：第一周熟悉公司环境与基础制度；第二周部门业务培训与岗位技能学习；第三、四周岗位实践与导师指导</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>引导计划</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>每位新员工将配备一名导师，负责解答疑问、指导工作，助力快速胜任岗位</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>导师制度</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="147.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体目标</p>
+        </content>
+      </shape>
+      <shape width="820" height="71" topLeftX="70.12" topLeftY="196.42" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>为帮助新员工顺利过渡，公司制定了系统化的入职流程与引导计划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

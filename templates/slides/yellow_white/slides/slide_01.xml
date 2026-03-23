@@ -1,0 +1,37 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="YzEqbRXcHoJALgxgm5XciuUrnEb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="862.28" height="96.68" topLeftX="47.72" topLeftY="28.14" type="text">
+        <content textType="headline" fontSize="70" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>公司团建活动规划</p>
+        </content>
+      </shape>
+      <shape width="134.01" height="28" topLeftX="810.96" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="118.63" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="724.36" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="61.38" height="28" topLeftX="49.64" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲人</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

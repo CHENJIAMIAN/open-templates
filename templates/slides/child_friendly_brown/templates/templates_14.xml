@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="48" startY="149.25" endX="912" endY="150.25" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="261.32" endX="912" endY="262.32" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="48" startY="373.39" endX="912" endY="374.39" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="606.24" height="80" topLeftX="305.83" topLeftY="165.78" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>电商平台占比64%（京东43%、天猫29.2%），社交电商（抖音、小红书）崛起，2023年母婴类商品直播带货GMV同比增长95%。</p>
+      </content>
+    </shape>
+    <shape width="238.86" height="80" topLeftX="48.07" topLeftY="165.78" type="text">
+      <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>渠道偏好</p>
+      </content>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.39" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>购买决策路径</p>
+      </content>
+    </shape>
+    <shape width="606.24" height="80" topLeftX="305.83" topLeftY="277.85" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>KOL测评（68%）、用户口碑（81%）、品牌信任（42.1%），某智能早教机器人通过500个妈妈群体验装推广，三个月自然传播覆盖120万人。</p>
+      </content>
+    </shape>
+    <shape width="238.86" height="80" topLeftX="48.07" topLeftY="277.85" type="text">
+      <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>决策影响因素</p>
+      </content>
+    </shape>
+    <shape width="606.24" height="80" topLeftX="305.83" topLeftY="389.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>体验店转化效率高，亲子主题体验店客户转化率38%，高于传统门店12%，如上海某亲子体验中心智能早教机器人试用转化率23.6%。</p>
+      </content>
+    </shape>
+    <shape width="238.86" height="80" topLeftX="48.07" topLeftY="389.93" type="text">
+      <content fontSize="20" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>线下作用</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

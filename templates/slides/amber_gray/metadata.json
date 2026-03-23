@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/amber_gray",
+    "family":  "slides",
+    "name":  "amber_gray",
+    "displayName":  "Amber Gray",
+    "description":  "Presentation slide template for Amber Gray.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "amber",
+                 "gray"
+             ],
+    "sourcePath":  "templates/slides/amber_gray",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/amber_gray",
+    "preview":  {
+                    "cover":  "amber_gray/slide_pmA_IB22bH3wzofKf0xmovscuH6Cnnf.png",
+                    "gallery":  [
+                                    "amber_gray/slide_pmA_IB22bH3wzofKf0xmovscuH6Cnnf.png",
+                                    "amber_gray/slide_pmA_Nm2IbwIipohbfrxSebwcSCVtnTg.png",
+                                    "amber_gray/slide_pmb_CePEbpCWyoIYGYxW9ZFcA582npe.png"
+                                ]
+                }
+}

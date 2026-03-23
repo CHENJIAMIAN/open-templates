@@ -1,0 +1,101 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="1600.22" height="1600" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+      <border color="rgba(237, 240, 242, 1)" lineJoin="miter" miterLimit="10"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>消费级应用场景</p>
+      </content>
+    </shape>
+    <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">核心定位</p>
+      </content>
+    </shape>
+    <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>聚焦"轻量化日常穿戴"，满足用户日常使用需求</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">三大主流需求</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AR导航（实时路况叠加）、沉浸式娱乐（3D观影、虚拟社交）及健康监测（心率、眼疲劳预警）</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">场景分布</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>休闲娱乐场景占近四成，其次是工作（27.4%）和生活场景（22.1%）</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">典型产品</p>
+      </content>
+    </shape>
+    <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>Meta Ray-Ban Stories 2.0凭借时尚设计与生态整合，占据消费市场重要份额</p>
+      </content>
+    </shape>
+    <shape width="65.71" height="32" topLeftX="580.92" topLeftY="75.76" type="text">
+      <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="65.71" height="32" topLeftX="446.02" topLeftY="181.75" type="text">
+      <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="65.71" height="32" topLeftX="330.29" topLeftY="301.57" type="text">
+      <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="65.71" height="32" topLeftX="255.31" topLeftY="432.97" type="text">
+      <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(236, 118, 68, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

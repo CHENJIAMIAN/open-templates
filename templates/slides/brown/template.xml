@@ -1,0 +1,1631 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>员工制度培训</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="P7LVbvAbXogbTdxMxohc2PY1nqg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="792.13" height="90" topLeftX="58.43" topLeftY="401.82" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工入职制度培训</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="24" topLeftX="36.47" topLeftY="41.61" alpha="0.71" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="31.89" topLeftX="36.47" topLeftY="64.70" alpha="0.71" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="839.83" topLeftY="41.61" alpha="0.71" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="31.89" topLeftX="809.19" topLeftY="64.70" alpha="0.71" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.00" startY="119.96" endX="912" endY="119.96" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="864.00" height="54" topLeftX="48.48" topLeftY="37.72" type="text">
+        <content textType="title" fontSize="36" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="270" height="66.00" topLeftX="47.87" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第一章：公司概览与文化理念</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="270" height="66.00" topLeftX="345" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第二章：员工基本权利与义务</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="345" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="270" height="66.00" topLeftX="641.50" topLeftY="279" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第三章：工作规范与行为准则</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="641.50" topLeftY="232" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="270" height="66.00" topLeftX="47.87" topLeftY="418.07" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第四章：薪酬福利与职业发展</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="371.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="270" height="66.00" topLeftX="345" topLeftY="418.07" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>第五章：培训总结与考核评估</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="345" topLeftY="371.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="LDslbOYycoJX50xgwxzck1son7d" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p>第一章：公司概览与文化理念</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <icon width="42.00" height="42" topLeftX="50.04" topLeftY="168.85" iconType="iconpark/Charts/chart-proportion.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42.00" height="42" topLeftX="272.04" topLeftY="168.85" iconType="iconpark/Connect/connection-point-two.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42.00" height="42" topLeftX="494.04" topLeftY="168.85" iconType="iconpark/Health/pure-natural.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="42.00" height="42" topLeftX="716.04" topLeftY="168.85" iconType="iconpark/Edit/minus-the-bottom.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48.00" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>公司发展历程与愿景使命</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="32" topLeftX="48.00" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>发展理念</p>
+        </content>
+      </shape>
+      <shape width="198" height="217.06" topLeftX="48.00" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司自成立以来，始终秉持创新、诚信、卓越的发展理念，历经多年行业沉淀，已成长为领域内具有重要影响力的企业。</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="32" topLeftX="270" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司愿景</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="217.06" topLeftX="270.00" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成为行业标杆，为客户创造持续价值，为员工搭建成长平台，为社会贡献专业力量。</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="32" topLeftX="492.00" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业使命</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="217.06" topLeftX="492.00" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过技术创新和优质服务，推动行业进步，实现可持续发展。</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="32" topLeftX="714.00" topLeftY="234.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>意义价值</p>
+        </content>
+      </shape>
+      <shape width="198.00" height="217.06" topLeftX="714.00" topLeftY="271.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>了解公司的发展历程有助于新员工更好地理解企业价值观和发展方向，建立对公司的认同感和归属感。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600.00" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(45, 45, 45, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="598.68" topLeftY="75.23" iconType="iconpark/Travel/mountain.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="461.61" topLeftY="183.51" iconType="iconpark/Travel/flag.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="329.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="346.74" topLeftY="301.04" iconType="iconpark/Travel/tent.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="248.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="265.76" topLeftY="432.97" iconType="iconpark/Travel/map-draw.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>组织架构与部门职能</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">管理部门</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责战略规划与资源调配</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="523.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">业务部门</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="523.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>专注于核心产品与服务的研发、生产与销售</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="410.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">支持部门</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="410.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>为公司运营提供全方位保障</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="327.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">总体架构</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="327.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="11" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司采用扁平化、高效协同的组织架构，设有多个核心业务部门及支持部门。各部门职责明确，协同配合，共同推动公司业务发展。新员工需熟悉所在部门的职能定位、汇报关系以及与其他部门的协作流程，以便快速融入工作环境。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.00" startY="142.05" endX="90.76" endY="142.05">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="346.38" startY="142.05" endX="390.14" endY="142.05" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="645.77" startY="142.05" endX="689.52" endY="142.05" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="196.69" startY="322.54" endX="240.45" endY="322.54" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="496.07" startY="322.54" endX="539.83" endY="322.54" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="48.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业文化核心价值观</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48.00" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>客户至上</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="48.00" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>始终以客户需求为导向</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>诚信正直</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="347.38" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>与所有利益相关方合作的基础</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>团队协作</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="646.77" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>强调跨部门、跨岗位的无缝配合</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>创新进取</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>鼓励员工勇于突破、持续学习</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>责任担当</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>要求每位员工对工作负责、对结果负责</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="274" alpha="0.10" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864.00" height="52.55" topLeftX="48.07" topLeftY="138.86" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(229, 164, 66, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>入职流程与引导计划</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括资料提交、合同签订、工牌办理、系统权限开通等环节，人力资源部门将提供全程指引</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>入职流程</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>为期一个月，分为三个阶段：第一周熟悉公司环境与基础制度；第二周部门业务培训与岗位技能学习；第三、四周岗位实践与导师指导</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>引导计划</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="331.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>每位新员工将配备一名导师，负责解答疑问、指导工作，助力快速胜任岗位</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="282.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>导师制度</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="147.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体目标</p>
+        </content>
+      </shape>
+      <shape width="820" height="71.00" topLeftX="70.12" topLeftY="196.42" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>为帮助新员工顺利过渡，公司制定了系统化的入职流程与引导计划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Xsi3bRxsCohhKyxWkIhcWQPlnvc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p>第二章：员工基本权利与义务</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="120.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="120.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="312.55" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="312.55" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864.00" height="45" topLeftX="48.32" topLeftY="47.96" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同与雇佣关系</p>
+        </content>
+      </shape>
+      <shape width="375.21" height="36" topLeftX="68.51" topLeftY="182.66" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同的定义与意义</p>
+        </content>
+      </shape>
+      <shape width="375.45" height="59.37" topLeftX="68.51" topLeftY="216.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">劳动合同是明确员工与公司权利义务的法律文件，具有重要法律意义。公司严格遵守劳动法律法规，与每位员工签订书面劳动合同。</p>
+        </content>
+      </shape>
+      <shape width="47.33" height="32" topLeftX="68.51" topLeftY="140.74" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="382.00" height="36" topLeftX="508.37" topLeftY="182.66" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同的核心条款</p>
+        </content>
+      </shape>
+      <shape width="382.24" height="59.37" topLeftX="508.37" topLeftY="216.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同明确包含合同期限、工作内容、劳动报酬、社会保险等核心条款。</p>
+        </content>
+      </shape>
+      <shape width="49" height="32" topLeftX="508.37" topLeftY="140.74" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="375.21" height="36" topLeftX="68.51" topLeftY="375.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>试用期规定</p>
+        </content>
+      </shape>
+      <shape width="375.45" height="59.37" topLeftX="68.51" topLeftY="409.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>试用期是劳动合同的重要组成部分，一般为1-6个月，具体根据合同期限确定。试用期内，双方均有权对彼此是否适合作出评估。</p>
+        </content>
+      </shape>
+      <shape width="48" height="32" topLeftX="68.51" topLeftY="336.39" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="382.00" height="36" topLeftX="508.37" topLeftY="375.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工注意事项</p>
+        </content>
+      </shape>
+      <shape width="382.24" height="59.37" topLeftX="508.37" topLeftY="409.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工应仔细阅读合同条款，如有疑问及时与人力资源部门沟通，确保自身权益得到充分保障。</p>
+        </content>
+      </shape>
+      <shape width="49" height="32" topLeftX="508.37" topLeftY="336.39" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(255, 196, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270.00" presetHandlers="16" alpha="0.90" type="round1rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0.00" presetHandlers="16" alpha="0.70" type="round1rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90.00" presetHandlers="16" alpha="0.50" type="round1rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48.00" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>工作时间与休息休假</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48.00" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>工作时间制度</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48.00" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>公司实行标准工时制度，每日工作8小时，每周工作5天。具体上下班时间以上级通知为准，员工需严格遵守考勤规定。</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48.00" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>年假天数规定</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48.00" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>年假天数根据员工工龄确定，工作满1年不满10年的，年休假5天；满10年不满20年的，年休假10天；满20年的，年休假15天。</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>休息休假权利</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司依法保障员工的休息休假权利，包括法定节假日、年假、婚假、产假、病假等。</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>休假申请要求</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>休假需提前申请并获得批准，确保工作安排不受影响。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600.00" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(45, 45, 45, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="598.68" topLeftY="75.23" iconType="iconpark/Travel/mountain.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="461.61" topLeftY="183.51" iconType="iconpark/Travel/flag.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="329.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="346.74" topLeftY="301.04" iconType="iconpark/Travel/tent.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="66.36" height="66.36" topLeftX="248.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="32" height="32" topLeftX="265.76" topLeftY="432.97" iconType="iconpark/Travel/map-draw.svg">
+        <border color="rgba(255, 196, 127, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工基本权利保障</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">基本权利内容</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">员工享有平等就业、获得劳动报酬、接受职业培训、休息休假、劳动安全卫生保护等基本权利。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="523.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">反歧视保障</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="523.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司严禁任何形式的歧视行为，保障员工在招聘、晋升、薪酬等方面的公平待遇。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="410.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">异议与拒绝权</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="410.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工有权对工作中的不合理安排提出异议，有权拒绝违章指挥和强令冒险作业。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="327.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">沟通渠道保障</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="327.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司设立了畅通的沟通渠道，员工可通过意见箱、内部邮箱、座谈会等方式表达合理诉求，相关部门将在规定时间内予以回应和处理。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="WHxPbk3lHojMILx3CsPckdUyn4f" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p>第三章：工作规范与行为准则</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="112.16" topLeftY="157.46" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(246, 172, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="123.16" topLeftY="168.46" iconType="iconpark/Character/check-one.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="375.45" topLeftY="157.46" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(246, 172, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="386.45" topLeftY="168.46" iconType="iconpark/Abstract/two-ellipses.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="638.73" topLeftY="157.46" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(246, 172, 87, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="649.73" topLeftY="168.46" iconType="iconpark/Abstract/circular-connection.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="820" height="45" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>办公环境与安全规范</p>
+        </content>
+      </shape>
+      <shape width="210" height="177.00" topLeftX="111.34" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>保持整洁、有序的办公环境是每位员工的责任。办公区域内禁止吸烟、饮食，物品摆放应整齐规范。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="111.34" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>办公环境要求</p>
+        </content>
+      </shape>
+      <shape width="210" height="177.00" topLeftX="374.97" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司高度重视安全生产，定期组织安全培训和演练。员工需熟悉消防器材位置及使用方法，遵守用电安全规定，发现安全隐患及时报告。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="374.97" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>安全生产管理</p>
+        </content>
+      </shape>
+      <shape width="210" height="177.00" topLeftX="638.60" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>涉密文件和贵重物品需妥善保管，离开办公位时应锁好抽屉、保管好个人物品。</p>
+        </content>
+      </shape>
+      <shape width="210.00" height="32" topLeftX="638.60" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>物品安全保管</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="349.31" height="97.94" topLeftX="305.34" topLeftY="244.46" type="ellipse">
+        <border color="rgba(255, 196, 127, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="263.64" height="85.18" topLeftX="348.18" topLeftY="177.42" alpha="0.75" type="ellipse">
+        <border color="rgba(255, 196, 127, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="136.00" height="44.51" topLeftX="412" topLeftY="126.98" alpha="0.50" type="ellipse">
+        <border color="rgba(255, 196, 127, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="263.64" height="85.18" topLeftX="348.18" topLeftY="323.62" alpha="0.75" type="ellipse">
+        <border color="rgba(255, 196, 127, 1)" dashArray="long-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="136.00" height="45" topLeftX="412" topLeftY="414.27" alpha="0.50" type="ellipse">
+        <border color="rgba(255, 196, 127, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <line startX="619.86" startY="215.49" endX="654.86" endY="216.49" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="619.86" startY="365.64" endX="654.86" endY="366.64" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="334.64" startY="436.93" endX="395.64" endY="436.93" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="279.24" startY="292.88" endX="300.24" endY="292.88" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="331.64" startY="149.74" endX="398.64" endY="149.74" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>职业道德与行为规范</p>
+        </content>
+      </shape>
+      <shape width="276.41" height="32" topLeftX="46.00" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">恪守职业道德</p>
+        </content>
+      </shape>
+      <shape width="276.19" height="90" topLeftX="46.00" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>员工应恪守职业道德，保持廉洁自律，不得利用职务之便谋取不正当利益。</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="32" topLeftX="33.00" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">职业形象要求</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="90" topLeftX="33.00" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>在对外交往中，应保持专业、礼貌的职业形象，言行举止符合公司规范。</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="32" topLeftX="46.00" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">工作场所规范</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="84.00" topLeftX="46.00" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>严禁在工作场所发生争吵、冲突或其他不文明行为。</p>
+        </content>
+      </shape>
+      <shape width="263.64" height="32" topLeftX="662.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">禁止不当行为</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="113.00" topLeftX="662.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>禁止收受客户或合作伙伴的回扣、礼品，严禁从事与公司利益相冲突的兼职活动。</p>
+        </content>
+      </shape>
+      <shape width="263.64" height="32" topLeftX="662.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="17" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">同事关系准则</p>
+        </content>
+      </shape>
+      <shape width="263.64" height="113.00" topLeftX="662.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>同事之间应相互尊重、团结协作，营造积极向上的工作氛围。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="PFdYbmPqhoR4J3x3la1cZDvHn3g" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p>第四章：薪酬福利与职业发展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864.00" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会保险与福利体系</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工入职满一定年限后，可享受额外的福利政策，如住房公积金比例提升、子女教育补贴等。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">长期员工福利</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司依法为员工缴纳社会保险，包括养老保险、医疗保险、失业保险、工伤保险和生育保险。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">社会保险</p>
+        </content>
+      </shape>
+      <img src="J4LebTa4koDpiHxCtWwcS7k1nke" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司注重员工工作生活平衡，组织各类团队建设活动，丰富员工业余生活。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">工作生活平衡</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司提供丰富的补充福利，如商业医疗保险、年度体检、带薪年假、节日福利、生日慰问等。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">补充福利</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="121.89" presetHandlers="0" alpha="0.08" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="121.89" presetHandlers="0" alpha="0.08" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(205, 136, 56, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p list="none" textAlign="center"/>
+        </content>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.67" topLeftY="305.99" presetHandlers="0" alpha="0.08" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="630.08" topLeftY="305.99" presetHandlers="0" alpha="0.08" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>绩效考核与奖惩机制</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="174.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司实行季度考核与年度考核相结合的方式，考核指标包括工作业绩、能力提升、团队协作等方面。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>考核方式</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="174.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>考核结果将作为薪酬调整、晋升、培训发展的重要依据。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>考核结果应用</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="174.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.6)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>绩效考核是衡量员工工作表现、促进个人与公司共同发展的重要手段。通过公正、透明的绩效考核与奖惩机制，激发员工工作积极性和创造力。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体概述</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.38" topLeftY="358.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>对于表现优秀的员工，公司给予表彰和奖励，包括奖金、荣誉称号、晋升机会等。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>奖励机制</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="651.79" topLeftY="358.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>对于未达考核标准的员工，将提供绩效改进计划，帮助其提升工作表现。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>改进机制</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="LDslbOYycoJX50xgwxzck1son7d" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+        <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p>第五章：培训总结与考核评估</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="629.08" topLeftY="123.39" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="307.49" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="307.49" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>入职培训内容回顾</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司发展历程与愿景使命、组织架构与部门职能</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司概览</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>理解企业文化内涵，掌握公司核心价值观与行为准则</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>文化理念</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>劳动合同与权利义务、考勤与请假制度等规范要求</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>规章制度</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>薪酬结构与福利体系的详细说明</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>薪酬福利</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>绩效考核标准与职业发展通道规划</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>职业发展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="267" height="267" topLeftX="346.50" topLeftY="159.32" alpha="0.10" type="ellipse">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="412.75" topLeftY="172.05" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="475.70" topLeftY="222.75" rotation="72.32" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.638599999999999 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999996 L116.97289999999997,105.44999999999999 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.638599999999999 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="447.40" topLeftY="297.75" rotation="144" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="366.65" topLeftY="294.05" rotation="216" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.6385999999999985 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999992 L116.97289999999997,105.44999999999997 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.6385999999999985 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.35" type="custom">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="345.30" topLeftY="216.40" rotation="288" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.25" type="custom">
+        <fill>
+          <fillColor color="rgba(255, 196, 127, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <icon width="32.00" height="32" topLeftX="497.43" topLeftY="614.61" iconType="iconpark/Base/waterfalls-h.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="564.61" topLeftY="687.96" iconType="iconpark/Base/config.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="517.43" topLeftY="768.70" iconType="iconpark/Charts/ranking.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="417.21" topLeftY="747.95" iconType="iconpark/Abstract/triangle-round-rectangle.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32.00" height="32" topLeftX="407.49" topLeftY="656.25" iconType="iconpark/Edit/minus-the-top.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <line startX="331.64" startY="170.32" endX="399.64" endY="170.32" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="281.64" startY="275.63" endX="335.64" endY="275.63" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="336.64" startY="419.45" endX="406.49" endY="419.45" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <endArrow type="solid-circle"/>
+      </line>
+      <line startX="599.61" startY="215.18" endX="639.61" endY="215.18" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <line startX="596.61" startY="376.63" endX="636.61" endY="376.63" alpha="0.24">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+        <startArrow type="solid-circle"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>常见问题解答与资源获取</p>
+        </content>
+      </shape>
+      <shape width="276.41" height="32" topLeftX="46.00" topLeftY="127.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">查阅资料</p>
+        </content>
+      </shape>
+      <shape width="276.19" height="90" topLeftX="46.00" topLeftY="156.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>常见问题可通过查阅《员工手册》、登录内部知识库获取答案。</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="32" topLeftX="33.00" topLeftY="258.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">新员工座谈会</p>
+        </content>
+      </shape>
+      <shape width="239.73" height="90" topLeftX="33.00" topLeftY="286.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>定期组织的新员工座谈会也是解决问题、获取信息的重要途径。</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="32" topLeftX="46.00" topLeftY="387.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">内部平台资源</p>
+        </content>
+      </shape>
+      <shape width="280.19" height="84.00" topLeftX="46.00" topLeftY="415.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>公司内部网站和移动办公平台整合了各类资源，包括业务资料、培训课程、规章制度等，员工可随时查阅学习。</p>
+        </content>
+      </shape>
+      <shape width="263.64" height="32" topLeftX="648.36" topLeftY="154.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">人力资源咨询</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="113.00" topLeftX="648.36" topLeftY="182.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>人力资源部门设立了咨询热线和邮箱，解答员工关于制度、福利、培训等方面的疑问。</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="32" topLeftX="648.57" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">导师指导</p>
+        </content>
+      </shape>
+      <shape width="263.43" height="113.00" topLeftX="648.57" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>各部门也配备了经验丰富的导师，提供一对一的工作指导。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154.00" rotation="0.00" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.10" topLeftY="204.57" iconType="iconpark/Base/equalizer.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154.00" rotation="0.00" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="204.84" rotation="0.00" iconType="iconpark/Office/find-one.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0.00" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.78" topLeftY="336.29" rotation="0.00" iconType="iconpark/Health/safe-retrieval.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0.00" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="336.56" rotation="0.00" iconType="iconpark/Travel/local.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>培训考核方式与标准</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>考核方式</p>
+        </content>
+      </shape>
+      <shape width="276" height="108.00" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">包括理论测试和实操评估两部分：理论测试采用闭卷考试形式，内容涵盖培训所学的规章制度、企业文化、业务知识等；实操评估通过模拟工作场景，考察员工的实际应用能力。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>总体说明</p>
+        </content>
+      </shape>
+      <shape width="276" height="108.00" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>入职培训考核是检验培训效果、确保员工掌握必要知识的重要环节。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>合格标准</p>
+        </content>
+      </shape>
+      <shape width="276.00" height="108.00" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>总分达到80分以上，其中理论测试不低于70分，实操评估不低于85分。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>结果应用</p>
+        </content>
+      </shape>
+      <shape width="276.00" height="108.00" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>考核结果将计入员工档案，作为试用期评估的重要依据。未通过考核的员工，将有一次补考机会，仍未通过者需重新参加入职培训。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="FqlFbpViqoP8NZxy5nHcsm09nGb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="792.13" height="90" topLeftX="58.43" topLeftY="401.82" type="text">
+        <content textType="headline" fontSize="68" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>谢谢</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="24" topLeftX="36.47" topLeftY="41.61" alpha="0.71" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="31.89" topLeftX="36.47" topLeftY="64.70" alpha="0.71" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="839.83" topLeftY="41.61" alpha="0.71" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="116.06" height="31.89" topLeftX="809.19" topLeftY="64.70" alpha="0.71" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

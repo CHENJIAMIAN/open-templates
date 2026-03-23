@@ -1,0 +1,96 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="233.07" startY="310.88" endX="233.07" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true"/>
+      </shape>
+      <line startX="56.27" startY="132.99" endX="56.27" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true"/>
+      </shape>
+      <line startX="414.79" startY="132.99" endX="414.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="596.91" startY="310.88" endX="596.91" endY="490.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>可用性测试流程</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>招募真实用户执行任务</p>
+        </content>
+      </shape>
+      <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>选择符合目标用户特征的真实用户参与测试</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>确定核心任务场景</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>如注册流程、支付操作等关键用户任务</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>记录关键指标</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>记录完成时间、错误率和满意度评分等数据</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>收集用户反馈</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过“出声思考”法了解用户决策过程和痛点</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

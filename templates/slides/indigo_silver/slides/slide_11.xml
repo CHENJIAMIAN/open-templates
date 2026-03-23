@@ -1,0 +1,22 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 5, 17, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.61" height="123.59" topLeftX="474.35" topLeftY="93.91" type="text">
+        <content textType="headline" fontSize="80" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="true">
+          <p>
+            <span fontSize="80">Thank you</span>
+          </p>
+        </content>
+      </shape>
+      <img src="AwOYboidGoltHMxcwzzceqQBnNf" width="563.51" height="322.50" topLeftX="0" topLeftY="217.50">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

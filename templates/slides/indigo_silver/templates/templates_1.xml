@@ -1,0 +1,50 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 5, 17, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="584" height="84" topLeftX="36" topLeftY="403.29" type="text">
+      <content textType="title" fontSize="84" fontFamily="Inter" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1" letterSpacing="-1" autoFit="shape-auto-fit">
+        <p>
+          <span bold="false">Q</span>
+          <span bold="false">4</span>
+          <span bold="false"> 202</span>
+          <span bold="false">5</span>
+        </p>
+      </content>
+    </shape>
+    <img src="NdEobNRzjoWVa4xE4I1c13nunCf" width="533.36" height="363.70" topLeftX="426.64" topLeftY="0">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="97.64" height="33.12" topLeftX="114.19" topLeftY="27.68" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(84, 87, 94, 1)"/>
+      </fill>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="14" fontFamily="Inter">Reporter</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="61.93" height="33.12" topLeftX="43.62" topLeftY="27.68" type="slides-full-round-rect">
+      <border color="rgba(255, 255, 255, 0.5)" width="1"/>
+      <content paddingTop="2" paddingBottom="2" fontSize="14" fontFamily="Inter" color="rgba(255, 255, 255, 1)">
+        <p>
+          <span fontSize="14" fontFamily="Inter">Date</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="612" height="168" topLeftX="36" topLeftY="212.51" type="text">
+      <content fontSize="16" fontFamily="Inter" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1">
+          <span color="rgba(255, 255, 255, 1)" fontSize="84" fontFamily="Inter">Team OKR Retrospective </span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

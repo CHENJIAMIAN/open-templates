@@ -1,0 +1,98 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(236, 240, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="566" height="1" topLeftX="49" topLeftY="207" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="566" height="1" topLeftX="49" topLeftY="310" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="566" height="1" topLeftX="49" topLeftY="411" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="566.13" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>云游戏技术持续突破</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="42" topLeftX="48.07" topLeftY="121.31" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>60%</p>
+      </content>
+    </shape>
+    <shape width="358.57" height="77" topLeftX="255.64" topLeftY="121.31" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025年边缘计算在云游戏中的应用覆盖率已达到60%，预计2030年将提升至85%</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="162.33" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>边缘计算覆盖率</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="42" topLeftX="48.07" topLeftY="222.14" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>20亿</p>
+      </content>
+    </shape>
+    <shape width="358.57" height="77" topLeftX="256.37" topLeftY="224.14" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025年全球5G用户数已超过20亿，其中云游戏用户占比达到30%</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="263.15" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全球5G用户数</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="42" topLeftX="48.07" topLeftY="322.96" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>12个</p>
+      </content>
+    </shape>
+    <shape width="358.57" height="77" topLeftX="256.37" topLeftY="324.96" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国"东数西算"工程建成12个云游戏算力枢纽，全球数据中心专门配置云游戏服务器比例达25%</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="363.97" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>算力枢纽</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="42" topLeftX="48.07" topLeftY="423.78" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+        <p>4K/60fps</p>
+      </content>
+    </shape>
+    <shape width="358.57" height="77" topLeftX="256.37" topLeftY="425.78" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>技术进步使主流云游戏平台已全面支持4K/60fps画质，部分高端平台甚至实现了8K/120fps的超高清体验，同时延迟控制在20ms以内，接近本地游戏的响应速度</p>
+      </content>
+    </shape>
+    <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="464.80" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>主流画质</p>
+      </content>
+    </shape>
+    <img src="SG3Yb8iKMoag0gxlew8ci0wEnlh" width="303" height="540" topLeftX="657.14" topLeftY="0">
+      <crop type="rect" leftOffset="0.38" rightOffset="0.38" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

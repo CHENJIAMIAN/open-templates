@@ -1,0 +1,87 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉全圆体">前期准备工作</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="366" height="120" topLeftX="71.29" topLeftY="194.43" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉全圆体">确定时间时需充分考虑员工工作安排，通过问卷调查或与部门负责人沟通选择大多数人能参与的时间段；确定地点时根据主题和形式选择，并评估交通便利性和设施服务</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="420" height="44" topLeftX="48.07" topLeftY="141.25" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="366" height="36" topLeftX="71.29" topLeftY="145.25" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>确定时间地点</p>
+      </content>
+    </shape>
+    <shape width="366" height="120" topLeftX="515.29" topLeftY="194.43" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉全圆体">准确统计参与人数和收集员工信息（姓名、性别、年龄、联系方式等）用于活动组织</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="420" height="44" topLeftX="492.07" topLeftY="141.25" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="366" height="36" topLeftX="515.29" topLeftY="145.25" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>统计参与人数和人员信息</p>
+      </content>
+    </shape>
+    <shape width="366" height="120" topLeftX="71.29" topLeftY="380.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉全圆体">制定详细预算并预留弹性空间</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="420" height="44" topLeftX="48.07" topLeftY="327.02" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="366" height="36" topLeftX="71.29" topLeftY="331.02" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>制定活动预算</p>
+      </content>
+    </shape>
+    <shape width="366" height="120" topLeftX="515.29" topLeftY="380.20" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>
+          <span fontFamily="寒蝉全圆体">明确活动负责人和工作人员职责并提前培训</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="420" height="44" topLeftX="492.07" topLeftY="327.02" type="slides-home-plate">
+      <fill>
+        <fillColor color="rgba(251, 247, 234, 1)"/>
+      </fill>
+      <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="366" height="36" topLeftX="515.29" topLeftY="331.02" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>确定活动负责人和工作人员</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

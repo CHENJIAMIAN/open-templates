@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/grid",
+    "family":  "slides",
+    "name":  "grid",
+    "displayName":  "Grid",
+    "description":  "Presentation slide template for Grid.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "grid"
+             ],
+    "sourcePath":  "templates/slides/grid",
+    "entryFiles":  [
+                       "metadata.md",
+                       "layout_metadata.md",
+                       "mapping.json",
+                       "theme.xml",
+                       "slides_of_cover_agenda_section_ending.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/grid",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/grid/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/grid/cover.png"
+                                ]
+                }
+}

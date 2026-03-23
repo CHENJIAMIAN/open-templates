@@ -1,0 +1,84 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴技术应用与创新</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">应用响应环保要求，德国、法国等国家对能效标识和可持续性要求严格，促使中国电子企业加大研发投入；华为承诺到2030年实现碳中和目标，小米推出多款环保材料手机壳。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">绿色技术</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>驱动产品升级，AI眼镜成为新增长点，2025年中国AI眼镜（不带显示）销量预计达137万副，同比增长215.7%。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">AI与5G融合</p>
+        </content>
+      </shape>
+      <img src="GVWJbZoHToSgRcx9ef0cyzOFnvS" width="238.91" height="325.32" topLeftX="366.54" topLeftY="143.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拓展产品形态，折叠屏手机市场接受度持续提高，2022年全球折叠屏手机出货量达到约450万部，三星占据约60%的市场份额，华为、小米等企业迅速跟进。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">柔性显示技术</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推动智能家居发展，《中国智能家居行业发展白皮书》预测到2025年中国智能家居设备出货量将突破10亿台。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">物联网技术</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

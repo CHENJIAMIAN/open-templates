@@ -1,0 +1,1395 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>电子产品公司海外市场开拓战略管理</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="N61wbY98ioGLv9xg2vEc9o20nrf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="862.83" height="114.65" topLeftX="56.32" topLeftY="393.15" type="text">
+        <content textType="title" fontSize="64" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(234, 247, 255, 0.961) 0%,rgba(229, 255, 222, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>海外市场开拓战略</p>
+        </content>
+      </shape>
+      <shape width="208.63" height="20" topLeftX="56.32" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="208.63" height="28" topLeftX="56.32" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="20" topLeftX="608.30" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 233, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="28" topLeftX="608.30" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(255, 255, 233, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="449.35" startY="136.80" endX="914.24" endY="136.80" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <img src="VdehbKFDwofjQIxx8prctVeXnad" width="405" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="33.75" bottomOffset="33.75"/>
+      </img>
+      <shape width="464.39" height="45" topLeftX="447.85" topLeftY="62.93" type="text">
+        <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="163.62" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>战略分析：全球市场洞察与企业能力评估</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="163.62" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="215.74" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>市场进入模式选择与本地化运营</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="215.74" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="267.86" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>竞争战略：差异化与成本领先协同</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="267.86" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="319.99" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>风险管理与可持续发展</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="319.99" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="372.11" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>战略执行与绩效评估</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="372.11" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="426.18" height="40" topLeftX="488.05" topLeftY="424.23" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>未来趋势与战略前瞻</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="449.85" topLeftY="424.23" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="Barlow Condensed" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="TmwUb53T9oNWf1x7DkvcP1wXn1x" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="800.19" height="82.14" topLeftX="74.20" topLeftY="59.18" type="text">
+        <content textType="headline" fontSize="42" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>战略分析：全球市场洞察与企业能力评估</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="880.85" topLeftY="35.23" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(24, 26, 29, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(24, 26, 29, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" alpha="0.80" type="round-rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(24, 26, 29, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(24, 26, 29, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>全球消费电子行业趋势与竞争格局</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.38" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>苹果、三星等品牌凭借技术优势和高品牌溢价占据高端市场份额</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>高端市场格局</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="651.79" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>小米、OPPO等中国品牌在性价比市场占据主导地位</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>性价比市场格局</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="173.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.902)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球消费电子市场规模持续扩大，预计到2025年将达到1.2万亿美元，呈现出多元化、高端化与智能化的发展趋势，市场竞争日益激烈</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业总体趋势</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.38" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AIoT（人工智能物联网）、5G通信等正深刻影响消费行为，推动智能家居、可穿戴设备等细分市场快速增长</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴技术影响</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="651.79" topLeftY="357.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>在北美和欧洲市场注重高端化和智能化发展；在东南亚市场强化性价比和本地化服务；在非洲市场提升基础功能和网络适应性</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国企业差异化策略</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="43" height="2" topLeftX="48" topLeftY="135" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="347.38" topLeftY="132.79" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="646.77" topLeftY="132.79" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="197.69" topLeftY="323.81" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="43" height="2" topLeftX="497.07" topLeftY="323.81" presetHandlers="0" alpha="0.50" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标市场选择策略</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>东南亚市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="48" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拥有6.5亿人口红利和60%的互联网普及率，智能手机和智能穿戴设备需求旺盛，如OPPO在印尼通过经销商网络覆盖2万个销售点</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拉美市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="347.38" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>墨西哥凭借USMCA协议关税优势成为北美市场跳板，本地组装产品可享受零关税</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="151.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>欧洲市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="646.77" topLeftY="181.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>高端市场需求旺盛但环保法规严格，需符合欧盟RoHS、CE认证等标准</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>韩国市场</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>TCL通过与三星合作切入并拓展半导体显示业务，展示了在成熟市场的突破路径</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场特征差异</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="120" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>俄罗斯市场交易集中在少数大型企业；墨西哥市场客户分散且政策复杂；越南市场既有大型企业主导又有中小企业参与机会</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="44.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业资源与能力评估</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="53.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>华为在5G专利、华勤在汽车电子布局（智能座舱、显示屏）展示了技术实力</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="53.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术优势</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="346.50" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>惠科股份通过全球5大制造基地实现区域化供应，2025年海外收入占比达51.45%</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="346.50" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>供应链韧性</p>
+        </content>
+      </shape>
+      <shape width="268" height="110" topLeftX="640.07" topLeftY="392.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>面临新兴市场政策红利（如印度"数字印度"计划）和AI与5G技术融合的机会，同时需应对地缘政治风险和区域贸易壁垒等威胁</p>
+        </content>
+      </shape>
+      <shape width="268" height="36" topLeftX="640.07" topLeftY="358.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>机会与威胁</p>
+        </content>
+      </shape>
+      <img src="RsBlbxYfxorVZCxhkAccAsysnqd" width="278" height="151.66" topLeftX="48.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+      </img>
+      <img src="L17Bbt6IcoCmaWxLoPucrTGYn9n" width="278" height="151.66" topLeftX="341" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+      </img>
+      <img src="XpYPb3qzbobkamxYgdwcsG7bnbg" width="278" height="151.66" topLeftX="634.07" topLeftY="198.06">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+      </img>
+      <shape width="864" height="50" topLeftX="48.07" topLeftY="137.61" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国电子企业的核心竞争力体现在技术优势、供应链韧性和快速响应能力等方面。华为2023年研发投入达1615亿元人民币，占营收比例超过22%，远高于行业平均水平，这种对技术创新的持续投入构建了重要竞争壁垒。</p>
+        </content>
+      </shape>
+      <shape width="864" height="29" topLeftX="48.07" topLeftY="108.61" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>核心竞争力</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GT7Fb6eiBo8Fj6xkho2c4xMQnAh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="800.19" height="82.14" topLeftX="74.20" topLeftY="408.44" type="text">
+        <content textType="headline" fontSize="56" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>市场进入模式选择与本地化运营</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="880.85" topLeftY="384.49" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="120.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="120.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="48.32" topLeftY="312.55" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="424.51" height="178.69" topLeftX="487.81" topLeftY="312.55" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.32" topLeftY="47.96" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>本地化运营策略</p>
+        </content>
+      </shape>
+      <shape width="375.21" height="36" topLeftX="68.51" topLeftY="178.66" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>供应链本地化</p>
+        </content>
+      </shape>
+      <shape width="386" height="71" topLeftX="68.51" topLeftY="210.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>是提升竞争力的关键，华勤在越南与本土供应商合作降低物流成本并提升响应速度，墨西哥基地辐射北美符合USMCA原产地规则，关税成本降低30%。</p>
+        </content>
+      </shape>
+      <shape width="120" height="32" topLeftX="68.51" topLeftY="138.74" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="382" height="36" topLeftX="508.37" topLeftY="178.66" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品本地化</p>
+        </content>
+      </shape>
+      <shape width="386" height="71" topLeftX="508.37" topLeftY="210.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>需结合当地需求，如华为在中东推出斋月主题智能穿戴设备，OPPO在印度推出支持多语言的低价机型。</p>
+        </content>
+      </shape>
+      <shape width="120" height="32" topLeftX="508.37" topLeftY="138.74" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="375.21" height="36" topLeftX="68.51" topLeftY="371.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>渠道本地化</p>
+        </content>
+      </shape>
+      <shape width="386" height="71" topLeftX="68.51" topLeftY="403.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>除传统线下零售外，应充分利用电商平台优势，TCL在北美与主流线上线下渠道达成深度合作，产品渗透率持续提升。</p>
+        </content>
+      </shape>
+      <shape width="120" height="32" topLeftX="68.51" topLeftY="334.39" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="382" height="36" topLeftX="508.37" topLeftY="371.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>服务本地化</p>
+        </content>
+      </shape>
+      <shape width="386" height="71" topLeftX="508.37" topLeftY="403.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业需建立本地客户服务团队，提供多语言支持和快速响应的维修服务，增强消费者信任度。</p>
+        </content>
+      </shape>
+      <shape width="120" height="32" topLeftX="508.37" topLeftY="334.39" type="text">
+        <content fontSize="32" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.0" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="1" topLeftX="48" topLeftY="149" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="1" topLeftX="48" topLeftY="261" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="1" topLeftX="48" topLeftY="373" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="165.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>OPPO在印尼招聘2000名本地员工，占比超90%，并实施"小红杉"应届生培养计划。华勤通过实施应届生培养计划等，实现管理、技术与文化的深度融合。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="165.78" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>本土化团队建设</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.39" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>本地化团队建设与文化融合</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="277.85" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业需尊重当地文化习俗，如OPPO在埃及利用体育营销提升品牌口碑，华为派遣中国员工到海外基地培养跨文化管理能力。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="277.85" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨文化管理策略</p>
+        </content>
+      </shape>
+      <shape width="606.24" height="80" topLeftX="305.83" topLeftY="389.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>建立多元文化团队不仅能更好理解当地市场需求，还能为企业提供有价值的市场洞察，帮助企业制定更精准的本地化战略。</p>
+        </content>
+      </shape>
+      <shape width="238.86" height="80" topLeftX="48.07" topLeftY="389.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>多元文化价值</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="DN40b1Qpfou9Mnxu3hYcPkCjnwh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="829.53" height="82.14" topLeftX="76.81" topLeftY="50.47" type="text">
+        <content textType="headline" fontSize="51" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争战略：差异化与成本领先协同</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="15.98" topLeftY="22.47" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="820" height="46" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>竞合策略与生态构建</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="111.34" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>有助于资源共享和风险共担，TCL华星与三星、LG、现代等韩国头部企业建立多层次战略合作，合作产品覆盖电视、商用显示、笔记本电脑等核心电子品类；OPPO与高通、爱立信、瑞士电信合作快速进入欧洲运营商网络。</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="111.34" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>战略联盟</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="374.97" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>增强用户粘性，小米通过"米家"平台连接超5亿台设备，构建完善的智能家居生态；华为推动鸿蒙系统成为国际标准，挑战安卓生态。</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="374.97" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>生态系统布局</p>
+        </content>
+      </shape>
+      <shape width="210" height="186" topLeftX="638.60" topLeftY="252.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>创造双赢，TCL华星收购苏州三星与LG广州产线，快速提升产能规模并深化与韩企的技术协同，为后续合作奠定坚实基础。</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="638.60" topLeftY="218.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术协同</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="111.34" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="374.97" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="638.60" topLeftY="161.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴技术应用与创新</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">应用响应环保要求，德国、法国等国家对能效标识和可持续性要求严格，促使中国电子企业加大研发投入；华为承诺到2030年实现碳中和目标，小米推出多款环保材料手机壳。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">绿色技术</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>驱动产品升级，AI眼镜成为新增长点，2025年中国AI眼镜（不带显示）销量预计达137万副，同比增长215.7%。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">AI与5G融合</p>
+        </content>
+      </shape>
+      <img src="GVWJbZoHToSgRcx9ef0cyzOFnvS" width="238.91" height="325.32" topLeftX="366.54" topLeftY="143.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>拓展产品形态，折叠屏手机市场接受度持续提高，2022年全球折叠屏手机出货量达到约450万部，三星占据约60%的市场份额，华为、小米等企业迅速跟进。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">柔性显示技术</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推动智能家居发展，《中国智能家居行业发展白皮书》预测到2025年中国智能家居设备出货量将突破10亿台。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">物联网技术</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GjxebP24RoWi2bxzDItcWT05njd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="829.53" height="82.14" topLeftX="76.81" topLeftY="415.41" type="text">
+        <content textType="headline" fontSize="60" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险管理与可持续发展</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="15.98" topLeftY="387.41" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="388.40" height="59.16" topLeftX="48.27" topLeftY="47.57" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>海外市场风险识别与评估</p>
+        </content>
+      </shape>
+      <img src="KSSVbiUEVod23bxShK7cYtZfnDf" width="388.40" height="374.89" topLeftX="48.27" topLeftY="116.85">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="6.76" bottomOffset="6.76" presetHandlers="0"/>
+      </img>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="79.14" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括政策变动和地缘冲突，如墨西哥拟限制平行进口，仅允许授权经销商进口，影响中小品牌市场份额；俄乌战争导致欧洲能源成本上涨，影响电子产品定价。</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="52.18" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>政治风险</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="70" topLeftX="477" topLeftY="192" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主要有汇率波动和通胀压力，美元走强导致新兴市场货币贬值增加汇兑损失，印度2025年通胀率达7%削弱消费者购买力。</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="165.04" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>经济风险</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="300.86" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>包括专利诉讼和技术迭代，OPPO在欧洲因专利纠纷收缩部分业务，支付高额授权费；消费电子技术迭代周期缩短，企业需持续投入研发以保持竞争力。</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="273.90" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术风险</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="74" topLeftX="477" topLeftY="413.72" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如关键零部件短缺、物流中断等问题也需重点关注。</p>
+        </content>
+      </shape>
+      <shape width="441.17" height="30" topLeftX="477" topLeftY="386.76" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>供应链风险</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="1600.22" height="1600" topLeftX="213.60" topLeftY="-12.42" type="ellipse">
+        <border color="rgba(38, 42, 50, 1)" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="581.19" topLeftY="59.13" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="445.11" topLeftY="164.57" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="330.56" topLeftY="283.87" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="66.36" height="66.36" topLeftX="255.58" topLeftY="415.79" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(38, 42, 50, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="331.47" height="139.56" topLeftX="48.27" topLeftY="60.14" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险应对策略</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="34" topLeftX="659.09" topLeftY="63.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">风险分散</p>
+        </content>
+      </shape>
+      <shape width="272.83" height="63.48" topLeftX="659.09" topLeftY="93.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="12" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过多元化布局实现，企业应在墨西哥、越南、印度多地设厂，避免单一市场依赖；同时拓展欧美高端市场与东南亚大众市场，平衡收入来源。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="524.84" topLeftY="163.09" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">合规管理</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="524.84" topLeftY="193.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>聘请当地律师处理法律事务，建立合规审查机制，确保业务运营符合当地法律法规。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="411.39" topLeftY="287.18" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">数据安全</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="82.68" topLeftX="411.39" topLeftY="317.79" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>措施包括本地化服务器存储用户数据，符合GDPR等数据隐私法规要求。</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="34" topLeftX="335.29" topLeftY="412.81" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">供应链韧性</p>
+        </content>
+      </shape>
+      <shape width="311.35" height="80.29" topLeftX="335.29" topLeftY="443.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="13" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">建设需加强与供应商合作，发展备选供应商，建立安全库存，华勤技术构建的"1+5+5"全球化布局（上海总部、国内5大研发中心、全球5大制造基地）增强了应对风险的能力。</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="580.92" topLeftY="75.76" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="446.02" topLeftY="181.75" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="330.29" topLeftY="301.57" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="65.71" height="32" topLeftX="255.31" topLeftY="432.97" type="text">
+        <content textType="sub-headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="265.51" height="2" topLeftX="48.39" topLeftY="253.29" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="347.30" topLeftY="213.29" presetHandlers="0" alpha="0.60" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="265.51" height="2" topLeftX="646.76" topLeftY="173.29" presetHandlers="0" alpha="0.30" type="rect">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.1" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="266" height="180" topLeftX="48.39" topLeftY="306" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>成为行业趋势，华勤在越南基地采用可再生能源，目标2030年实现碳中和；小米推出手机以旧换新计划，降低电子垃圾排放。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="48.39" topLeftY="273" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>绿色制造</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.86" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>可持续发展与社会责任</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="347.30" topLeftY="266" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>应用日益广泛，企业加大对环保材料的研发投入，响应消费者对可持续性的关注。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="347.30" topLeftY="233" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>环保材料</p>
+        </content>
+      </shape>
+      <shape width="266" height="180" topLeftX="646.76" topLeftY="226" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>有助于提升品牌形象，OPPO在印尼捐赠学校，参与当地公益项目；TCL通过"一带一路"倡议深化与非洲国家的经济联系，参与南非"数字转型计划"、埃及"智慧城市项目"等。</p>
+        </content>
+      </shape>
+      <shape width="266" height="32" topLeftX="646.64" topLeftY="193" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>社区融入</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="DN40b1Qpfou9Mnxu3hYcPkCjnwh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="829.53" height="82.14" topLeftX="76.81" topLeftY="50.47" type="text">
+        <content textType="headline" fontSize="60" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>战略执行与绩效评估</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="15.98" topLeftY="22.47" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" alpha="0.35" type="ellipse">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>绩效评估与动态调整</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>关键绩效指标</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>包括财务指标（海外收入占比、毛利率）和市场指标（市场份额、客户满意度），华勤海外收入占比50%，毛利率达25%；TCL北美电视市场份额达22%。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>市场反馈</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>快速响应，通过市场调研和客户反馈及时调整策略，小米根据不同市场特点调整产品策略，在东南亚强化性价比，在欧洲注重高端化。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>定期复盘</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>机制确保战略执行，每季度召开区域战略会议调整产品组合，如OPPO在墨西哥增加400-500美元价位机型。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>敏捷调整</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>应对市场变化，根据关税政策变化快速调整产能布局，如墨西哥零关税政策促使企业增加当地产能。</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="364.90" topLeftY="204.88" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="495.10" topLeftY="204.88" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="364.90" topLeftY="336.60" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="100" height="39" topLeftX="495.10" topLeftY="336.60" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(82, 187, 188, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="center" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GjxebP24RoWi2bxzDItcWT05njd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="829.53" height="82.14" topLeftX="76.81" topLeftY="415.41" type="text">
+        <content textType="headline" fontSize="60" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>未来趋势与战略前瞻</p>
+        </content>
+      </shape>
+      <shape width="58.83" height="47" topLeftX="15.98" topLeftY="387.41" flipX="true" type="text">
+        <content textType="title" fontSize="36" fontFamily="Prompt" color="linear-gradient(90deg,rgba(205, 255, 225, 0.961) 0%,rgba(255, 255, 198, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="132" height="1" topLeftX="261.50" topLeftY="170.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="132" height="1" topLeftX="567.50" topLeftY="170.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="47.80" topLeftY="41.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>新兴市场深度渗透</p>
+        </content>
+      </shape>
+      <shape width="252" height="36" topLeftX="47.80" topLeftY="102.48" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>东南亚市场</p>
+        </content>
+      </shape>
+      <shape width="252" height="100" topLeftX="47.80" topLeftY="139.88" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>持续增长，中产阶级规模扩大和基础设施建设加速带动电子产品需求，预计2025年市场规模将突破250亿美元。</p>
+        </content>
+      </shape>
+      <img src="ITr0b4Tvwo8KHexiSXicFA6ynRb" width="864" height="283.18" topLeftX="47.80" topLeftY="256.82">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="43.55" bottomOffset="43.55"/>
+      </img>
+      <shape width="252" height="36" topLeftX="354" topLeftY="102.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>非洲市场</p>
+        </content>
+      </shape>
+      <shape width="252" height="100" topLeftX="354" topLeftY="140.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>潜力巨大，2022年中国对非洲电子产品出口额达298亿人民币，同比增长18%，南非、埃及与尼日利亚为主要市场，合计贡献非洲总市场的70%。</p>
+        </content>
+      </shape>
+      <shape width="252" height="36" topLeftX="659.80" topLeftY="102.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>拉美市场</p>
+        </content>
+      </shape>
+      <shape width="252" height="100" topLeftX="659.80" topLeftY="140.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>逐步回暖，巴西、阿根廷等国家经济复苏带动消费电子需求增长，2025年市场规模预计增至130亿美元。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="180" height="1" topLeftX="143.07" topLeftY="400.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="180" height="1" topLeftX="-33.61" topLeftY="220.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="960" height="1" topLeftX="0" topLeftY="310.50" rotation="180" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="180" height="1" topLeftX="324.39" topLeftY="221.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="180" height="1" topLeftX="507.07" topLeftY="402.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="9" height="9" topLeftX="228.07" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="9" height="9" topLeftX="51.27" topLeftY="307.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="9" height="9" topLeftX="591.91" topLeftY="306.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="9" height="9" topLeftX="410.07" topLeftY="305.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(82, 187, 188, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>战略升级路径规划</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="254.79" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>中期目标</p>
+        </content>
+      </shape>
+      <shape width="280" height="112.16" topLeftX="254.79" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>3-5年实现本地化生产和研发，提升产品本地化水平和市场响应速度，华勤技术计划将全球产能分布优化为"4-4-2"（南昌、东莞各占40%，海外基地占20%）</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="76.73" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>短期目标</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="76.73" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>1-2年聚焦重点市场突破，提升品牌知名度和市场份额，建立稳定的销售渠道和供应链体系</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="435.25" topLeftY="133.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>长期目标</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="435.25" topLeftY="168.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>5-10年构建全球品牌影响力，成为所在领域的领导者，TCL计划到2030年将非洲电子产品出口规模提升至800亿人民币水平</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="618.62" topLeftY="342.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>持续创新</p>
+        </content>
+      </shape>
+      <shape width="280" height="112" topLeftX="618.62" topLeftY="378.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业需不断投入研发，关注技术趋势，推出具有竞争力的创新产品，保持市场领先地位</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MOTpbWOQRolvMrxytbmctPypnfh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="844.75" height="96" topLeftX="56.32" topLeftY="392.70" type="text">
+        <content textType="title" fontSize="66" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(255, 235, 203, 0.961) 0%,rgba(217, 255, 206, 0.871) 100%)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>谢谢</p>
+        </content>
+      </shape>
+      <shape width="174.14" height="20" topLeftX="56.32" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="174.14" height="28" topLeftX="56.32" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(239, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="20" topLeftX="610.22" topLeftY="44.93" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(232, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="292.85" height="28" topLeftX="610.22" topLeftY="68.93" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(232, 244, 255, 0.89)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,184 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="244.27" height="126" topLeftX="55.31" topLeftY="66.47" type="text">
+      <content textType="sub-headline" fontSize="30" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="shape-auto-fit">
+        <p lineSpacing="multiple:1.3">
+          <span color="rgba(224, 123, 5, 1)" fontSize="30" fontFamily="slide-font-fc43b2186b72ca2dd4f7289e27aedfa5">增长引擎 I:</span>
+        </p>
+        <p lineSpacing="multiple:1.3">
+          <span fontSize="30" fontFamily="slide-font-fc43b2186b72ca2dd4f7289e27aedfa5">高价值客户群体的加速增长</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="244.27" height="232.32" topLeftX="55.31" topLeftY="213.07" type="text">
+      <content textType="caption" fontSize="12" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">第三季度 ARR 超 5 万美元客户基数最大，持续稳定扩张，净增 291 家。为增长提供坚实底座。</span>
+        </p>
+        <p/>
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">ARR 超 10 万美元客户净增 131 家，中坚力量快速崛起，贡献了主要增长动能，未来可期。</span>
+        </p>
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">净增 ARR 超 50 万美元客户 10 家，增长势头强劲。顶级客户爆发式增长，引领长期</span>
+        </p>
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">战略方向，潜力巨大。</span>
+        </p>
+        <p/>
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">净增 ARR 超 50 万美元客户 10 家，增长势头强劲。顶级客户爆发式增长，引领长期</span>
+        </p>
+        <p>
+          <span fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">战略方向，潜力巨大。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="-12.51" topLeftY="805.34" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="899.36" topLeftY="805.34" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="443.42" topLeftY="349.67" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="443.42" topLeftY="841.54" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="174.18" height="367.98" topLeftX="729.15" topLeftY="111.33" presetHandlers="8.415531305236684" type="round-rect">
+      <fill>
+        <fillColor color="rgba(128, 59, 21, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="112" height="18" topLeftX="739.40" topLeftY="120.47" type="text">
+      <content fontSize="12" color="rgba(255, 183, 131, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 183, 131, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">ARR &gt; $500k 客户数</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="101" height="63" topLeftX="739.40" topLeftY="142.08" type="text">
+      <content fontSize="69" color="rgba(255, 183, 131, 1)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(255, 183, 131, 1)" fontSize="52" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">73</span>
+          <span color="rgba(255, 183, 131, 1)" fontSize="40" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="174.18" height="232.32" topLeftX="543.88" topLeftY="246.99" presetHandlers="8.415531305236684" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 35, 35, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="174.18" height="167.73" topLeftX="360.06" topLeftY="311.65" presetHandlers="8.415531305236684" type="round-rect">
+      <fill>
+        <fillColor color="rgba(35, 35, 35, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="112" height="24" topLeftX="739.40" topLeftY="201.07" type="text">
+      <content fontSize="16" color="rgba(255, 183, 131, 0.502)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(255, 183, 131, 0.502)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">净增 10 家</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="112" height="18" topLeftX="556.33" topLeftY="258.55" type="text">
+      <content fontSize="12" color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">ARR &gt; $100k 客户数</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="105" height="63" topLeftX="556.33" topLeftY="280.15" type="text">
+      <content fontSize="69" color="rgba(128, 128, 128, 1)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(128, 128, 128, 1)" fontSize="52" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">48</span>
+          <span color="rgba(128, 128, 128, 1)" fontSize="40" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="112" height="24" topLeftX="556.33" topLeftY="339.14" type="text">
+      <content fontSize="16" color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">净增 131 家</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="112" height="18" topLeftX="367.49" topLeftY="320.30" type="text">
+      <content fontSize="12" color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">ARR &gt; $50k 客户数</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="100" height="63" topLeftX="367.49" topLeftY="341.90" type="text">
+      <content fontSize="69" color="rgba(128, 128, 128, 1)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+        <p lineSpacing="multiple:1.2">
+          <span color="rgba(128, 128, 128, 1)" fontSize="52" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">37</span>
+          <span color="rgba(128, 128, 128, 1)" fontSize="40" fontFamily="slide-font-b8f69eac5a6e3181a0c458ded11cc282">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="112" height="24" topLeftX="367.49" topLeftY="400.90" type="text">
+      <content fontSize="16" color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" letterSpacing="0.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(128, 128, 128, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">净增 291 家</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="170.38" height="83.83" topLeftX="373.50" topLeftY="96.50" type="text">
+      <content textType="caption" fontSize="10" color="rgba(103, 100, 97, 1)">
+        <p>
+          <span color="rgba(103, 100, 97, 1)" fontSize="10" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">第三季度净增ARR超5万美元客户291家,净增ARR超10万美美元客户131家</span>
+        </p>
+        <p>
+          <span color="rgba(103, 100, 97, 1)" fontSize="10" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">净增ARR超50万美元客户10家,增长势头强劲。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="225" height="15" topLeftX="1068.46" topLeftY="152.50" type="text">
+      <content textType="caption" fontSize="10" color="rgba(155, 158, 162, 1)" autoFit="shape-auto-fit">
+        <p>
+          <span fontSize="10" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803">Q3/24 对比 Q3/25</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="4" height="102.16" topLeftX="360.43" topLeftY="71.42" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(41, 41, 41, 1)"/>
+      </fill>
+      <content paddingRight="0" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="144.88" height="22.16" topLeftX="373.50" topLeftY="71.42" type="text">
+      <content textType="caption" fontSize="12" color="rgba(128, 128, 128, 1)">
+        <p>
+          <span fontSize="12" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a">高价值客户增长率</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

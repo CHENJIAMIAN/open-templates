@@ -1,0 +1,110 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.26" type="custom">
+        <border color="rgba(161, 161, 161, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(27, 75, 135, 1)" fontSize="18" fontFamily="资源圆体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="true">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(79, 159, 224, 1)" fontSize="18" fontFamily="资源圆体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="true">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(79, 159, 224, 1)" fontSize="18" fontFamily="资源圆体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+        <fill>
+          <fillColor color="rgba(79, 159, 224, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="true">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(79, 159, 224, 1)" fontSize="18" fontFamily="资源圆体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(79, 159, 224, 1)" fontSize="30" fontFamily="资源圆体" bold="false" italic="false" strikethrough="false" underline="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(79, 159, 224, 1)" fontSize="30" fontFamily="资源圆体" bold="false" italic="false" strikethrough="false" underline="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="资源圆体" color="rgba(79, 159, 224, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(79, 159, 224, 1)" fontSize="30" fontFamily="资源圆体" bold="false" italic="false" strikethrough="false" underline="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="864" height="54" topLeftX="48" topLeftY="47.91" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>问卷调查</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>定义与适用</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="31.35" topLeftY="347.41" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>通过标准化问题大规模收集用户数据的方法，适用于验证假设和量化需求。</p>
+        </content>
+      </shape>
+      <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>设计要点</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="340" topLeftY="294.45" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>问题表述简洁明确，避免歧义；选项互斥且全面；合理设置问题顺序（从一般到具体）；控制问卷长度（完成时间＜8分钟）。</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>结果呈现</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="639" topLeftY="223.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>根据Seedream 4.0L基准评测中的数据可视化要求，问卷结果应采用适当图表呈现，如用饼图展示用户偏好分布，柱状图对比不同群体差异。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

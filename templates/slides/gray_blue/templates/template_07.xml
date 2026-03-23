@@ -1,0 +1,91 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(232, 239, 248, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="540" height="1" topLeftX="-222.61" topLeftY="269.50" rotation="90" presetHandlers="0" alpha="0.35" type="rect">
+      <fill>
+        <fillColor color="rgba(185, 185, 185, 1)"/>
+      </fill>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="139.18" type="ellipse">
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+      <border color="rgba(33, 114, 182, 1)" width="3"/>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="235.31" type="ellipse">
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+      <border color="rgba(33, 114, 182, 1)" width="3"/>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="331.02" type="ellipse">
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+      <border color="rgba(33, 114, 182, 1)" width="3"/>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="42.66" topLeftY="427.73" type="ellipse">
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+      <border color="rgba(33, 114, 182, 1)" width="3"/>
+      <content fontSize="6" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="837.59" height="46" topLeftX="74.48" topLeftY="47.56" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>用户增长模型优化</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="125.60" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>数据层</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="50" topLeftX="74.48" topLeftY="156.10" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>整合用户行为、内容偏好、交互深度等12类特征，构建360度用户画像</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="222.31" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>策略层</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="50" topLeftX="74.48" topLeftY="252.81" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>设计阶梯式引导任务，新用户功能探索率提升42%</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="319.02" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>评估层</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="50" topLeftX="74.48" topLeftY="349.52" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>建立“转化漏斗+留存曲线”双维度评估体系，A/B测试显示新模型使7日留存率提升18.7%</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="32" topLeftX="74.48" topLeftY="415.73" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+        <p>项目背景与成果</p>
+      </content>
+    </shape>
+    <shape width="837.59" height="50" topLeftX="74.48" topLeftY="446.23" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>针对新用户转化率不足问题，主导完成增长模型重构。项目过程中解决了冷启动数据稀疏问题，通过迁移学习将模型收敛时间从14天缩短至7天，为快速迭代奠定基础。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

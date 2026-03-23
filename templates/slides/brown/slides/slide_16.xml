@@ -1,0 +1,87 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(45, 45, 45, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>社会保险与福利体系</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工入职满一定年限后，可享受额外的福利政策，如住房公积金比例提升、子女教育补贴等。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">长期员工福利</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司依法为员工缴纳社会保险，包括养老保险、医疗保险、失业保险、工伤保险和生育保险。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">社会保险</p>
+        </content>
+      </shape>
+      <img src="J4LebTa4koDpiHxCtWwcS7k1nke" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司注重员工工作生活平衡，组织各类团队建设活动，丰富员工业余生活。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">工作生活平衡</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公司提供丰富的补充福利，如商业医疗保险、年度体检、带薪年假、节日福利、生日慰问等。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">补充福利</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

@@ -1,0 +1,85 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(232, 239, 248, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="270" height="48" topLeftX="52.07" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>82%</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="52.07" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>提升至82%（+3.5pp），重点突破复杂问题解决场景</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="52.07" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>智能交互成功率</p>
+        </content>
+      </shape>
+      <shape width="270" height="48" topLeftX="345" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>25%</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="345" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>付费用户数增长25%，功能渗透率提升至40%（当前32%）</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="345" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>付费用户增长</p>
+        </content>
+      </shape>
+      <shape width="270" height="48" topLeftX="638.07" topLeftY="328.73" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="36" fontFamily="思源黑体" color="rgba(33, 114, 182, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="center" autoFit="normal-auto-fit">
+          <p>85%+</p>
+        </content>
+      </shape>
+      <shape width="270" height="98" topLeftX="638.07" topLeftY="410.92" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>完成多模态大模型集成，图文理解准确率达85%以上</p>
+        </content>
+      </shape>
+      <shape width="270" height="30.67" topLeftX="638.07" topLeftY="377.75" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>图文理解准确率</p>
+        </content>
+      </shape>
+      <img src="WjS5bJmHRodkFtxtVhicowFcnrf" width="278" height="151.66" topLeftX="48.07" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="Pu6lb3Iqlo7j4nxACkhcNbIlnRb" width="278" height="151.66" topLeftX="341" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <img src="MyMvbkMgboAngQxTW2XcrrTbnbg" width="278" height="151.66" topLeftX="634.07" topLeftY="157.52">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="2.36" bottomOffset="2.36" presetHandlers="0"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>下月核心目标设定</p>
+        </content>
+      </shape>
+      <shape width="864.20" height="50" topLeftX="47.87" topLeftY="100.49" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>目标分解采用“SMART原则”，明确各指标的负责人、时间节点和验收标准，已同步至团队OKR系统。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

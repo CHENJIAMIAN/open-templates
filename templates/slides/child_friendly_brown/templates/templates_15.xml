@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+      <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>价格敏感度分析</p>
+      </content>
+    </shape>
+    <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">教育类产品</p>
+      </content>
+    </shape>
+    <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>价格敏感度低，家长视为长期投资，某知名早教品牌高价课程仍保持高复购率（61%）</p>
+      </content>
+    </shape>
+    <img src="IEoMbW8zZopncRxtRB8cTpkXnse" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+    </img>
+    <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">娱乐类产品</p>
+      </content>
+    </shape>
+    <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>价格敏感度高，60%家长选择娱乐服务时优先考虑性价比，亲子旅游平台优惠活动可使预订量增长30%</p>
+      </content>
+    </shape>
+    <img src="OpvcbZS9eoWSZhx1JNDcWTningb" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+    </img>
+    <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">家庭服务类</p>
+      </content>
+    </shape>
+    <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>日常开支属性导致敏感度高，共享家政、套餐服务更受欢迎，某家庭服务公司套餐价格降低单次成本20%，用户增长45%</p>
+      </content>
+    </shape>
+    <img src="TliabhJAroHmB0xNg8qc5yQqnud" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

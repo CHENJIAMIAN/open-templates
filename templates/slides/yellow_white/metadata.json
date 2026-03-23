@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/yellow_white",
+    "family":  "slides",
+    "name":  "yellow_white",
+    "displayName":  "Yellow White",
+    "description":  "Presentation slide template for Yellow White.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "yellow",
+                 "white"
+             ],
+    "sourcePath":  "templates/slides/yellow_white",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/yellow_white",
+    "preview":  {
+                    "cover":  "yellow_white/slide_pbA_EQG4bvqB7ow9LlxwIi6cDsvHnWg.png",
+                    "gallery":  [
+                                    "yellow_white/slide_pbA_EQG4bvqB7ow9LlxwIi6cDsvHnWg.png",
+                                    "yellow_white/slide_pbA_QJwObLoJjozUKQxjNidcbWdJn5e.png",
+                                    "yellow_white/slide_pbb_KjC4b0ELxoEv4bxT6wGcF38Qn0g.png"
+                                ]
+                }
+}

@@ -1,0 +1,82 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 1, 7, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="47" startY="144.05" endX="90.76" endY="144.05">
+      <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="346.38" startY="144.05" endX="390.14" endY="144.05" alpha="0.30">
+      <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="645.77" startY="144.05" endX="689.52" endY="144.05" alpha="0.30">
+      <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="196.69" startY="324.54" endX="240.45" endY="324.54" alpha="0.30">
+      <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="496.07" startY="324.54" endX="539.83" endY="324.54" alpha="0.30">
+      <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48.64" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心筹备小组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="48" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>策划组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="48" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>负责人：张晓明；核心职责：活动方案设计、流程优化、主题视觉把控</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>场地组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="347.38" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>负责人：李静；核心职责：场地对接、搭建监督、现场布局确认</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>节目组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="646.77" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>负责人：王芳；核心职责：节目征集筛选、排练安排、主持人培训</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>后勤组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="197.69" topLeftY="372.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>负责人：赵伟；核心职责：餐饮对接、交通安排、应急物资准备</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>宣传组</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="497.07" topLeftY="372.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>负责人：陈思；核心职责：邀请函设计、现场摄影、后期传播</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

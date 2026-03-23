@@ -1,0 +1,149 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="172.64" height="48.06" topLeftX="335.83" topLeftY="-156.21" type="text">
+        <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="center" autoFit="normal-auto-fit" wrap="false">
+          <p textAlign="center" lineSpacing="multiple:1.2">
+            <span fontFamily="Noto Sans SC Light">目录导览</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="92.61" topLeftY="83.85" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC ExtraLight">01</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="138.43" startY="226.23" endX="174.43" endY="226.23" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="92.61" topLeftY="195.46" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>模块划分</strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="92.61" topLeftY="237.23" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">将内容拆成清晰的单元与职责边界</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="416.18" topLeftY="83.85" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC ExtraLight">02</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="462" startY="226.23" endX="498" endY="226.23" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="416.18" topLeftY="195.46" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>层级关系</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="416.18" topLeftY="237.23" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">避免信息在同一层级里相互干扰</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="739.75" topLeftY="83.85" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC Light">03</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="785.57" startY="226.23" endX="821.57" endY="226.23" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="739.75" topLeftY="195.46" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>运行节奏</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="739.75" topLeftY="237.23" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">控制页面信息密度与呈现的速度</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="92.61" topLeftY="293.75" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC ExtraLight">04</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="138.43" startY="436.13" endX="174.43" endY="436.13" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="92.61" topLeftY="405.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>结构稳定</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="92.61" topLeftY="447.13" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">确保不同页面之间切换时依旧清晰可读</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="416.18" topLeftY="293.75" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC ExtraLight">05</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="462" startY="436.13" endX="498" endY="436.13" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="416.18" topLeftY="405.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>使用反馈</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="416.18" topLeftY="447.13" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">将关键观察沉淀为可执行调整方向</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="116.61" topLeftX="739.75" topLeftY="293.75" type="text">
+        <content textType="title" fontSize="80" fontFamily="Noto Sans SC ExtraLight" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span color="rgba(255, 255, 255, 1)" fontSize="80" fontFamily="Noto Sans SC ExtraLight">06</span>
+          </p>
+        </content>
+      </shape>
+      <line startX="785.57" startY="436.13" endX="821.57" endY="436.13" alpha="0.25">
+        <border color="rgba(255, 255, 255, 1)" width="1"/>
+      </line>
+      <shape width="127.64" height="21" topLeftX="739.75" topLeftY="405.36" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>未来延展</p>
+        </content>
+      </shape>
+      <shape width="127.64" height="35.63" topLeftX="739.75" topLeftY="447.13" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">为新增内容与场景适配留出结构余量</p>
+        </content>
+      </shape>
+      <shape width="102.58" height="31" topLeftX="60.67" topLeftY="40.13" type="slides-full-round-rect">
+        <border color="rgba(255, 255, 255, 0.75)" width="1"/>
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)">
+          <p>
+            <span color="rgba(255, 255, 255, 1)" fontSize="12">目录要点</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

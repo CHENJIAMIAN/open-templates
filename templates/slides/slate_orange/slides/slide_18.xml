@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(237, 240, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>发展模式转变</p>
+        </content>
+      </shape>
+      <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业需从"硬件主导"转向"生态共建"，推动应用数量增长与场景丰富化。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>生态与产业协同</p>
+        </content>
+      </shape>
+      <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>产业链协同优势</p>
+        </content>
+      </shape>
+      <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产业链协同加强，中国沿海地区已形成从研发到制造、场景落地的立体化竞争优势。</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(62, 66, 72, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心零部件国产化</p>
+        </content>
+      </shape>
+      <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(135, 138, 143, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策与资本支持推动核心零部件国产化率提升，艾瑞咨询预计核心零部件国产化率将突破60%，降低成本并提升供应链安全性。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

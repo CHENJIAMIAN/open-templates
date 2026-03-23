@@ -1,0 +1,43 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="Ae48bsmxAoeVtnxjPfXcvjnvnze" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="920.81" startY="55.03" endX="921.81" endY="99.03" alpha="0.16">
+        <border color="rgba(0, 0, 0, 1)" width="1"/>
+      </line>
+      <line startX="68.21" startY="92.24" endX="447.15" endY="93.24" alpha="0.14">
+        <border width="1"/>
+      </line>
+      <shape width="378.57" height="295.63" topLeftX="68.58" topLeftY="122.74" type="text">
+        <content textType="headline" fontSize="62" fontFamily="思源黑体" color="rgba(97, 101, 104, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="30" topLeftX="68.58" topLeftY="51.72" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(149, 163, 166, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="30" topLeftX="361.72" topLeftY="51.72" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(149, 163, 166, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>王章志</p>
+        </content>
+      </shape>
+      <shape width="109.02" height="20" topLeftX="803.69" topLeftY="52.72" type="text">
+        <content fontSize="12" fontFamily="思源黑体" color="rgba(108, 115, 115, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="148.55" height="30" topLeftX="764.98" topLeftY="72.81" type="text">
+        <content fontSize="18" fontFamily="思源黑体" color="rgba(108, 115, 115, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

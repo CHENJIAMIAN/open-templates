@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="VcEUbVAiGoqeYkxhNpWclm4Jnyn" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="846.83" height="101.81" topLeftX="48" topLeftY="51.43" type="text">
+      <content textType="headline" fontSize="66" fontFamily="思源黑体" color="rgba(90, 90, 88, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>感谢观看</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="48" topLeftY="332.74" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="98.67" height="31.89" topLeftX="48" topLeftY="358.83" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="48" topLeftY="423.14" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="180.72" height="31.89" topLeftX="48" topLeftY="449.23" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(118, 118, 118, 1)" bold="true" autoFit="normal-auto-fit">
+        <p>2025-12-28</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

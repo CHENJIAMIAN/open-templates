@@ -1,0 +1,81 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(26, 26, 26, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="255.69" height="34" topLeftX="190.79" topLeftY="161.53" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">传统困境</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="110" topLeftX="190.79" topLeftY="191.92" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>2020年某纯电车型开发中，出现高速工况下电池包热失控预警误报问题，传统故障树分析聚焦零件失效排查陷入僵局</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="34" topLeftX="190.79" topLeftY="330.45" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">解决方案</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="110" topLeftX="190.79" topLeftY="360.85" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>提出"硬件加固+软件升级"组合方案：线束防松结构解决振动接触问题，动态滤波算法适配高速场景温度传感器波动</p>
+      </content>
+    </shape>
+    <img src="VjSXblXvMosAoLxjtvRccuR7nVe" width="120" height="120" topLeftX="48" topLeftY="160.86">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <img src="MYvDbKzOVofHy8xWTKhcj5rBn8c" width="120" height="120" topLeftX="48" topLeftY="330.45">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="255.69" height="34" topLeftX="641.95" topLeftY="161.53" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">创新方法</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="110" topLeftX="641.95" topLeftY="191.92" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>构建"创新树"，分析振动导致线束接触不良、气流扰动使温度传感器波动、软件滤波算法未适配高速场景等变量关联</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="34" topLeftX="641.95" topLeftY="330.45" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">实践启示</p>
+      </content>
+    </shape>
+    <shape width="255.69" height="110" topLeftX="641.95" topLeftY="360.85" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>复杂问题解法需跳出"零件坏了"思维定式，从系统逻辑和变量关联中寻找答案，让"卡脖子"难点变技术突破支点</p>
+      </content>
+    </shape>
+    <img src="TsUnb3PwWoT2bexN5qzcXpZan8d" width="120" height="120" topLeftX="499.16" topLeftY="160.86">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <img src="Vr9nb4bORovUYLxZKHEcRM86n2b" width="120" height="120" topLeftX="499.16" topLeftY="330.45">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>解决"卡脖子"问题的实战方法论：从"故障树"到"创新树"</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,56 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="850.70" height="45" topLeftX="48.27" topLeftY="48.19" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>文化传播矩阵搭建</p>
+        </content>
+      </shape>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="129.86" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">线上话题挑战赛</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="163.26" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>发起话题挑战赛（如#我的运动战袍#），鼓励用户分享运动装备穿搭与故事</p>
+        </content>
+      </shape>
+      <img src="QASTbkM95okUqexbKpkc4pPrntf" width="202.34" height="113.82" topLeftX="48.27" topLeftY="123.86">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="262.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">线下快闪体验店</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="296.09" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>打造“运动精神体验馆”快闪店，设置互动装置（如模拟登山步道、VR运动游戏），传递品牌价值观</p>
+        </content>
+      </shape>
+      <img src="YRZdbdv1Aorh5ZxmYcjc76VtnjE" width="202.34" height="113.82" topLeftX="48.27" topLeftY="256.69">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="624.56" height="34" topLeftX="274.42" topLeftY="395.11" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="1" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(85, 91, 103, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">产品实验室直播</p>
+        </content>
+      </shape>
+      <shape width="623.98" height="74" topLeftX="274.42" topLeftY="428.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(152, 156, 159, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>举办产品实验室开放日直播，工程师现场讲解设计理念，实时解答用户问题，增强技术透明度</p>
+        </content>
+      </shape>
+      <img src="RtyEbMj2QoY6Q1xxZSqcbZz0nsk" width="202.34" height="113.82" topLeftX="48.27" topLeftY="389.11">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

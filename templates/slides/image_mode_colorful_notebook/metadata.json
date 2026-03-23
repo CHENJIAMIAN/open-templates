@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/image_mode_colorful_notebook",
+    "family":  "slides",
+    "name":  "image_mode_colorful_notebook",
+    "displayName":  "Image Mode Colorful Notebook",
+    "description":  "Presentation slide template for Image Mode Colorful Notebook.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "colorful",
+                 "notebook"
+             ],
+    "sourcePath":  "templates/slides/image_mode_colorful_notebook",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_colorful_notebook",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_colorful_notebook/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_colorful_notebook/cover.png"
+                                ]
+                }
+}

@@ -1,0 +1,1001 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>03</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style/>
+    <data>
+      <shape width="26.87" height="540.16" topLeftX="1722.24" topLeftY="254.46" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="2655.37" topLeftY="254.46" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="2189.38" topLeftY="300.53" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="2189.38" topLeftY="-212.60" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="WoXNbS3DmoFAx4xUNbTcnoZxnyb" width="183.72" height="113.94" topLeftX="768.53" topLeftY="-13.31">
+        <crop type="rect" leftOffset="23.22" rightOffset="247.01" topOffset="132.03" bottomOffset="7.35" presetHandlers="8"/>
+      </img>
+      <img src="WfMfbZQ7voriUUxgKyOc8mjcn9e" width="183.72" height="218.25" topLeftX="768.53" topLeftY="108.72">
+        <crop type="rect" leftOffset="103.69" rightOffset="103.69" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="Wq0nbgyXhoV32Jx7peQcfoKKnld" width="183.72" height="218.25" topLeftX="768.53" topLeftY="335.06">
+        <crop type="rect" leftOffset="186.39" rightOffset="125.01" topOffset="43.24" bottomOffset="14.81" presetHandlers="8"/>
+      </img>
+      <img src="MNv2bqd86oemkGx1A5HcZRRJnsc" width="183.72" height="218.25" topLeftX="576.54" topLeftY="-13.31">
+        <crop type="rect" leftOffset="93.63" rightOffset="235.31" topOffset="39.51" bottomOffset="28.33" presetHandlers="8"/>
+      </img>
+      <img src="Dq1JbRnbqo6Nocx0I5NcMgeznkh" width="183.72" height="218.25" topLeftX="576.54" topLeftY="213.03">
+        <crop type="rect" leftOffset="145.04" rightOffset="62.34" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="Ubi9bWTWvoBi2TxJ5J7cCHZoneh" width="183.72" height="113.94" topLeftX="576.54" topLeftY="439.37">
+        <crop type="rect" leftOffset="9.37" rightOffset="9.37" topOffset="0" bottomOffset="104.31" presetHandlers="8"/>
+      </img>
+      <img src="EXtcbi42LoE9IexsI7DcreO9nee" width="183.72" height="218.25" topLeftX="2092.08" topLeftY="105.43">
+        <crop type="rect" leftOffset="27" rightOffset="46.66" topOffset="113.09" bottomOffset="54.85" presetHandlers="8"/>
+      </img>
+      <shape width="261.33" height="255.42" topLeftX="1922.60" topLeftY="505.20" type="text">
+        <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" wrap="false">
+          <p lineSpacing="multiple:1.2">MTP</p>
+          <p lineSpacing="multiple:1.2">Health</p>
+          <p lineSpacing="multiple:1.2">Center</p>
+        </content>
+      </shape>
+      <img src="JZ7GbhsJKoW60Nx6YQScq4XFnue" width="23.57" height="24" topLeftX="29.59" topLeftY="30.88">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="56.13" height="24" topLeftX="63.52" topLeftY="30.88" type="text">
+        <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <strong>
+              <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="326.42" height="53.36" topLeftX="28.53" topLeftY="439.74" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false">
+          <p>我们将持续探索未来医疗的无限可能，通过整合全球顶尖的科研资源与临床经验，为您和您的家庭构建起一道全方位、多维度的健康堡垒。每一次技术的进步，都是为了让关怀更加触手可及。</p>
+        </content>
+      </shape>
+      <shape width="290.20" height="255.42" topLeftX="28.53" topLeftY="258.70" type="text">
+        <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" wrap="false">
+          <p lineSpacing="multiple:1.2">MTP</p>
+          <p lineSpacing="multiple:1.2">
+            <span bold="false">健康服务</span>
+          </p>
+        </content>
+      </shape>
+      <img src="Nnq9bVuzSo1KVFxhaLPcYb5mnkb" width="183.72" height="218.25" topLeftX="2408.50" topLeftY="-196.66">
+        <crop type="rect" leftOffset="27" rightOffset="46.66" topOffset="113.09" bottomOffset="54.85" presetHandlers="8"/>
+      </img>
+      <img src="Sx6hbR4ZNobpvrxHp1ccTO9ynEb" width="183.72" height="218.25" topLeftX="384.62" topLeftY="156.39">
+        <crop type="rect" leftOffset="9.37" rightOffset="9.37" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="S6YPbeQhlosKA9xbH7bc62cgnWe" width="183.72" height="170.28" topLeftX="384.62" topLeftY="383.03">
+        <crop type="rect" leftOffset="60.90" rightOffset="60.90" topOffset="0" bottomOffset="47.97" presetHandlers="8"/>
+      </img>
+      <img src="CAG9bXoXOoEDH2xns2UchNtAnju" width="183.72" height="161.32" topLeftX="384.62" topLeftY="-13.31">
+        <crop type="rect" leftOffset="102.15" rightOffset="102.15" topOffset="56.93" bottomOffset="0" presetHandlers="8"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="HSirbvwp4oSC8YxdFyvcCRW4n9e" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="757.07" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="757.07" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="803.15" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="290.01" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="488" height="173" topLeftX="25.69" topLeftY="340.25" type="text">
+        <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="72" fontFamily="Libre Baskerville" bold="false">Health</span>
+          </p>
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="72" fontFamily="Libre Baskerville" bold="false">Management</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="52" height="53" topLeftX="25.69" topLeftY="270" type="text">
+        <content textType="title" fontSize="44" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="44" fontFamily="Libre Baskerville" bold="false">01</span>
+          </p>
+        </content>
+      </shape>
+      <img src="TIH8b3wdRoR1cCxjTPUccqndnQc" width="23.57" height="24" topLeftX="844.12" topLeftY="27.61">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="56.13" height="24" topLeftX="878.05" topLeftY="27.61" type="text">
+        <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <strong>
+              <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="BXXobaR8joUZDJxAmaAc1H10nPf" width="399.69" height="435.86" topLeftX="571.79" topLeftY="82.08">
+        <crop type="rect" leftOffset="96.86" rightOffset="278.31" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="VLeXbntJXonevLx7TDAcyNgJnTe" width="281.11" height="299.62" topLeftX="276.59" topLeftY="-14.08">
+        <crop type="rect" leftOffset="254.52" rightOffset="188.42" topOffset="96.75" bottomOffset="10.91" presetHandlers="8"/>
+      </img>
+      <img src="BwBTbNRv3oRepLxvwPjckBTRnxh" width="358.28" height="253.39" topLeftX="-8.63" topLeftY="300.01">
+        <crop type="rect" leftOffset="92.19" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="221" height="165" topLeftX="26.69" topLeftY="92.67" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <ul>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">以人为本的健康空间：我们不仅提供领先的诊疗技术，更致力于营造一个让身心得以放松的疗愈环境，确保每位访客都能感受到宾至如归的尊重。</span>
+              </p>
+            </li>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">数字化预防医学体系：通过引入尖端的实时健康追踪系统，我们将医疗服务的触角延伸至日常，为您提供主动式的健康预警与深度评估报告。</span>
+              </p>
+            </li>
+            <li>
+              <p>
+                <span color="rgba(73, 73, 73, 1)" fontSize="11">一站式全生命周期管理：从初期的身体检查到后期的康复随访。</span>
+              </p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="126" height="54" topLeftX="26.69" topLeftY="28.08" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" bold="true" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            重新定义
+            <br/>
+            全周期健康管理
+          </p>
+        </content>
+      </shape>
+      <shape width="140.78" height="66" topLeftX="370.22" topLeftY="300.01" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>健康中心汇集了来自海内外的资深医师与科研人员，跨学科的专家团队为您共同研判，确保方案的科学性。</p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="944.25" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="944.25" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="990.33" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="477.19" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="759.95" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="759.95" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="806.03" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="292.89" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="P1ppbZf1jow5TrxPalhcRUxQnNh" width="497.94" height="331.96" topLeftX="25.62" topLeftY="184.54">
+        <crop type="rect" leftOffset="46.11" rightOffset="46.11" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="198.87" height="149" topLeftX="537.86" topLeftY="29.46" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>以科技重塑医疗体验 我们引入了新一代智慧实验室管理系统，实现了从样本采集到结果分析的全流程自动化。这不仅大幅缩短了患者的等待时间，更通过 AI 辅助诊断技术，排除了人为误差的可能性。每一项检测数据都会实时同步至您的个人健康档案，由您的专属全科医生进行深度解读，确保医疗建议的实时性与精准度，真正做到“预防早于治疗”。</p>
+        </content>
+      </shape>
+      <shape width="186.82" height="66" topLeftX="736.73" topLeftY="260.88" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" bold="false" autoFit="shape-auto-fit">
+          <p>严谨科学，守护生命。 在这里，每一滴样本都被视为一份信任。我们坚持用国际最严苛的质控标准，为您和家人的健康提供最坚实的科学依据。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="754.58" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="754.58" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="800.66" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="287.52" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="Z8ZZbPgCXoOEaOxWDj3cvm6dnDh" width="238" height="238" topLeftX="694.62" topLeftY="276.03">
+        <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="KrvobgSVEonkmhxsJ2Mcex5Rnjh" width="238" height="238" topLeftX="442.72" topLeftY="276.03">
+        <crop type="rect" leftOffset="154.08" rightOffset="200.11" topOffset="20.55" bottomOffset="74.55" presetHandlers="8"/>
+      </img>
+      <img src="LUUmbyq6qoEAsoxUarYcnzU7nvb" width="238" height="238" topLeftX="442.72" topLeftY="26.58">
+        <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="Efkqbf9Q0oQ76LxLLVeccEbynxh" width="238" height="238" topLeftX="694.62" topLeftY="26.58">
+        <crop type="rect" leftOffset="92.56" rightOffset="92.56" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="190" height="68" topLeftX="710.62" topLeftY="175.58" type="text">
+        <content textType="title" fontSize="28" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="28" fontFamily="Libre Baskerville" bold="false">Health</span>
+          </p>
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="28" fontFamily="Libre Baskerville" bold="false">Management</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="128" height="96" topLeftX="459.62" topLeftY="354.03" type="text">
+        <content textType="title" fontSize="80" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="80" fontFamily="Libre Baskerville" bold="false">91</span>
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="60" fontFamily="Libre Baskerville" bold="false">%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="161" height="42" topLeftX="459.62" topLeftY="450.03" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 0.749)" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(0, 0, 0, 0.749)">预防性护理与全周期康复方案覆盖率</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="256" height="90" topLeftX="24.89" topLeftY="26.58" type="text">
+        <content textType="caption" fontSize="32" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.4">
+            <strong>
+              <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">以人为本，</span>
+            </strong>
+            <br/>
+            <strong>
+              <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">构建全维健康生态</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="372.35" height="116" topLeftX="24.89" topLeftY="173.18" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">健康不仅是疾病的缺席，更是身体、心理与社会适应能力的完美状态。我们致力于打破传统医疗的边界，为每一位追求高品质生活的人士提供支撑。</span>
+          </p>
+          <p list="none" textAlign="left"/>
+          <p list="none" textAlign="left">
+            <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">核心指标 (SDGs/关键点)：</span>
+          </p>
+          <ul>
+            <li>
+              <p textAlign="left">
+                <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">精准预防：通过前沿检测技术，提前识别潜在风险。</span>
+              </p>
+            </li>
+            <li>
+              <p textAlign="left">
+                <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">全人关怀：关注身心平衡，提供多维度的康复支持。</span>
+              </p>
+            </li>
+            <li>
+              <p textAlign="left">
+                <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">数字驱动：每一份数据都为您未来的健康决策赋能。</span>
+              </p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="112" height="24" topLeftX="24.89" topLeftY="137.98" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p list="none" textAlign="left">
+            <span color="rgba(37, 37, 37, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">为什么这很重要</span>
+          </p>
+        </content>
+      </shape>
+      <chart width="397.25" height="211.45" topLeftX="0" topLeftY="321" id="bYM">
+        <chartPlotArea>
+          <chartPlot type="column">
+            <chartExtra/>
+            <chartSeriesList>
+              <chartSeries index="1">
+                <chartBars color="rgb(93, 168, 255)"/>
+              </chartSeries>
+            </chartSeriesList>
+          </chartPlot>
+          <chartAxes>
+            <chartAxis type="y" position="left">
+              <chartGridLine/>
+            </chartAxis>
+          </chartAxes>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="2023 第二季度学费">精准预防,全人关怀,数字驱动</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="A 大学">3210,4291,5301</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle>2023 第二季度大学学费</chartTitle>
+        <chartStyle>
+          <chartBorder color="rgb(255, 255, 255)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="IB22bH3wzofKf0xmovscuH6Cnnf" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="416" height="173" topLeftX="26.92" topLeftY="340.25" type="text">
+        <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p>Laboratory</p>
+          <p>Testing</p>
+        </content>
+      </shape>
+      <shape width="59" height="53" topLeftX="26.92" topLeftY="270" type="text">
+        <content textType="title" fontSize="44" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="44" fontFamily="Libre Baskerville" bold="false">02</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="0" topLeftY="716.30" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="933.13" topLeftY="716.30" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="762.38" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="249.24" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="Nm2IbwIipohbfrxSebwcSCVtnTg" width="23.57" height="24" topLeftX="844.12" topLeftY="27.61">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="56.13" height="24" topLeftX="878.05" topLeftY="27.61" type="text">
+        <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <strong>
+              <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="BRzabJVEnoFVugxYjfecvENxnVf" width="960" height="540" topLeftX="0" topLeftY="-557.94" alpha="0.35">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <img src="OenpbA8o7on5p6x96lYct5Q5nFh" width="806.97" height="540" topLeftX="153.03" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="153.03" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="646.02" height="540" topLeftX="-2.26" topLeftY="0" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(0, 0, 0, 1) 46%,rgba(0, 0, 0, 0) 100%)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="172.24" height="962.26" topLeftX="392.75" topLeftY="-27.25" rotation="270" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="linear-gradient(90deg,rgba(0, 0, 0, 1) 0%,rgba(0, 0, 0, 0) 100%)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="224" height="96" topLeftX="57.96" topLeftY="43.56" type="text">
+        <content fontSize="32" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" lineSpacing="multiple:1.4" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.4">
+            <span fontSize="32">精准实验室检测</span>
+            <br/>
+            <span fontSize="32">赋能临床决策</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="332.15" height="50" topLeftX="57.96" topLeftY="142.56" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">我们配备了达到国际生物安全标准的自动化检测流水线。通过严格的质控体系与样本全程追踪系统，我们确保每一份检验报告不仅具备速度，更具备辅助临床诊断的极高参考价值。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="332.15" height="50" topLeftX="57.96" topLeftY="424.36" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(222, 224, 227, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>健康中心承诺：所有实验室设备均定期接受国家级校准，样本处理流程透明可追溯。我们坚持以科学严谨的态度，为您提供值得信赖的健康底数。</p>
+        </content>
+      </shape>
+      <shape width="133.18" height="48" topLeftX="57.96" topLeftY="229.08" type="text">
+        <content fontSize="30" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" fontSize="32" fontFamily="Libre Baskerville">￥40.00</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="171" height="30" topLeftX="219.12" topLeftY="238.08" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(155, 158, 162, 1)" fontSize="10">基础生化常规检测：涵盖肝肾功能及血糖筛查，最快 2 小时出具电子报告。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.84" height="48" topLeftX="57.96" topLeftY="285.50" type="text">
+        <content fontSize="32" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">￥128.00</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="171" height="30" topLeftX="219.12" topLeftY="293.24" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>免疫功能深度评估：精准分析免疫细胞活性，为亚健康人群提供防御预警。</p>
+        </content>
+      </shape>
+      <shape width="150.14" height="48" topLeftX="57.96" topLeftY="341.93" type="text">
+        <content fontSize="32" fontFamily="Libre Baskerville" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">￥</span>
+            </strong>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">3</span>
+            </strong>
+            <strong>
+              <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="32" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">60.00</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="171" height="30" topLeftX="219.12" topLeftY="350.93" type="text">
+        <content fontSize="10" fontFamily="思源黑体" color="rgba(155, 158, 162, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>基因遗传风险筛查：针对常见慢性病易感基因进行深度测序与风险对标。</p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="584.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="584.82" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="630.90" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="117.76" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="57.96" height="540.16" topLeftX="0" topLeftY="584.82" presetHandlers="0" flipX="true" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="Mybqb1NMmocLhFxHvCSc4CfYnAg" width="593.91" height="250.91" topLeftX="339.45" topLeftY="27.28">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="11.10" bottomOffset="72.07" presetHandlers="8"/>
+      </img>
+      <img src="UI1MbwshKoMl4cxOLjccdMl5nlh" width="289.75" height="224.30" topLeftX="643.62" topLeftY="290.04">
+        <crop type="rect" leftOffset="54.96" rightOffset="101.36" topOffset="0" bottomOffset="26.61" presetHandlers="8"/>
+      </img>
+      <img src="Qcu3bIYMro1nRCxBSuPcQXkJnic" width="302.40" height="250.91" topLeftX="26.32" topLeftY="27.28">
+        <crop type="rect" leftOffset="43.42" rightOffset="277.68" topOffset="48.94" bottomOffset="50.89" presetHandlers="8"/>
+      </img>
+      <img src="Kf9kbpX6zoZDURxBRWYctxbfn6c" width="604.91" height="224.30" topLeftX="26.32" topLeftY="290.04">
+        <crop type="rect" leftOffset="6.88" rightOffset="3.52" topOffset="0" bottomOffset="121.81" presetHandlers="8"/>
+      </img>
+      <shape width="232.18" height="129.44" topLeftX="61.42" topLeftY="331.59" type="text">
+        <content textType="sub-headline" fontSize="14" fontFamily="思源黑体" color="rgba(34, 34, 34, 0.749)" bold="true">
+          <p>
+            <strong>
+              <span color="rgba(34, 34, 34, 0.749)" fontSize="14">科技支撑，让每份报告都精准无误。</span>
+            </strong>
+          </p>
+          <p>
+            <strong>
+              <span color="rgba(34, 34, 34, 0.749)" fontSize="14">我们坚持以极高的行业标准管理实验室流程。通过引入全自动检测工作站，我们不仅提升了样本处理的吞吐量，更将人工干预降低至最小，确保您的健康数据具备绝对的参考价值。</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.18" height="104" topLeftX="363.91" topLeftY="318.22" type="text">
+        <content textType="title" fontSize="80" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="86" fontFamily="Libre Baskerville" bold="false">99.8</span>
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="60" fontFamily="Libre Baskerville" bold="false">%</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="232.18" height="46.82" topLeftX="363.91" topLeftY="414.22" type="text">
+        <content textType="caption" fontSize="10" fontFamily="思源黑体" color="rgba(34, 34, 34, 0.749)">
+          <p>
+            <span fontSize="10">依托于国际标准 ISO 15189 的质量控制体系，通过多重自动化质控校准与资深检验医师的双重复核机制，我们的检测结果与临床诊断表现出极高的一致性。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="1235.45" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="1235.45" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="1281.52" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="768.39" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="57.96" height="540.16" topLeftX="0" topLeftY="1235.45" presetHandlers="0" flipX="true" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="CnjdbcfEjo5zKgxttkucw1PLnDg" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="375" height="173" topLeftX="26.21" topLeftY="340.25" type="text">
+        <content textType="title" fontSize="72" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p>Pharmacy</p>
+          <p lineSpacing="multiple:1.2">Service</p>
+        </content>
+      </shape>
+      <shape width="59" height="53" topLeftX="26.21" topLeftY="270" type="text">
+        <content textType="title" fontSize="44" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" bold="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p lineSpacing="multiple:1.2">
+            <span color="rgba(0, 0, 0, 0.851)" fontSize="44" fontFamily="Libre Baskerville" bold="false">03</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="0" topLeftY="659.52" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="933.13" topLeftY="659.52" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="705.59" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="467.14" topLeftY="192.46" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="Mg3SbdDApoXDntxjDycc4K1rnDd" width="23.57" height="24" topLeftX="844.12" topLeftY="27.61">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="56.13" height="24" topLeftX="878.05" topLeftY="27.61" type="text">
+        <content fontSize="22" fontFamily="Libre Baskerville" color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square" textAlign="left" wrap="false">
+          <p list="none" textAlign="left" lineSpacing="multiple:1.2">
+            <strong>
+              <span color="rgba(0, 0, 0, 0.851)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="22" fontFamily="Libre Baskerville" italic="false" strikethrough="false" underline="false">MTP</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="XmcObazlyomEhHxtC3Tc32NNnGb" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop type="rect" leftOffset="0" rightOffset="173.45" topOffset="0" bottomOffset="97.56" presetHandlers="0"/>
+      </img>
+      <shape width="284" height="216" topLeftX="57.96" topLeftY="38.95" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" autoFit="shape-auto-fit">
+          <p>
+            <strong>
+              <span fontSize="18">依托先进的自动化分装系统与数字化追踪技术，我们为患者提供个性化的用药时间表与剂量提醒服务。</span>
+            </strong>
+          </p>
+          <p/>
+          <p>
+            <strong>
+              <span fontSize="18">从药品的恒温存储到最终交付至您手中，每一个环节都严格遵循国际制药标准，消除用药风险，让康复之路更加稳健、安心。</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="600.94" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="600.94" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="647.01" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="133.88" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="744.47" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="744.47" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="790.55" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="277.41" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img src="WqijbecnHo2yZdxnAgHc7mUcnCf" width="444.06" height="333.02" topLeftX="26.69" topLeftY="25.46">
+        <crop type="rect" leftOffset="73.99" rightOffset="73.99" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="96" height="24" topLeftX="26.69" topLeftY="371.11" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" bold="true" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <strong>
+              <span color="rgba(37, 37, 37, 1)" fontSize="16">智慧健康空间</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="379.79" height="33" topLeftX="26.69" topLeftY="401.11" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">不仅是诊疗，更是您的健康管家。 在这里，我们打破碎片化的医疗体验，为您提供一站式预防与治疗方案。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="80" height="24" topLeftX="485.92" topLeftY="371.11" type="text">
+        <content textType="sub-headline" fontSize="16" fontFamily="思源黑体" color="rgba(37, 37, 37, 1)" bold="true" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span fontSize="16">专业化团队</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="405.09" height="17" topLeftX="485.92" topLeftY="401.11" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p list="none" textAlign="left">
+            <span color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="11" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">由资深医师与康复专家组成的核心团队，为您提供最精准的数据分析与临床支持。</span>
+          </p>
+        </content>
+      </shape>
+      <img src="J8HcbUEnioVFRWxbIyPcoIVMned" width="447.39" height="334.41" topLeftX="485.92" topLeftY="24.08">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="99.01" bottomOffset="237.89" presetHandlers="8"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="GEsMb9dwEosPMyxlIIYcMfWUnmd" width="906.27" height="346.73" topLeftX="26.86" topLeftY="24.64">
+        <crop type="rect" leftOffset="0" rightOffset="65.54" topOffset="126.53" bottomOffset="73.39" presetHandlers="8"/>
+      </img>
+      <shape width="26.87" height="540.16" topLeftX="-0.57" topLeftY="780.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="540.16" topLeftX="932.56" topLeftY="780.09" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="826.17" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="26.87" height="961.15" topLeftX="466.57" topLeftY="313.04" rotation="90" presetHandlers="0" type="rect">
+        <fill>
+          <fillColor color="rgba(216, 57, 49, 0.41)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="238" height="99" topLeftX="26.86" topLeftY="382.47" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">严苛消毒，无菌诊疗。</span>
+          </p>
+          <p list="none" textAlign="left">
+            <span bold="false">我们严格执行“一人一用一消毒”的感控标准。所有器械均经过高温高压蒸汽灭菌及预真空处理，并粘贴化学指示标签，确保灭菌合格率达 100%，彻底杜绝交叉感染隐患。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="238" height="83" topLeftX="307.36" topLeftY="382.47" type="text">
+        <content fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+          <p>
+            <span bold="false">可视化安全保障。</span>
+            <br/>
+            <span bold="false">患者可实时查验器械包的独立包装及封条状态。我们致力于将医疗安全透明化，为您和家人的每一次就诊建立起坚实的安全屏障。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <img src="CePEbpCWyoIYGYxW9ZFcA582npe" width="289.22" height="346.33" topLeftX="335.39" topLeftY="26.22">
+        <crop type="rect" leftOffset="102.45" rightOffset="100.07" topOffset="0" bottomOffset="4.95" presetHandlers="8"/>
+      </img>
+      <img src="IMNDb3gRjo3mhvx1QgXclKeHnSe" width="289.22" height="346.33" topLeftX="26.90" topLeftY="168.03">
+        <crop type="rect" leftOffset="14.75" rightOffset="14.75" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <img src="HxUkbhrxioCBnYxJKPEcoH4lnaf" width="289.22" height="346.33" topLeftX="643.88" topLeftY="168.03">
+        <crop type="rect" leftOffset="14.75" rightOffset="14.75" topOffset="0" bottomOffset="0" presetHandlers="8"/>
+      </img>
+      <shape width="101.18" height="48" topLeftX="335.39" topLeftY="382.35" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            <strong>
+              <span fontSize="16">隐形矫正，</span>
+            </strong>
+            <br/>
+            <strong>
+              <span fontSize="16">重塑自信笑容</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="150.60" height="48" topLeftX="335.39" topLeftY="437.35" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>我们采用数字化 3D 建模技术，为您量身定制隐形矫治方案。</p>
+        </content>
+      </shape>
+      <shape width="101.18" height="48" topLeftX="643.88" topLeftY="65.03" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            微创技术，
+            <br/>
+            让治疗更加舒适精准
+          </p>
+        </content>
+      </shape>
+      <shape width="206.67" height="48" topLeftX="643.88" topLeftY="120.03" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>依托先进的口腔内窥镜与激光治疗设备，我们实现了高精度、低痛感的微创诊疗。</p>
+        </content>
+      </shape>
+      <shape width="101.18" height="48" topLeftX="26.90" topLeftY="65.03" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" bold="true" wrap="false">
+          <p>
+            温柔呵护，
+            <br/>
+            守护孩子的牙齿发育
+          </p>
+        </content>
+      </shape>
+      <shape width="289.22" height="48" topLeftX="26.90" topLeftY="120.03" type="text">
+        <content textType="sub-headline" fontSize="11" fontFamily="思源黑体" color="rgba(73, 73, 73, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+          <p>我们致力于为儿童营造轻松的诊疗环境。</p>
+          <p list="none" textAlign="left">帮助孩子建立良好的口腔卫生习惯。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

@@ -1,0 +1,82 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47" startY="142.05" endX="90.76" endY="142.05">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="346.38" startY="142.05" endX="390.14" endY="142.05" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="645.77" startY="142.05" endX="689.52" endY="142.05" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="196.69" startY="322.54" endX="240.45" endY="322.54" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="496.07" startY="322.54" endX="539.83" endY="322.54" alpha="0.30">
+        <border color="rgba(255, 196, 127, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>企业文化核心价值观</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>客户至上</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="48" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>始终以客户需求为导向</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>诚信正直</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="347.38" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>与所有利益相关方合作的基础</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" autoFit="normal-auto-fit">
+          <p>团队协作</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="646.77" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>强调跨部门、跨岗位的无缝配合</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>创新进取</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>鼓励员工勇于突破、持续学习</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>责任担当</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>要求每位员工对工作负责、对结果负责</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

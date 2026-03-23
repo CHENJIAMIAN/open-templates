@@ -1,0 +1,50 @@
+<slide>
+    <style/>
+    <data>
+      <img src="HOqdbo205oJgU1xYdhpccrxAnze" width="960" height="540" topLeftX="0" topLeftY="0">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="420" height="126" topLeftX="270" topLeftY="219.60" type="text">
+        <content textType="title" fontSize="84" color="rgba(248, 240, 230, 1)" bold="true" textAlign="center" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <span color="rgba(248, 240, 230, 1)" fontSize="84" fontFamily="slide-font-ebfb3998d073e5d1ea7d1708c766ff2a">三季度财报</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="240" height="147" topLeftX="360" topLeftY="112.65" type="text">
+        <content fontSize="96" color="rgba(248, 240, 230, 1)" bold="true" autoFit="shape-auto-fit" wrap="false">
+          <p>
+            <strong>
+              <span color="rgba(248, 240, 230, 1)" fontSize="96" fontFamily="slide-font-595d743f240d3fddfb4dd709a5adccb5">2025</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="415" height="21" topLeftX="272.50" topLeftY="486.55" type="text">
+        <content fontSize="14" color="rgba(248, 240, 230, 1)" textAlign="center" autoFit="shape-auto-fit">
+          <p textAlign="center">
+            <span color="rgba(248, 240, 230, 1)" fontSize="14" fontFamily="slide-font-d7bb52e95d2805e8223295c160d7d06e">October 14, 2025</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="450" height="48" topLeftX="255" topLeftY="349.10" type="text">
+        <content fontSize="16" color="rgba(248, 240, 230, 1)" bold="false" letterSpacing="0.3" textAlign="center" autoFit="shape-auto-fit">
+          <p>
+            <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false">2025 财年第三季度实现了卓越的业绩，得益于三大策略：</span>
+          </p>
+          <p>
+            <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false">市场高端化、多产品平台化、人工智能创新。</span>
+          </p>
+        </content>
+      </shape>
+      <img src="CbRIbXgrho8XkVxO055cjAdbnuh" width="176.71" height="28.07" topLeftX="391.65" topLeftY="32.10">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="112" height="24" topLeftX="1747.35" topLeftY="462.42" type="text">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

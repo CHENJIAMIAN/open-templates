@@ -1,0 +1,105 @@
+<slide>
+  <style/>
+  <data>
+    <shape width="613.80" height="234.74" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(244, 242, 235, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="Noto Sans SC Light" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="476.51" height="63" topLeftX="50.28" topLeftY="94.41" alpha="0.50" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center">
+        <p textAlign="left">
+          <span fontSize="12" fontFamily="Noto Serif SC Light">每张页面都是一段短篇小说，读者可以随意翻页，也可以细细念诵。把策略藏在诗句里，让信息在不经意间触达心里。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="287" height="34" topLeftX="50.28" topLeftY="48.20" type="text">
+      <content textType="headline" fontSize="24" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p>暖色记忆的采集簿</p>
+      </content>
+    </shape>
+    <img src="Ot32b7qBwoVQgYx2mQ4cMaRNnvg" width="346.20" height="234.74" topLeftX="613.80" topLeftY="0" exposure="15">
+      <crop type="rect" leftOffset="2.96" rightOffset="2.96" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <shape width="183" height="80" topLeftX="116.94" topLeftY="294.64" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="center" autoFit="shape-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="80" fontFamily="Noto Serif SC SemiBold">20</span>
+          <span color="rgba(195, 169, 136, 1)" fontSize="50" fontFamily="Noto Serif SC SemiBold">+</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="210.74" height="50.46" topLeftX="100.07" topLeftY="433.80" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center">
+        <p textAlign="center">
+          <span fontSize="12" fontFamily="Noto Sans SC Light">我们把日常割成小块，然后慢慢品尝，像品茶一样细致。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="179" height="23" topLeftX="115.94" topLeftY="400.78" type="text">
+      <content fontSize="16" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="shape-auto-fit">
+        <p list="none" textAlign="center" lineSpacing="multiple:1.4">
+          <span color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="Noto Serif SC SemiBold" bold="false" italic="false" strikethrough="false" underline="false">光与影的细语</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="183" height="80" topLeftX="391.50" topLeftY="294.64" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="center" autoFit="shape-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="80" fontFamily="Noto Serif SC SemiBold">37</span>
+          <span color="rgba(195, 169, 136, 1)" fontSize="40" fontFamily="Noto Serif SC SemiBold">%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="210.74" height="50.46" topLeftX="374.63" topLeftY="433.80" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center">
+        <p>
+          <span fontSize="12" fontFamily="Noto Sans SC Light">这是一份关于缓慢与留白的提案，教你在忙碌里找到呼吸的缝隙。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="179" height="23" topLeftX="390.50" topLeftY="400.78" type="text">
+      <content fontSize="16" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="shape-auto-fit">
+        <p>
+          <span fontSize="16">慢生活的理由</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="183" height="80" topLeftX="662.51" topLeftY="294.64" type="text">
+      <content textType="sub-headline" fontSize="80" fontFamily="Noto Serif SC SemiBold" color="rgba(195, 169, 136, 1)" bold="false" lineSpacing="multiple:1" textAlign="center" autoFit="shape-auto-fit">
+        <p textAlign="center" lineSpacing="multiple:1">
+          <span color="rgba(195, 169, 136, 1)" fontSize="80" fontFamily="Noto Serif SC SemiBold">4.2</span>
+          <span color="rgba(195, 169, 136, 1)" fontSize="50" fontFamily="Noto Serif SC SemiBold">x</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="210.74" height="50.46" topLeftX="645.63" topLeftY="433.80" alpha="0.50" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="center">
+        <p>
+          <span fontSize="12" fontFamily="Noto Sans SC Light">用简洁的排版和柔和的语句，把复杂的想法说得直白而温柔。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="179" height="23" topLeftX="661.51" topLeftY="400.78" type="text">
+      <content fontSize="16" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="shape-auto-fit">
+        <p>
+          <span fontSize="16">城市边缘的闲散午后</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="210.74" height="25.23" topLeftX="50.28" topLeftY="183.51" alpha="0.80" type="text">
+      <content verticalAlign="top" textType="sub-headline" fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(43, 40, 33, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="Noto Serif SC Light" bold="false" italic="false" strikethrough="false" underline="false">#那些被光照亮的想法</span>
+        </p>
+      </content>
+    </shape>
+    <icon width="19.92" height="20" topLeftX="553.97" topLeftY="181.51" iconType="iconpark/Edit/alignment-left-bottom.svg">
+      <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

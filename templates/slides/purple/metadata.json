@@ -1,0 +1,33 @@
+﻿{
+    "id":  "slides/purple",
+    "family":  "slides",
+    "name":  "purple",
+    "displayName":  "Purple",
+    "description":  "Presentation slide template for Purple.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "purple"
+             ],
+    "sourcePath":  "templates/slides/purple",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/purple",
+    "preview":  {
+                    "cover":  "purple/slide_pkA_B0Gxb6xryoltZFxtPIbcXMAYnIf.png",
+                    "gallery":  [
+                                    "purple/slide_pkA_B0Gxb6xryoltZFxtPIbcXMAYnIf.png",
+                                    "purple/slide_pkA_UVmRbHS0pogXAZx1ouNcfg15nPp.png",
+                                    "purple/slide_pkA_WueAbYZu4oq7iIxaKkxc8yzanvf.png"
+                                ]
+                }
+}

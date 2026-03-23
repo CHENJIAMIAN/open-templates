@@ -1,0 +1,43 @@
+<slide>
+    <style>
+      <fill>
+        <fillImg src="Op5mbY5E5oXAVax0tfJcLe4Hnyd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="49.59" startY="439.46" endX="50.59" endY="483.46" alpha="0.30">
+        <border color="rgba(255, 255, 255, 0.922)" width="1"/>
+      </line>
+      <line startX="49.60" startY="73.92" endX="922.13" endY="73.92" alpha="0.56">
+        <border color="rgba(176, 179, 193, 1)" width="1"/>
+      </line>
+      <shape width="450.93" height="225.17" topLeftX="49.60" topLeftY="131.52" type="text">
+        <content textType="headline" fontSize="74" fontFamily="寒蝉德黑体" color="rgba(229, 234, 236, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="93" height="30" topLeftX="829.13" topLeftY="33.67" alpha="0.72" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(235, 237, 240, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="93" height="30" topLeftX="49.60" topLeftY="33.67" alpha="0.72" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 0.922)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="20" topLeftX="65.73" topLeftY="435.99" alpha="0.77" type="text">
+        <content fontSize="14" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">演讲时间</p>
+        </content>
+      </shape>
+      <shape width="180.72" height="31.89" topLeftX="65.73" topLeftY="458.08" alpha="0.77" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

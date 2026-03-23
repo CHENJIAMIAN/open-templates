@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="LDslbOYycoJX50xgwxzck1son7d" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="65.66" height="73" topLeftX="371.83" topLeftY="341.87" alpha="0.23" type="text">
+      <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape width="360" height="226.06" topLeftX="77.49" topLeftY="80.62" type="text">
+      <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(255, 246, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p>第五章：培训总结与考核评估</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

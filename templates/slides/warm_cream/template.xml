@@ -1,0 +1,1538 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>年会活动策划方案</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="P3oibiLp0oEVl7xr7MGcD053nvh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="856.83" height="171.23" topLeftX="56" topLeftY="52.97" type="text">
+        <content textType="headline" fontSize="66" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(222, 226, 255, 1) 0%,rgba(255, 243, 230, 1) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>年会活动策划方案</p>
+        </content>
+      </shape>
+      <shape width="57.82" height="32" topLeftX="56.00" topLeftY="487.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(166, 166, 175, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="165.72" height="32" topLeftX="125.89" topLeftY="487.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(166, 166, 175, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="77" height="32" topLeftX="704.50" topLeftY="487.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(166, 166, 175, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="145.46" height="32.00" topLeftX="792.99" topLeftY="487.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(166, 166, 175, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="48.00" startY="119.96" endX="912" endY="119.96" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="200" height="66" topLeftX="47.87" topLeftY="270.51" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动概述</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="223.51" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="268.34" topLeftY="270.51" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地选择与布局</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="268.34" topLeftY="223.51" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="488.81" topLeftY="270.51" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动流程设计</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="488.81" topLeftY="223.51" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="709.28" topLeftY="270.51" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>预算规划</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="709.28" topLeftY="223.51" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="47.87" topLeftY="417.27" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>执行团队与分工</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="47.87" topLeftY="370.27" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="268.34" topLeftY="417.27" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险评估与应急预案</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="268.34" topLeftY="370.27" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+      <shape width="200" height="66" topLeftX="488.81" topLeftY="417.27" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>宣传与氛围营造</p>
+        </content>
+      </shape>
+      <shape width="65" height="45" topLeftX="488.81" topLeftY="370.27" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>07</p>
+        </content>
+      </shape>
+      <shape width="864.00" height="54" topLeftX="48.48" topLeftY="37.72" type="text">
+        <content textType="title" fontSize="36" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VOxFbTZdkoDbwixwc0acmJsYnad" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">01</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动概述</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+      </shape>
+      <shape width="282.92" height="176.00" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>活动核心信息</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>「星耀未来·聚力同行」</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动主题</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>总结年度成果，增强员工归属感，促进跨部门协作，展望公司战略方向。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动目的</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2026年1月31日（周五）18:00-22:00</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动时间</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>1000人（全体员工及特邀合作伙伴）</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>参与规模</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104.00" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>上海船厂1862时尚艺术中心（主会场）</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动地点</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="DwGKb98Amof6a2xNIMkcXjXUnfb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">02</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地选择与布局</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>候选场地对比分析</p>
+        </content>
+      </shape>
+      <table id="buL" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="5" width="171.92"/>
+        </colgroup>
+        <tr height="54.61">
+          <td id="bua">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">场地类型</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buU">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">推荐场地</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bPm">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">核心参数</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVS">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">档期情况</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVF">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">优劣势分析</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="116.59">
+          <td id="buM">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">上海地标建筑</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWW">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">船厂1862</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWA">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1000㎡剧场，800个固定座位</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPX">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1月31日可预订</span>
+              </p>
+            </content>
+          </td>
+          <td id="bVB">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：空间开阔，工业风设计独特；需确认临时加座可行性</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="116.59">
+          <td id="bVZ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">高端酒店</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buh">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">苏宁宝利嘉酒店</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">700㎡宴会厅，序厅可作红毯区</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWf">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">2月1日有档期</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPw">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：配套齐全，房间折扣1800元/晚；面积略紧凑</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="85.60">
+          <td id="bVl">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">文化场馆</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVv">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">艺仓美术馆4F</span>
+              </p>
+            </content>
+          </td>
+          <td id="buk">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">展览空间+黄浦江畔红毯区</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWV">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">1月31日可预订</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWz">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">优势：江景视野；需额外增加10万场地费及搭建费</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="323.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="151.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(35, 37, 46, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864.00" height="45" topLeftX="48.27" topLeftY="48.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐场地方案</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>工业遗产改造空间，兼具艺术氛围与实用性，交通便利（距地铁4号线杨树浦站800米）</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">场地优势</p>
+        </content>
+      </shape>
+      <shape width="268" height="108.00" topLeftX="62.04" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>上海船厂1862时尚艺术中心</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">最终选择</p>
+        </content>
+      </shape>
+      <img src="K15ObHZeJoAA2BxxUm0c4OZAnth" width="238.91" height="325.32" topLeftX="366.54" topLeftY="148.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="26"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主舞台设LED大屏（12m×5m），观众区临时加座至1000个，红毯区配置环形立柱屏幕</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="328.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">布置方案</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="192" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2楼剧场（主会场，1000人）、一楼序厅（红毯及签到区）、侧厅（Studio拍摄及休息区）</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="156.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">空间分配</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="HUgcbwQlcod30KxiFOccF9Snnfd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">03</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动流程设计</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="166.69" rotation="270.00" presetHandlers="16" alpha="0.90" type="round1rect">
+        <fill>
+          <fillColor color="rgba(235, 168, 77, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="343.01" topLeftY="305.93" rotation="180" presetHandlers="16" alpha="0.35" type="round1rect">
+        <fill>
+          <fillColor color="rgba(235, 168, 77, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="166.69" rotation="0.00" presetHandlers="16" alpha="0.70" type="round1rect">
+        <fill>
+          <fillColor color="rgba(235, 168, 77, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="134" height="134" topLeftX="482.99" topLeftY="305.93" rotation="90.00" presetHandlers="16" alpha="0.50" type="round1rect">
+        <fill>
+          <fillColor color="rgba(235, 168, 77, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="214.84" iconType="iconpark/Office/book-open.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="214.84" iconType="iconpark/Office/receive.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="531.14" topLeftY="353.08" iconType="iconpark/Abstract/ad-product.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="37.71" height="37.71" topLeftX="391.15" topLeftY="353.08" iconType="iconpark/Travel/globe.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="58" topLeftX="48.00" topLeftY="65.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>详细时间安排</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48.00" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>17:30-18:00</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48.00" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>嘉宾签到入场：电子签到系统+拍立得合影</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="48.00" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>18:15-18:30</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="48.00" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>CEO致辞：年度成果视频播放+战略展望</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="172.69" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>18:00-18:15</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="204.19" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>开场表演：《星辰之光》灯光秀+舞蹈，30人团队人形像素屏表演</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="32" topLeftX="640.46" topLeftY="316.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>18:30-19:30</p>
+        </content>
+      </shape>
+      <shape width="271.54" height="89.82" topLeftX="640.46" topLeftY="347.77" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>年度颁奖仪式：优秀员工/团队奖、创新突破奖等6类奖项</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="868.57" height="45" topLeftX="47.55" topLeftY="47.71" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>详细时间安排</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="117.20" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>19:30-20:30</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84.00" topLeftX="573.41" topLeftY="150.60" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>文艺汇演+互动游戏：歌舞串烧、舞台剧《启航》、团队拼图挑战</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="372.19" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>21:30-22:00</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="405.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>集体合影+结束致辞：无人机编队表演“星辰科技LOGO”</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="244.76" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>20:30-21:30</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="278.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>自助晚宴+抽奖环节：特等奖（新能源汽车使用权1年）、阳光普照奖（定制文创礼盒）</p>
+        </content>
+      </shape>
+      <img src="Kc5PbwTspo5fAMxf2uScxu1Snrd" width="494.00" height="371.38" topLeftX="47.55" topLeftY="118.20">
+        <crop type="rect" leftOffset="0.59" rightOffset="0.59" topOffset="0" bottomOffset="0" presetHandlers="29"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="GeYqbTYlDoi3oDxMaFScnwcNneg" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">04</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>预算规划</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总预算及分配</p>
+        </content>
+      </shape>
+      <shape width="341.97" height="32" topLeftX="48.07" topLeftY="205.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>预算说明</p>
+        </content>
+      </shape>
+      <shape width="341.97" height="180.00" topLeftX="48.07" topLeftY="243.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地租赁及布置含剧场租赁、舞台搭建、LED屏幕租赁；餐饮服务为自助晚宴（420元/人×1000人）；奖品及互动道具含抽奖奖品18万、游戏道具6万；应急备用金用于应对设备故障、人数超预期等突发情况。</p>
+        </content>
+      </shape>
+      <chart width="482.35" height="341.56" topLeftX="425.32" topLeftY="140.48" id="bPv">
+        <chartPlotArea>
+          <chartPlot type="pie" yAxisPosition="right">
+            <chartExtra/>
+          </chartPlot>
+        </chartPlotArea>
+        <chartData>
+          <dim1>
+            <chartField name="预算类别">场地租赁及布置,餐饮服务,奖品及互动道具,宣传及物料制作,应急备用金</chartField>
+          </dim1>
+          <dim2>
+            <chartField name="金额（万元）">36,42,24,12,6</chartField>
+          </dim2>
+        </chartData>
+        <chartTitle color="rgb(233, 230, 224)">预算类别金额分布</chartTitle>
+        <chartStyle>
+          <chartBackground color="rgb(35, 37, 46)"/>
+          <chartBorder color="rgb(152, 152, 152)"/>
+        </chartStyle>
+      </chart>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="DwGKb98Amof6a2xNIMkcXjXUnfb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">05</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(221, 234, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>执行团队与分工</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.00" startY="144.05" endX="90.76" endY="144.05">
+        <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="346.38" startY="144.05" endX="390.14" endY="144.05" alpha="0.30">
+        <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="645.77" startY="144.05" endX="689.52" endY="144.05" alpha="0.30">
+        <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="196.69" startY="324.54" endX="240.45" endY="324.54" alpha="0.30">
+        <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="496.07" startY="324.54" endX="539.83" endY="324.54" alpha="0.30">
+        <border color="rgba(235, 168, 77, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48.00" topLeftY="48.64" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心筹备小组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="48.00" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>策划组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="48.00" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责人：张晓明；核心职责：活动方案设计、流程优化、主题视觉把控</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="347.38" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责人：李静；核心职责：场地对接、搭建监督、现场布局确认</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>节目组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="646.77" topLeftY="191.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责人：王芳；核心职责：节目征集筛选、排练安排、主持人培训</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>后勤组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="197.69" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责人：赵伟；核心职责：餐饮对接、交通安排、应急物资准备</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+        <content textType="sub-headline" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>宣传组</p>
+        </content>
+      </shape>
+      <shape width="265.23" height="110.00" topLeftX="497.07" topLeftY="372.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责人：陈思；核心职责：邀请函设计、现场摄影、后期传播</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.66" startY="-0.50" endX="47.66" endY="545.50" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="139.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="234.31" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="331.02" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="427.73" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="837.59" height="45" topLeftX="74.48" topLeftY="47.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>关键时间节点</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="125.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>12月20日</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="156.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>完成场地签约及预算审批</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="222.31" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>1月5日</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="252.81" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>确定节目单及互动游戏方案</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="319.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>1月20日</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="349.52" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>全流程彩排（含灯光、音响、节目衔接）</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="415.73" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>1月30日</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="50" topLeftX="74.48" topLeftY="446.23" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地搭建完成并通过验收</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VOxFbTZdkoDbwixwc0acmJsYnad" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">06</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>风险评估与应急预案</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>潜在风险及应对措施</p>
+        </content>
+      </shape>
+      <table id="bVb" topLeftX="48.07" topLeftY="121.26">
+        <colgroup>
+          <col span="4" width="214.90"/>
+        </colgroup>
+        <tr height="51.36">
+          <td id="bPI">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">风险类型</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVL">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">可能性</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bVE">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">影响程度</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="buC">
+            <borderTop color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">应对措施</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWP">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">场地容量不足</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWx">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bPG">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNV">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">提前确认加座方案，预留50个临时座位</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bNW">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">设备故障（LED屏）</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWO">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">低</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWr">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWo">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">准备备用投影设备，技术团队全程值守</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWQ">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">突发医疗事件</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bNP">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">低</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNu">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">高</span>
+              </p>
+            </content>
+          </td>
+          <td id="bNN">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">现场设置医疗点，配备AED及常用药品</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+        <tr height="80.51">
+          <td id="bWc">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" bold="true" autoFit="shape-auto-fit">
+              <p>
+                <strong>
+                  <span color="rgba(233, 230, 224, 1)" fontSize="14">极端天气影响交通</span>
+                </strong>
+              </p>
+            </content>
+          </td>
+          <td id="bWp">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWn">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">中</span>
+              </p>
+            </content>
+          </td>
+          <td id="bWs">
+            <borderRight color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(152, 152, 152, 0.15)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(35, 37, 46, 1)"/>
+            </fill>
+            <content fontSize="14" fontFamily="思源黑体" color="rgba(233, 230, 224, 1)" autoFit="shape-auto-fit">
+              <p>
+                <span color="rgba(233, 230, 224, 1)" fontSize="14">提前3天发布天气提醒，协调5辆应急大巴</span>
+              </p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VOxFbTZdkoDbwixwc0acmJsYnad" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80.00" height="72" topLeftX="46.58" topLeftY="420.29" type="text">
+        <content textType="title" fontSize="62" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">07</p>
+        </content>
+      </shape>
+      <shape width="774.64" height="90.74" topLeftX="135.10" topLeftY="410.92" type="text">
+        <content textType="headline" fontSize="56" fontFamily="DouYinMeiHao" color="rgba(255, 238, 211, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>宣传与氛围营造</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="47.66" startY="-5.50" endX="47.66" endY="548.25" alpha="0.32">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="135.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="260.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="10.00" height="10.00" topLeftX="42.66" topLeftY="383.70" type="ellipse">
+        <fill>
+          <fillColor color="rgba(0, 1, 7, 1)"/>
+        </fill>
+        <border color="rgba(235, 168, 77, 1)" width="3"/>
+        <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="837.59" height="45" topLeftX="74.48" topLeftY="51.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>全周期宣传计划</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="122.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>前期预热</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="153.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>1月1-20日：内部邮件推送年会主题海报，发起“我的年度故事”征文活动</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="247.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>现场氛围</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="277.65" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>入口处设置“时光长廊”（年度大事记照片墙），签到区提供定制徽章打印</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="32" topLeftX="74.48" topLeftY="371.70" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>后期传播</p>
+        </content>
+      </shape>
+      <shape width="837.59" height="80" topLeftX="74.48" topLeftY="402.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动次日发布精彩集锦视频，制作电子纪念册通过企业邮箱分发</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 1, 7, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="458.75" height="52.00" topLeftX="451.88" topLeftY="70.07" type="text">
+        <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>视觉设计规范</p>
+        </content>
+      </shape>
+      <img src="JCmzbTd3OoxWV8xxsKOchcxEnCf" width="404.91" height="540.00" topLeftX="-0.00" topLeftY="-0.00">
+        <crop type="rect" leftOffset="0.04" rightOffset="0.04" topOffset="0" bottomOffset="0.00"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="48" height="34" topLeftX="452.92" topLeftY="156.26" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="48" height="34" topLeftX="452.92" topLeftY="315.07" type="text">
+        <content textType="sub-headline" fontSize="34" fontFamily="DouYinMeiHao" color="rgba(235, 168, 77, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="408" height="110.00" topLeftX="502.72" topLeftY="189.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>扁平插画，霓虹渐变色彩（蓝、紫、黄、橙），深色背景</p>
+        </content>
+      </shape>
+      <shape width="408" height="110.00" topLeftX="502.72" topLeftY="346.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(180, 177, 171, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>邀请函采用烫金工艺，伴手礼为定制星空主题U盘+笔记本</p>
+        </content>
+      </shape>
+      <shape width="408" height="36" topLeftX="502.72" topLeftY="156.37" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>主视觉风格</p>
+        </content>
+      </shape>
+      <shape width="408" height="36" topLeftX="502.72" topLeftY="315.18" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(233, 230, 224, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>物料体系</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="HsglbTxMbohNaSxPsFZccB48ndf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="856.83" height="90" topLeftX="56" topLeftY="48.97" type="text">
+        <content textType="headline" fontSize="66" fontFamily="DouYinMeiHao" color="linear-gradient(90deg,rgba(222, 226, 255, 1) 0%,rgba(255, 243, 230, 1) 100%)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">谢谢</p>
+        </content>
+      </shape>
+      <shape width="57.82" height="32" topLeftX="56.00" topLeftY="476.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(202, 209, 217, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="32" topLeftX="125.89" topLeftY="476.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(202, 209, 217, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="77" height="32" topLeftX="704.50" topLeftY="476.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(202, 209, 217, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="119.84" height="32" topLeftX="792.99" topLeftY="476.19" type="text">
+        <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(202, 209, 217, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>2025-12-28</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

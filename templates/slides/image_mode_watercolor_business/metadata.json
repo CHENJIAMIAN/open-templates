@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/image_mode_watercolor_business",
+    "family":  "slides",
+    "name":  "image_mode_watercolor_business",
+    "displayName":  "Image Mode Watercolor Business",
+    "description":  "Presentation slide template for Image Mode Watercolor Business.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "image-mode",
+                 "visual",
+                 "image",
+                 "watercolor",
+                 "business"
+             ],
+    "sourcePath":  "templates/slides/image_mode_watercolor_business",
+    "entryFiles":  [
+                       "style.md"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/image_mode_watercolor_business",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/image_mode_watercolor_business/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/image_mode_watercolor_business/cover.png"
+                                ]
+                }
+}

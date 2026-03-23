@@ -1,0 +1,74 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="141.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公益核心理念</p>
+        </content>
+      </shape>
+      <shape width="538.93" height="60" topLeftX="382.39" topLeftY="172.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>秉持“科技向善，益起行动”的公益理念，将员工公益定位为企业文化建设的核心组成部分。</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="243.54" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公益活动机制</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="274.54" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>借鉴阿里巴巴“人人3小时”公益融入新人课程的机制，计划通过常态化公益活动培养员工社会责任感。</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="343.82" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公益模式创新</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="374.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>依托企业技术优势探索“技能型公益”模式，让员工在参与中实现个人价值与社会价值的统一。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>公益理念</p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="151.29" alpha="0.80" type="diamond">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="228.67" alpha="0.50" type="diamond">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="309.58" alpha="0.30" type="diamond">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

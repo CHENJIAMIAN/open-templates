@@ -1,0 +1,62 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(249, 248, 242, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>Transformer架构：大模型的"神经系统"</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="48.96" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>架构基础</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="48.96" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>由编码器-解码器结构与自注意力机制构成，能并行处理序列数据并捕捉全局依赖</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="348.47" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心创新</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="348.47" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>注意力机制通过计算Token间关联权重实现"关注重点"，解决传统神经网络长距离依赖建模难题</p>
+        </content>
+      </shape>
+      <shape width="264.02" height="36" topLeftX="647.98" topLeftY="217.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>历史地位</p>
+        </content>
+      </shape>
+      <shape width="263.54" height="240" topLeftX="647.98" topLeftY="252.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>2017年《Attention Is All You Need》论文奠定此架构，至今仍是大语言模型、多模态模型的首选基础架构</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="48" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="348.47" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="647.98" topLeftY="153.28" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="寒蝉团圆体 黑体" color="rgba(115, 157, 114, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

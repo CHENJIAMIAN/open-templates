@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/vermilion",
+    "family":  "slides",
+    "name":  "vermilion",
+    "displayName":  "Vermilion",
+    "description":  "Presentation slide template for Vermilion.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "vermilion"
+             ],
+    "sourcePath":  "templates/slides/vermilion",
+    "entryFiles":  [
+                       "metadata.md",
+                       "layout_metadata.md",
+                       "mapping.json",
+                       "theme.xml",
+                       "slides_of_cover_agenda_section_ending.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/vermilion",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/vermilion/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/vermilion/cover.png"
+                                ]
+                }
+}

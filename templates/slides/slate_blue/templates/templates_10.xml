@@ -1,0 +1,58 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(244, 242, 235, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <img src="XdzTbazeHo0u5zxU1MPcUMTPnCc" width="615.72" height="410.48" topLeftX="0" topLeftY="0">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="337.18" height="211.03" topLeftX="570.70" topLeftY="55.10" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="152.13" height="23" topLeftX="588.38" topLeftY="76.34" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>风的方向与温度</p>
+      </content>
+    </shape>
+    <shape width="301.95" height="42.24" topLeftX="588.38" topLeftY="103.29" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p>一段文字能否打动人，往往不是因为它多么华丽，而是因为它具有诚恳的节奏。</p>
+      </content>
+    </shape>
+    <icon width="28" height="28.11" topLeftX="862.33" topLeftY="219.60" iconType="iconpark/Charts/bubble-chart.svg">
+      <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="337.18" height="211.03" topLeftX="570.70" topLeftY="277.88" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="152.13" height="23" topLeftX="588.38" topLeftY="300.29" type="text">
+      <content textType="sub-headline" fontSize="16" fontFamily="Noto Serif SC Medium" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="shape-auto-fit">
+        <p>空间里的轻声叙述</p>
+      </content>
+    </shape>
+    <shape width="301.95" height="42.24" topLeftX="588.38" topLeftY="328.07" type="text">
+      <content fontSize="12" fontFamily="Noto Serif SC Light" color="rgba(139, 136, 125, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p>每一页都是故事的一部分，而你是阅读它的人。我们希望这些文字与图像能陪你走过短暂的时间。</p>
+      </content>
+    </shape>
+    <icon width="28" height="28.11" topLeftX="862.33" topLeftY="440.25" iconType="iconpark/Base/search.svg">
+      <border color="rgba(195, 169, 136, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+    </icon>
+    <shape width="496.29" height="55.58" topLeftX="50.18" topLeftY="445.36" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Noto Serif SC SemiBold" color="rgba(43, 40, 33, 1)" bold="false" lineSpacing="multiple:1.4">
+        <p>一个关于温柔和细节的故事。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

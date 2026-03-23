@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>销售OKR与绩效激励的结合</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>分层激励</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="150" topLeftX="48" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>基准值（如KR完成60%）：发放基础奖金；目标值（如KR完成100%）：额外奖励10%绩效工资；挑战值（如KR完成120%）：奖励20%绩效工资+晋升优先资格</p>
+      </content>
+    </shape>
+    <img src="UVmRbHS0pogXAZx1ouNcfg15nPp" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>非物质激励</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="150" topLeftX="345.47" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>设立“季度销售之星”“OKR达人”等荣誉，公开表彰并提供培训资源（如高端销售课程）</p>
+      </content>
+    </shape>
+    <img src="B0Gxb6xryoltZFxtPIbcXMAYnIf" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>团队激励</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="150" topLeftX="642.94" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>若团队整体OKR达成率≥90%，发放团队奖金池，增强协作意识</p>
+      </content>
+    </shape>
+    <img src="WueAbYZu4oq7iIxaKkxc8yzanvf" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

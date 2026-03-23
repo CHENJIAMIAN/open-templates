@@ -1,0 +1,75 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="338.75" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <line startX="414.72" startY="126.93" endX="414.72" endY="228.34" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="414.72" startY="253.76" endX="414.72" endY="355.16" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="414.72" startY="380.59" endX="414.72" endY="481.99" alpha="0.34">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <icon width="40" height="40" topLeftX="66.71" topLeftY="146.89" iconType="iconpark/Office/doc-success.svg">
+        <border color="rgba(169, 169, 169, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>汽车行业特有的技术壁垒：从"零件认知"到"系统思维"</p>
+        </content>
+      </shape>
+      <shape width="295" height="227.23" topLeftX="69.71" topLeftY="235.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车工程中的任何技术问题都不能孤立看待，必须放在整车层面分析——就像医生不能只治疗表面症状，而要找到病因与全身系统的关联，只有建立"系统思维"，才能真正解决汽车研发中的复杂问题。</p>
+        </content>
+      </shape>
+      <shape width="295" height="34" topLeftX="69.71" topLeftY="201.48" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心观点</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="156.34" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车工程真正的难点在于"系统集成"——如何让上万个零件在整车层面协同工作，发挥出1+1＞2的效能。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="121.89" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>系统集成难点</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="283.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>负责某车型ESP标定时，初期仅关注传感器数据精度，忽略了与制动系统、转向系统的协同逻辑，导致冬季冰雪路面测试中出现ESP介入延迟问题。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="248.71" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>实践案例</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="72" topLeftX="427.12" topLeftY="409.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>CAN总线通信时延导致传感器采集的车辆状态数据与制动执行器的响应不同步，独立符合标准的零件在整车系统中产生不协同问题。</p>
+        </content>
+      </shape>
+      <shape width="484.88" height="36" topLeftX="427.12" topLeftY="375.54" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>问题根源</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

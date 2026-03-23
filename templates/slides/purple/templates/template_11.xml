@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+      <fill>
+        <fillColor color="rgba(33, 33, 33, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>SMART原则在销售目标中的应用</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>明确“谁在什么范围达成什么”，如“华东区销售团队Q3实现制造业客户突破”而非“拓展新市场”</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>具体（Specific）</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>目标需隐含可量化结果，如“提升市场份额”需转化为“市场份额从10%提升至15%”</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>可衡量（Measurable）</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>基于历史数据设定合理挑战，如历史季度最高销售额800万，目标可设为1000万</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>可实现（Achievable）</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>与团队职责、公司战略强相关，销售团队目标不应偏离“业绩增长、客户拓展”等核心职责</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>相关性（Relevant）</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(177, 177, 177, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>明确完成周期，如“Q4前完成华南区渠道布局”而非“长期拓展华南市场”</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+      <content fontSize="18" fontFamily="DouYinMeiHao" color="rgba(240, 236, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>时限性（Time-bound）</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,77 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(236, 240, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>政策环境与行业规范</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="48" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>政策支持</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="48" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国"十四五"数字经济规划明确将云游戏纳入新型文化消费范畴，多地出台专项补贴鼓励企业研发。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="270" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业标准制定</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="270" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>国际电信联盟(ITU)和全球云游戏联盟(GCGA)联合发布《云游戏服务质量标准》。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="492" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>国内指导意见</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="492" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国工业和信息化部发布《云游戏产业发展指导意见》，提出到2030年建成全球领先的云游戏产业生态体系。</p>
+      </content>
+    </shape>
+    <shape width="198" height="32" topLeftX="714" topLeftY="216.46" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>监管要求完善</p>
+      </content>
+    </shape>
+    <shape width="198" height="240" topLeftX="714" topLeftY="253.96" type="text">
+      <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>数据安全、用户隐私保护、内容审核等监管要求逐步完善，推动行业规范化发展。</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="48" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>01</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="270" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>02</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="492" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>03</p>
+      </content>
+    </shape>
+    <shape width="100" height="44" topLeftX="714" topLeftY="160.92" type="text">
+      <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

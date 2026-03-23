@@ -1,0 +1,35 @@
+﻿{
+    "id":  "slides/warm_beige_art",
+    "family":  "slides",
+    "name":  "warm_beige_art",
+    "displayName":  "Warm Beige Art",
+    "description":  "Presentation slide template for Warm Beige Art.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "warm",
+                 "beige",
+                 "art"
+             ],
+    "sourcePath":  "templates/slides/warm_beige_art",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/warm_beige_art",
+    "preview":  {
+                    "cover":  "warm_beige_art/slide_pka_A8CtbdMZKoQLDgx5JNScYVV1nqb.png",
+                    "gallery":  [
+                                    "warm_beige_art/slide_pka_A8CtbdMZKoQLDgx5JNScYVV1nqb.png",
+                                    "warm_beige_art/slide_pka_HsJ9bGLgjoLbzTxjM3Uc9QsnnBg.png",
+                                    "warm_beige_art/slide_pkb_QDNlb3itFoxIK3xCbHqcqoc3nPg.png"
+                                ]
+                }
+}

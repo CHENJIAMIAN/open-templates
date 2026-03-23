@@ -1,0 +1,59 @@
+<slide>
+  <style/>
+  <data>
+    <img src="KSQdbbPhtoW0AmxaPx2cCduOnAb" width="542.12" height="962.54" topLeftX="210.21" topLeftY="-210.70" rotation="90">
+      <crop type="rect" leftOffset="584.53" rightOffset="584.53" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+    </img>
+    <line startX="479.50" startY="-0.50" endX="480.50" endY="247.08" alpha="0.20">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="479.50" startY="292.92" endX="480.50" endY="540.50" alpha="0.20">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="960" startY="270" endX="500.50" endY="270" alpha="0.20">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <line startX="459" startY="270" endX="-0.50" endY="270" alpha="0.20">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+    </line>
+    <shape width="8" height="8" topLeftX="476" topLeftY="266" alpha="0.60" type="ellipse">
+      <border color="rgba(255, 255, 255, 1)" width="1"/>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="400" height="84" topLeftX="29.94" topLeftY="26.22" type="text">
+      <content fontSize="30" fontFamily="Noto Sans SC Medium" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" autoFit="shape-auto-fit">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">技术革新的浪潮已至，每一次突破都在</span>
+          <span color="rgba(158, 159, 172, 1)">重构未来的边界。</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="327" height="54" topLeftX="607.67" topLeftY="458.38" alpha="0.60" type="text">
+      <content verticalAlign="top" textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="right" autoFit="shape-auto-fit">
+        <p>从第一台计算机的诞生到 AI 大模型的普及，人类的科技探索从未止步。当下，云计算的普及、算力的跃升、数据的爆发，正为各行业带来前所未有的发展机遇。</p>
+      </content>
+    </shape>
+    <shape width="18" height="18" topLeftX="47.94" topLeftY="496.38" alpha="0.50" type="ellipse">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="67" height="24" topLeftX="78.02" topLeftY="492.38" type="text">
+      <content fontSize="16" fontFamily="寒蝉端黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)" fontSize="16" fontFamily="寒蝉端黑体">2025 ©</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="18" height="18" topLeftX="29.94" topLeftY="496.38" type="ellipse">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content paddingRight="2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

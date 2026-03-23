@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(232, 239, 248, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>多模态融合加速</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>据Gartner最新报告，2026年75%的企业AI产品将具备多模态交互能力，当前行业平均进度落后于预期12个月</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业趋势洞察</p>
+      </content>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>垂直领域深耕</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>垂直行业AI解决方案市场增速达45%（通用型仅18%），金融、医疗、制造成为投资热点</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(50, 63, 83, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI安全合规强化</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 147, 160, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>欧盟AI法案正式实施，要求生成式AI产品必须具备可追溯性和人工干预机制，合规成本平均增加15%</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

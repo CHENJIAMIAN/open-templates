@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(26, 26, 26, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="527.29" height="176" topLeftX="384.71" topLeftY="121.89" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="329" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" alpha="0.56" type="round-rect">
+        <fill>
+          <fillColor color="rgba(169, 169, 169, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="527.29" height="176" topLeftX="384.71" topLeftY="305.99" presetHandlers="0" type="round-rect">
+        <fill>
+          <fillColor color="rgba(52, 52, 52, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>项目管理中的"资源博弈"：在有限条件下实现最优解</p>
+        </content>
+      </shape>
+      <shape width="478.34" height="104" topLeftX="406.33" topLeftY="171.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将原计划采用的铝合金下摆臂改为高强度钢材质，降低了15%的成本，重量仅增加3kg，通过优化悬架弹簧参数抵消了重量增加对底盘性能的影响。</p>
+        </content>
+      </shape>
+      <shape width="479.16" height="32.02" topLeftX="406.33" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>材料调整方案</p>
+        </content>
+      </shape>
+      <shape width="283.60" height="288.11" topLeftX="69.71" topLeftY="174.61" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.702)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>汽车研发永远绕不开"时间、成本、质量"的三角博弈，资源博弈的核心在于先明确"不可妥协的底线"，再在"可优化区间"内寻找平衡点。团队在压缩周期、降低成本的同时，底盘性能指标仅小幅下降0.3分，仍达到行业优秀水平。资源博弈不是"牺牲某一方"的妥协，而是"守住底线、灵活调整"的智慧。</p>
+        </content>
+      </shape>
+      <shape width="284.08" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体策略与成果</p>
+        </content>
+      </shape>
+      <shape width="478.34" height="104" topLeftX="406.33" topLeftY="355.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(148, 148, 148, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将部分非关键冬季测试场景转为仿真替代，节省了15天时间，同时保留了关键的-30℃极寒实车测试，确保低温环境下的底盘可靠性。</p>
+        </content>
+      </shape>
+      <shape width="479.16" height="32.02" topLeftX="406.33" topLeftY="326.69" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(228, 228, 228, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>测试优化方案</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

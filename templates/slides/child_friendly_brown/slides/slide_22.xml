@@ -1,0 +1,77 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(237, 177, 70, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策监管框架</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>安全标准</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>《消费品安全法》要求儿童产品通过第三方检测，铅含量≤100ppm、邻苯二甲酸酯≤0.1%，需附加注册卡与追踪标识。</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>教育合规</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>《在线教育服务管理办法》规范内容质量，教育机构需具备办学资质，教师需持教师资格证。</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="资源圆体" color="rgba(136, 123, 92, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据隐私</p>
+        </content>
+      </shape>
+      <shape width="280" height="134.70" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="资源圆体" color="rgba(163, 159, 149, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>《儿童个人信息网络保护规定》要求收集数据需家长明示同意，2027年超80%产品将通过国家认证，采用端侧加密技术。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

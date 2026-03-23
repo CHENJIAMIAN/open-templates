@@ -1,0 +1,119 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(0, 0, 0, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="DnNpbKBKSojlMgxvUnpcew9In4c" width="840.46" height="302.46" topLeftX="59.77" topLeftY="42.32" exposure="9" temperature="57">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="85.15" bottomOffset="85.15" presetHandlers="8"/>
+      </img>
+      <shape width="338.19" height="58.38" topLeftX="55.88" topLeftY="370.37" type="text">
+        <content textType="title" fontSize="40" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit" wrap="false">
+          <p>
+            <span fontFamily="Noto Sans SC Light">支撑系统运行要素</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="310.97" height="51.59" topLeftX="55.88" topLeftY="440.25" type="text">
+        <content textType="caption" fontSize="16" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4">
+          <p>构成整体系统的基础部分，用于支撑主要功能与逻辑，寻找系统运行的要素。</p>
+        </content>
+      </shape>
+      <shape width="44.44" height="44.44" topLeftX="478.81" topLeftY="376.48" alpha="0.12" type="ellipse">
+        <fill>
+          <fillColor/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <icon width="23" height="23" topLeftX="489.53" topLeftY="387.20" iconType="iconpark/Charts/chart-scatter.svg">
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="102.58" height="21" topLeftX="449.74" topLeftY="425.92" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">结构清晰</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="102.58" height="38.09" topLeftX="449.74" topLeftY="449.92" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span fontSize="12">确保信息</span>
+          </p>
+          <p textAlign="center" lineSpacing="multiple:1.4">
+            <span fontSize="12">层级明确</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="44.44" height="44.44" topLeftX="594.78" topLeftY="376.48" alpha="0.12" type="ellipse">
+        <fill>
+          <fillColor/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="102.58" height="21" topLeftX="565.71" topLeftY="425.92" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">逻辑连贯</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="102.58" height="38.09" topLeftX="565.71" topLeftY="449.92" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p>保证内容之间的</p>
+          <p textAlign="center" lineSpacing="multiple:1.4">衔接关系</p>
+        </content>
+      </shape>
+      <icon width="23" height="23" topLeftX="605.50" topLeftY="387.20" iconType="iconpark/Charts/kagi-map.svg">
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="44.44" height="44.44" topLeftX="710.75" topLeftY="376.48" alpha="0.12" type="ellipse">
+        <fill>
+          <fillColor/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="102.58" height="21" topLeftX="681.68" topLeftY="425.92" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">稳定运行</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="102.58" height="38.09" topLeftX="681.68" topLeftY="449.92" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p>支持系统</p>
+          <p textAlign="center" lineSpacing="multiple:1.4">持续使用</p>
+        </content>
+      </shape>
+      <icon width="22.92" height="22.92" topLeftX="721.51" topLeftY="387.24" iconType="iconpark/Music/waves-left.svg">
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="44.44" height="44.44" topLeftX="826.72" topLeftY="376.48" alpha="0.12" type="ellipse">
+        <fill>
+          <fillColor/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="102.58" height="21" topLeftX="797.65" topLeftY="425.92" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontSize="12">易于调整</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="102.58" height="38.09" topLeftX="797.65" topLeftY="449.92" alpha="0.65" type="text">
+        <content textType="caption" fontSize="12" fontFamily="Noto Sans SC Light" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+          <p>便于后续</p>
+          <p textAlign="center" lineSpacing="multiple:1.4">扩展与修改</p>
+        </content>
+      </shape>
+      <icon width="23" height="23" topLeftX="837.44" topLeftY="387.20" iconType="iconpark/Travel/globe.svg">
+        <border color="rgba(255, 255, 255, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

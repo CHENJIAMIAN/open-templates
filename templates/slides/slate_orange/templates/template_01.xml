@@ -1,0 +1,39 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="ILSsbGohioX5LFxMUoic9wMHnoh" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="849.07" height="61.69" topLeftX="55.46" topLeftY="440.60" type="text">
+      <content textType="headline" fontSize="48" fontFamily="思源黑体" color="rgba(202, 202, 202, 1)" bold="true" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">
+          <span fontSize="48">全球智能眼镜市场调研</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="119" height="24" topLeftX="44.62" topLeftY="46.13" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="119" height="31.89" topLeftX="44.62" topLeftY="72.22" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="188.57" topLeftY="46.13" type="text">
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="159.03" height="31.89" topLeftX="188.57" topLeftY="72.22" type="text">
+      <content fontSize="20" fontFamily="思源黑体" color="rgba(221, 225, 224, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>2025-12-28</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

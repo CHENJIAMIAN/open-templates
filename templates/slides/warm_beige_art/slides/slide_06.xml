@@ -1,0 +1,57 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 245, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="55.66" startY="154.18" endX="55.66" endY="540" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="50.66" topLeftY="149.18" type="ellipse">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <border color="rgba(20, 121, 175, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="50.66" topLeftY="328.15" type="ellipse">
+        <fill>
+          <fillColor color="rgba(247, 244, 237, 1)"/>
+        </fill>
+        <border color="rgba(20, 121, 175, 1)" width="3"/>
+        <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="390.21" height="45" topLeftX="47.66" topLeftY="51.56" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>超现实主义</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="36" topLeftX="78.48" topLeftY="134.60" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心特征</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="120" topLeftX="78.48" topLeftY="170.10" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>描绘梦幻场景，融合现实与荒诞元素。</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="36" topLeftX="78.48" topLeftY="314.15" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(91, 79, 61, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>推荐图片</p>
+        </content>
+      </shape>
+      <shape width="359.38" height="120" topLeftX="78.48" topLeftY="349.65" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(160, 156, 148, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>达利《记忆的永恒》（融化的钟表与荒凉 landscape），搜索关键词：Salvador Dalí melting clocks</p>
+        </content>
+      </shape>
+      <img src="KrYVbBfxZoLlvJx7e5AcTWzVnWe" width="480" height="540" topLeftX="480" topLeftY="0">
+        <crop type="rect" leftOffset="30" rightOffset="30" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

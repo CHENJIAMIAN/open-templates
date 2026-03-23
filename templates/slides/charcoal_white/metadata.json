@@ -1,0 +1,32 @@
+﻿{
+    "id":  "slides/charcoal_white",
+    "family":  "slides",
+    "name":  "charcoal_white",
+    "displayName":  "Charcoal White",
+    "description":  "Presentation slide template for Charcoal White.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "charcoal",
+                 "white"
+             ],
+    "sourcePath":  "templates/slides/charcoal_white",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/charcoal_white",
+    "preview":  {
+                    "cover":  "showcase/assets/slides/charcoal_white/cover.png",
+                    "gallery":  [
+                                    "showcase/assets/slides/charcoal_white/cover.png"
+                                ]
+                }
+}

@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(240, 243, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞品选择与分类矩阵</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>直接竞品</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="48.27" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>学习打卡类App"小日常"、碎片化学习工具"知识胶囊"</p>
+        </content>
+      </shape>
+      <img src="AoNgbnvzdoDyoOxoLnWcZLZ7n9g" width="259.14" height="194" topLeftX="48.27" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>间接竞品</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="340.43" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>综合学习平台"得到"、垂直技能社区"极客时间"</p>
+        </content>
+      </shape>
+      <img src="YGuPb5nKaoQ133xqCy4cXUOVn4f" width="259.14" height="194" topLeftX="340.43" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="341.32" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(75, 87, 87, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>潜在竞品</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="120" topLeftX="632.59" topLeftY="376.93" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(145, 153, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>办公协作工具"飞书文档"的学习模块</p>
+        </content>
+      </shape>
+      <img src="ElVeb5sdwo6uRmx7PmBcRexxnyd" width="259.14" height="194" topLeftX="632.59" topLeftY="129.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

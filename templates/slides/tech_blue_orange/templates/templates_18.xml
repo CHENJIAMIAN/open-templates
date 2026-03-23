@@ -1,0 +1,82 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(241, 246, 251, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="47" startY="144.05" endX="90.76" endY="144.05">
+      <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="346.38" startY="144.05" endX="390.14" endY="144.05" alpha="0.30">
+      <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="645.77" startY="144.05" endX="689.52" endY="144.05" alpha="0.30">
+      <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="196.69" startY="324.54" endX="240.45" endY="324.54" alpha="0.30">
+      <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <line startX="496.07" startY="324.54" endX="539.83" endY="324.54" alpha="0.30">
+      <border color="rgba(254, 155, 53, 1)" lineCap="square" lineJoin="miter" miterLimit="10"/>
+    </line>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48.64" type="text">
+      <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业趋势与技术适配</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="48" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>云原生深化</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="48" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>Kubernetes Operator、Service Mesh（编号7、8）</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="347.38" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>智能化转型</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="347.38" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AIOps、大模型故障预测（编号10）</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="646.77" topLeftY="161.25" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>安全左移</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="646.77" topLeftY="191.93" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>容器安全扫描、零信任架构（编号10）</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="197.69" topLeftY="341.74" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AIOps应用案例</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="197.69" topLeftY="372.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>关注AIOps趋势，学习LSTM故障预测模型，将故障预测准确率提升至93%（编号6）</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="30" topLeftX="497.07" topLeftY="341.74" type="text">
+      <content textType="sub-headline" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>边缘计算与5G协同</p>
+      </content>
+    </shape>
+    <shape width="265.23" height="110" topLeftX="497.07" topLeftY="372.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>研究边缘计算与5G协同，参与企业边缘节点部署方案设计（编号9）</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

@@ -1,0 +1,94 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(32, 32, 32, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="344.52" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.10" topLeftY="204.57" iconType="iconpark/Base/equalizer.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="154" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="204.84" rotation="0" iconType="iconpark/Office/find-one.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="345.21" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="395.78" topLeftY="336.29" rotation="0" iconType="iconpark/Health/safe-retrieval.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.72" topLeftY="285.72" rotation="0" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.45" topLeftY="336.56" rotation="0" iconType="iconpark/Travel/local.svg">
+        <border color="rgba(255, 196, 127, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>培训考核方式与标准</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>考核方式</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">包括理论测试和实操评估两部分：理论测试采用闭卷考试形式，内容涵盖培训所学的规章制度、企业文化、业务知识等；实操评估通过模拟工作场景，考察员工的实际应用能力。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="47.80" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>总体说明</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="47.84" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>入职培训考核是检验培训效果、确保员工掌握必要知识的重要环节。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>合格标准</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>总分达到80分以上，其中理论测试不低于70分，实操评估不低于85分。</p>
+        </content>
+      </shape>
+      <shape width="276" height="35" topLeftX="635.75" topLeftY="308.55" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 250, 241, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>结果应用</p>
+        </content>
+      </shape>
+      <shape width="276" height="108" topLeftX="635.80" topLeftY="339.55" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(170, 168, 163, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>考核结果将计入员工档案，作为试用期评估的重要依据。未通过考核的员工，将有一次补考机会，仍未通过者需重新参加入职培训。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

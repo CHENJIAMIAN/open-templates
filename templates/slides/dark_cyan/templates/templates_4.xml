@@ -1,0 +1,97 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(24, 26, 29, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="121.89" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="121.89" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="360.11" topLeftX="48" topLeftY="121.89" presetHandlers="0" alpha="0.80" type="round-rect">
+      <fill>
+        <fillColor color="rgba(82, 187, 188, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="338.67" topLeftY="305.99" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="282.92" height="176" topLeftX="630.08" topLeftY="305.99" presetHandlers="0" type="round-rect">
+      <fill>
+        <fillColor color="rgba(24, 26, 29, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+        <p>全球消费电子行业趋势与竞争格局</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>苹果、三星等品牌凭借技术优势和高品牌溢价占据高端市场份额</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>高端市场格局</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>小米、OPPO等中国品牌在性价比市场占据主导地位</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>性价比市场格局</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="288.11" topLeftX="69.71" topLeftY="173.61" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.902)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全球消费电子市场规模持续扩大，预计到2025年将达到1.2万亿美元，呈现出多元化、高端化与智能化的发展趋势，市场竞争日益激烈</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="69.71" topLeftY="142.58" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 0.922)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>行业总体趋势</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="360.38" topLeftY="357.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AIoT（人工智能物联网）、5G通信等正深刻影响消费行为，推动智能家居、可穿戴设备等细分市场快速增长</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="360.38" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>新兴技术影响</p>
+      </content>
+    </shape>
+    <shape width="239.59" height="104" topLeftX="651.79" topLeftY="357.71" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(151, 152, 153, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>在北美和欧洲市场注重高端化和智能化发展；在东南亚市场强化性价比和本地化服务；在非洲市场提升基础功能和网络适应性</p>
+      </content>
+    </shape>
+    <shape width="240" height="30" topLeftX="651.79" topLeftY="326.69" type="text">
+      <content fontSize="18" fontFamily="思源黑体" color="rgba(235, 235, 235, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国企业差异化策略</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

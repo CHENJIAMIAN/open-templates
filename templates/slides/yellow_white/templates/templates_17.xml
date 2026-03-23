@@ -1,0 +1,56 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(255, 255, 255, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>数据收集与分析</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>反馈问卷收集</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="48" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>活动后发放反馈问卷，从"满意度""目标达成度""改进建议"三方面收集数据，量化评估活动效果。</p>
+      </content>
+    </shape>
+    <img src="C3EobHsVDobFLwxE9rVcsznkn7d" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+    </img>
+    <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>关键数据分析</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="345.47" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>收集活动过程中的关键数据，如参与率、任务完成率、团队协作效率等，与活动前设定的目标进行对比分析。</p>
+      </content>
+    </shape>
+    <img src="FGl4bwwR8owvwrxTYQtccdLpnyf" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+    </img>
+    <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+        <p>定性数据收集</p>
+      </content>
+    </shape>
+    <shape width="269.06" height="140" topLeftX="642.94" topLeftY="359.04" type="text">
+      <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+        <p>通过观察记录、员工访谈等方式收集定性数据，了解员工对活动的真实感受和意见，为后续活动优化提供依据。</p>
+      </content>
+    </shape>
+    <img src="E2gEbshtzobQZmxEo9PctlDQnMd" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

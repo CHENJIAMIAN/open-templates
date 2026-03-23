@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="BNfObIL8wogEpixqwFhccnbznXb" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="108.55" height="72" topLeftX="46.07" topLeftY="46.20" type="text">
+      <content textType="title" fontSize="54" fontFamily="寒蝉团圆体 黑体" color="rgba(211, 241, 245, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>05</p>
+      </content>
+    </shape>
+    <shape width="695.62" height="75" topLeftX="214.92" topLeftY="41.09" type="text">
+      <content textType="headline" fontSize="50" fontFamily="寒蝉团圆体 黑体" color="rgba(211, 241, 245, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+        <p>运营与团队</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

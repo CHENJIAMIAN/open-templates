@@ -1,0 +1,96 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="14" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="15" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户需求与行为演变</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">需求两极分化</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>用户需求呈现两极分化趋势，重度游戏与轻量化游戏并行发展。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">用户行为特征变化</p>
+        </content>
+      </shape>
+      <shape width="260" height="90" topLeftX="33" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>用户行为向高频率、长时长、高粘性演进，预计2030年用户平均周使用频次突破7次，单次使用时长稳定在70分钟以上。</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">跨平台玩家价值</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84" topLeftX="48" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>跨平台玩家作为最有价值的用户群体，其游戏时长和付费能力显著高于单平台用户。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">云游戏渗透率提升</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>云游戏用户渗透率将从当前的8.5%提升至2030年的22%。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">用户群体多元化</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户群体将进一步多元化，18至35岁年轻群体仍为核心，但中高龄用户比例持续提升；女性用户占比将从40%提升至45%，推动市场多元化发展。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

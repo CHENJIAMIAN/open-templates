@@ -1,0 +1,34 @@
+﻿{
+    "id":  "slides/indigo_silver",
+    "family":  "slides",
+    "name":  "indigo_silver",
+    "displayName":  "Indigo Silver",
+    "description":  "Presentation slide template for Indigo Silver.",
+    "tags":  [
+                 "slides",
+                 "presentation",
+                 "indigo",
+                 "silver"
+             ],
+    "sourcePath":  "templates/slides/indigo_silver",
+    "entryFiles":  [
+                       "metadata.md",
+                       "template.xml"
+                   ],
+    "initMode":  "copy-dir",
+    "visibility":  "public",
+    "outputType":  "presentation-theme",
+    "artifactHints":  [
+                          "Export the deck as PDF or images.",
+                          "Use metadata.md and layout assets as the source of truth."
+                      ],
+    "examplePath":  "examples/slides/indigo_silver",
+    "preview":  {
+                    "cover":  "indigo_silver/slide_pod_AwOYboidGoltHMxcwzzceqQBnNf.png",
+                    "gallery":  [
+                                    "indigo_silver/slide_pod_AwOYboidGoltHMxcwzzceqQBnNf.png",
+                                    "indigo_silver/slide_poh_PonIbZNiOooHbjxxLJvc1OA0nMh.png",
+                                    "indigo_silver/slide_pom_AAhab5lZ6oz3lxx5qUecmrRQncg.png"
+                                ]
+                }
+}

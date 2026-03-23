@@ -1,0 +1,1294 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>2025年游戏行业年度回顾</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)" fontSize="30"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)" fontSize="29"/>
+      <body fontColor="rgba(31, 35, 41, 1)" fontSize="18"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="PlzzbZOdpoYC2Fx1jxSc6ZhYnGf" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="717.61" startY="434.47" endX="717.61" endY="484.47" alpha="0.60">
+        <border color="rgba(239, 248, 255, 1)" width="1"/>
+      </line>
+      <line startX="910.17" startY="434.27" endX="910.17" endY="484.27" alpha="0.60">
+        <border color="rgba(239, 248, 255, 1)" width="1"/>
+      </line>
+      <shape width="856.83" height="200.71" topLeftX="52" topLeftY="45.16" type="text">
+        <content textType="headline" fontSize="66" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(255, 249, 249, 1) 0%,rgba(239, 244, 255, 1) 100%)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年游戏行业年度回顾</p>
+        </content>
+      </shape>
+      <shape width="203.66" height="24" topLeftX="500.61" topLeftY="432.97" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(226, 237, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="203.66" height="31.89" topLeftX="500.61" topLeftY="456.06" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(226, 237, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="155.89" height="24" topLeftX="740.95" topLeftY="432.97" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(226, 237, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="155.89" height="31.89" topLeftX="740.95" topLeftY="456.06" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(226, 237, 255, 1)" bold="true" textAlign="right" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="1" topLeftX="48" topLeftY="354" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <img src="DuYabAG29oZTvZx16YocAmzKn8e" width="960" height="239.44" topLeftX="0" topLeftY="-0.01">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="168.30" bottomOffset="72.26" presetHandlers="0"/>
+      </img>
+      <shape width="864" height="54" topLeftX="48.48" topLeftY="276.87" type="text">
+        <content textType="title" fontSize="36" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="47.87" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场规模与增长态势</p>
+        </content>
+      </shape>
+      <shape width="100" height="45" topLeftX="47.87" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="268.34" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术创新与平台发展</p>
+        </content>
+      </shape>
+      <shape width="100" height="45" topLeftX="268.34" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="488.81" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容生态与电竞发展</p>
+        </content>
+      </shape>
+      <shape width="100" height="45" topLeftX="488.81" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="200" height="70" topLeftX="709.28" topLeftY="429.42" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>未来趋势与行业展望</p>
+        </content>
+      </shape>
+      <shape width="100" height="45" topLeftX="709.28" topLeftY="382.42" type="text">
+        <content textType="headline" fontSize="30" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="FeIlbtCB6oGRlxxaHemcsp1Wn6e" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80" height="83.72" topLeftX="47.62" topLeftY="418.21" alpha="0.60" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="781.90" height="90.43" topLeftX="118.55" topLeftY="412.50" type="text">
+        <content textType="headline" fontSize="52" fontFamily="思源黑体" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场规模与增长态势</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="427" height="172.98" topLeftX="48" topLeftY="146.61" presetHandlers="5" alpha="0.35" type="rect">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="48" topLeftY="329.25" presetHandlers="5" alpha="0.35" type="rect">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="485" topLeftY="146.61" presetHandlers="5" alpha="0.35" type="rect">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="427" height="172.98" topLeftX="485" topLeftY="329.25" presetHandlers="5" alpha="0.35" type="rect">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="378" height="48" topLeftX="71.06" topLeftY="160.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">3507.89亿元</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="71.86" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年中国游戏市场实际销售收入，同比增长7.68%</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="71.86" topLeftY="208.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">实际销售收入</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="71.06" topLeftY="343.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">2910.95亿元</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="71.86" topLeftY="419.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年中国自主研发游戏国内市场实际销售收入，同比增长11.64%</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="71.86" topLeftY="390.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">自研游戏国内收入</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="508.06" topLeftY="160.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">6.83亿</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="508.86" topLeftY="236.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年中国游戏市场用户规模，同比增长1.35%</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="508.86" topLeftY="208.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">用户规模</p>
+        </content>
+      </shape>
+      <shape width="378" height="48" topLeftX="508.06" topLeftY="343.38" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">204.55亿美元</p>
+        </content>
+      </shape>
+      <shape width="378" height="70" topLeftX="508.86" topLeftY="419.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年中国自主研发游戏海外市场收入，同比增长10.23%，连续六年站稳千亿元人民币规模</p>
+        </content>
+      </shape>
+      <shape width="378" height="28" topLeftX="508.86" topLeftY="390.76" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">自研游戏海外收入</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="38.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国市场表现突出</p>
+        </content>
+      </shape>
+      <shape width="864.20" height="49" topLeftX="47.87" topLeftY="90.46" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国游戏产业在未成年人保护、稳消费促增长、科技创新应用等方面均保持良好发展态势，社会各界对游戏产业的认知和舆情持续改善。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="863" height="1" topLeftX="49" topLeftY="223" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="863" height="1" topLeftX="49" topLeftY="326" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="1" topLeftX="49" topLeftY="427" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="30.62" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>云游戏市场加速扩张</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="138.31" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>2.3亿</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="140.31" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国云游戏用户规模达到2.3亿人，付费用户占比约38%，人均年消费金额为210元</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="175.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年用户规模</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="239.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>300亿美元</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="241.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球云游戏市场规模突破300亿美元，中国成为第二大市场，占比接近35%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="276.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球市场规模</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="339.96" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>3倍</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="341.96" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>边缘计算节点部署数量较2023年增长近3倍，降低运营成本并提升区域覆盖能力</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="376.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>边缘计算增长</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="440.78" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>4.1亿</p>
+        </content>
+      </shape>
+      <shape width="655.68" height="70" topLeftX="256.40" topLeftY="442.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>预计到2030年，中国云游戏用户总量有望攀升至4.1亿，付费率提升至52%，人均年支出预计增长至360元</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="477.80" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2030年用户预测</p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46" topLeftX="47.93" topLeftY="82.62" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术进步与5G网络普及推动用户体验大幅提升，延迟问题显著改善，主流云游戏平台的画质已接近本地渲染水平</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="Vnx8bd8XAoL8BAxZRjccEHOunUd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80" height="83.72" topLeftX="47.62" topLeftY="418.21" alpha="0.60" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="781.90" height="90.43" topLeftX="118.55" topLeftY="412.50" type="text">
+        <content textType="headline" fontSize="52" fontFamily="思源黑体" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术创新与平台发展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="267" height="267" topLeftX="346.50" topLeftY="159.32" alpha="0.10" type="ellipse">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="412.75" topLeftY="172.05" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.80" type="custom">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="475.70" topLeftY="222.75" rotation="72.32" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.638599999999999 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999996 L116.97289999999997,105.44999999999999 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.638599999999999 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="447.40" topLeftY="297.75" rotation="144" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="366.65" topLeftY="294.05" rotation="216" path="M68.53409999999998,0 C93.66329999999999,0 117.00819999999997,7.6385999999999985 136.37329999999997,20.720499999999998 L143.09999999999997,25.750299999999992 L116.97289999999997,105.44999999999997 L0,21.240199999999998 L0.6948999999999999,20.720499999999998 C20.059999999999995,7.6385999999999985 43.404999999999994,0 68.53409999999998,0 Z" alpha="0.35" type="custom">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="143.10" height="105.45" topLeftX="345.30" topLeftY="216.40" rotation="288" path="M68.5341,0 C93.6633,0 117.0082,7.6386 136.3733,20.7205 L143.1,25.7503 L116.9729,105.45 L0,21.2402 L0.6949,20.7205 C20.06,7.6386 43.405,0 68.5341,0 Z" alpha="0.25" type="custom">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit">
+          <p textAlign="center">
+            <strong>
+              <span color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false"> </span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <icon width="32" height="32" topLeftX="497.43" topLeftY="614.61" iconType="iconpark/Base/waterfalls-h.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32" height="32" topLeftX="564.61" topLeftY="687.96" iconType="iconpark/Base/config.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32" height="32" topLeftX="517.43" topLeftY="768.70" iconType="iconpark/Charts/ranking.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32" height="32" topLeftX="417.21" topLeftY="747.95" iconType="iconpark/Abstract/triangle-round-rectangle.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <icon width="32" height="32" topLeftX="407.49" topLeftY="656.25" iconType="iconpark/Edit/minus-the-top.svg">
+        <border color="rgba(255, 255, 255, 0.922)" width="1" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI技术深度赋能游戏产业</p>
+        </content>
+      </shape>
+      <shape width="276.41" height="32" topLeftX="56" topLeftY="127.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">应用阶段</p>
+        </content>
+      </shape>
+      <shape width="276.19" height="90" topLeftX="56" topLeftY="156.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>AI技术在游戏产业从概念探索阶段迈入应用阶段，52%的开发者使用生成式AI工具。</p>
+        </content>
+      </shape>
+      <shape width="266.42" height="32" topLeftX="38" topLeftY="257.88" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">技术价值</p>
+        </content>
+      </shape>
+      <shape width="266.42" height="90" topLeftX="38" topLeftY="286.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>AI技术不仅提升了开发效率，还为玩家带来更个性化、定制化的游戏体验。</p>
+        </content>
+      </shape>
+      <shape width="297.10" height="32" topLeftX="52.22" topLeftY="387.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">育碧技术突破</p>
+        </content>
+      </shape>
+      <shape width="297.10" height="84" topLeftX="52.22" topLeftY="415.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>育碧推出可玩的AINPC Demo"Teammates"，玩家可通过自然语言指挥队友。</p>
+        </content>
+      </shape>
+      <shape width="278" height="32" topLeftX="635" topLeftY="157.64" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">腾讯应用</p>
+        </content>
+      </shape>
+      <shape width="278" height="130" topLeftX="635" topLeftY="186.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>腾讯推出基于混元大模型的工业级AIGC游戏内容生产引擎，显著优化了游戏资产生成和制作流程。</p>
+        </content>
+      </shape>
+      <shape width="278" height="32" topLeftX="635" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">网易与巨人网络应用</p>
+        </content>
+      </shape>
+      <shape width="278" height="130" topLeftX="635" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>网易、巨人网络等厂商在旗下游戏中嵌入AI模型，丰富剧情内容、增强玩家互动体验。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="566" height="1" topLeftX="49" topLeftY="207" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="566" height="1" topLeftX="49" topLeftY="310" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="566" height="1" topLeftX="49" topLeftY="411" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="566.13" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>云游戏技术持续突破</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="121.31" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>60%</p>
+        </content>
+      </shape>
+      <shape width="358.57" height="77" topLeftX="255.64" topLeftY="121.31" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年边缘计算在云游戏中的应用覆盖率已达到60%，预计2030年将提升至85%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="162.33" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>边缘计算覆盖率</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="222.14" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>20亿</p>
+        </content>
+      </shape>
+      <shape width="358.57" height="77" topLeftX="256.37" topLeftY="224.14" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年全球5G用户数已超过20亿，其中云游戏用户占比达到30%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="263.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球5G用户数</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="322.96" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>12个</p>
+        </content>
+      </shape>
+      <shape width="358.57" height="77" topLeftX="256.37" topLeftY="324.96" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国"东数西算"工程建成12个云游戏算力枢纽，全球数据中心专门配置云游戏服务器比例达25%</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="363.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>算力枢纽</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="42" topLeftX="48.07" topLeftY="423.78" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="30" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.1" textAlign="left" autoFit="normal-auto-fit">
+          <p>4K/60fps</p>
+        </content>
+      </shape>
+      <shape width="358.57" height="77" topLeftX="256.37" topLeftY="425.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术进步使主流云游戏平台已全面支持4K/60fps画质，部分高端平台甚至实现了8K/120fps的超高清体验，同时延迟控制在20ms以内，接近本地游戏的响应速度</p>
+        </content>
+      </shape>
+      <shape width="188.88" height="30.67" topLeftX="49.07" topLeftY="464.80" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>主流画质</p>
+        </content>
+      </shape>
+      <img src="SG3Yb8iKMoag0gxlew8ci0wEnlh" width="303" height="540" topLeftX="657.14" topLeftY="0">
+        <crop type="rect" leftOffset="0.38" rightOffset="0.38" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="529" height="1" topLeftX="387" topLeftY="156" rotation="0" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="529" height="1" topLeftX="387" topLeftY="280" rotation="0" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="529" height="1" topLeftX="387" topLeftY="403" rotation="0" presetHandlers="0" alpha="0.35" type="rect">
+        <fill>
+          <fillColor color="rgba(185, 185, 185, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="307.77" height="231.67" topLeftX="48.32" topLeftY="47.96" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨平台游戏成为行业标配</p>
+        </content>
+      </shape>
+      <shape width="531.82" height="35" topLeftX="386.52" topLeftY="47.96" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业趋势</p>
+        </content>
+      </shape>
+      <shape width="531.66" height="62.51" topLeftX="386.52" topLeftY="78.96" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨平台数据互通已成为2025年游戏行业的标配技术，玩家可在不同设备间无缝切换，实现进度同步。</p>
+        </content>
+      </shape>
+      <shape width="531.82" height="35" topLeftX="386.52" topLeftY="171.23" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>典型案例</p>
+        </content>
+      </shape>
+      <shape width="531.39" height="62.51" topLeftX="386.52" topLeftY="202.23" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>《原神》《暗黑破坏神：不朽》《我的世界》等热门作品实现手机/PC/主机三端数据实时同步。</p>
+        </content>
+      </shape>
+      <shape width="531.82" height="35" topLeftX="386.52" topLeftY="294.50" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>玩家行为数据</p>
+        </content>
+      </shape>
+      <shape width="531.39" height="62.51" topLeftX="386.52" topLeftY="325.50" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">动视暴雪研究显示，53%的每周游戏玩家会在移动设备、PC和主机平台中的某种组合上玩游戏；Unity报告称，87%的多人游戏玩家玩过跨平台游戏，其中43%的玩家积极寻求更多跨平台游戏体验。</p>
+        </content>
+      </shape>
+      <shape width="531.82" height="35" topLeftX="386.52" topLeftY="417.78" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>商业价值</p>
+        </content>
+      </shape>
+      <shape width="531.39" height="62.51" topLeftX="386.52" topLeftY="448.78" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>跨平台策略不仅满足了玩家随时随地无缝访问游戏的需求，还扩大了总活跃玩家数量，数据显示跨平台玩家游戏时长比单平台玩家多出570%，每位用户的月收入贡献高出375%。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="A0KfbLGSMoLENMxgC7lcO8OjnKR" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80" height="83.72" topLeftX="47.62" topLeftY="418.21" alpha="0.60" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="781.90" height="90.43" topLeftX="118.55" topLeftY="412.50" type="text">
+        <content textType="headline" fontSize="52" fontFamily="思源黑体" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容生态与电竞发展</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="523" height="169.22" topLeftX="48" topLeftY="148.61" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="523" height="169.22" topLeftX="48" topLeftY="327.86" presetHandlers="5" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="329.89" height="348.47" topLeftX="582.11" topLeftY="148.61" presetHandlers="10" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="36.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>电竞产业规模持续扩大</p>
+        </content>
+      </shape>
+      <shape width="864.13" height="46.06" topLeftX="47.87" topLeftY="87.68" type="text">
+        <content textType="caption" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>电竞产业增长主要源于长线运营及电竞新品的双双发力。《英雄联盟》LPL、《王者荣耀》KPL等赛事商业化成熟，同时新兴游戏如《三角洲行动》凭借独特的"搜打撤"与"大战场"模式，正在重新定义战术射击电竞的维度；《漫威争锋》依托IP影响力构建全球化电竞赛事生态。</p>
+        </content>
+      </shape>
+      <shape width="478" height="48" topLeftX="71.06" topLeftY="164.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">1700.51亿元</p>
+        </content>
+      </shape>
+      <shape width="478" height="68" topLeftX="72.06" topLeftY="237.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年国内电子竞技游戏市场实销收入，同比增长18.96%</p>
+        </content>
+      </shape>
+      <shape width="478" height="28" topLeftX="72.06" topLeftY="212.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">国内电竞市场收入</p>
+        </content>
+      </shape>
+      <shape width="478" height="48" topLeftX="71.06" topLeftY="343.99" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">80%</p>
+        </content>
+      </shape>
+      <shape width="478" height="68" topLeftX="72.06" topLeftY="417.25" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>全球电竞观众中亚太地区观众占比约80%</p>
+        </content>
+      </shape>
+      <shape width="478" height="28" topLeftX="72.06" topLeftY="391.38" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">亚太电竞观众占比</p>
+        </content>
+      </shape>
+      <shape width="286.35" height="48" topLeftX="606.05" topLeftY="164.74" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="36" fontFamily="思源黑体" color="rgba(51, 109, 244, 1)" bold="true" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">16.5亿小时</p>
+        </content>
+      </shape>
+      <shape width="286.35" height="233.99" topLeftX="606.67" topLeftY="237.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>2025年亚洲地区赛事总观看时长保持在16.5亿小时，与2024年基本持平</p>
+        </content>
+      </shape>
+      <shape width="286.35" height="28" topLeftX="606.67" topLeftY="212.12" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.4" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">亚洲赛事观看时长</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="340" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+        <fill>
+          <fillColor color="rgba(51, 109, 244, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>游戏出海表现强劲</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>美、日、韩仍是主要海外市场，占比分别为32.31%、16.35%和9.15%</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>主要市场</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>策略类(含SLG)占比49.96%，居首位；射击和角色扮演类分别占比9.69%和9.39%</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>游戏类型分布</p>
+        </content>
+      </shape>
+      <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>《燕云十六声》上线一个月国际服吸引全球超过1500万玩家；《三角洲行动》DAU突破3000万</p>
+        </content>
+      </shape>
+      <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>重点产品表现</p>
+        </content>
+      </shape>
+      <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>总体表现</p>
+        </content>
+      </shape>
+      <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国自研游戏海外市场表现持续强劲，2025年收入达204.55亿美元，同比增长10.23%。中国游戏企业通过多端发行与本地化运营，在全球市场的影响力不断提升。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>内容创作模式创新</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="104.50" topLeftY="122.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">AI技术推动创作革新</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="154.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>AI技术推动游戏内容创作模式革新，显著提升了开发效率。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="48" topLeftY="121.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="253.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">动视暴雪AI应用</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="284.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>动视暴雪在《使命召唤：黑色行动7》中使用AI生成艺术内容。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="48" topLeftY="251.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="383.27" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">昆仑万维Matrix-Zero模型</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="414.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>昆仑万维推出Matrix-Zero世界模型，支持将用户输入的图片转化为可自由探索的3D场景。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="48" topLeftY="381.77" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="552.60" topLeftY="122.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">EA与Stability AI合作</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="552.60" topLeftY="154.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>EA与Stability AI合作生成游戏资产，提升开发效率。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="496.10" topLeftY="121.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="552.60" topLeftY="253.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">恺英网络SOON平台</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="552.60" topLeftY="284.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>恺英网络旗下极逸AI游戏创作平台SOON将角色设计、场景构建、剧情生成等高复杂度环节转化为自然语言驱动的智能创作过程。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="496.10" topLeftY="251.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="552.90" topLeftY="383.27" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">玩家创作可能性</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="552.90" topLeftY="414.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>这些创新不仅优化了开发流程，还赋予了玩家成为游戏创造者的可能，如《Fly Pieter》通过AI工具"一键生成"代码迅速走红。</p>
+        </content>
+      </shape>
+      <shape width="64" height="48" topLeftX="496.39" topLeftY="381.77" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="PUTKbdlbootaCuxAERfceHOfn09" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="80" height="83.72" topLeftX="47.62" topLeftY="418.21" alpha="0.60" type="text">
+        <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="781.90" height="90.43" topLeftX="118.55" topLeftY="412.50" type="text">
+        <content textType="headline" fontSize="52" fontFamily="思源黑体" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>未来趋势与行业展望</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="321.65" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="324.07" height="91.62" topLeftX="317.96" topLeftY="247.60" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="244.59" height="79.68" topLeftX="357.70" topLeftY="184.89" type="ellipse">
+        <fill>
+          <fillColor color="rgba(236, 240, 243, 1)"/>
+        </fill>
+        <border color="rgba(51, 109, 244, 1)" dashArray="sys-dash" width="1"/>
+        <content fontSize="16" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="41.64" topLeftX="416.91" topLeftY="137.71" alpha="0.50" type="ellipse">
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="14" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="126.17" height="42.09" topLeftX="416.91" topLeftY="406.45" alpha="0.50" type="ellipse">
+        <border color="rgba(51, 109, 244, 1)" width="1"/>
+        <content fontSize="15" fontFamily="宋体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户需求与行为演变</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="119.98" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">需求两极分化</p>
+        </content>
+      </shape>
+      <shape width="277.96" height="90" topLeftX="48" topLeftY="148.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>用户需求呈现两极分化趋势，重度游戏与轻量化游戏并行发展。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="33" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">用户行为特征变化</p>
+        </content>
+      </shape>
+      <shape width="260" height="90" topLeftX="33" topLeftY="289.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>用户行为向高频率、长时长、高粘性演进，预计2030年用户平均周使用频次突破7次，单次使用时长稳定在70分钟以上。</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="32" topLeftX="48" topLeftY="402.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">跨平台玩家价值</p>
+        </content>
+      </shape>
+      <shape width="278.19" height="84" topLeftX="48" topLeftY="430.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>跨平台玩家作为最有价值的用户群体，其游戏时长和付费能力显著高于单平台用户。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="167.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">云游戏渗透率提升</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="196.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>云游戏用户渗透率将从当前的8.5%提升至2030年的22%。</p>
+        </content>
+      </shape>
+      <shape width="260" height="32" topLeftX="667.27" topLeftY="334.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">用户群体多元化</p>
+        </content>
+      </shape>
+      <shape width="260" height="113" topLeftX="667.27" topLeftY="363.13" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>用户群体将进一步多元化，18至35岁年轻群体仍为核心，但中高龄用户比例持续提升；女性用户占比将从40%提升至45%，推动市场多元化发展。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(236, 240, 243, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>政策环境与行业规范</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="48" topLeftY="216.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>政策支持</p>
+        </content>
+      </shape>
+      <shape width="198" height="240" topLeftX="48" topLeftY="253.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国"十四五"数字经济规划明确将云游戏纳入新型文化消费范畴，多地出台专项补贴鼓励企业研发。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="270" topLeftY="216.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业标准制定</p>
+        </content>
+      </shape>
+      <shape width="198" height="240" topLeftX="270" topLeftY="253.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>国际电信联盟(ITU)和全球云游戏联盟(GCGA)联合发布《云游戏服务质量标准》。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="492" topLeftY="216.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>国内指导意见</p>
+        </content>
+      </shape>
+      <shape width="198" height="240" topLeftX="492" topLeftY="253.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>中国工业和信息化部发布《云游戏产业发展指导意见》，提出到2030年建成全球领先的云游戏产业生态体系。</p>
+        </content>
+      </shape>
+      <shape width="198" height="32" topLeftX="714" topLeftY="216.46" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>监管要求完善</p>
+        </content>
+      </shape>
+      <shape width="198" height="240" topLeftX="714" topLeftY="253.96" type="text">
+        <content textType="caption" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据安全、用户隐私保护、内容审核等监管要求逐步完善，推动行业规范化发展。</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="48" topLeftY="160.92" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="270" topLeftY="160.92" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="492" topLeftY="160.92" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="100" height="44" topLeftX="714" topLeftY="160.92" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(51, 109, 244, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(239, 243, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="48.28" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="318.08" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="32" height="32" topLeftX="633.84" topLeftY="146.11" rotation="359.54" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 239, 244, 1)"/>
+        </fill>
+        <content paddingRight="3" fontSize="8" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="47.60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>可持续发展与社会责任</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>随着碳中和目标的推进，绿色计算技术在数据中心的应用将降低能耗成本，推动云游戏服务价格下调和普及率提升。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">绿色计算技术</p>
+        </content>
+      </shape>
+      <shape width="268" height="108" topLeftX="62.04" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>游戏产业在未成年人保护方面将发挥更大作用，推动游戏时间管理和防沉迷措施的完善。</p>
+        </content>
+      </shape>
+      <shape width="268" height="34" topLeftX="62.04" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">未成年人保护</p>
+        </content>
+      </shape>
+      <img src="BRn3b74SgozX5zx0RiVc5dxJnld" width="238.91" height="325.32" topLeftX="366.54" topLeftY="143.40">
+        <crop type="rect" leftOffset="2.54" rightOffset="2.54" topOffset="0" bottomOffset="0" presetHandlers="9"/>
+      </img>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="358.97" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>行业将更加注重用户健康，实现商业价值与社会价值的统一。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="323.52" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">用户健康管理</p>
+        </content>
+      </shape>
+      <shape width="264" height="108" topLeftX="647.60" topLeftY="187" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>游戏作为文化传播载体，在弘扬中华优秀文化、激发创新创造活力方面的价值将进一步凸显。</p>
+        </content>
+      </shape>
+      <shape width="264" height="34" topLeftX="647.60" topLeftY="151.55" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.4">传统文化传播</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="QKhzb7m4LoTQuhxr12sc8gTNnph" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="856.83" height="200.71" topLeftX="48" topLeftY="47.16" type="text">
+        <content textType="headline" fontSize="70" fontFamily="思源黑体" color="linear-gradient(90deg,rgba(210, 232, 255, 1) 0%,rgba(211, 214, 252, 1) 100%)" bold="true" lineSpacing="multiple:1.3" textAlign="right" autoFit="normal-auto-fit">
+          <p>感谢观看</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="48" topLeftY="421.97" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲人</p>
+        </content>
+      </shape>
+      <shape width="119.39" height="31.89" topLeftX="48" topLeftY="448.06" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>王章志</p>
+        </content>
+      </shape>
+      <shape width="85.42" height="24" topLeftX="183.03" topLeftY="421.97" type="text">
+        <content fontSize="14" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="185.86" height="31.89" topLeftX="183.03" topLeftY="448.06" type="text">
+        <content fontSize="20" fontFamily="思源黑体" color="rgba(214, 228, 243, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

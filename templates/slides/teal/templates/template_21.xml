@@ -1,0 +1,37 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="MvspbCh6doa9Jcx0XvJcq4c9nwc" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="835.02" height="114.56" topLeftX="48" topLeftY="49.52" type="text">
+      <content textType="headline" fontSize="70" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 243, 208, 1)" bold="false" lineSpacing="multiple:1.2" textAlign="right" autoFit="normal-auto-fit">
+        <p>感谢观看</p>
+      </content>
+    </shape>
+    <shape width="73.25" height="24" topLeftX="52" topLeftY="414.64" type="text">
+      <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>演讲人</p>
+      </content>
+    </shape>
+    <shape width="121.54" height="31.89" topLeftX="52" topLeftY="440.30" type="text">
+      <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>--</p>
+      </content>
+    </shape>
+    <shape width="85.42" height="24" topLeftX="52" topLeftY="327.28" type="text">
+      <content fontSize="14" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>演讲时间</p>
+      </content>
+    </shape>
+    <shape width="180.72" height="31.89" topLeftX="52" topLeftY="352.82" type="text">
+      <content fontSize="20" fontFamily="寒蝉团圆体 黑体" color="rgba(255, 248, 230, 1)" bold="false" autoFit="normal-auto-fit">
+        <p>2025-12-28</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

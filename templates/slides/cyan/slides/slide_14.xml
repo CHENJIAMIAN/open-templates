@@ -1,0 +1,47 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(242, 248, 250, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="383.79" height="36" topLeftX="74.07" topLeftY="227.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>定价策略</p>
+        </content>
+      </shape>
+      <shape width="383.01" height="210" topLeftX="74.07" topLeftY="261.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>采用"价值定价法"，基于产品带给用户的空间价值提升进行定价。基础产品线毛利率控制在45-50%，定制服务毛利率提升至60%以上。价格带分布：入门款(1,000-2,000元)占比20%，主力款(2,000-5,000元)占比60%，高端款(5,000元以上)占比20%。</p>
+        </content>
+      </shape>
+      <shape width="383.79" height="36" topLeftX="498.13" topLeftY="227.21" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>促销体系</p>
+        </content>
+      </shape>
+      <shape width="383.01" height="210" topLeftX="498.13" topLeftY="261.71" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(121, 123, 127, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>设计为"3+3+3"模式：3个常规促销(会员日、季末清样、新品尝鲜)，3个节点促销(618、双11、年货节)，3个主题促销(环保月、空间改造季、设计师联名款首发)。促销力度控制：常规促销5-10%，节点促销15-20%，主题促销结合增值服务而非单纯打折。</p>
+        </content>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品定价策略与促销体系</p>
+        </content>
+      </shape>
+      <shape width="100" height="42" topLeftX="74.07" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="100" height="42" topLeftX="498.13" topLeftY="161.25" type="text">
+        <content textType="sub-headline" fontSize="36" fontFamily="Barlow Condensed" color="rgba(49, 163, 217, 1)" bold="false" lineSpacing="multiple:1.0" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

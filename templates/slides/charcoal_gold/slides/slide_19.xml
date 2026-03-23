@@ -1,0 +1,65 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="46" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据收集方法：多渠道信息整合</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>员工端</p>
+        </content>
+      </shape>
+      <shape width="260" height="91" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过公益平台记录参与时长，活动后填写电子问卷（含满意度、建议）</p>
+        </content>
+      </shape>
+      <img src="JSpnbW3EeoZXGCxkZ2ecGwqHnvg" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="350.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>受助端</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="350.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>由合作公益组织提供服务对象反馈表，记录实际需求满足情况</p>
+        </content>
+      </shape>
+      <img src="BRPibBW9bobMMvxzrrBcNrC3njb" width="259.14" height="194" topLeftX="350.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+      <shape width="259.14" height="36" topLeftX="651.73" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>过程记录</p>
+        </content>
+      </shape>
+      <shape width="260" height="91" topLeftX="651.73" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>宣传组拍摄活动视频、照片，整理典型案例故事</p>
+        </content>
+      </shape>
+      <img src="NBP8bYDwGo8l4GxmNlBcJNM7nNh" width="259.14" height="194" topLeftX="651.73" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+        <fill>
+          <fillColor color="rgba(222, 224, 227, 1)"/>
+        </fill>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

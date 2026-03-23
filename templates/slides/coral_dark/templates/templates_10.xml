@@ -1,0 +1,148 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="177.64" height="115" topLeftX="50.08" topLeftY="50.02" type="text">
+      <content fontSize="26" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="shape-auto-fit">
+        <p list="none" textAlign="left">
+          <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="26" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">About</span>
+        </p>
+        <p list="none" textAlign="left">
+          <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="26" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">the team</span>
+        </p>
+      </content>
+    </shape>
+    <img src="OnG9bjfd8oiyCgxuSAlcm192nqc" width="160" height="160" topLeftX="376.95" topLeftY="275">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="RvYKbU9l8osiBxxXDIocr36RnRb" width="160" height="160" topLeftX="562.55" topLeftY="275">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="W6LuboGToosqjmxPoqAc0fMJnOf" width="160" height="160" topLeftX="562.55" topLeftY="50.02">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="UWSBb7P58oNaTIxib6UcUkSPnyd" width="160" height="160" topLeftX="748.15" topLeftY="50.02">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="DyxhbkIhNoTt4dxw09ncnzeOn2d" width="160" height="160" topLeftX="748.15" topLeftY="275">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <img src="EZgObfqgxoIcAfxOgkrcuzcXnvb" width="160" height="160" topLeftX="376.95" topLeftY="50.02">
+      <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+    </img>
+    <shape width="160" height="19.99" topLeftX="376.95" topLeftY="216.52" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)">
+        <p>
+          <span color="rgba(208, 211, 214, 1)" fontSize="16">Andrew Robertson</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="376.95" topLeftY="241.51" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span color="rgba(155, 158, 162, 1)" fontSize="14">CEO</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="33.55" topLeftY="821.92" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="541.83" topLeftX="945.42" topLeftY="821.92" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="489.49" topLeftY="366.25" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="48.13" height="961.30" topLeftX="489.49" topLeftY="858.12" rotation="90" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="rgba(216, 57, 49, 0.23)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="562.55" topLeftY="216.52" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(208, 211, 214, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">Anya Sharma</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="562.55" topLeftY="241.51" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span fontSize="14">CFO</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="748.15" topLeftY="216.52" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left">
+        <p list="none" textAlign="left">
+          <span color="rgba(208, 211, 214, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="16" fontFamily="slide-font-1c23022784e3ac64f5b088bdc2a67803" bold="false" italic="false" strikethrough="false" underline="false">Freya Jensen</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="748.15" topLeftY="241.51" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span color="rgba(155, 158, 162, 1)" fontSize="14">COO</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="376.95" topLeftY="441.68" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)">
+        <p>
+          <span fontSize="16">David Chen</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="376.95" topLeftY="466.67" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span fontSize="14">Head of Product</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="562.55" topLeftY="441.68" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)">
+        <p>
+          <span fontSize="16">Isabel Diaz</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="562.55" topLeftY="466.67" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span fontSize="14">Head of  Marketing</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="748.15" topLeftY="441.68" type="text">
+      <content textType="caption" fontSize="16" color="rgba(208, 211, 214, 1)">
+        <p>
+          <span fontSize="16">Marcus Thorne</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="124.23" height="19.99" topLeftX="748.15" topLeftY="466.67" type="text">
+      <content textType="caption" fontSize="14" color="rgba(155, 158, 162, 1)">
+        <p>
+          <span fontSize="14">Head of Engineer</span>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

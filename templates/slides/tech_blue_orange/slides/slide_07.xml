@@ -1,0 +1,77 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(241, 246, 251, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="303.07" startY="305.88" endX="303.07" endY="465.88" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <line startX="0.14" startY="306.38" endX="959.86" endY="306.38" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="298.07" topLeftY="301.83" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <line startX="56.27" startY="151.99" endX="56.27" endY="311.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="51.27" topLeftY="302.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <line startX="552.79" startY="152.99" endX="552.79" endY="312.99" alpha="0.18">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="10" height="10" topLeftX="547.79" topLeftY="301.22" type="ellipse">
+        <fill>
+          <fillColor color="rgba(254, 155, 53, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心优势概览</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="324.79" topLeftY="337.72" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>效率提升</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="324.79" topLeftY="373.22" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过自动化工具将部署效率提升40%</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="76.73" topLeftY="152.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技术深度</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="76.73" topLeftY="187.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>10年运维经验，主导5个千万级用户系统架构；Linux内核调优、Kubernetes集群管理、AI故障预测（准确率93%）</p>
+        </content>
+      </shape>
+      <shape width="320" height="36" topLeftX="573.25" topLeftY="152.49" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(67, 84, 96, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>业务价值</p>
+        </content>
+      </shape>
+      <shape width="320" height="90" topLeftX="573.25" topLeftY="187.99" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(143, 149, 153, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>优化系统响应时间，支撑业务日活增长30%；互联网与制造业双领域实践，覆盖核心业务系统与企业级私有云</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

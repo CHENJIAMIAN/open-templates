@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(249, 248, 242, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="121.61" presetHandlers="14" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="535.04" height="177.11" topLeftX="48" topLeftY="309" presetHandlers="14" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="318.78" height="364.51" topLeftX="593.22" topLeftY="121.61" presetHandlers="29" type="rect">
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>金融领域</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>AI提升风控效率（如东方资产管理AI平台）、个性化服务（智能投顾）和合规审查，准确率较传统方法提升40%。</p>
+      </content>
+    </shape>
+    <shape width="864" height="46" topLeftX="48" topLeftY="48.17" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>垂直行业渗透：金融、医疗与制造业的AI革命</p>
+      </content>
+    </shape>
+    <shape width="452" height="35" topLeftX="76.06" topLeftY="327.56" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>医疗领域</p>
+      </content>
+    </shape>
+    <shape width="452" height="106" topLeftX="76.06" topLeftY="362.56" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>病理分析大模型（如商汤科技）将诊断准确率提升至98%，AI聊天机器人（勃林格殷格翰）优化患者随访。</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="35" topLeftX="621.27" topLeftY="140.17" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(65, 74, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>制造业</p>
+      </content>
+    </shape>
+    <shape width="261.47" height="286.39" topLeftX="621.27" topLeftY="175.17" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(132, 135, 133, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>全球首条人形机器人生产线在宁德时代投产，AI实现复杂工艺优化与预测性维护。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

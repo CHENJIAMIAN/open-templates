@@ -1,0 +1,92 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(250, 248, 241, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.65" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>最佳旅行时间与季节特色：分月推荐与避峰指南</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="104.50" topLeftY="130.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">春季（3-5月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="162.98" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北高山杜鹃盛开（普达措、老君山），大理三月街民族节（4月12-18日）、西双版纳泼水节（4月13-15日）相继举办，气温15-25℃，游客较少，性价比高。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48" topLeftY="129.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">秋季（9-11月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="292.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>天高云淡，适合摄影，腾冲银杏村（11月中旬-12月上旬）、元阳梯田金色稻浪（10月）是亮点，11月上旬出行可避峰。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48" topLeftY="259.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="104.50" topLeftY="391.27" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">避峰时段</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="104.50" topLeftY="422.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>3月中旬-4月上旬、6月上旬-7月上旬、11月上旬-12月上旬，气候舒适且游客较少。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="48" topLeftY="389.77" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="359.40" height="32" topLeftX="552.60" topLeftY="130.98" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">夏季（6-8月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="552.60" topLeftY="162.48" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇西北避暑（玉龙雪山、普达措），滇东南普者黑荷花盛放（7-8月），怒江大峡谷瀑布水量充沛，但需避开7月中旬-8月下旬暑期高峰。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="496.10" topLeftY="129.48" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="32" topLeftX="552.60" topLeftY="261.13" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" lineSpacing="multiple:1.3" textAlign="left" autoFit="normal-auto-fit">
+          <p lineSpacing="multiple:1.3">冬季（12-2月）</p>
+        </content>
+      </shape>
+      <shape width="359.10" height="84" topLeftX="552.60" topLeftY="292.63" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>滇南避寒（西双版纳20-30℃），滇西北赏雪（玉龙雪山滑雪、梅里日照金山），春节前为淡季，住宿价格亲民。</p>
+        </content>
+      </shape>
+      <shape width="54" height="48" topLeftX="496.10" topLeftY="259.63" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="40" fontFamily="寒蝉团圆体 黑体" color="rgba(16, 123, 204, 1)" bold="false" lineSpacing="multiple:1.0" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

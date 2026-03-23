@@ -1,0 +1,81 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(236, 240, 243, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="280" height="52.55" topLeftX="48.07" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(232, 239, 244, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="52.55" topLeftX="340" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(232, 239, 244, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="280" height="52.55" topLeftX="632.07" topLeftY="281" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(232, 239, 244, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="52.55" topLeftX="48.07" topLeftY="128.86" alpha="0.80" type="slides-full-round-rect">
+      <fill>
+        <fillColor color="rgba(51, 109, 244, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" autoFit="normal-auto-fit"/>
+    </shape>
+    <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>游戏出海表现强劲</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="70.12" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>美、日、韩仍是主要海外市场，占比分别为32.31%、16.35%和9.15%</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="70.12" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>主要市场</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="362.05" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>策略类(含SLG)占比49.96%，居首位；射击和角色扮演类分别占比9.69%和9.39%</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="362.05" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>游戏类型分布</p>
+      </content>
+    </shape>
+    <shape width="236" height="177.36" topLeftX="654.12" topLeftY="340.68" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>《燕云十六声》上线一个月国际服吸引全球超过1500万玩家；《三角洲行动》DAU突破3000万</p>
+      </content>
+    </shape>
+    <shape width="236" height="36" topLeftX="654.12" topLeftY="289.28" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(41, 73, 114, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>重点产品表现</p>
+      </content>
+    </shape>
+    <shape width="820" height="36" topLeftX="70.12" topLeftY="137.14" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>总体表现</p>
+      </content>
+    </shape>
+    <shape width="820" height="75" topLeftX="70.12" topLeftY="188.42" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(136, 149, 165, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>中国自研游戏海外市场表现持续强劲，2025年收入达204.55亿美元，同比增长10.23%。中国游戏企业通过多端发行与本地化运营，在全球市场的影响力不断提升。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

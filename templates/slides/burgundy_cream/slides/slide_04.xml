@@ -1,0 +1,36 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <img src="TLAsbSpsho87vvxr1bscGZGPnIg" width="960" height="540" topLeftX="0" topLeftY="0" alpha="0.74" exposure="30" saturation="-3" temperature="-20">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="50.45" bottomOffset="50.45" presetHandlers="0"/>
+      </img>
+      <shape width="599.68" height="121.44" topLeftX="347.84" topLeftY="402.14" type="text">
+        <content verticalAlign="top" textType="headline" fontSize="40" fontFamily="寒蝉锦书宋" color="rgba(23, 16, 71, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" wrap="false">
+          <p textAlign="right">
+            <span fontFamily="寒蝉锦书宋" bold="false">温柔并不意味着退让，</span>
+          </p>
+          <p textAlign="right">
+            <span fontFamily="寒蝉锦书宋" bold="false">它是一种更高阶的表达方式。</span>
+          </p>
+        </content>
+      </shape>
+      <img src="XWnib1qjpo7sngxPZaPcjX9anBg" width="478.71" height="377.60" topLeftX="1423.47" topLeftY="-681.23">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="282.10" height="60.25" topLeftX="33.71" topLeftY="30.67" type="text">
+        <content textType="caption" fontSize="12" fontFamily="思源黑体" color="rgba(23, 16, 71, 1)" lineSpacing="multiple:1.4" autoFit="normal-auto-fit">
+          <p>页面遵循网格结构，让信息更清晰地呈现。留白用于调节视觉节奏，使整体阅读更为舒适自然，形成稳定的布局，排列方式。</p>
+        </content>
+      </shape>
+      <img src="F0EvbbjKdoX4mNxGC5Fc7zGvnuh" width="49.91" height="50.24" topLeftX="878.39" topLeftY="30.67">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.02" bottomOffset="0.02"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

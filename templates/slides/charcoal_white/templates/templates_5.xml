@@ -1,0 +1,135 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(0, 0, 0, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="502.13" height="180" topLeftX="457.82" topLeftY="360" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="linear-gradient(90deg,rgba(255, 255, 255, 0.11) 0%,rgba(255, 255, 255, 0) 100%)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="502.13" height="180" topLeftX="457.82" topLeftY="0" presetHandlers="0" type="rect">
+      <fill>
+        <fillColor color="linear-gradient(90deg,rgba(255, 255, 255, 0.11) 0%,rgba(255, 255, 255, 0) 100%)"/>
+      </fill>
+      <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+    </shape>
+    <shape width="182.22" height="90" topLeftX="47.62" topLeftY="48.40" type="text">
+      <content fontSize="30" fontFamily="寒蝉德黑体" color="rgba(255, 255, 255, 1)" autoFit="shape-auto-fit">
+        <p>算力生态系统与应用影响</p>
+      </content>
+    </shape>
+    <shape width="301.96" height="20" topLeftX="47.62" topLeftY="332.30" alpha="0.85" type="text">
+      <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>
+          <strong>赋能开发者与企业创新</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="337.47" height="39" topLeftX="47.62" topLeftY="358.17" alpha="0.60" type="text">
+      <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>开放的算力生态激发了开发者的创造力，催生了丰富的 AI 应用和工具链。</p>
+      </content>
+    </shape>
+    <shape width="301.96" height="20" topLeftX="47.62" topLeftY="426.69" alpha="0.85" type="text">
+      <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>驱动行业智能化转型</p>
+      </content>
+    </shape>
+    <shape width="311.96" height="39" topLeftX="47.62" topLeftY="452.56" alpha="0.60" type="text">
+      <content fontSize="13" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" autoFit="shape-auto-fit">
+        <p>算力生态的成熟正在为千行百业提供强大的 AI 动力，推动决策优化、效率提升和服务升级。</p>
+      </content>
+    </shape>
+    <line startX="701.02" startY="0" endX="702.02" endY="540">
+      <border color="rgba(66, 66, 66, 1)" width="1"/>
+    </line>
+    <line startX="457.29" startY="179.93" endX="960.47" endY="179.93">
+      <border color="rgba(66, 66, 66, 1)" width="1"/>
+    </line>
+    <line startX="457.29" startY="359.27" endX="960.47" endY="359.27">
+      <border color="rgba(66, 66, 66, 1)" width="1"/>
+    </line>
+    <line startX="457.86" startY="0" endX="457.86" endY="540">
+      <border color="rgba(66, 66, 66, 1)" width="1"/>
+    </line>
+    <shape width="116" height="60" topLeftX="507.94" topLeftY="227.50" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">99.9%</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="169" height="18" topLeftX="507.94" topLeftY="282.50" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>
+          <strong>全球接入的开发者与企业</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="128" height="60" topLeftX="761.97" topLeftY="227.50" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>200PB</p>
+      </content>
+    </shape>
+    <shape width="183" height="18" topLeftX="761.97" topLeftY="282.50" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>行业解决方案落地</p>
+      </content>
+    </shape>
+    <shape width="67" height="60" topLeftX="761.97" topLeftY="43.36" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(255, 255, 255, 1)">50+</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="183" height="18" topLeftX="761.97" topLeftY="98.36" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>行业解决方案落地</p>
+      </content>
+    </shape>
+    <shape width="112" height="60" topLeftX="507.94" topLeftY="43.36" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(207, 242, 103, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>
+          <span color="rgba(207, 242, 103, 1)">1000+</span>
+        </p>
+      </content>
+    </shape>
+    <shape width="169" height="18" topLeftX="507.94" topLeftY="98.36" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>
+          <strong>全球接入的开发者与企业</strong>
+        </p>
+      </content>
+    </shape>
+    <shape width="87" height="60" topLeftX="761.97" topLeftY="405.41" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>40%</p>
+      </content>
+    </shape>
+    <shape width="183" height="18" topLeftX="761.97" topLeftY="460.41" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>行业解决方案落地</p>
+      </content>
+    </shape>
+    <shape width="73" height="60" topLeftX="507.94" topLeftY="405.41" type="text">
+      <content fontSize="40" fontFamily="Prompt" color="rgba(255, 255, 255, 1)" bold="false" autoFit="shape-auto-fit" wrap="false">
+        <p>15%</p>
+      </content>
+    </shape>
+    <shape width="169" height="18" topLeftX="507.94" topLeftY="460.41" type="text">
+      <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" autoFit="shape-auto-fit">
+        <p>
+          <strong>全球接入的开发者与企业</strong>
+        </p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

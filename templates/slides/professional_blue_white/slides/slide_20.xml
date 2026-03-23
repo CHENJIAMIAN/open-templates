@@ -1,0 +1,46 @@
+<slide>
+    <style/>
+    <data>
+      <shape width="868.57" height="45" topLeftX="47.55" topLeftY="47.71" type="text">
+        <content textType="headline" fontSize="30" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>调研常见问题与规避策略</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="117.20" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+          <p>样本偏差</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="150.60" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>仅调研现有用户而忽略潜在用户，需采用分层抽样确保样本代表性</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="372.19" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>数据过度解读</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="405.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>将相关性误认为因果关系，需通过A/B测试验证假设因果关系</p>
+        </content>
+      </shape>
+      <shape width="342.69" height="36" topLeftX="573.41" topLeftY="244.76" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="18" fontFamily="资源圆体" color="rgba(27, 75, 135, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="true" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>问题引导性</p>
+        </content>
+      </shape>
+      <shape width="342.90" height="84" topLeftX="573.41" topLeftY="278.16" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="资源圆体" color="rgba(106, 125, 147, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如“您是否认同我们的新功能很实用？”这类提问，应设计中性问题如“您对新功能的使用感受如何？”</p>
+        </content>
+      </shape>
+      <img src="H5c2bBWZsoabJlxjTvxcwYMenvd" width="494" height="371.38" topLeftX="47.55" topLeftY="118.20">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="143.64" bottomOffset="143.64" presetHandlers="29"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

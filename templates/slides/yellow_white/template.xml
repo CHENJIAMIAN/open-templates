@@ -1,0 +1,1231 @@
+<presentation xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>公司团建活动全流程规划方案</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="YzEqbRXcHoJALgxgm5XciuUrnEb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="862.28" height="96.68" topLeftX="47.72" topLeftY="28.14" type="text">
+        <content textType="headline" fontSize="70" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>公司团建活动规划</p>
+        </content>
+      </shape>
+      <shape width="134.01" height="28" topLeftX="810.96" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="118.63" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="724.36" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="61.38" height="28" topLeftX="49.64" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲人</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="MaVyb37nvoZSoExj029cWRg1nbe" alpha="0.92" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="464" height="457.58" topLeftX="40.92" topLeftY="41.21" presetHandlers="36" type="rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false"/>
+      </shape>
+      <line startX="76.83" startY="143.75" endX="468.39" endY="143.75" alpha="0.14">
+        <border color="rgba(152, 152, 152, 1)" width="1"/>
+      </line>
+      <shape width="391.06" height="45" topLeftX="77.33" topLeftY="73.89" type="text">
+        <content textType="title" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>目录</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="165.89" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>活动规划概述</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="165.89" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="218.02" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>活动主题与形式设计</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="218.02" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="270.14" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>活动筹备与执行</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="270.14" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="322.26" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>安全风险管理</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="322.26" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="374.38" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>活动效果评估</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="374.38" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="352.36" height="40" topLeftX="115.53" topLeftY="426.50" type="text">
+        <content textType="sub-headline" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="20" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>案例参考与预算分配</p>
+        </content>
+      </shape>
+      <shape width="36" height="40" topLeftX="77.33" topLeftY="426.50" alpha="0.60" type="text">
+        <content textType="caption" fontSize="25" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VG5MbIGQ4oo6a4xYpGgczRcanrd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动规划概述</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="342.95" height="95.51" topLeftX="42.07" topLeftY="347.70" path="M342.9508200963337,95.50723605181165 L0,95.50723605181165 L50.18784463001808,7.772650490936212 C52.944284227574826,2.9604493975254136 58.057447322027855,-0.004288753259666845 63.59116791646229,0 L279.35965217987143,0 C284.88997233546934,-0.002199360645982997 289.99885745848275,2.962538790139097 292.75189661720293,7.772650490936212 Z" alpha="0.90" type="custom">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="4" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="226.18" height="95.51" topLeftX="100.48" topLeftY="245.59" path="M226.18402841983422,95.50723605181165 L0,95.50723605181165 L51.26479651703356,5.9011045492369805 C53.353104728991276,2.2480764842915204 57.23234729206956,-0.004288753259666845 61.431998946813394,0 L164.73009115794616,0 C168.92645206542878,-0.002199360645982997 172.80240388124588,2.2492861326468114 174.886434121764,5.9011045492369805 Z" alpha="0.70" type="custom">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="0" paddingBottom="6" paddingLeft="0" paddingRight="0" fontSize="36" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="109.25" height="89.62" topLeftX="158.89" topLeftY="149.37" path="M109.25291876342546,89.62405629183944 L0,89.62405629183944 L49.56655154710346,2.946263521358823 C51.163551192963965,0.14295844198889482 54.72424942115807,-0.830698515987778 57.518532612218614,0.7717556506754337 C58.4218427354181,1.2894851467398314 59.1703780457658,2.0403468712784267 59.686367216322004,2.946263521358823 Z" alpha="0.50" type="custom">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="14" paddingBottom="0" paddingLeft="0" paddingRight="0" fontSize="32" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" list="none" listStyle="circle-hollow-square"/>
+      </shape>
+      <shape width="859.60" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动目标设定</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="35" topLeftX="307.92" topLeftY="146.11" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>长期目标</p>
+        </content>
+      </shape>
+      <shape width="599.76" height="60" topLeftX="307.92" topLeftY="177.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>强化企业文化认同，如员工对企业价值观的认可度提升至85%</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="35" topLeftX="360.90" topLeftY="245.59" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>中期目标</p>
+        </content>
+      </shape>
+      <shape width="546.78" height="60" topLeftX="360.90" topLeftY="276.59" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>增强团队成员信任度，如通过协作任务完成率提升至90%</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="35" topLeftX="416.92" topLeftY="352.08" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>短期目标</p>
+        </content>
+      </shape>
+      <shape width="490.75" height="60" topLeftX="416.92" topLeftY="383.08" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>提升跨部门沟通效率，如减少信息传递误差30%</p>
+        </content>
+      </shape>
+      <shape width="44.74" height="55" topLeftX="191.18" topLeftY="177.11" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="28" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>01</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="265.85" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="98.82" height="57" topLeftX="164.14" topLeftY="364.08" type="text">
+        <content paddingTop="3.70" paddingBottom="3.70" fontSize="32" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="6" height="6" topLeftX="50" topLeftY="154.82" type="ellipse">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="274.49" type="ellipse">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="6" height="6" topLeftX="50" topLeftY="395.17" type="ellipse">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="6" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="451.23" height="45" topLeftX="48" topLeftY="60" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>需求分析与目标对齐</p>
+        </content>
+      </shape>
+      <img src="Al8IbJHwVoUqFrxGhdpchXJwn1e" width="404.90" height="540" topLeftX="555.10" topLeftY="0">
+        <crop type="rect" leftOffset="0.05" rightOffset="0.05" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+      </img>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="138.13" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>需求调研</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="173.53" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动前1-2个月需开展全面需求调研，通过访谈部门经理、团队主管及匿名问卷收集员工需求，重点了解当前团队协作痛点和期待的活动形式。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="257.80" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>目标明确</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="293.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>明确活动核心目标，确保与公司战略、部门KPI相关联，避免单纯娱乐化。</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="36" topLeftX="64.53" topLeftY="377.47" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>输出报告</p>
+        </content>
+      </shape>
+      <shape width="434.70" height="72" topLeftX="64.53" topLeftY="412.87" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>输出《团队建设需求分析报告》，包含目标、痛点和期望形式，作为后续方案设计的依据。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="L3ONbaHSKoeHU8xFk8pc9eQqnKb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>02</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动主题与形式设计</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.91" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>主题选择策略</p>
+        </content>
+      </shape>
+      <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.35" type="custom">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>创意团建</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="31.35" topLeftY="347.41" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>适合注重创新和创造力的公司，可设计创意拼图、创意绘画等活动</p>
+        </content>
+      </shape>
+      <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>团队合作团建</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="340" topLeftY="294.45" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>适合强调团队合作和沟通的公司，可开展拔河比赛、接力赛跑等团队合作游戏</p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>总体原则</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="639" topLeftY="223.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>选择适合公司的团建主题需考虑公司文化、价值观和员工特点。主题应能激发员工参与热情，增强团队凝聚力，避免与公司文化脱节</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(252, 249, 237, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="253.37" height="322.92" topLeftX="90.03" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="112.16" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="123.16" topLeftY="168.46" iconType="iconpark/Character/check-one.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="353.31" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="375.45" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="386.45" topLeftY="168.46" iconType="iconpark/Abstract/two-ellipses.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="253.37" height="322.92" topLeftX="616.60" topLeftY="137.08" presetHandlers="25" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="46" height="46" topLeftX="638.73" topLeftY="157.46" presetHandlers="3" type="round-rect">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(255, 255, 255, 0.922)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <icon width="24" height="24" topLeftX="649.73" topLeftY="168.46" iconType="iconpark/Abstract/circular-connection.svg">
+        <border color="rgba(255, 255, 255, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="820" height="45" topLeftX="70" topLeftY="47.72" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>活动形式分类与选择</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="111.34" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如攀岩、溯溪、露营等，适合在自然环境中锻炼身体、增强团队合作能力</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="111.34" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>户外拓展</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="374.97" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>如猜谜语、团队拼图、角色扮演等，适合天气不佳或场地有限的情况</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="374.97" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>室内游戏</p>
+        </content>
+      </shape>
+      <shape width="210" height="177" topLeftX="638.60" topLeftY="262.83" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>通过专业培训师针对团队问题进行沟通技巧、领导力等针对性培训</p>
+        </content>
+      </shape>
+      <shape width="210" height="32" topLeftX="638.60" topLeftY="228.81" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>团队建设培训</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.25" height="372.35" topLeftX="48" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="417.25" height="372.35" topLeftX="494.75" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动流程设计</p>
+        </content>
+      </shape>
+      <shape width="386.18" height="36" topLeftX="63.54" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>户外拓展活动流程</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="62.99" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>开场仪式→团队组建→拓展训练项目→团队总结→颁奖仪式</p>
+        </content>
+      </shape>
+      <img src="EQG4bvqB7ow9LlxwIi6cDsvHnWg" width="386.18" height="217" topLeftX="63.54" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+      <shape width="386.18" height="36" topLeftX="510.29" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>室内游戏活动流程</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="509.74" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>游戏介绍→分组竞赛→团队合作→游戏总结</p>
+        </content>
+      </shape>
+      <img src="QJwObLoJjozUKQxjNidcbWdJn5e" width="386.18" height="217" topLeftX="510.29" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.11" bottomOffset="0.11" presetHandlers="17"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="YwyobcBqIor2ufx7PALcFG1hndc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>03</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动筹备与执行</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="864" height="46" topLeftX="48.07" topLeftY="48.49" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">前期准备工作</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="366" height="120" topLeftX="71.29" topLeftY="194.43" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">确定时间时需充分考虑员工工作安排，通过问卷调查或与部门负责人沟通选择大多数人能参与的时间段；确定地点时根据主题和形式选择，并评估交通便利性和设施服务</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="420" height="44" topLeftX="48.07" topLeftY="141.25" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(251, 247, 234, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="366" height="36" topLeftX="71.29" topLeftY="145.25" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>确定时间地点</p>
+        </content>
+      </shape>
+      <shape width="366" height="120" topLeftX="515.29" topLeftY="194.43" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">准确统计参与人数和收集员工信息（姓名、性别、年龄、联系方式等）用于活动组织</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="420" height="44" topLeftX="492.07" topLeftY="141.25" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(251, 247, 234, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="366" height="36" topLeftX="515.29" topLeftY="145.25" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>统计参与人数和人员信息</p>
+        </content>
+      </shape>
+      <shape width="366" height="120" topLeftX="71.29" topLeftY="380.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">制定详细预算并预留弹性空间</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="420" height="44" topLeftX="48.07" topLeftY="327.02" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(251, 247, 234, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="366" height="36" topLeftX="71.29" topLeftY="331.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>制定活动预算</p>
+        </content>
+      </shape>
+      <shape width="366" height="120" topLeftX="515.29" topLeftY="380.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">明确活动负责人和工作人员职责并提前培训</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="420" height="44" topLeftX="492.07" topLeftY="327.02" type="slides-home-plate">
+        <fill>
+          <fillColor color="rgba(251, 247, 234, 1)"/>
+        </fill>
+        <content paddingLeft="0" paddingRight="0" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="366" height="36" topLeftX="515.29" topLeftY="331.02" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>确定活动负责人和工作人员</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="325.52" startY="136.73" endX="325.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <line startX="634.52" startY="136.73" endX="634.52" endY="465.14" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" width="1" lineCap="square" lineJoin="miter" miterLimit="10"/>
+      </line>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48.17" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>物资采购与场地布置</p>
+        </content>
+      </shape>
+      <shape width="234" height="36" topLeftX="53.77" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>物资采购</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="53.77" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>根据活动需求购买相应的道具和装备，户外拓展需采购攀岩装备、溯溪装备等，室内游戏需准备猜谜语道具、团队拼图等，选择质量可靠、价格合理的供应商。</p>
+        </content>
+      </shape>
+      <img src="KjC4b0ELxoEv4bxT6wGcF38Qn0g" width="245.55" height="138" topLeftX="48" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="36" topLeftX="363" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>场地布置</p>
+        </content>
+      </shape>
+      <img src="Qme6b8QXPonFjJxEaY8cSgYynCc" width="245.55" height="138" topLeftX="357.23" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="36" topLeftX="672.23" topLeftY="293.19" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>设备预订</p>
+        </content>
+      </shape>
+      <img src="OAJ7bhfzToVYBSxXHNCcpiebn4e" width="245.55" height="138" topLeftX="666.45" topLeftY="137.99">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.06" bottomOffset="0.06" presetHandlers="11"/>
+      </img>
+      <shape width="234" height="138" topLeftX="363" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>准备活动现场装饰和布置用品，如创意海报、彩色气球、彩带等，营造良好活动氛围。</p>
+        </content>
+      </shape>
+      <shape width="234" height="138" topLeftX="672.23" topLeftY="328.64" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>提前预订场地相关设备和设施，明确使用要求和注意事项，如预订户外拓展基地的攀岩设备时了解使用方法和安全注意事项，确保设备安全有效使用。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style/>
+    <data>
+      <shape width="864" height="46" topLeftX="48" topLeftY="47.91" type="text">
+        <content textType="headline" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit">
+          <p>活动现场执行</p>
+        </content>
+      </shape>
+      <shape width="960.75" height="138.33" topLeftX="0" topLeftY="155.27" path="M0,130.41061734795971 C26.2,134.30588746222404 189.5,168.78372805145227 474.6,55.11305011570096 C759.7,-58.55762782005039 953.85,38.21214912852298 960.75,42.04303461279945" alpha="0.35" type="custom">
+        <border color="rgba(185, 185, 185, 1)" width="1"/>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="170.35" topLeftY="284.75" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="479.30" topLeftY="201.95" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="10" height="10" topLeftX="773.85" topLeftY="151.55" type="ellipse">
+        <fill>
+          <fillColor color="rgba(232, 178, 20, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="6" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="135.35" topLeftY="238.10" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="444.30" topLeftY="148.75" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="80" height="42" topLeftX="737.85" topLeftY="103.72" type="rect">
+        <content paddingTop="3.70" paddingBottom="3.70" paddingLeft="7.10" paddingRight="7.10" fontSize="30" fontFamily="霞鹜 975 圆体" color="rgba(232, 178, 20, 1)" bold="false" lineSpacing="multiple:1.4" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="280" height="36" topLeftX="31.35" topLeftY="311.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>人员安排</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="31.35" topLeftY="347.41" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">安排明确的工作人员和职责，包括活动负责人、引导人员、游戏裁判、餐饮服务人员等，确保各司其职、协作配合。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="280" height="37.05" topLeftX="340" topLeftY="257.91" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>流程执行</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="340" topLeftY="294.45" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">严格按照活动流程和环节开展活动，注意活动节奏和氛围，及时调整进度和内容，保证员工充分参与。</span>
+          </p>
+        </content>
+      </shape>
+      <shape width="280" height="36" topLeftX="639" topLeftY="187.65" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="霞鹜 975 圆体" color="rgba(31, 31, 31, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>安全管理</p>
+        </content>
+      </shape>
+      <shape width="280" height="160" topLeftX="639" topLeftY="223.15" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(147, 147, 147, 1)" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <span fontFamily="寒蝉全圆体">加强活动现场安全管理，设置安全警示标志，配备必要的安全设备和人员，维护活动秩序，及时处理突发情况，确保员工人身和财产安全。</span>
+          </p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="ZUObb8iNeokyyJxIAzucuIXPnMh" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>04</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>安全风险管理</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="417.25" height="372.35" topLeftX="48" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="417.25" height="372.35" topLeftX="494.75" topLeftY="119.36" presetHandlers="29" type="round-rect">
+        <fill>
+          <fillColor color="rgba(252, 249, 237, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="45" topLeftX="48" topLeftY="47.59" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>预防措施与安全管理</p>
+        </content>
+      </shape>
+      <shape width="386.18" height="36" topLeftX="63.54" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>人员安全管理</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="62.99" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>活动前要求全员提交健康申报表，重点核查心脑血管疾病、呼吸系统疾病史及运动禁忌症；开展安全培训，确保80%以上参与者掌握心肺复苏技能。</p>
+        </content>
+      </shape>
+      <img src="TgOxbtui0oXnmVx34ctcEry7naf" width="386.18" height="217" topLeftX="63.54" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="234.77" bottomOffset="234.77" presetHandlers="17"/>
+      </img>
+      <shape width="386.18" height="36" topLeftX="510.29" topLeftY="360.28" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>场地设施保障</p>
+        </content>
+      </shape>
+      <shape width="387" height="80" topLeftX="509.74" topLeftY="394.95" type="text">
+        <content textType="caption" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>室内场地需提供消防验收合格证明，户外营地需提前72小时完成地质勘探；设备定期检测维护，建立设备履历档案；根据环境风险配备相应防控物资。</p>
+        </content>
+      </shape>
+      <img src="Eub0bHVu6oyupzx9V4dcVCacnrf" width="386.18" height="217" topLeftX="510.29" topLeftY="134.27">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="181.13" bottomOffset="181.13" presetHandlers="17"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="L3ONbaHSKoeHU8xFk8pc9eQqnKb" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>05</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>活动效果评估</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="864" height="45" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>数据收集与分析</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="36" topLeftX="48" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>反馈问卷收集</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="48" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>活动后发放反馈问卷，从"满意度""目标达成度""改进建议"三方面收集数据，量化评估活动效果。</p>
+        </content>
+      </shape>
+      <img src="C3EobHsVDobFLwxE9rVcsznkn7d" width="161.61" height="161.61" topLeftX="101.72" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+      <shape width="269.06" height="36" topLeftX="345.47" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>关键数据分析</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="345.47" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>收集活动过程中的关键数据，如参与率、任务完成率、团队协作效率等，与活动前设定的目标进行对比分析。</p>
+        </content>
+      </shape>
+      <img src="FGl4bwwR8owvwrxTYQtccdLpnyf" width="161.61" height="161.61" topLeftX="399.19" topLeftY="139.31">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+      <shape width="269.06" height="36" topLeftX="642.94" topLeftY="323.04" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+          <p>定性数据收集</p>
+        </content>
+      </shape>
+      <shape width="269.06" height="140" topLeftX="642.94" topLeftY="359.04" type="text">
+        <content textType="caption" paddingTop="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="center" autoFit="normal-auto-fit">
+          <p>通过观察记录、员工访谈等方式收集定性数据，了解员工对活动的真实感受和意见，为后续活动优化提供依据。</p>
+        </content>
+      </shape>
+      <img src="E2gEbshtzobQZmxEo9PctlDQnMd" width="162.30" height="162.30" topLeftX="696.32" topLeftY="138.96">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" presetHandlers="87.79342950533209"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="140.76" height="140.76" topLeftX="360.80" topLeftY="154" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="411.38" topLeftY="204.57" iconType="iconpark/Hardware/camera-one.svg">
+        <border color="rgba(241, 198, 42, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="474.53" topLeftY="220.45" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="525.26" topLeftY="271.30" rotation="0" iconType="iconpark/Base/loading.svg">
+        <border color="rgba(241, 198, 42, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="140.76" height="140.76" topLeftX="361.49" topLeftY="285.72" rotation="330" type="ellipse">
+        <border color="rgba(152, 152, 152, 0.2)" width="1"/>
+        <content fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false"/>
+      </shape>
+      <icon width="39.61" height="39.61" topLeftX="412.06" topLeftY="336.29" rotation="0" iconType="iconpark/Edit/bytedance-applets.svg">
+        <border color="rgba(241, 198, 42, 1)" width="2" lineJoin="miter" miterLimit="10"/>
+      </icon>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="38.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>复盘总结与改进</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="153.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>召开复盘会议</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="184.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>组织策划组、员工代表召开复盘会，分析活动亮点与不足，如“协作环节时间过短”“奖品吸引力不足”等具体问题。</p>
+        </content>
+      </shape>
+      <shape width="290.24" height="35" topLeftX="47.80" topLeftY="346.77" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+          <p>建立风险案例库</p>
+        </content>
+      </shape>
+      <shape width="290.16" height="120" topLeftX="47.84" topLeftY="377.77" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="right" autoFit="normal-auto-fit">
+          <p>将活动中实际发生的风险案例记录存档，作为未来活动的参考和培训素材。</p>
+        </content>
+      </shape>
+      <shape width="280" height="35" topLeftX="631.76" topLeftY="210.20" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>形成总结报告</p>
+        </content>
+      </shape>
+      <shape width="280" height="134.70" topLeftX="631.80" topLeftY="241.20" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>总结活动成功经验和失败教训，形成《团队建设活动总结报告》，包含效果评估、改进计划。</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="VG5MbIGQ4oo6a4xYpGgczRcanrd" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="92.24" height="79.41" topLeftX="816.26" topLeftY="427.98" type="text">
+        <content textType="title" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(254, 204, 23, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+          <p>06</p>
+        </content>
+      </shape>
+      <shape width="756.23" height="79.41" topLeftX="50.03" topLeftY="427.98" type="text">
+        <content textType="headline" fontSize="60" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>案例参考与预算分配</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="843.46" height="45" topLeftX="48.27" topLeftY="48.46" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>经典活动案例</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>信任协作类活动</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="48.27" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>如信任背摔、盲人方阵、信任行走，通过坠落与承接、蒙眼协作等方式增强团队信任</p>
+        </content>
+      </shape>
+      <img src="XDh6bSMfxop2jDx7SThcAASwnob" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="340.43" topLeftY="349.69" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>创意合作类活动</p>
+        </content>
+      </shape>
+      <shape width="259.14" height="89.70" topLeftX="340.43" topLeftY="385.30" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>如创意拼图、团队绘画、故事接龙，激发团队创新思维和协作精神</p>
+        </content>
+      </shape>
+      <img src="A6XubdCRIor7utx6vkxczNQ6nyb" width="259.14" height="194" topLeftX="340.43" topLeftY="136.60">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+      <shape width="259.14" height="36" topLeftX="632.59" topLeftY="136.60" type="text">
+        <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>策略竞技类活动</p>
+        </content>
+      </shape>
+      <shape width="260" height="85.70" topLeftX="632.59" topLeftY="172.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>如急速60秒、逃脱房间、疯狂市场，培养团队快速决策和信息整合能力</p>
+        </content>
+      </shape>
+      <img src="H8mSbTrYNoK21xxO9oWcTalxnLg" width="259.14" height="194" topLeftX="632.59" topLeftY="281">
+        <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="15"/>
+      </img>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="151.29" alpha="0.80" type="diamond">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(40, 38, 29, 1)" fontSize="18" fontFamily="寒蝉全圆体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="228.67" alpha="0.50" type="diamond">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(40, 38, 29, 1)" fontSize="18" fontFamily="寒蝉全圆体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <shape width="301.32" height="124.59" topLeftX="47.80" topLeftY="309.58" alpha="0.30" type="diamond">
+        <fill>
+          <fillColor color="rgba(241, 198, 42, 1)"/>
+        </fill>
+        <content paddingTop="3.60" paddingBottom="3.60" paddingLeft="7.20" paddingRight="7.20" fontSize="16" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false">
+          <p textAlign="center">
+            <span color="rgba(40, 38, 29, 1)" fontSize="18" fontFamily="寒蝉全圆体" bold="false" italic="false" strikethrough="false" underline="false"> </span>
+          </p>
+        </content>
+      </shape>
+      <line startX="974.17" startY="346.77" endX="1178.82" endY="346.77" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.67" startY="439.38" endX="1178.82" endY="439.38" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <line startX="974.17" startY="256.27" endX="1178.82" endY="256.27" alpha="0.20">
+        <border color="rgba(152, 152, 152, 1)" dashArray="dash" width="1"/>
+      </line>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="141.27" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>城市探索挑战赛</p>
+        </content>
+      </shape>
+      <shape width="538.93" height="60" topLeftX="382.39" topLeftY="172.27" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" textAlign="left" autoFit="normal-auto-fit">
+          <p>人均＜50元，通过小组完成印章收集、路人协作任务提升跨部门协作效率</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="243.54" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>技能交换集市</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="274.54" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>零成本，员工用"技能券"兑换各类课程，衍生内部兴趣社团</p>
+        </content>
+      </shape>
+      <shape width="539.08" height="35" topLeftX="382.39" topLeftY="343.82" type="text">
+        <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>公益型能量传递</p>
+        </content>
+      </shape>
+      <shape width="538.65" height="60" topLeftX="382.39" topLeftY="374.82" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="寒蝉全圆体" color="rgba(134, 132, 123, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>人均80元，分组设计适老化产品并落地社区测试，兼顾社会价值与团队凝聚力</p>
+        </content>
+      </shape>
+      <shape width="864" height="45" topLeftX="47.80" topLeftY="48.04" type="text">
+        <content textType="headline" fontSize="30" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>高性价比团建方案</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+  <slide>
+    <style>
+      <fill>
+        <fillImg src="IbSfbgTUQo76wHx6bnxcRZIZnlc" alpha="1" rotateWithShape="false"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="862.28" height="96.68" topLeftX="47.72" topLeftY="28.14" type="text">
+        <content textType="headline" fontSize="70" fontFamily="寒蝉全圆体" color="rgba(40, 38, 29, 1)" bold="false" lineSpacing="multiple:1.3" autoFit="normal-auto-fit">
+          <p>感谢关注</p>
+        </content>
+      </shape>
+      <shape width="134.01" height="28" topLeftX="810.96" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>2026-01-09</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="118.63" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>--</p>
+        </content>
+      </shape>
+      <shape width="78.98" height="28" topLeftX="724.36" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲时间</p>
+        </content>
+      </shape>
+      <shape width="61.38" height="28" topLeftX="49.64" topLeftY="493.40" type="text">
+        <content fontSize="18" fontFamily="寒蝉全圆体" color="rgba(144, 146, 124, 1)" bold="true" textAlign="left">
+          <p>演讲人</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>
+</presentation>

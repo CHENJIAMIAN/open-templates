@@ -1,0 +1,65 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(31, 41, 76, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="864" height="46" topLeftX="48.27" topLeftY="48.46" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>长期行业价值贡献（3-5年）</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="36" topLeftX="48.27" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>跨领域技术融合</p>
+      </content>
+    </shape>
+    <shape width="260" height="91" topLeftX="48.27" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>探索"车路云一体化"架构下的能量协同管理技术，参与制定行业标准</p>
+      </content>
+    </shape>
+    <img src="XyrtbYIZ3oaia8xJRS2cr3UZn7d" width="259.14" height="194" topLeftX="48.27" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="259.14" height="36" topLeftX="350.43" topLeftY="349.69" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>电池梯次利用</p>
+      </content>
+    </shape>
+    <shape width="259.14" height="89.70" topLeftX="350.43" topLeftY="385.30" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>推动建立技术体系，实现退役电池30%以上的回收利用率提升</p>
+      </content>
+    </shape>
+    <img src="Vrq2b9UouoKfMExldlJcTNganaf" width="259.14" height="194" topLeftX="350.43" topLeftY="136.60">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+    <shape width="259.14" height="36" topLeftX="651.73" topLeftY="136.60" type="text">
+      <content paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="18" fontFamily="寒蝉德黑体" color="rgba(236, 241, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+        <p>核心技术团队</p>
+      </content>
+    </shape>
+    <shape width="260" height="91" topLeftX="651.73" topLeftY="172.21" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" paddingLeft="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(175, 178, 185, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>培养10人以上团队，形成"高压系统+智能控制"技术护城河，支撑企业新能源产品市场份额提升5个百分点</p>
+      </content>
+    </shape>
+    <img src="QBl8bIZGXoHHqHxhmx3cTsYcnEg" width="259.14" height="194" topLeftX="651.73" topLeftY="281">
+      <crop type="rect" leftOffset="0" rightOffset="0" topOffset="0.18" bottomOffset="0.18" presetHandlers="5"/>
+      <fill>
+        <fillColor color="rgba(222, 224, 227, 1)"/>
+      </fill>
+    </img>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

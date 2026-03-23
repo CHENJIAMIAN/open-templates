@@ -1,0 +1,12 @@
+<theme>
+  <background>
+    <fillColor color="rgba(255,255,255, 1)"/>
+  </background>
+  <textStyles>
+    <headline fontColor="rgba(41, 43, 62, 1)" fontFamily="思源宋体"/>
+    <sub-headline fontColor="rgba(71, 104, 2, 1)" fontFamily="思源宋体"/>
+    <body fontColor="rgba(31, 35, 41, 1)"/>
+    <caption fontColor="rgba(133, 134, 143, 1)" fontSize="14" fontFamily="思源宋体"/>
+    <title fontColor="rgba(41, 43, 62, 1)" fontFamily="思源宋体"/>
+  </textStyles>
+</theme>

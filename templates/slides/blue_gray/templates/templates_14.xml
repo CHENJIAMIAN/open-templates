@@ -1,0 +1,22 @@
+<slide>
+  <style>
+    <fill>
+      <fillImg src="PUTKbdlbootaCuxAERfceHOfn09" alpha="1" rotateWithShape="false"/>
+    </fill>
+  </style>
+  <data>
+    <shape width="80" height="83.72" topLeftX="47.62" topLeftY="418.21" alpha="0.60" type="text">
+      <content textType="title" fontSize="58" fontFamily="Barlow Condensed" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="normal-auto-fit">
+        <p>04</p>
+      </content>
+    </shape>
+    <shape width="781.90" height="90.43" topLeftX="118.55" topLeftY="412.50" type="text">
+      <content textType="headline" fontSize="52" fontFamily="思源黑体" color="linear-gradient(180deg,rgba(255, 255, 255, 1) 0%,rgba(255, 255, 255, 0.702) 100%)" bold="true" textAlign="left" autoFit="normal-auto-fit">
+        <p>未来趋势与行业展望</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

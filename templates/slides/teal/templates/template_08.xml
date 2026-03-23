@@ -1,0 +1,115 @@
+<slide>
+  <style>
+    <fill>
+      <fillColor color="rgba(250, 248, 241, 1)"/>
+    </fill>
+  </style>
+  <data>
+    <line startX="203.07" startY="310.88" endX="203.07" endY="490.88" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="0.14" startY="311.38" endX="959.86" endY="311.38" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="198.07" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <line startX="54.27" startY="132.99" endX="54.27" endY="312.99" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="49.27" topLeftY="307.22" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <line startX="353.79" startY="132.99" endX="353.79" endY="312.99" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <line startX="503.88" startY="310.88" endX="503.88" endY="490.88" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="498.88" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <shape width="10" height="10" topLeftX="349.07" topLeftY="305.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <line startX="654.79" startY="133.99" endX="654.79" endY="313.99" alpha="0.18">
+      <border color="rgba(152, 152, 152, 1)" width="1"/>
+    </line>
+    <shape width="10" height="10" topLeftX="650.07" topLeftY="306.83" type="ellipse">
+      <fill>
+        <fillColor color="rgba(16, 123, 204, 1)"/>
+      </fill>
+      <content fontSize="16" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false"/>
+    </shape>
+    <shape width="864" height="45" topLeftX="48.07" topLeftY="48.49" type="text">
+      <content textType="headline" fontSize="30" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>滇西北8日环线：大理+丽江+香格里拉+泸沽湖</p>
+      </content>
+    </shape>
+    <shape width="240" height="36" topLeftX="224.79" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day3-4：丽江</p>
+      </content>
+    </shape>
+    <shape width="240" height="112.16" topLeftX="224.79" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>早起乘大索道登玉龙雪山（提前3天预约索道票，含进山费130元+索道140元），蓝月谷拍照后返回古城；下午逛束河古镇（比大研古城安静），夜间在“大冰的小屋”听民谣，点一杯“风花雪月”啤酒。</p>
+      </content>
+    </shape>
+    <shape width="240" height="36" topLeftX="74.73" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day1-2：大理</p>
+      </content>
+    </shape>
+    <shape width="240" height="112" topLeftX="74.73" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="13" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>上午漫步大理古城，登五华楼俯瞰全景；下午环洱海骑行（才村→磻溪S弯→喜洲稻田，租电动车50元/天）；傍晚在双廊古镇看日落，推荐入住挖色镇“大理海东方”民宿（性价比高于双廊）。</p>
+      </content>
+    </shape>
+    <shape width="240" height="36" topLeftX="374.25" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day5：香格里拉</p>
+      </content>
+    </shape>
+    <shape width="240" height="112" topLeftX="374.25" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">普达措国家公园徒步属都湖环湖栈道（4.2公里，约2小时），碧塔海观鸟；下午参观松赞林寺（“小布达拉宫”，门票115元），独克宗古城转世界最大转经筒。</p>
+      </content>
+    </shape>
+    <shape width="240" height="36" topLeftX="525.59" topLeftY="342.72" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day6-7：泸沽湖</p>
+      </content>
+    </shape>
+    <shape width="240" height="112" topLeftX="525.59" topLeftY="378.22" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+        <p lineSpacing="multiple:1.4">顺时针环湖自驾，重点停留里格半岛、尼赛村情人树、草海走婚桥；参加摩梭家访（298元/人），体验成人礼与走婚文化；夜宿星空房，拍摄银河与湖景同框。</p>
+      </content>
+    </shape>
+    <shape width="240" height="36" topLeftX="675.25" topLeftY="133.49" type="text">
+      <content paddingTop="4" paddingBottom="4" fontSize="18" fontFamily="寒蝉团圆体 黑体" color="rgba(67, 107, 76, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+        <p>Day8：返程</p>
+      </content>
+    </shape>
+    <shape width="240" height="112" topLeftX="675.25" topLeftY="168.99" type="text">
+      <content textType="caption" paddingTop="4" paddingBottom="4" fontSize="14" fontFamily="思源黑体" color="rgba(154, 162, 156, 1)" textAlign="left" autoFit="normal-auto-fit">
+        <p>丽江乘高铁返回昆明（3小时，二等座155元），途中欣赏金沙江峡谷风光。</p>
+      </content>
+    </shape>
+  </data>
+  <note>
+    <content/>
+  </note>
+</slide>

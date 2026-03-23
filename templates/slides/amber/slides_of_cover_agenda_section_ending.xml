@@ -1,0 +1,1212 @@
+<presentation id="FWh5sFRvclV4vEdv9hLcaIN0nlb" xmlns="http://www.larkoffice.com/sml/2.0" width="960" height="540">
+    <title>
+        【amber】三季度财报
+    </title>
+    <theme>
+        <textStyles>
+            <headline fontColor="rgba(31, 35, 41, 1)"/>
+            <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+            <body fontColor="rgba(31, 35, 41, 1)"/>
+            <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+        </textStyles>
+    </theme>
+    <slide id="KDvdscmWFlw6WsdNiCpcBuJHnmd">
+        <style/>
+        <data>
+            <img id="P02fsetQxlL6OEdZIMOcpv6RnNh" src="A859bEoGmoF6sNxthuKcw72Cnqc" width="960" height="540" topLeftX="0" topLeftY="0">
+                <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+            </img>
+            <shape width="853" height="103.9057219450925" topLeftX="53.49999999999998" topLeftY="179.15659963974403" type="text" id="F0qrslDq7lmmp4dbSZHc2wgenrf">
+                <content textType="title" fontSize="70" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="true" lineSpacing="multiple:1.4" textAlign="center" autoFit="normal-auto-fit">
+                    <p lineSpacing="multiple:1.4">
+                        <span color="rgba(248, 240, 230, 1)" fontSize="70" fontFamily="思源黑体">
+                            三季度财报
+                        </span>
+                    </p>
+                </content>
+            </shape>
+            <shape width="112" height="24" topLeftX="1747.3538044422944" topLeftY="462.4194054923475" type="text" id="AoSusJePKl8Iq4dtBQqc03wSnpd">
+                <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false"/>
+            </shape>
+            <shape width="112" height="24" topLeftX="492" topLeftY="-134.66666666666666" type="text" id="HcSiskPqnle7nKdvH6TcAeyYnKh">
+                <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" autoFit="shape-auto-fit" wrap="false"/>
+            </shape>
+            <shape width="336" height="24" topLeftX="580.5912553360388" topLeftY="483.55107138591273" alpha="0.82" type="text" id="KOq3s4r8UlFG9NdQnuTc6gHFnsf">
+                <content fontSize="12" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="right" autoFit="normal-auto-fit">
+                    <p list="none" textAlign="right">
+                        <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                            本幻灯片由&#32;
+                        </span>
+                        <a href="https://aily.feishu.cn/?open-from=feishu_slides">
+                            <u>
+                            <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false">
+                                aily 工作助手
+                            </span>
+                        </u>
+                    </a>
+                    <span color="rgba(255, 255, 255, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        &#32;创建
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="615.6849902164802" height="56.880937552634755" topLeftX="172.15750489175988" topLeftY="300.70648785365574" type="text" id="KaHUsjTwvl1RU4dXAiMchr7XnBe">
+            <content verticalAlign="top" textType="title" fontSize="16" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+                <p>
+                <span fontSize="16" fontFamily="思源黑体" bold="false">
+                    总结内容:描述相关的信息以解释你的标题
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="160" height="24" topLeftX="740" topLeftY="44.448928614087265" type="text" id="VtAwsz3T5lQVsSd9hjwcViNMnNf">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" letterSpacing="0.3" textAlign="right" autoFit="normal-auto-fit">
+            <p textAlign="right">
+                <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="思源黑体" bold="false">
+                    --
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="160" height="24" topLeftX="60" topLeftY="44.448928614087265" type="text" id="DHrYsRu8blrFqMdRBNzccDfjnX4">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" letterSpacing="0.3" textAlign="left" autoFit="normal-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="思源黑体" bold="false">
+                    演讲人
+                </span>
+            </p>
+        </content>
+    </shape>
+</data>
+<note id="F2vxskMmIlTjfWdvD8Zctc6dn4c">
+    <content/>
+</note>
+</slide>
+<slide id="RmIgs80mulOMSwdqKqUb9am6cfe">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="DYQssgaKiluQUUdUl6FbV6czc8b">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.49174026950844" topLeftY="128.37132390731767" type="text" id="WWeCsCgWal4S0Gdyg3xbShancJh">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="36" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309997" height="48" topLeftX="842.9442589426483" topLeftY="127.37132390731767" type="text" id="C2YOsEauqlGmQEdEtgUb5KCncCe">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0731469549489" height="47" topLeftX="62.86218628545838" topLeftY="200.1246174771655" type="text" id="PwWQs40SCl8kkEdYJpjbn6ZVcuc">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309983" height="48" topLeftX="843.4442589426483" topLeftY="199.1246174771655" type="text" id="HI0MsgMyUl0mWidc542bELpPcZg">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="N2QEs8yuIlYuGqd0MYlbhCTWc3e">
+        <content/>
+    </note>
+</slide>
+<slide id="IG2usEgYKloCEqdWU5ob0AZ9cXb">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="Xk8csWYQklC0KAd9iQZbTuG2cJs">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.49174026950844" topLeftY="128.37132390731767" type="text" id="DmeyskS82lg8uId0K3PbDDO5cSh">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="36" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309997" height="48" topLeftX="842.9442589426483" topLeftY="127.37132390731767" type="text" id="VE4isSOIUlqAimdEnlSb5ZsUcvh">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0731469549489" height="47" topLeftX="62.86218628545838" topLeftY="200.1246174771655" type="text" id="FMm8scCgalwW6adAxjebNPPGckb">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309983" height="48" topLeftX="843.4442589426483" topLeftY="199.1246174771655" type="text" id="Bceesm640lEKMwdm0YwbJIoicgb">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="272.8779110470133" type="text" id="NuUWskyuelcuK6deeLQbyMbxcie">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    财务基础
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="271.8779110470133" type="text" id="TOUksIyEalak4wdKMFxb9CcHcqc">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="To6ysKeuYlskmOdeuydbZjyicj6">
+        <content/>
+    </note>
+</slide>
+<slide id="HmoGsekMQlUEWcdUx48bEmcvczh">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="X6AKsgeEslCOWudaqUQb6bOzc3e">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.49174026950844" topLeftY="128.37132390731767" type="text" id="PiiYsCkAkl26UqdGy6Ib6znec8b">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="36" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309997" height="48" topLeftX="842.9442589426483" topLeftY="127.37132390731767" type="text" id="TcSmsy4mslcAm0dCECCbNw3yc5f">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0731469549489" height="47" topLeftX="62.86218628545838" topLeftY="200.1246174771655" type="text" id="Qseis2QM2leAKKdaSe1boJ7Icwg">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309983" height="48" topLeftX="843.4442589426483" topLeftY="199.1246174771655" type="text" id="CUm2sGMU8lumMod2NCHbP8rDc2f">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="272.8779110470133" type="text" id="KMeCsQYgolaGmkd6tFxbLOv7c3d">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    财务基础
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="271.8779110470133" type="text" id="NM0osAMUkly0s2dgpmYbDHUAcWe">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="346.6312046168611" type="text" id="WKEysyAKqlgQo6dYtH8bpRXHcYf">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    新阶段
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="345.6312046168611" type="text" id="E8UQs2qculygCQdk1c3b4oDRcRf">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="BmoKs8U2OlUI0yd8pSAbT6oecHe">
+        <content/>
+    </note>
+</slide>
+<slide id="GGEAsqqq4lWCKKdklekbu7ascUb">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="GI8OsUSY0liUCEdAZJubtbSvcTh">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.49174026950844" topLeftY="128.37132390731767" type="text" id="VCwIsI2WQlcoM4d2Voeb9HjMcGe">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="36" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309997" height="48" topLeftX="842.9442589426483" topLeftY="127.37132390731767" type="text" id="XGg2sec0Ul8QIMdrDBebz1Ixcrh">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0731469549489" height="47" topLeftX="62.86218628545838" topLeftY="200.1246174771655" type="text" id="ROWGs66mAlAu80dSa4MbQ54ycMc">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="64.49487363309983" height="48" topLeftX="843.4442589426483" topLeftY="199.1246174771655" type="text" id="E0a0suS2elQiSqdeK7vbddXEcth">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="272.8779110470133" type="text" id="Nc20sIYSalWAuYdmerpbNI5acih">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    财务基础
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="271.8779110470133" type="text" id="Ki0usGe24lC8O6deMQcb5lD7cVd">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="346.6312046168611" type="text" id="QQ2Use66klmgm8dqUDZbf6tUcnf">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    新阶段
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="345.6312046168611" type="text" id="SyQWsQacMlUuUCd2OWfb1i2gcyo">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="705.0765705701174" height="47" topLeftX="62.86218628545838" topLeftY="421.3844981867089" type="text" id="TaqcsGecQl0iWadSgoFbCDQZcbd">
+            <content fontSize="36" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    新规划
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="48" topLeftX="843.4442589426483" topLeftY="420.3844981867089" type="text" id="Z0YmsCkiIlsqiWdM5pqbLfvPcAg">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        05
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="Po4esCacYlyMAMdWKMEbqbe0cQh">
+        <content/>
+    </note>
+</slide>
+<slide id="AMcqsM6Eql8IYedchlsbDRaLcYe">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="CO8Qss4eMl8IIEdya43bB0UAcMf">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912164" height="45" topLeftX="62.49174026950844" topLeftY="118.37132390731767" type="text" id="I6S2sC84alYS6qdSs2tbGtluctJ">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="34" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="842.9442589426483" topLeftY="118.37132390731767" type="text" id="ViMWsU2WmlUAMMdWczWbSlIQc4e">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912163" height="45" topLeftX="62.862385614335636" topLeftY="183.6739587631959" type="text" id="Cea8sWyiSlCguudesAQb7LfRc6c">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="34" fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="843.4442589426483" topLeftY="183.6739587631959" type="text" id="LquSsuc2cl2e0yd4jIWb4Pyucmh">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912163" height="45" topLeftX="62.8641062941585" topLeftY="248.97659361907415" type="text" id="UIMWsmUS6lcOKGdecyobYCqScVb">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="34">
+                        财务基础
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="843.4442589426483" topLeftY="248.97659361907415" type="text" id="QQwgsCgyOleUSYdWGwfbEyhjc2f">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912163" height="45" topLeftX="62.8641062941585" topLeftY="314.2792284749524" type="text" id="L8OYsMiuClC6UkdiKqObgcpCcJg">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="34">
+                        新阶段
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="843.4442589426483" topLeftY="314.2792284749524" type="text" id="TQGwsuOcoloMMmdKUYabHPHpc5g">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912163" height="45" topLeftX="62.8641062941585" topLeftY="379.58186333083063" type="text" id="CyiYsgw6qlKOkId0i9NbfwJrcMb">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="34">
+                        新规划
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="843.4442589426483" topLeftY="379.58186333083063" type="text" id="SoySsUUA8l0wiQdYLWrbDGcOcmg">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        05
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="708.7309576912163" height="45" topLeftX="62.8641062941585" topLeftY="444.8844981867089" type="text" id="ASgis2QSIliSeSdA3X4bWtD7cNf">
+            <content fontSize="34" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="34">
+                        新挑战
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="45" topLeftX="843.4442589426483" topLeftY="444.8844981867089" type="text" id="EaogsCwqil8SSUdCEQzbpyHNczf">
+            <content textType="headline" fontSize="30" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="DouYinMeiHao" bold="false">
+                        06
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="RWWGs6qKols0usd02eUbuW8lcEc">
+        <content/>
+    </note>
+</slide>
+<slide id="SO4ksQgEgliK4Udmi9pbSgidc8c">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="FoeasAG0klc4GcdKufUbq6rdcUe">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <line id="K08qs0aY6lgqEAdA7dGbC4e1c4g" startX="479.99999999995003" startY="452.1993168039527" endX="480.00000000005" endY="152.1888178951312" alpha="0.3">
+            <border color="rgba(255, 255, 255, 1)" width="1"/>
+        </line>
+        <shape width="304" height="37" topLeftX="62.49174026950844" topLeftY="167.67238305044353" type="text" id="Xigos8GMslAqgadgXb1biCKtcLN">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.10118979427375" topLeftY="166.67238305044353" type="text" id="JoKUsQaG8li4qWdeatHbLE1HcCc">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63229786186581" topLeftY="242.63070070352734" type="text" id="NOsSs00kalK6WsdGeiQbKimzcQc">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30" fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="241.83070070352733" type="text" id="L6k0sSI6ClQaO8dYhtybnRcTcRe">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63295038486788" topLeftY="317.58901835661106" type="text" id="R42ks0uAElGCM6d4mVKbWoLNcMc">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30">
+                        财务基础
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="316.98901835661104" type="text" id="FEqqsO222lG8A2dcz1HbTcfIcsZ">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63295038486788" topLeftY="392.54733600969496" type="text" id="Z2MKsa044lIc0ed0cuqbYT3Xczf">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30">
+                        新阶段
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="392.14733600969487" type="text" id="RemOs0cMClg2iGdcjoDbTSDycLd">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="537.6051638802098" topLeftY="167.67238305044353" type="text" id="LksysMKuelQOucdVfrBbHZemcuU">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="28">
+                        新规划
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="829.5734032896157" topLeftY="167.6723830504436" type="text" id="ViIcsyqmulOAMgdTDEBbzehzctL">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        05
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="537.9639537648504" topLeftY="242.63070070352734" type="text" id="Aqgksoo2Glqo0yd2vSibJ5Lwc3b">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="思源黑体" bold="false">
+                        新挑战
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="829.5734032896157" topLeftY="242.49736737019404" type="text" id="O80Cs00iolg8sIdk52kbhX0bcxg">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right" lineSpacing="multiple:1.4">
+                    06
+                </p>
+            </content>
+        </shape>
+        <shape width="304.00000000000006" height="37" topLeftX="538.1045113572078" topLeftY="317.58901835661106" type="text" id="Q8aosIEeYlcGcAdmFw1bDLJNcib">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="28" fontFamily="思源黑体">
+                        新目标
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="830.0734032896157" topLeftY="317.3223516899444" type="text" id="BqoQsC0cslUu2QdIZVjbYrN2cEg">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        07
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="KW4IsEWEAlIqSudeMYdbKfFAcZe">
+        <content/>
+    </note>
+</slide>
+<slide id="Hki6sKygElgWGqdaI9RbTlXPcrb">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="195.6181922272096" height="41.83786482766284" topLeftX="62.75636331503409" topLeftY="46.02007841622026" type="text" id="F0iss0wuCl84wWdEfbTb7GwecAh">
+            <content textType="title" fontSize="30" fontFamily="思源黑体" color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.3" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+                <p list="none" textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(192, 192, 192, 1)" backgroundColor="rgba(0, 0, 0, 0)" fontSize="30" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">
+                        目录
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <line id="JMywsWweulcqwsd4gBUbkj4ocme" startX="479.99999999995003" startY="452.1993168039527" endX="480.00000000005" endY="152.1888178951312" alpha="0.3">
+            <border color="rgba(255, 255, 255, 1)" width="1"/>
+        </line>
+        <shape width="304" height="37" topLeftX="62.49174026950844" topLeftY="167.67238305044353" type="text" id="AmawscAqmlyyugda6f2bLvVLcpd">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="30" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.10118979427375" topLeftY="166.67238305044353" type="text" id="Ig62sSIsil0csidY9Aybk0Zac3g">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63229786186581" topLeftY="242.63070070352734" type="text" id="NYiIs44UOl2suqdG0KTbETnUcf9">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30" fontFamily="思源黑体">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="241.83070070352733" type="text" id="I2Sgs88KElYmyOdgFNebV5rLcxc">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        02
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63295038486788" topLeftY="317.58901835661106" type="text" id="EEEUsk406l0O60dIpo8bmoBBclc">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30">
+                        财务基础
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="316.98901835661104" type="text" id="R8ausGOwylgyoOdMtUsbTt3jcGd">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        03
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="62.63295038486788" topLeftY="392.54733600969496" type="text" id="WYg4sKggAlyuWgdQ1qMbBHtMc3d">
+            <content fontSize="30" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.2" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.2">
+                    <span fontSize="30">
+                        新阶段
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="354.60118979427375" topLeftY="392.14733600969487" type="text" id="TaMQseOeWlWSQgd0qEzbejaccGb">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        04
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="537.6051638802098" topLeftY="167.67238305044353" type="text" id="NGyaseY4ylEqOYdMVKWbe3RScHc">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="28">
+                        新规划
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="829.5734032896157" topLeftY="167.6723830504436" type="text" id="V0MgsI8AslsCo0dkTw7bnX7bcUf">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        05
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304" height="37" topLeftX="537.9639537648504" topLeftY="242.63070070352734" type="text" id="IkSqsiSkalGgocdDmXhb6IBkclZ">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="思源黑体" bold="false">
+                        新挑战
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="829.5734032896157" topLeftY="242.49736737019404" type="text" id="REqasuko0l8I8ydWgT9b8zSFcHe">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right" lineSpacing="multiple:1.4">
+                    06
+                </p>
+            </content>
+        </shape>
+        <shape width="304.00000000000006" height="37" topLeftX="538.1045113572078" topLeftY="317.58901835661106" type="text" id="QAYusSO4wlESAGd0KB3bVyK7cOd">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="28" fontFamily="思源黑体">
+                        新目标
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="830.0734032896157" topLeftY="317.3223516899444" type="text" id="DMaiseY4QlcsW2dsTHWbB8DbcuS">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        07
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="304.00000000000006" height="37" topLeftX="538.1051638802098" topLeftY="392.54733600969496" type="text" id="W4C6s6SWcl8aIgd25WMb5EGQczb">
+            <content fontSize="28" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span fontSize="28">
+                        上升空间
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="65" height="42" topLeftX="830.0734032896157" topLeftY="392.14733600969487" type="text" id="HyoAsKY6olIIe6dkz0vbwDr5cvg">
+            <content textType="headline" fontSize="28" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="right" autoFit="normal-auto-fit">
+                <p textAlign="right">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="28" fontFamily="DouYinMeiHao" bold="false">
+                        08
+                    </span>
+                </p>
+            </content>
+        </shape>
+    </data>
+    <note id="WsUCs2Gc8l46OQdMdsJbGvRpc7g">
+        <content/>
+    </note>
+</slide>
+<slide id="MoE3swez3lHjTNdHEbYcAljFnxe">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="486.99999999999994" height="52" topLeftX="424.24048476417806" topLeftY="418.89256169710615" type="text" id="PzMusjsqXlLymbdMapecn6DXnpp">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        数据概览
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="423.82154257545125" topLeftY="370.89256169710615" type="text" id="GVFFsGFOZlbs8od0cVMcR2fsnFg">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="32" fontFamily="DouYinMeiHao" bold="false">
+                        01
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <img id="BzURsfw4Ul8RYHdg2Gbc4L6anTb" src="IY6eb9xGuoAxuwxeYP3cEZfvn2d" width="377.54928269931565" height="540" topLeftX="0" topLeftY="-1.4210854715202004e-14">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="13.16196202448674" bottomOffset="13.161962024486797" presetHandlers="0"/>
+        </img>
+        <shape width="30" height="6.000000000000001" topLeftX="424.82154257545125" topLeftY="337.03016622709754" presetHandlers="0" type="round-rect" id="J3xgsZmgWlM3UzdYkytcc4vEnee">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+    </data>
+    <note id="N5sxs1RNPluYctdkRyRcoQafn2b">
+        <content/>
+    </note>
+</slide>
+<slide id="C4CJsa8eglk6LgdwMVJcta6Rn9b">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <img id="Qi0Qs2w6Zl126NdCNJbc884Fnkh" src="RsnLbnHSOooaGlx9MzIceTSEnIf" width="377.54928269931565" height="539.9999999999999" topLeftX="582.4507173006843" topLeftY="-1.4210854715202004e-14">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="44.610832078963995" bottomOffset="44.610832078963995" presetHandlers="0"/>
+        </img>
+        <shape width="486.99999999999994" height="52" topLeftX="62.91068245823526" topLeftY="407.8414714535281" type="text" id="WTrLsGSSUlchdLduY2VcLheBnDh">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        增长引擎
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="62.49174026950844" topLeftY="359.8414714535281" type="text" id="VuxWsvYSPlZg7RdC2PWcpRlYnKg">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    02
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="63.49174026950844" topLeftY="325.97907598351946" presetHandlers="0" type="round-rect" id="KmT7s2X32lqpuld4BIscTFJpnzg">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+    </data>
+    <note id="CrlDs85YPlMPoBdeXZqcSZBOnkc">
+        <content/>
+    </note>
+</slide>
+<slide id="OIjxsz2halvbf9dwDRicdEIjncf">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <img id="GzAtsSGRGlvMV6djhH9c4VOHnyb" src="KEU0bTGKJo3U82xju3ncTaznnxe" width="377.54928269931565" height="540" topLeftX="0" topLeftY="-1.4210854715202004e-14" temperature="-76">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="13.161962024486797" bottomOffset="13.16196202448657" presetHandlers="0"/>
+        </img>
+        <shape width="486.99999999999994" height="52" topLeftX="424.24048476417806" topLeftY="418.89256169710615" type="text" id="AMJqstf2Yl7p6gdFBcscMF7Snhf">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        财务基础
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="423.82154257545125" topLeftY="370.89256169710615" type="text" id="W8ORsOlSDlurVXdFRjKc3n27nwb">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    03
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="424.82154257545125" topLeftY="337.03016622709754" presetHandlers="0" type="round-rect" id="MFOrsw5RnlFg1Tdx3vUcbo6ynYb">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+    </data>
+    <note id="ZsmjsPsOOljfZkd1qCCcQBbhnAc">
+        <content/>
+    </note>
+</slide>
+<slide id="VDnYsYORclgDeldfCv6c58gMnOf">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <img id="Pzh8s9tqhlXaNvdvtvYctQSJnSb" src="LYLab6n5gowzAhxYHBAcwiOlnLd" width="377.5492826993156" height="539.9999999999998" topLeftX="582.4507173006843" topLeftY="-1.4210854715202004e-14">
+            <crop type="rect" leftOffset="13.738759484171851" rightOffset="13.738759484171794" topOffset="0" bottomOffset="1.1368683772161603e-13" presetHandlers="0"/>
+        </img>
+        <shape width="486.99999999999994" height="52" topLeftX="62.91068245823526" topLeftY="407.8414714535281" type="text" id="UTeQsbxlPl6vGedoHDHcIuTdnub">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        新阶段
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="62.49174026950844" topLeftY="359.8414714535281" type="text" id="XYsxsvG8flUhkHdCqmccJNwynnh">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    04
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="63.49174026950844" topLeftY="325.97907598351946" presetHandlers="0" type="round-rect" id="YnlssM8D2lWTJodpa6YctSAVnoe">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+    </data>
+    <note id="VjnRsLbcKlOvTkdk25qctJsynBd">
+        <content/>
+    </note>
+</slide>
+<slide id="DjGusk00HlUFc1doVDVcJ0glnib">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <img id="DcsNsHfMplYsBJdZ6U1cA3KbnEd" src="G3TybPw6oossh0xx4o0cgJ2gnOb" width="377.5492826993157" height="540" topLeftX="0" topLeftY="-1.4210854715202004e-14" exposure="-8" contrast="-35">
+            <crop type="rect" leftOffset="4.082501507485034" rightOffset="4.082501507485006" topOffset="0" bottomOffset="0" presetHandlers="0"/>
+        </img>
+        <shape width="486.99999999999994" height="52" topLeftX="424.24048476417806" topLeftY="418.89256169710615" type="text" id="DLxys8h4ul7HEhdSg0NczUQqnEe">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        新规划
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="423.82154257545125" topLeftY="370.89256169710615" type="text" id="GCuIsYETKlLuwvd3jT3c0OBLnpc">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    05
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="424.82154257545125" topLeftY="337.03016622709754" presetHandlers="0" type="round-rect" id="N5OrsbmdIlACk2dqFI4ckrUpncg">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+    </data>
+    <note id="FqtTs3g1zlUlRpduZtlcRS29noH">
+        <content/>
+    </note>
+</slide>
+<slide id="JREJswdLil4EEedy73EcVsden8U">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="486.99999999999994" height="52" topLeftX="62.91068245823526" topLeftY="407.8414714535281" type="text" id="SbiKsfic0lCFoKdx4PNc1wynnJb">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        新挑战
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="62.49174026950844" topLeftY="359.8414714535281" type="text" id="D9Jgsnl2Bl2Ugod0xVjcp91qncb">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    06
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="63.49174026950844" topLeftY="325.97907598351946" presetHandlers="0" type="round-rect" id="GmCpsYs6QlQVD2djrFwc1U8YnNp">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+        <img id="VUnpsi7PQlsZebdLaiec0YXKnbZ" src="IY6eb9xGuoAxuwxeYP3cEZfvn2d" width="377.54928269931565" height="540" topLeftX="582.4507173006843" topLeftY="-1.4210854715202004e-14">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="13.16196202448674" bottomOffset="13.161962024486797" presetHandlers="0"/>
+        </img>
+    </data>
+    <note id="Li7LsXpXJlyv6YdFbDAcU5PfnRh">
+        <content/>
+    </note>
+</slide>
+<slide id="XVVHs1gBKl8bLvd6RM7cJEIwnxg">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="486.99999999999994" height="52" topLeftX="424.24048476417806" topLeftY="418.89256169710615" type="text" id="SUyJs2CAJlQfhHd3dFMc4mjOnw8">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        新目标
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="423.82154257545125" topLeftY="370.89256169710615" type="text" id="LENEsO0cUlzBHOdTfRDcAhsPnuf">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    07
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="424.82154257545125" topLeftY="337.03016622709754" presetHandlers="0" type="round-rect" id="PShJsIdhNlQ26RdQKFgcrzivnig">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+        <img id="ZxZxsWc1Vlmlgtd6oIDc1PfGnSg" src="RsnLbnHSOooaGlx9MzIceTSEnIf" width="377.54928269931565" height="539.9999999999999" topLeftX="0" topLeftY="-1.4210854715202004e-14">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="44.610832078963995" bottomOffset="44.610832078963995" presetHandlers="0"/>
+        </img>
+    </data>
+    <note id="KQLasZ6jmlh4ohd78iCcRtu5nlg">
+        <content/>
+    </note>
+</slide>
+<slide id="VSAasFDgnlt0modd6s6ccGvqncb">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <shape width="486.99999999999994" height="52" topLeftX="62.91068245823526" topLeftY="407.8414714535281" type="text" id="Yp2tsZnhBldbDddLbnRcvSmqnQd">
+            <content fontSize="40" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.3" letterSpacing="0.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.3">
+                    <span color="rgba(248, 240, 230, 1)" fontSize="40" fontFamily="思源黑体" bold="false">
+                        上升空间
+                    </span>
+                </p>
+            </content>
+        </shape>
+        <shape width="82" height="48" topLeftX="62.49174026950844" topLeftY="359.8414714535281" type="text" id="NgERspQTAl8Ywodnbqacynx7n3g">
+            <content textType="headline" fontSize="32" fontFamily="DouYinMeiHao" color="rgba(248, 240, 230, 1)" bold="false" lineSpacing="multiple:1.4" textAlign="left" autoFit="normal-auto-fit">
+                <p textAlign="left" lineSpacing="multiple:1.4">
+                    08
+                </p>
+            </content>
+        </shape>
+        <shape width="30" height="6.000000000000001" topLeftX="63.49174026950844" topLeftY="325.97907598351946" presetHandlers="0" type="round-rect" id="QoNHsZg6Pl2lBNdjpN2cuhpInvf">
+            <fill>
+                <fillColor color="rgba(224, 123, 5, 1)"/>
+            </fill>
+            <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+        </shape>
+        <img id="CXoMsdr7EltepWdjqXyc4QyenNe" src="U8EFbxKOUoFm4HxmE5wcOcjHnSh" width="377.54928269931565" height="540" topLeftX="582.4507173006843" topLeftY="-1.4210854715202004e-14" temperature="-76">
+            <crop type="rect" leftOffset="0" rightOffset="0" topOffset="13.161962024486797" bottomOffset="13.16196202448657" presetHandlers="0"/>
+        </img>
+    </data>
+    <note id="QltXsStSrlcZaedQpuwcBygdnW9">
+        <content/>
+    </note>
+</slide>
+<slide id="J7WksYJQ9lSkKMdeZvQcwBJxnlh">
+    <style>
+        <fill>
+            <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+    </style>
+    <data>
+        <img id="PpwOspoejlS0PLdhXQbcSWRTnOh" src="BxNNbhNMAog11kxsPIFcGKydn7c" width="459.5399685851752" height="342.9029177351253" topLeftX="250.23001570741238" topLeftY="98.54854113243735">
+            <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+        </img>
+        <shape width="769.7855286565444" height="84.45241096835174" topLeftX="95.10723567172772" topLeftY="202.17762172046767" type="text" id="MFrvsiKVXlxoahd8TpWcKOo5n5f">
+            <content textType="sub-headline" fontSize="60" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="true" lineSpacing="multiple:1.3" textAlign="center" autoFit="normal-auto-fit">
+                <p textAlign="center" lineSpacing="multiple:1.3">
+                    Thanks for watching
+                </p>
+            </content>
+        </shape>
+        <shape width="344" height="23" topLeftX="305.2412106912534" topLeftY="306.9524109683517" type="text" id="LMB3sZJSwlNrsfdKupPcxtM3nzd">
+            <content textType="headline" fontSize="15" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" textAlign="center" autoFit="normal-auto-fit">
+                <p list="none" textAlign="center">
+                    <span fontSize="15" fontFamily="思源黑体">
+                        本幻灯片由&#32;
+                    </span>
+                    <a href="https://aily.feishu.cn/">
+                        <u>
+                        <span fontSize="15" fontFamily="思源黑体" bold="false">
+                            aily 工作助手
+                        </span>
+                    </u>
+                </a>
+                <span fontSize="15" fontFamily="思源黑体" bold="false">
+                    &#32;
+                </span>
+                <span fontSize="15" fontFamily="思源黑体">
+                    创建
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="160" height="24" topLeftX="740" topLeftY="44.448928614087265" type="text" id="GwiIsbwamlHDeldGtI9c2D9anXf">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" letterSpacing="0.3" textAlign="right" autoFit="normal-auto-fit">
+            <p textAlign="right">
+                <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="思源黑体" bold="false">
+                    --
+                </span>
+            </p>
+        </content>
+    </shape>
+    <shape width="160" height="24" topLeftX="60" topLeftY="44.448928614087265" type="text" id="LfQgs9Egsl18ETd9sKYckBiwnWe">
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(248, 240, 230, 1)" bold="false" letterSpacing="0.3" textAlign="left" autoFit="normal-auto-fit">
+            <p textAlign="left">
+                <span color="rgba(248, 240, 230, 1)" fontSize="16" fontFamily="思源黑体" bold="false">
+                    演讲人
+                </span>
+            </p>
+        </content>
+    </shape>
+</data>
+<note id="XrKBsBatLl1xmDdg9DBcnb2Rn1d">
+    <content/>
+</note>
+</slide>
+</presentation>

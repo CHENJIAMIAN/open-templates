@@ -1,0 +1,101 @@
+<slide>
+    <style>
+      <fill>
+        <fillColor color="rgba(239, 243, 246, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="629.08" topLeftY="123.39" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="47.13" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="282.92" height="176" topLeftX="338.54" topLeftY="307.49" presetHandlers="14" type="round-rect">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" autoFit="normal-auto-fit"/>
+      </shape>
+      <shape width="864" height="46" topLeftX="48" topLeftY="48" type="text">
+        <content textType="headline" fontSize="30" fontFamily="思源黑体" color="rgba(57, 59, 68, 1)" bold="true" textAlign="center" autoFit="normal-auto-fit">
+          <p>
+            <strong>
+              <span fontFamily="思源黑体">风险预估与应对策略</span>
+            </strong>
+          </p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 142, 152, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>竞争对手推出类似产品，应对策略是加快产品迭代速度，建立专利壁垒，与设计师建立深度合作关系。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>市场风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 142, 152, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>核心电商平台政策变化，应对措施包括多渠道布局降低依赖，加强私域建设掌握用户主权，与平台保持良好沟通。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>渠道风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="650.79" topLeftY="176.11" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 142, 152, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>销售不及预期，应对方法是及时调整目标，优化产品组合，加大高转化渠道投入，开展限时促销刺激需求。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="650.79" topLeftY="144.08" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>运营风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="68.85" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 142, 152, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>原材料价格上涨或供应中断，应对策略是与供应商签订长期协议，建立备选供应商库，优化库存管理。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="68.85" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>供应链风险</p>
+        </content>
+      </shape>
+      <shape width="239.59" height="104" topLeftX="360.25" topLeftY="360.21" type="text">
+        <content textType="caption" paddingTop="4" paddingBottom="4" paddingRight="4" fontSize="14" fontFamily="思源黑体" color="rgba(140, 142, 152, 1)" backgroundColor="rgba(0, 0, 0, 0)" bold="false" italic="false" underline="false" strikethrough="false" list="none" listStyle="circle-hollow-square" textAlign="left" autoFit="normal-auto-fit">
+          <p>产品质量或服务问题引发负面评价，应对措施包括建立7×24小时客服响应机制，快速问题解决流程，主动口碑管理。</p>
+        </content>
+      </shape>
+      <shape width="240" height="30" topLeftX="360.25" topLeftY="328.19" type="text">
+        <content fontSize="18" fontFamily="寒蝉德黑体" color="rgba(57, 59, 68, 1)" bold="false" textAlign="left" autoFit="normal-auto-fit">
+          <p>口碑风险</p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content/>
+    </note>
+  </slide>

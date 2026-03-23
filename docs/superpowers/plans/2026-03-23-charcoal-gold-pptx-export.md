@@ -154,6 +154,12 @@ def test_asset_resolution_maps_sml_token_to_local_png():
     asset_index = build_asset_index(Path("templates/slides/charcoal_gold"))
     path = resolve_asset_token(asset_index, "FJLsbVgEEogLRtxWLW2cOe3Tn7f")
     assert path.name.endswith("FJLsbVgEEogLRtxWLW2cOe3Tn7f.png")
+
+
+def test_asset_resolution_fails_for_unknown_token():
+    asset_index = build_asset_index(Path("templates/slides/charcoal_gold"))
+    with pytest.raises(KeyError):
+        resolve_asset_token(asset_index, "missing-token")
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
@@ -201,7 +207,12 @@ Add a writer test that:
 - writes a `.pptx` to a temporary directory
 - asserts the file exists and is non-empty
 
-If feasible, open the generated package with `python-pptx` to assert slide count.
+Open the generated package with `python-pptx` and assert:
+
+- slide count matches the source deck
+- every generated slide contains at least one shape when the source slide has nodes
+- the total number of placed pictures matches the parsed image node count
+- the total number of line and geometric shapes is not lower than the parsed line and shape node counts
 
 ```python
 from pathlib import Path
@@ -217,6 +228,13 @@ def test_write_pptx_preserves_slide_count(tmp_path: Path):
     prs = Presentation(output)
     assert output.exists()
     assert len(prs.slides) == len(deck.slides)
+    expected_images = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "image")
+    expected_lines = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "line")
+    expected_shapes = sum(1 for slide in deck.slides for node in slide.nodes if node.kind == "shape")
+    actual_images = sum(1 for slide in prs.slides for shape in slide.shapes if shape.shape_type == 13)
+    actual_freeform = sum(1 for slide in prs.slides for shape in slide.shapes if shape.shape_type in {1, 9, 17})
+    assert actual_images == expected_images
+    assert actual_freeform >= expected_lines + expected_shapes
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
@@ -263,20 +281,23 @@ Add a PDF export test that either:
 - runs only when LibreOffice CLI is present, or
 - skips with a clear condition if the binary is missing
 
-The positive path must assert that `deck.pdf` is created from a generated `deck.pptx`.
+The positive path must generate a real `.pptx` through the Task 4 writer path and then assert that `deck.pdf` is created from that output.
 
 ```python
 import shutil
 from pathlib import Path
 import pytest
+from tools.slides.sml_parser import parse_presentation
+from tools.slides.pptx_writer import write_presentation
 from tools.slides.pdf_export import export_pdf
 
 
 @pytest.mark.skipif(shutil.which("soffice") is None, reason="LibreOffice CLI not installed")
 def test_export_pdf_creates_output(tmp_path: Path):
     pptx_path = tmp_path / "deck.pptx"
+    deck = parse_presentation(Path("templates/slides/charcoal_gold/template.xml"))
+    write_presentation(deck, Path("templates/slides/charcoal_gold"), pptx_path)
     pdf_path = tmp_path / "deck.pdf"
-    pptx_path.write_bytes(b"placeholder")
     export_pdf(pptx_path, pdf_path)
     assert pdf_path.exists()
 ```

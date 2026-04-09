@@ -4,7 +4,7 @@
 
 **Goal:** Publish `showcase/index.html` to GitHub Pages as the site's homepage without moving existing repository files.
 
-**Architecture:** A GitHub Actions workflow uploads `showcase/` as the Pages artifact and deploys it through the official Pages actions. This keeps asset paths stable because the published artifact root is the existing showcase directory content.
+**Architecture:** A GitHub Actions workflow uploads the repository root as the Pages artifact and deploys it through the official Pages actions. A root `index.html` redirect sends the homepage to `showcase/index.html`, while the full repo artifact preserves `showcase/index.html` relative access to `docs/aily-preview-map.json` and `templates/**/metadata.json`.
 
 **Tech Stack:** GitHub Actions, GitHub Pages, static HTML assets, git
 
@@ -28,18 +28,19 @@ Not applicable for this configuration-only task.
 
 Create a workflow that:
 - grants `pages` and `id-token` permissions
-- uploads `./showcase` as the Pages artifact
+- uploads `.` as the Pages artifact
 - deploys on pushes to `master` and on manual dispatch
+- add a root `index.html` redirect to `showcase/index.html`
 
 - [ ] **Step 4: Run test to verify it passes**
 
 Run: `Get-Content .github/workflows/deploy-showcase-pages.yml`
-Expected: workflow exists and `path: ./showcase` is present.
+Expected: workflow exists and `path: .` is present, and `index.html` redirects to `showcase/index.html`.
 
 - [ ] **Step 5: Commit**
 
 ```bash
-git add .github/workflows/deploy-showcase-pages.yml docs/superpowers/specs/2026-04-09-github-pages-showcase-design.md docs/superpowers/plans/2026-04-09-github-pages-showcase.md
+git add .github/workflows/deploy-showcase-pages.yml index.html docs/superpowers/specs/2026-04-09-github-pages-showcase-design.md docs/superpowers/plans/2026-04-09-github-pages-showcase.md
 git commit -m "ci: deploy showcase to github pages"
 ```
 

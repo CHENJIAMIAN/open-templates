@@ -15,19 +15,21 @@ The repository already contains a static showcase entry point at `showcase/index
 Use GitHub Pages via GitHub Actions. The workflow will:
 
 1. Run on pushes to `master` and on manual dispatch.
-2. Upload the `showcase/` directory as the Pages artifact.
-3. Deploy that artifact so `showcase/index.html` becomes the root `index.html` of the published site.
+2. Upload the repository root as the Pages artifact so `showcase/index.html` can still access `docs/aily-preview-map.json` and `templates/**/metadata.json`.
+3. Add a root `index.html` redirect that sends the homepage to `showcase/index.html`.
 
-This keeps the repository layout unchanged and avoids duplication of the showcase files at the repo root.
+This keeps the existing showcase page intact while preserving its relative paths to data files elsewhere in the repository.
 
 **Files**
 
 - Create `.github/workflows/deploy-showcase-pages.yml` for GitHub Pages deployment.
+- Create `index.html` as a redirect entry point.
 - Create `docs/superpowers/plans/2026-04-09-github-pages-showcase.md` for the execution plan.
 
 **Verification**
 
-- Validate the workflow file exists and points `upload-pages-artifact` at `./showcase`.
+- Validate the workflow file exists and points `upload-pages-artifact` at `.`.
+- Validate the root `index.html` redirects to `showcase/index.html`.
 - Commit only the new Pages-related files.
 - Push to `origin/master`.
 - Confirm the remote branch updates successfully.

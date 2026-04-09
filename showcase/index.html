@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open Templates Showcase</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: rgba(15, 23, 42, 0.82);
+      --panel-border: rgba(148, 163, 184, 0.22);
+      --text: #e5eefb;
+      --muted: #94a3b8;
+      --accent: #7dd3fc;
+      --accent-2: #c084fc;
+      --shadow: 0 20px 60px rgba(2, 6, 23, 0.45);
+      --radius: 22px;
+      --max: 1320px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, "Segoe UI", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(56, 189, 248, 0.16), transparent 28%),
+        radial-gradient(circle at top right, rgba(192, 132, 252, 0.14), transparent 25%),
+        linear-gradient(180deg, #0b1020 0%, #090d18 100%);
+      min-height: 100vh;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    .shell {
+      width: min(calc(100% - 32px), var(--max));
+      margin: 0 auto;
+      padding: 32px 0 64px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--panel-border);
+      border-radius: 28px;
+      padding: 36px;
+      background: linear-gradient(135deg, rgba(15, 23, 42, 0.92), rgba(17, 24, 39, 0.84));
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(16px);
+      margin-bottom: 28px;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto -100px -120px auto;
+      width: 280px;
+      height: 280px;
+      background: radial-gradient(circle, rgba(125, 211, 252, 0.25), transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero h1 {
+      margin: 0 0 12px;
+      font-size: clamp(32px, 5vw, 54px);
+      line-height: 1.04;
+      letter-spacing: -0.03em;
+    }
+
+    .hero p {
+      margin: 0;
+      max-width: 860px;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      background: rgba(15, 23, 42, 0.58);
+      color: #dbe7f8;
+      font-size: 13px;
+      line-height: 1;
+    }
+
+    .toolbar {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 16px;
+      margin-bottom: 26px;
+    }
+
+    .panel {
+      border: 1px solid var(--panel-border);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+      padding: 18px;
+    }
+
+    .search-wrap input,
+    .search-wrap select {
+      width: 100%;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      border-radius: 14px;
+      background: rgba(15, 23, 42, 0.82);
+      color: var(--text);
+      padding: 14px 16px;
+      font-size: 14px;
+      outline: none;
+      transition: border-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .search-wrap input:focus,
+    .search-wrap select:focus {
+      border-color: rgba(125, 211, 252, 0.7);
+      transform: translateY(-1px);
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .stat {
+      min-width: 150px;
+      padding: 14px 16px;
+      border-radius: 18px;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      background: rgba(2, 6, 23, 0.34);
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 22px;
+      margin-bottom: 6px;
+      letter-spacing: -0.02em;
+    }
+
+    .stat span {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .section-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin: 22px 0 14px;
+    }
+
+    .section-title h2 {
+      margin: 0;
+      font-size: 22px;
+      letter-spacing: -0.02em;
+    }
+
+    .section-title small {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+    }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
+      overflow: hidden;
+      border: 1px solid rgba(148, 163, 184, 0.16);
+      border-radius: 22px;
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.88), rgba(2, 6, 23, 0.86));
+      box-shadow: var(--shadow);
+      transition: transform 0.28s ease, border-color 0.28s ease, box-shadow 0.28s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(125, 211, 252, 0.36);
+      box-shadow: 0 26px 70px rgba(2, 6, 23, 0.52);
+    }
+
+    .media {
+      position: relative;
+      aspect-ratio: 16 / 10;
+      overflow: hidden;
+      background: rgba(15, 23, 42, 0.9);
+      border-bottom: 1px solid rgba(148, 163, 184, 0.14);
+    }
+
+    .media img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .family-tag {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      display: inline-flex;
+      align-items: center;
+      padding: 8px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      background: rgba(15, 23, 42, 0.78);
+      border: 1px solid rgba(226, 232, 240, 0.14);
+      backdrop-filter: blur(8px);
+    }
+
+    .content {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      padding: 18px;
+      flex: 1;
+    }
+
+    .content h3 {
+      margin: 0;
+      font-size: 18px;
+      letter-spacing: -0.02em;
+    }
+
+    .content p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.65;
+    }
+
+    .meta-list {
+      display: grid;
+      gap: 6px;
+      font-size: 13px;
+      color: #d6dfec;
+    }
+
+    .meta-list code {
+      font-family: "SFMono-Regular", Consolas, monospace;
+      color: #93c5fd;
+      word-break: break-all;
+    }
+
+    .thumbs {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+
+    .thumbs a {
+      aspect-ratio: 4 / 3;
+      overflow: hidden;
+      border-radius: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.14);
+      background: rgba(15, 23, 42, 0.8);
+    }
+
+    .thumbs img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: auto;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 0 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      background: rgba(15, 23, 42, 0.8);
+      color: #dbeafe;
+      font-size: 13px;
+      transition: border-color 0.2s ease, background 0.2s ease;
+    }
+
+    .button:hover {
+      border-color: rgba(125, 211, 252, 0.58);
+      background: rgba(14, 165, 233, 0.12);
+    }
+
+    .empty {
+      padding: 28px;
+      text-align: center;
+      color: var(--muted);
+      border: 1px dashed rgba(148, 163, 184, 0.2);
+      border-radius: 20px;
+      background: rgba(15, 23, 42, 0.45);
+    }
+
+    footer {
+      margin-top: 34px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    @media (max-width: 960px) {
+      .toolbar { grid-template-columns: 1fr; }
+      .filters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+
+    @media (max-width: 640px) {
+      .shell { width: min(calc(100% - 20px), var(--max)); padding-top: 20px; }
+      .hero { padding: 22px; }
+      .panel { padding: 14px; }
+      .filters { grid-template-columns: 1fr; }
+      .stats { display: grid; grid-template-columns: repeat(2, 1fr); }
+      .thumbs { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="hero">
+      <h1>Open Templates 静态案例馆</h1>
+      <p>面向 GitHub Pages 发布的静态案例总览页。所有展示图均来自仓库内资源，不依赖外部引用。当前页面优先展示已完成同步的案例封面与画廊图，支持按模板家族、关键词和是否已同步筛选。</p>
+      <div class="hero-meta">
+        <div class="pill">仓库内静态资源</div>
+        <div class="pill">GitHub Pages 可直接发布</div>
+        <div class="pill">支持模板检索与筛选</div>
+      </div>
+    </section>
+
+    <section class="toolbar">
+      <div class="panel search-wrap">
+        <input id="searchInput" type="search" placeholder="搜索模板名称、ID、家族、描述…">
+      </div>
+      <div class="panel filters">
+        <select id="familyFilter">
+          <option value="all">全部家族</option>
+        </select>
+        <select id="syncedFilter">
+          <option value="all">全部状态</option>
+          <option value="synced">仅看已同步最终预览</option>
+          <option value="unsynced">仅看未同步</option>
+        </select>
+        <select id="sortFilter">
+          <option value="family-name">按家族 / 名称</option>
+          <option value="name">按名称</option>
+          <option value="id">按模板 ID</option>
+        </select>
+        <select id="layoutFilter">
+          <option value="grid">标准卡片</option>
+          <option value="compact">紧凑卡片</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="stats" id="stats"></section>
+
+    <div class="section-title">
+      <h2>案例列表</h2>
+      <small id="resultHint">加载中…</small>
+    </div>
+
+    <section id="gallery" class="grid"></section>
+
+    <footer>
+      页面入口建议发布为 [`showcase/index.html`](showcase/index.html)。若使用 GitHub Pages，可以将仓库根目录或 `showcase/` 目录作为 Pages 来源；页面内部资源均为相对路径引用，适合静态托管。
+    </footer>
+  </div>
+
+  <script>
+    const DATA_URL = '../docs/aily-preview-map.json';
+
+    const state = {
+      templates: [],
+      filtered: [],
+      families: [],
+    };
+
+    const dom = {
+      searchInput: document.getElementById('searchInput'),
+      familyFilter: document.getElementById('familyFilter'),
+      syncedFilter: document.getElementById('syncedFilter'),
+      sortFilter: document.getElementById('sortFilter'),
+      layoutFilter: document.getElementById('layoutFilter'),
+      stats: document.getElementById('stats'),
+      gallery: document.getElementById('gallery'),
+      resultHint: document.getElementById('resultHint'),
+    };
+
+    function normalizeText(value) {
+      return String(value || '').toLowerCase();
+    }
+
+    function getTemplatePreview(template) {
+      const copied = template?.aily?.copiedPreview || {};
+      const current = template?.currentPreview || {};
+      const cover = copied.cover || current.cover || null;
+      const gallery = (copied.gallery && copied.gallery.length ? copied.gallery : current.gallery) || [];
+      return { cover, gallery };
+    }
+
+    function isSynced(template) {
+      return Boolean(template?.aily?.copiedPreview?.cover);
+    }
+
+    function familyLabel(family) {
+      return {
+        miaoda: '妙搭 / Miaoda',
+        slides: 'Slides',
+        webpage: 'Webpage',
+        lark_doc: 'Lark Doc',
+      }[family] || family;
+    }
+
+    function toAssetHref(path) {
+      if (!path) return '';
+      return '../' + path.replace(/^\.\//, '');
+    }
+
+    function renderStats() {
+      const total = state.templates.length;
+      const synced = state.templates.filter(isSynced).length;
+      const visible = state.filtered.length;
+      const families = new Set(state.templates.map((item) => item.family)).size;
+      const items = [
+        { value: total, label: '仓库模板总数' },
+        { value: synced, label: '已同步最终预览' },
+        { value: visible, label: '当前筛选结果' },
+        { value: families, label: '模板家族数' },
+      ];
+      dom.stats.innerHTML = items.map((item) => `
+        <div class="stat">
+          <strong>${item.value}</strong>
+          <span>${item.label}</span>
+        </div>
+      `).join('');
+    }
+
+    function renderFamilies() {
+      const options = ['<option value="all">全部家族</option>']
+        .concat(state.families.map((family) => `<option value="${family}">${familyLabel(family)}</option>`));
+      dom.familyFilter.innerHTML = options.join('');
+    }
+
+    function sortTemplates(list) {
+      const mode = dom.sortFilter.value;
+      const items = [...list];
+      items.sort((a, b) => {
+        if (mode === 'name') {
+          return a.displayName.localeCompare(b.displayName, 'zh-CN');
+        }
+        if (mode === 'id') {
+          return a.id.localeCompare(b.id, 'en');
+        }
+        const familyCompare = a.family.localeCompare(b.family, 'en');
+        if (familyCompare !== 0) return familyCompare;
+        return a.displayName.localeCompare(b.displayName, 'zh-CN');
+      });
+      return items;
+    }
+
+    function filterTemplates() {
+      const keyword = normalizeText(dom.searchInput.value.trim());
+      const family = dom.familyFilter.value;
+      const syncedMode = dom.syncedFilter.value;
+
+      const filtered = state.templates.filter((template) => {
+        if (family !== 'all' && template.family !== family) return false;
+        if (syncedMode === 'synced' && !isSynced(template)) return false;
+        if (syncedMode === 'unsynced' && isSynced(template)) return false;
+
+        if (!keyword) return true;
+        const haystack = [
+          template.id,
+          template.name,
+          template.displayName,
+          template.family,
+          template.aily?.name,
+          template.aily?.description,
+        ].map(normalizeText).join(' ');
+        return haystack.includes(keyword);
+      });
+
+      state.filtered = sortTemplates(filtered);
+      renderStats();
+      renderGallery();
+    }
+
+    function renderGallery() {
+      const compact = dom.layoutFilter.value === 'compact';
+      dom.gallery.className = compact ? 'grid compact' : 'grid';
+
+      if (!state.filtered.length) {
+        dom.resultHint.textContent = '没有匹配结果';
+        dom.gallery.innerHTML = '<div class="empty">当前筛选条件下没有可显示的案例。</div>';
+        return;
+      }
+
+      dom.resultHint.textContent = `共 ${state.filtered.length} 个案例`;
+      dom.gallery.innerHTML = state.filtered.map((template) => renderCard(template, compact)).join('');
+    }
+
+    function renderCard(template, compact) {
+      const preview = getTemplatePreview(template);
+      const cover = preview.cover ? toAssetHref(preview.cover) : '';
+      const gallery = preview.gallery.slice(0, compact ? 2 : 3);
+      const synced = isSynced(template);
+      const sourcePath = template.sourcePath || '';
+      const metadataPath = template.metadataPath || '';
+      const ailyName = template?.aily?.name || '—';
+      const copied = template?.aily?.copiedPreview || {};
+
+      return `
+        <article class="card" data-family="${template.family}">
+          <div class="media">
+            ${cover ? `<img src="${cover}" alt="${escapeHtml(template.displayName)}">` : ''}
+            <span class="family-tag">${escapeHtml(familyLabel(template.family))}</span>
+          </div>
+          <div class="content">
+            <div>
+              <h3>${escapeHtml(template.displayName)}</h3>
+              <p>${escapeHtml(template.id)}</p>
+            </div>
+            <div class="meta-list">
+              <div>模板路径：<code>${escapeHtml(sourcePath)}</code></div>
+              <div>元数据：<code>${escapeHtml(metadataPath)}</code></div>
+              <div>同步状态：<code>${synced ? '已同步最终预览' : '未同步最终预览'}</code></div>
+              <div>aily 名称：<code>${escapeHtml(ailyName)}</code></div>
+            </div>
+            ${gallery.length ? `
+              <div class="thumbs">
+                ${gallery.map((item, index) => {
+                  const href = toAssetHref(item);
+                  return `<a href="${href}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(template.displayName)} gallery ${index + 1}"><img src="${href}" alt="${escapeHtml(template.displayName)} gallery ${index + 1}"></a>`;
+                }).join('')}
+              </div>
+            ` : ''}
+            <div class="actions">
+              ${preview.cover ? `<a class="button" href="${toAssetHref(preview.cover)}" target="_blank" rel="noopener noreferrer">查看封面</a>` : ''}
+              ${copied.cover ? `<a class="button" href="../${copied.cover}" target="_blank" rel="noopener noreferrer">查看同步资源</a>` : ''}
+              <a class="button" href="../${metadataPath}" target="_blank" rel="noopener noreferrer">查看 metadata</a>
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
+    function escapeHtml(value) {
+      return String(value || '')
+        .replace(/&/g, '&')
+        .replace(/</g, '<')
+        .replace(/>/g, '>')
+        .replace(/"/g, '"')
+        .replace(/'/g, '&#39;');
+    }
+
+    async function loadData() {
+      const response = await fetch(DATA_URL, { cache: 'no-store' });
+      if (!response.ok) {
+        throw new Error(`Failed to load ${DATA_URL}: ${response.status}`);
+      }
+      const payload = await response.json();
+      const templates = Array.isArray(payload.templates) ? payload.templates : [];
+      state.templates = templates;
+      state.families = [...new Set(templates.map((item) => item.family))].sort((a, b) => a.localeCompare(b, 'en'));
+      renderFamilies();
+      filterTemplates();
+    }
+
+    [dom.searchInput, dom.familyFilter, dom.syncedFilter, dom.sortFilter, dom.layoutFilter].forEach((element) => {
+      element.addEventListener('input', filterTemplates);
+      element.addEventListener('change', filterTemplates);
+    });
+
+    loadData().catch((error) => {
+      console.error(error);
+      dom.resultHint.textContent = '加载失败';
+      dom.gallery.innerHTML = `<div class="empty">案例数据加载失败：${escapeHtml(error.message)}</div>`;
+    });
+  </script>
+</body>
+</html>
